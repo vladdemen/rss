@@ -101,5 +101,7 @@ Sitemap: https://vladdemen.github.io/rss/sitemap.xml`;
 await fs.writeFile('dist/sitemap.xml', sitemap);
 await fs.writeFile('dist/robots.txt', robots);
 
+await fs.writeFile('dist/google0595884392cd1067.html', 'google-site-verification: google0595884392cd1067.html');
+
 console.log(`Built ${articles.length} articles from ${feeds.length} feeds`);
 
