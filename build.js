@@ -82,4 +82,23 @@ ${articles.map((a) => `<item>
 await fs.mkdir('dist', { recursive: true });
 await fs.writeFile('dist/index.html', html);
 await fs.writeFile('dist/feed.xml', rss);
+
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vladdemen.github.io/rss/</loc>
+    <lastmod>${new Date().toISOString().slice(0, 10)}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>`;
+
+const robots = `User-agent: *
+Allow: /
+Sitemap: https://vladdemen.github.io/rss/sitemap.xml`;
+
+await fs.writeFile('dist/sitemap.xml', sitemap);
+await fs.writeFile('dist/robots.txt', robots);
+
 console.log(`Built ${articles.length} articles from ${feeds.length} feeds`);
+
