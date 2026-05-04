@@ -1,0 +1,11 @@
+[
+  { "name": "McKinsey",    "url": "https://www.mckinsey.com/insights/rss" },
+  { "name": "BCG",         "url": "https://www.bcg.com/about/feed" },
+  { "name": "Bain",        "url": "https://www.bain.com/insights/rss/" },
+  { "name": "Deloitte",    "url": "https://www2.deloitte.com/insights/rss.xml" },
+  { "name": "Forrester",   "url": "https://go.forrester.com/blogs/feed/" },
+  { "name": "HubSpot",     "url": "https://blog.hubspot.com/marketing/rss.xml" },
+  { "name": "Semrush",     "url": "https://www.semrush.com/blog/feed/" },
+  { "name": "Similarweb",  "url": "https://www.similarweb.com/blog/feed/" },
+  { "name": "Edelman",     "url": "https://www.edelman.com/news-awards/rss.xml" }
+]
