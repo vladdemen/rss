@@ -13,5 +13,5 @@
   { "name": "HubSpot",     "url": "https://blog.hubspot.com/marketing/rss.xml" },
   { "name": "Semrush",     "url": "https://www.semrush.com/blog/feed/" },
   { "name": "Similarweb",  "url": "https://www.similarweb.com/blog/feed/" },
-  { "name": "Reuters",     "url": "https://feeds.reuters.com/reuters/businessNews" }
+  { "name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en&gl=US&ceid=US:en" }
 ]
