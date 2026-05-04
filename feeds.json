@@ -1,11 +1,17 @@
 [
   { "name": "McKinsey",    "url": "https://www.mckinsey.com/insights/rss" },
-  { "name": "BCG",         "url": "https://www.bcg.com/about/feed" },
-  { "name": "Bain",        "url": "https://www.bain.com/insights/rss/" },
-  { "name": "Deloitte",    "url": "https://www2.deloitte.com/insights/rss.xml" },
+  { "name": "BCG",         "url": "https://news.google.com/rss/search?q=site:bcg.com+insights&hl=en&gl=US&ceid=US:en" },
+  { "name": "Bain",        "url": "https://news.google.com/rss/search?q=site:bain.com/insights&hl=en&gl=US&ceid=US:en" },
+  { "name": "Deloitte",    "url": "https://news.google.com/rss/search?q=site:deloitte.com+insights&hl=en&gl=US&ceid=US:en" },
+  { "name": "PwC",         "url": "https://news.google.com/rss/search?q=site:pwc.com+insights&hl=en&gl=US&ceid=US:en" },
+  { "name": "EY",          "url": "https://news.google.com/rss/search?q=site:ey.com+insights&hl=en&gl=US&ceid=US:en" },
+  { "name": "Gartner",     "url": "https://news.google.com/rss/search?q=site:gartner.com&hl=en&gl=US&ceid=US:en" },
   { "name": "Forrester",   "url": "https://go.forrester.com/blogs/feed/" },
+  { "name": "Kantar",      "url": "https://news.google.com/rss/search?q=site:kantar.com&hl=en&gl=US&ceid=US:en" },
+  { "name": "Nielsen",     "url": "https://news.google.com/rss/search?q=site:nielsen.com&hl=en&gl=US&ceid=US:en" },
+  { "name": "Edelman",     "url": "https://news.google.com/rss/search?q=site:edelman.com&hl=en&gl=US&ceid=US:en" },
   { "name": "HubSpot",     "url": "https://blog.hubspot.com/marketing/rss.xml" },
   { "name": "Semrush",     "url": "https://www.semrush.com/blog/feed/" },
   { "name": "Similarweb",  "url": "https://www.similarweb.com/blog/feed/" },
-  { "name": "Edelman",     "url": "https://www.edelman.com/news-awards/rss.xml" }
+  { "name": "Reuters",     "url": "https://feeds.reuters.com/reuters/businessNews" }
 ]
