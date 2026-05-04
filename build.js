@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="2toz6DOfT6WECYckTdhrudUAawfGEUqvkXxX2urJ7m0" />
-
 import Parser from 'rss-parser';
 import fs from 'node:fs/promises';
 
@@ -41,6 +39,7 @@ const html = `<!doctype html>
 <meta name="description" content="Latest insights from McKinsey, BCG, Bain, Deloitte, Forrester, HubSpot, Semrush, Similarweb, Edelman.">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="alternate" type="application/rss+xml" href="feed.xml">
+<meta name="google-site-verification" content="2toz6DOfT6WECYckTdhrudUAawfGEUqvkXxX2urJ7m0" />
 <style>
   :root { color-scheme: light dark; }
   body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
