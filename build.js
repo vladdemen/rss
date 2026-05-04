@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="2toz6DOfT6WECYckTdhrudUAawfGEUqvkXxX2urJ7m0" />
+
 import Parser from 'rss-parser';
 import fs from 'node:fs/promises';
 
