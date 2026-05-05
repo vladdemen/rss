@@ -39,7 +39,6 @@ const html = `<!doctype html>
 <meta name="description" content="Latest insights from McKinsey, BCG, Bain, Deloitte, Forrester, HubSpot, Semrush, Similarweb, Edelman.">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="alternate" type="application/rss+xml" href="feed.xml">
-<meta name="google-site-verification" content="2toz6DOfT6WECYckTdhrudUAawfGEUqvkXxX2urJ7m0" />
 <style>
   :root { color-scheme: light dark; }
   body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
@@ -100,7 +99,6 @@ Sitemap: https://vladdemen.github.io/rss/sitemap.xml`;
 
 await fs.writeFile('dist/sitemap.xml', sitemap);
 await fs.writeFile('dist/robots.txt', robots);
-
 await fs.writeFile('dist/google0595884392cd1067.html', 'google-site-verification: google0595884392cd1067.html');
 
 console.log(`Built ${articles.length} articles from ${feeds.length} feeds`);
