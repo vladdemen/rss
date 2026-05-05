@@ -13,8 +13,8 @@
   { "name": "HubSpot",     "url": "https://blog.hubspot.com/marketing/rss.xml" },
   { "name": "Semrush",     "url": "https://www.semrush.com/blog/feed/" },
   { "name": "Similarweb",  "url": "https://www.similarweb.com/blog/feed/" },
-  { "name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en&gl=US&ceid=US:en" }
-  { "name": "Influencer Marketing Hub", "url": "https://influencermarketinghub.com/feed/" }
+  { "name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en&gl=US&ceid=US:en" },
+  { "name": "Influencer Marketing Hub", "url": "https://influencermarketinghub.com/feed/" },
   { "name": "YouTube Blog",  "url": "https://blog.youtube/rss/" },
   { "name": "Meta Newsroom", "url": "https://about.fb.com/news/feed/" },
   { "name": "LinkedIn Marketing", "url": "https://news.google.com/rss/search?q=site:linkedin.com/business/marketing&hl=en&gl=US&ceid=US:en" }
