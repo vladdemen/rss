@@ -1,17 +1,3 @@
-// Загружаем существующий архив
-let archive = [];
-try {
-  archive = JSON.parse(await fs.readFile('articles.json', 'utf-8'));
-} catch {}
-
-// После того как articles собраны — мёржим
-const existingLinks = new Set(archive.map(a => a.link));
-const newArticles = articles.filter(a => !existingLinks.has(a.link));
-const merged = [...newArticles, ...archive]
-  .sort((a, b) => new Date(b.date) - new Date(a.date));
-
-await fs.writeFile('articles.json', JSON.stringify(merged, null, 2));
-
 import Parser from 'rss-parser';
 import fs from 'node:fs/promises';
 
@@ -44,6 +30,19 @@ const articles = results
   .sort((a, b) => new Date(b.date) - new Date(a.date))
   .slice(0, 200);
 
+// Загружаем архив и мёржим
+let archive = [];
+try {
+  archive = JSON.parse(await fs.readFile('articles.json', 'utf-8'));
+} catch {}
+
+const existingLinks = new Set(archive.map(a => a.link));
+const newArticles = articles.filter(a => !existingLinks.has(a.link));
+const merged = [...newArticles, ...archive]
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+await fs.writeFile('articles.json', JSON.stringify(merged, null, 2));
+
 const updated = new Date().toISOString().slice(0, 16).replace('T', ' ');
 const html = `<!doctype html>
 <html lang="en">
@@ -68,8 +67,8 @@ const html = `<!doctype html>
 </head>
 <body>
 <h1>Research & Consulting Feed</h1>
-<p class="meta">Updated ${updated} UTC · ${articles.length} articles · <a href="feed.xml">RSS</a></p>
-${articles.map((a) => `
+<p class="meta">Updated ${updated} UTC · ${merged.length} articles · <a href="feed.xml">RSS</a></p>
+${merged.map((a) => `
 <article>
   <h2><a href="${esc(a.link)}" rel="noopener">${esc(a.title)}</a></h2>
   <div class="meta"><span class="src">${esc(a.source)}</span> · ${new Date(a.date).toISOString().slice(0, 10)}</div>
@@ -84,7 +83,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <link>https://vladdemen.github.io/rss/</link>
 <description>Aggregated feed from major consulting and research firms.</description>
 <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-${articles.map((a) => `<item>
+${merged.slice(0, 200).map((a) => `<item>
 <title>${esc(a.title)}</title>
 <link>${esc(a.link)}</link>
 <pubDate>${new Date(a.date).toUTCString()}</pubDate>
@@ -115,5 +114,4 @@ await fs.writeFile('dist/sitemap.xml', sitemap);
 await fs.writeFile('dist/robots.txt', robots);
 await fs.writeFile('dist/google0595884392cd1067.html', 'google-site-verification: google0595884392cd1067.html');
 
-console.log(`Built ${articles.length} articles from ${feeds.length} feeds`);
-
+console.log(`Built ${merged.length} total (${newArticles.length} new) from ${feeds.length} feeds`);
