@@ -1,3 +1,17 @@
+// Загружаем существующий архив
+let archive = [];
+try {
+  archive = JSON.parse(await fs.readFile('articles.json', 'utf-8'));
+} catch {}
+
+// После того как articles собраны — мёржим
+const existingLinks = new Set(archive.map(a => a.link));
+const newArticles = articles.filter(a => !existingLinks.has(a.link));
+const merged = [...newArticles, ...archive]
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+await fs.writeFile('articles.json', JSON.stringify(merged, null, 2));
+
 import Parser from 'rss-parser';
 import fs from 'node:fs/promises';
 
