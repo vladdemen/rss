@@ -1,5 +1,12 @@
 [
   {
+    "source": "Semrush",
+    "title": "Google’s Universal Commerce Protocol capabilities expand to main SERP",
+    "link": "https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/",
+    "date": "2026-05-07T08:36:00.000Z",
+    "summary": "Google started rolling out UCP-powered checkout to product listings to allow buying directly on the SERP."
+  },
+  {
     "source": "EY",
     "title": "India Inc. Uses AI as a Real‑Time Fraud Watchdog - EY",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWEs5Uzl4T0ppbEpuOVdTOXRnNWtJb0xITUdkTzB0TUluLUNaQUEtbjM1YXFGU29QWTdPbWl1STlHVHFIbThKM0ZTOXFPOVFEamM4LVFZbmlIQnVTWXoybjN0ZDhzcmw2RU4wdndSUHpHb0FTN1FGY0VlTTRyODJfcHVmMmV0alNEeHNmNU5pVE16WVFWTExRdzNSSGdNZUcxeXh6NzJ3ZVBBb3lwV3VBR3J2VEFqOC1iZlE?oc=5",
@@ -15,6 +22,20 @@
   },
   {
     "source": "Reuters",
+    "title": "Shell's profit beats expectations at $6.9 billion, raises dividend by 5% - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHRROUlpeVhCOE5QVC1HT3RKNWVLeHhJZ2s0VEN2YUN5aGhUdnVaY2VjM2J2NkszdXpTNFJ4WWd4bGctclJ1R0V3WmZqOXRKQi1oRkQ4c1o3cVlUaDlkXzdYcUlNaEk0RGpOT2ROWlFhWU92czJZUGE4ZGNVY2dMclB4M0FjRzRMSjNCejJfdGUzbkt3bFJfVWRSaw?oc=5",
+    "date": "2026-05-07T06:10:00.000Z",
+    "summary": "Shell's profit beats expectations at $6.9 billion, raises dividend by 5%  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australia requires LNG exporters reserve 20% of gas for east coast market - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU19uVUFJbHdqbl9lQUdaa2twS0hzQ2YxbnRNRnZsbE5tLS1SblFQSExjeS1FSXdvWFpCZkhrcmZyYTIxTG9walFUbEs3bEszRk91T2ZjUGo4a0ozZmNRMDlKcWl6M1h1XzlCZl9FTzdGTVlNNWNfUnBvMDNidjlBSkZiQ1pyRG1EQm1zNjFRbVlBMzlrYWExR3NhellhUUNoZVg5SlZLazRzWG9HNzVfM1VuQUNFSTJl?oc=5",
+    "date": "2026-05-07T03:23:00.000Z",
+    "summary": "Australia requires LNG exporters reserve 20% of gas for east coast market  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Space analytics firm HawkEye raises $416 million in US IPO - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU29lcUUxbk8tSmg1TU1CSS1aVEFFUVdrQUJOV3JFTXR6Z25adW5KandpUzVnS2RKWXNOMnVWQkJUOTl1NW1rZ3FqUzR3clhzYmE5YnYyZzA2VE82NGRyeUNCSEEyaHIzVmVMcGZ3dzh4R2tsTTAyTlJfVjRhVGZvMDRHc0VEVGE2VjJ4Q2VGXzc0V2o5UE84TkJnczJXR3dKQ1MyRTVhODhwZHRDaEZ0Q19ocw?oc=5",
     "date": "2026-05-07T00:47:00.000Z",
@@ -26,6 +47,20 @@
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeHk4MFlsQ2cweUtsdldMVXpkakl0eE9JVGwtTG1DUW1NbmxGUFhCZXdhcmhiYXpiU3g3Ny1PbTBabXFoTEt4Mm5BZTVWMVlWUDhNTXRmYXpOellicVlQSmFPbWUyU3UxZ3hFTHd1MVl2SXBjZGVIR2Z3N3JpMFZrb0VIRU1XX1Z5UkxfcmwwWkoyOFU1Q3BRcWR3aHJJN0tvU3lMU0hIWW5tbkxSbWhWbUpkeGxTY2lraFdIUEdQLWt1WVRQLVBUSU9RQ1MxZURfZXJfM2tmaGNoNkhPWnVhSnBaNWtHUQ?oc=5",
     "date": "2026-05-07T00:40:00.000Z",
     "summary": "CDC says monitoring US travelers on cruise ship after hantavirus outbreak  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Rewiring for AI: From ambition to advantage",
+    "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewiring-for-ai-from-ambition-to-advantage",
+    "date": "2026-05-07T00:00:00.000Z",
+    "summary": "Companies chase AI everywhere but often fail to capture value—because they’re missing the muscle to scale what works."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Rewiring Europe: Turning pressure into performance",
+    "link": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-europe-turning-pressure-into-performance",
+    "date": "2026-05-07T00:00:00.000Z",
+    "summary": "Europe is at a productivity inflection point, and closing the gap will require leaders to move beyond incremental fixes and rewire operations end to end with AI, speed, and scale."
   },
   {
     "source": "LinkedIn Marketing",
@@ -43,6 +78,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Chinese exporters 'numb' to US threats as Trump set to visit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3NyMmpUVkhvbXBMenFldktucUVaekJaS2hZcEZHUWJMR1ZzNVNIMWdyY2MyQVNfZGtSV3BVQ09fT24yWnBZX25BTVRodjkyLXV6RnJuelI5R1ZVZ0tvOGFEdkhWbmN2cXBGQm53djJqVEUzdnFCVHdkdHY1Zk1UVHZmWE16U2dBVl9DSW9fMU1jMGxUMzVUVi1FY0xiZw?oc=5",
+    "date": "2026-05-06T23:03:00.000Z",
+    "summary": "Chinese exporters 'numb' to US threats as Trump set to visit  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "US oil prices rebound as investors assess prospects for a Middle East peace deal - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzhHLVJGNWlkNWFuNXdTZGE5R0pPMXJoeWF4S1RubVgxVlJic3lOWl96TDh0RElhZHc0V3oyZEhRSHdydHo0SHo2a2oyaXQ1QUFqbk85S3VsR25IUlMyZ1pEbDZVVHQ3eVJSdzNiQVJ2aWF2Y0lfN2ZiYXktNHd0ZGZWOFRsR1ctaTRLQXhKWnUxVzNZVlZLYWJOcFpSN3dUOGl3eFpfU2RsLUtTMFRGcjNFSW1US3RPRjNhWWV6NXY?oc=5",
     "date": "2026-05-06T22:53:43.000Z",
@@ -54,6 +96,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHpoNlIwZ0hkdTF5Y2lZWEZrSkdCbmkxZUhvMG8zZjREbkJXa2RBc3E5bDdpb1EyQ1UzVUV6d3BYR0lLZ1d3SGc3TF96RktRU1N5MTJnSXU3QWN0SmRwWV9CZXVYSUdnQUd0cnpfMV9POXUzakw4TjRoRkRFalhqeWNRb0lYN0ZDVk1BSVFlcllVVzBJalZ5UG0xSlNVV0J0TjU2S1laOVhpVUV5TzQtZ2YtYjRwNkVmMnhPNmlnVQ?oc=5",
     "date": "2026-05-06T22:34:22.000Z",
     "summary": "DoorDash forecasts quarterly order value above estimates on resilient delivery demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Kentucky governor to cut gasoline tax as war-driven price surge continues - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVp5N1lUTHVOUm1QcWNobzVxRmhYMU40bzhhUm5ZYjBoOUlFeWMyZVFsdDgyS2JfcHlQYk0xc2F0UHFnVkNZRzZ4YjAtVGJhMUxOM2Z2UjM4QmtOQ3BmZXQ5UlJKMnNFUFhSbkdkb0lFN3prVlh3SmJraGlZZnRhbUJpeFd2cHVNRzNZZ3ptR1Bia3U1b3F1VnlFUFFVaUpwNXQwSDVUR2hEQzJkTjB1ZE9zV1c1ZVNXbEhR?oc=5",
+    "date": "2026-05-06T21:19:43.000Z",
+    "summary": "Kentucky governor to cut gasoline tax as war-driven price surge continues  Reuters"
   },
   {
     "source": "Reuters",
@@ -252,6 +301,13 @@
     "summary": "Gartner Supply Chain Symposium/Xpo 2026 Orlando: Day 3 Highlights  Gartner"
   },
   {
+    "source": "Deloitte",
+    "title": "Assistant Manager - R&I - Strategy and Operation - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEZKRW9PVkJZT0xibXlyeFR0Z1pPXzlhM2hGdjN0UnJ1Qk1KcFRlck51MEo2T3RUeE16R3c2dDBVSzdkSEMxbEk3aHM1T1lZWGU1U0JadDVyRHE1YVdLaTJjRHk3aVNISUtXeHJ1SHNvNFNILWw3aG5kaWFST3FQNUwzbjY4WWhIdFJTQW9tOXp1azI2bGs4d0VBMC1sWHRFZjdNSjQtZTlTekhVWFEyRm9NanpWdEU?oc=5",
+    "date": "2026-05-06T15:33:16.000Z",
+    "summary": "Assistant Manager - R&I - Strategy and Operation - Hyderabad  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "US crude and fuel inventories fall as Iran war roils energy markets, EIA says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHJVVFFReUlRMjN5bUFIcGcteHRVRHViRG9xZ25ZRUMyQktMWEtmSjlwb2pCd2NmQVRfZVFZZzloQkNaV19OU3NVd1RCZFB5ZW4zN3FscVNhcTdLMXFvQ3dyTFNleDFqNzNWbGlDd3AzQXlxaEpZMHBGWDYzVjQyamQ0TC1fZlZoRXZUYW9VNXlVZFc1Tm5ReUpKdk5GNXJxamphVlFHQm1lM1lnOC1QcFNIOA?oc=5",
@@ -404,6 +460,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0hyWVVHWlZDRGt3WjhfY3lVV056Vm1Db0MzTy1Nem1RdElxeDhwRTMyUUk0LXBrb0VKX1dxR2h4WDJDTFVDQ2hFOWxGVjAzc3dvNnI5OF9KLWNVR2VyV0xrVGNqazljb1ZqZTVjay0xRExJRHNKQVhMQUdYU3RlMmtGNmlaclJYV2VJUC1NZ0tLcmh3VDItUjlfalVzRm9Nd05DRnJ3bGZXV1EtQTUtSkF2WkJpUzg0LVBkZXYzYw?oc=5",
     "date": "2026-05-06T11:48:47.000Z",
     "summary": "Disney earnings beat estimates as new CEO outlines growth strategy  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Negative outlooks on Hungary, Romania ratings reflect fiscal risks in CEE - S&P Global Ratings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEtVbzdrRms3RGVYZlZlb2ZxYmtQcVAzWkNpTzBYVF9SZ3FmN3NnMTZ3SnNoRU1BVHprek9adlZiNmZTQS0zdGZIemhjalVzZ0dWN3hUM3J5UEZ3N0thQjZKeEFDWUZoTjVlaDNxejBIcXdOSWZDRHdmSTU4dkYtSlVnOVE5S1ZhZGJMd2JCWUxSNW1pVFZPdkgtR2NyaUgyRVJ6OTltVUJXdTdPWGQ3ZUtsTkt3T3VyNmhiTE1n?oc=5",
+    "date": "2026-05-06T11:41:43.000Z",
+    "summary": "Negative outlooks on Hungary, Romania ratings reflect fiscal risks in CEE - S&P Global Ratings  Reuters"
   },
   {
     "source": "Reuters",
