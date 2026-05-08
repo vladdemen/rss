@@ -1,5 +1,54 @@
 [
   {
+    "source": "Influencer Marketing Hub",
+    "title": "test",
+    "link": "https://influencermarketinghub.com/test/",
+    "date": "2026-05-08T11:53:41.000Z",
+    "summary": "Influencer Marketing Hub\ntest\nSource: Source:\ntest\nandrew@meant4.com"
+  },
+  {
+    "source": "Gartner",
+    "title": "New to Gartner? - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTRWdmhEX3lHZjZOUnBVMlFQb0FnSm8wR291bC1tVk1lVU1VUDQxZ3FZU3c1SmNIcGZuYkNzcVFjUl9lLVVibkdFYkFucjkydTljeWFkWjREMm1XZVBsbk92WVJQVE9SY1Qzc1ZyMjZTN003cmNnbDFCZDJobW9ycWFpR2JxZkVjMEZmX0Z4QQ?oc=5",
+    "date": "2026-05-08T11:19:48.000Z",
+    "summary": "New to Gartner?  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "US stock futures rise as chips rebound ahead of jobs data - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
+    "date": "2026-05-08T11:19:27.000Z",
+    "summary": "US stock futures rise as chips rebound ahead of jobs data  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "6 generative engine optimization benefits every marketer should know",
+    "link": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
+    "date": "2026-05-08T11:00:03.000Z",
+    "summary": "You’ve seen it with your own eyes, reader. The way buyers discover brands is changing faster than most marketing teams realize."
+  },
+  {
+    "source": "Reuters",
+    "title": "US hybrid-car sales soar, along with gas prices - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZZMktMNlZBR1BvRWJvMmQ5S0I4cmJLcW1WclF3cERWNzFUXzJOeUlYN3FUeVc3dFJiZzVQM05sNzc3akR4ZmQ2N0pCV2xMWXNTSXh1dDZxREFpazlPLUZJWWRFb2RYUS1ZR1o5ekV0c2FzSE5PZUdac3lwUkUtUEprTjJtTHAyOV9VZHp4czdVZy1nODlLdVRhOFhLb01aRVBLeUxxMjcwN3c4anVhS253?oc=5",
+    "date": "2026-05-08T10:02:09.000Z",
+    "summary": "US hybrid-car sales soar, along with gas prices  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Sr Help Desk Specialist - L2 in Gurgaon, Haryana, India - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yLTdRRFRWTmFVZnB1X0lXdUxvaHc5VkprRXVIbDdIMjVfWGVmcVBnVDItbllVdmhVVDlacnR0eVNjWG42ZFhjYm03VUpYdlZIZlZuREdXY0I2alp4d3Y1eWhhaUNiMFBYVVMxWTVRODFDcDVBeXdB?oc=5",
+    "date": "2026-05-08T09:49:50.000Z",
+    "summary": "Sr Help Desk Specialist - L2 in Gurgaon, Haryana, India  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Production Coordinator in Fort Myers, Florida, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yTHZQUHotOE5MSThIdy0xU2V4end0OGh0UjNzVnIxOVRmNFY5SXF5RW1ZWDgzNXBsMVFpNXBrWXZseHlVTDZSTlI0ZE01LTJPZGcxODVZbEYtbVNRVTBXNjF3UUhEOFNzbnBNM0M5VHZLZw?oc=5",
+    "date": "2026-05-08T09:49:49.000Z",
+    "summary": "Production Coordinator in Fort Myers, Florida, United States of America  Gartner Careers"
+  },
+  {
     "source": "Semrush",
     "title": "ToFu, MoFu, BoFu: A practical guide to the conversion funnel",
     "link": "https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/",
@@ -57,10 +106,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Asia gets first Mexican fuel oil cargo in 9 months after Mideast disruption - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmFtQjFkcGlkTnhpeGlpcHk3VW03RV9jZmNfOHl5b25LN0x4RjJmN3lxSzI3aW8tQTVzTUhJNjJaN1F0bHAwVElpRGJ1dGYtclNUb25tdENXYTlZRncyUkp6cVN3M1VGcDNxTWZIdFlHYkoxa3hET01IN0szUHhjT3BPcG55WG03TC1jLVJSaTZTOXpobWFpbWttQmlmaDUwM1I1aHRNYjk2em50Z2p3ZHZnY2RjaE01OC1zVUFncWdTQQ?oc=5",
+    "date": "2026-05-08T06:36:38.000Z",
+    "summary": "Asia gets first Mexican fuel oil cargo in 9 months after Mideast disruption  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "India demand subdued on higher prices, China premiums hold firm - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWi1NeFFvam9GVEFGelRTd0tQdUx0elptN2tWWUZ2RldQME9JOVAyTjlLSDE0eXVnMllhLTNLN1A3MlI0WG5KTkd2WmxJMXB3UDZucGpJTTFwMThpUHBNckx6eURUNzZPMXd2cEJyYWF3bDBmLTN1dlBEX0toRlBwR0xpZ3JJdDNLM25vQkluSGU2YWQydGFOUFA3cnU2SDV3eWN3aUpOYWZjMm1SVEptLWxFLVhocVYy?oc=5",
     "date": "2026-05-08T06:33:12.000Z",
     "summary": "India demand subdued on higher prices, China premiums hold firm  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOU1EZUNaQlZCUXo0eTBSaUZhTHNGaUppb2FpcTBwYmN5TGlMaEVPWlZTY0FVZWk4OHZsNlQ4NEFiNUxQVzhHMDBGMWxvSkhvaGxkQ3dFd2RCbWt1RFpDcW5MNWVtTTB6NUhBdGZIcTNOeDVnVENCdzV0LVFGdzZvZmZhS1Q0a1VDS0VvbWxYTnRMQzJodFc0N2VlYlAzWkRvdjYydg?oc=5",
+    "date": "2026-05-08T05:46:00.000Z",
+    "summary": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism  Reuters"
   },
   {
     "source": "Reuters",
@@ -85,6 +148,13 @@
   },
   {
     "source": "Reuters",
+    "title": "US CDC classifies hantavirus outbreak as 'level 3' emergency response, ABC News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmUtVUU4d3haZzZmZG8wSFhPYWNvbjBlVlZYTXNaN183X1JNNXR4WWFSRkpZdTlodnMxMTJpZjhMNUtPUktrMm9GTUxaR2g5MnVTYmN3Z1hPY2FEQWJYMlVrYm5KSUgyX0Q3VGp1aFcxUnRUQnlnb3Z1cDdHTy03NXFmSGJxV0lsd2tFT3NfVHg0MFlrdUs1ZGVINEYzZklZU2t2eWNsY2ZjaVlFZy05N1I0Zy1ISm9oMzFEVVNMWFVrcWpYZzFtdlh0LUJTZ1M0cHdzT0RhZTktSXpqNHc?oc=5",
+    "date": "2026-05-08T03:29:00.000Z",
+    "summary": "US CDC classifies hantavirus outbreak as 'level 3' emergency response, ABC News reports  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Sony forecasts lower gaming business sales amid memory price surge - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci1nMExHdVNzTTdGZHAxZ0dlT2tqaENONDRUaWlod1Bldnhrc1ZSZ1VmTzdkemZJMmVLSHZBRHR2MjNvZGhOREdaU0Z6SnhlUzFXeW0taW5vM3B0VllibDQ5N3U2c2hEVW9QczhWMlN3LWd4VFFXMmhVRzV4c2lzTDZtZzBuZXJxTXdfZnRLWURTa3BhTHhyaGE3SmhwMGlfekhYcU95eVJnVVk?oc=5",
     "date": "2026-05-08T03:06:00.000Z",
@@ -96,6 +166,20 @@
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYUdNYmNEeC0wNVFqQUotSV8yLXlIMHVqV3FETG5TcmdoUVBQRGpGYi1uUF9vSVhuZnNveHpwWWN0OFVXLVJPNnF0VjI3QmZnU0dTZU9odi1CQXp0Y0hGSWlLV3Z5YWJDVVZkZDlDZC1HSldMUzNodUhFNTY4Tno5dkJtTGNKdFZmU0lwRU5pSVFZb0Y3SnJ0MXBQbGxGLUh6Z25JTzUxRmZkWDMzNGxvbFkwVllIdnBzR1hEUk9mT1BOd0FPZTh2QnhJb1RTbVhjd2ZsZ3k1NA?oc=5",
     "date": "2026-05-08T02:24:19.000Z",
     "summary": "AWS says data center overheating in North Virginia disrupts services; Coinbase impacted  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Singapore tests two residents for hantavirus after cruise outbreak - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTRid01BSEpNRUxGcVBMTEd0bjlEOHdZX2FEMjc4c1FxX0poRTZEVG9tbW5yejlEdFFibDg0Vi1QSXoyamdWTzk0N1V4dTBfM0QyeHAybzFFbzlaeWw0V2pXT0JzS29oSWM5Zlp0QTZET3NBSkp6aUtpdVVVb2cyNTgxYldRMGZCc1kzUnZJWHNkN0F3OHJRMm5EX201VWc3Y1BOd3dEOC1rdUYzWHpISkp1aElXRVFCRUozYVBYa0NSU3VBZ3FnZndVVWtkLTQ?oc=5",
+    "date": "2026-05-08T01:23:00.000Z",
+    "summary": "Singapore tests two residents for hantavirus after cruise outbreak  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Sr Director Analyst, Learning Management Systems & Skills Management (REMOTE US) - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaE5vOVJKRV9OV211R2pSMzVfUGVpLW1wUDNTaHBpNDkydE1uOFlIT1dWRWZUSm5zc0E0OUZpei1iT2toLUJ5NFJUZWF1bWplXzVfZFJTV1J3dTRXdEFJVk52Y2F4cUpYTVpmRzdPeG5SZmY5eVRwMzlYdEctQ1h0RGU5NnR5SHpmTlBLRTNIWjQwMGZPd045RG83cGlSV3BEX044OHNTTVNMWktnblZheXozV3BWMWd5?oc=5",
+    "date": "2026-05-08T00:47:42.000Z",
+    "summary": "Sr Director Analyst, Learning Management Systems & Skills Management (REMOTE US)  Gartner Careers"
   },
   {
     "source": "Reuters",
@@ -385,6 +469,13 @@
     "summary": "NY Fed finds stability in longer-run inflation views in April  Reuters"
   },
   {
+    "source": "Gartner",
+    "title": "Vice President, Team Manager (VPTM) Gartner Research Board CIO Research - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0VvNWFJUW1xQTJBaHIxcFcxRzlvQVJNUU9yYURYZmI3a1UzMW9GaWJXQTdZUjNOUlFfZlFLaGlVeW1wZ3pNTmFwMUZBZFV3Q2hqWm1Na3NyRE9fQkZ0TTVrYmlaTDZfdGFZRkxQZ2pqMERoLU1QWUpOeWUtQTJhRDZqa2FWRVlTa1lENmlsWFRtNVZ0Z1YzLUoyTDdLaHl0YjFta3V0cWFqX2Zic2FZ?oc=5",
+    "date": "2026-05-07T15:42:46.000Z",
+    "summary": "Vice President, Team Manager (VPTM) Gartner Research Board CIO Research  Gartner Careers"
+  },
+  {
     "source": "Reuters",
     "title": "EU prosecutors arrest 21 Croatians over suspected farm aid fraud - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVE5aZW82VGVrMGpocGw5b2szOENMMFJ6S0czQUZ6bF9VNzdoMi1zZnB6QTlkZEJWSTVuLURJUmJLZmFySnhvZ0ZhZlRpSmZ3a0YxOXo4QTQ5U1RGRFVPTUZuRjdaNUtVb2ZvQXEyalM1UnZPVE9YNlpnY2NTQnE0alFkSjRHTE5wc1I0UVVmWXU3SjdSVTd5Q0xqRFlYSTdmTlZGdm5BUjl4LVN1RzQ4ZnlBc2R1SE5r?oc=5",
@@ -488,6 +579,20 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDh2S2FmTEcySUgwTlIweUNLOHVJWjZBMDRPSlJ3ZTUtUXRNNU1iYTd6c3VvOGJieVVMaWd0TFhGVEdkYnJHc2NEeV9ZYkRrYnpTbUZtZWtIRGJ2TVJ1YkNVWHNmZS1HX2oxMnBVYzFjUXFZUVByQ1Boc29ScU5QVmZzaGpCSnozVGljeERvMUFQWTgxRWRr?oc=5",
     "date": "2026-05-07T12:44:39.000Z",
     "summary": "Cheniere flags earnings pressure from Middle East disruptions after Q1 loss  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Asst Mgr, Variable Comp in Gurgaon, Haryana, India - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5SEpRdXBKS1UtSXNLWGdwdzd1ZFVxVUx5Q0xEaHRfeEJBRUR3ZTMwRkVJUFpLaVFiSEw1YmlYZWU0TUd5QUhPWUJ3SjZGMUVoUnd0ellweng4TWkwUEFiS0R0QVc1UFN2bVdadnA4ZTg?oc=5",
+    "date": "2026-05-07T12:41:26.000Z",
+    "summary": "Asst Mgr, Variable Comp in Gurgaon, Haryana, India  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Variable Compensation Associate in Gurgaon, Haryana, India - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NM0x6djhtaEtrTkhDODRIQ0FSZUZmZzdrUzMza0w1Ry1xazBQV3JCWGtiR283Rjg0eUY5RVlYcGFSX1JHZDBZVE85cWdOVHRWZ3dIYXVaUGZ1Z2tCYjNUTllSellMQWlPZ0VsTGlVWWN6eHltT2pZU2M1MGs?oc=5",
+    "date": "2026-05-07T12:41:26.000Z",
+    "summary": "Variable Compensation Associate in Gurgaon, Haryana, India  Gartner Careers"
   },
   {
     "source": "Influencer Marketing Hub",
