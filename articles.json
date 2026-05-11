@@ -1,5 +1,61 @@
 [
   {
+    "source": "Forrester",
+    "title": "Drowning In Rules: Navigating America’s AI Regulatory Patchwork",
+    "link": "https://www.forrester.com/blogs/drowning-in-rules-navigating-americas-ai-regulatory-patchwork/",
+    "date": "2026-05-11T15:47:00.000Z",
+    "summary": "US companies are drowning in AI rules. With a labyrinth of conflicting state laws and no single federal requirement, even the most responsible innovators are struggling to stay afloat. California’s landmark Transparency in Frontier Artificial Intelligence Act proved that states c"
+  },
+  {
+    "source": "Reuters",
+    "title": "Philippines presidential hopeful Sara Duterte impeached, awaits Senate trial - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUxLWEx4TmtLWlFlNDI0NnZXUmZXQW5tZ1ExRnI3bFROR05KRXhJNC1yd0dEZFFjaU16QmtCaFg3bFFCeHF0ak5LWC15V045endLQ29GdHplajBxMkNiOU5BSmlETEROcHdwOWw1UVlYb1RiN1lqdTJNT01QanJVdHBlSkhYVjM0djQ0aFlVMmtKTGJsaGNGOWZWei1tZW1lSmdHQW92UWhxUHA0M2RDWDFyWjJVQzdyQUdFVHhR?oc=5",
+    "date": "2026-05-11T15:43:37.000Z",
+    "summary": "Philippines presidential hopeful Sara Duterte impeached, awaits Senate trial  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGh4dmdOU0F5MUxPRjg4SkJDYkNjaUtMYzRQR29qVHRzRDlRajNMYUpVNFBfdE9wZExkcVpxMzlReUszV29LSzBHbFJwRm1USXQ2ZXc3bmJ6d1g5TFRXa3F0VTFmUnBfSDVhVW9PMGNPWm5ZWk9pcUNUZlhjcGtYNURsNE9jTlJQRW94ME84TmpPUEYtSGxqVXVOdmNwSkV3NHhqbU9DMEVRcm9LN0JTTm5LekZ5ZFZneTlRQWFRM3ZvS281Wmc?oc=5",
+    "date": "2026-05-11T14:30:01.000Z",
+    "summary": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
+    "date": "2026-05-11T13:59:44.000Z",
+    "summary": "OpenAI creates new unit with $4 billion investment to aid corporate AI push  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "SoftBank's Son considers up to $100 billion investment in France, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmUtektFQm80RGlFU2h3OExWb2ZXbVJqdEZSYXBKTmFvQXMwblZNNDlrekUySWhMVkJzUzF2X2prcC1uSlNZQ3YyVjNiemk2S1N3UGtUbTM0NDJ5TE1VNWlRNHJDVHkzRERoUzltSEFsWTRSME1BYzRQRFFQeVJGdE44VHhCeldGM1RVOHpPaU1KLWNMNTVMUXBfT1RFYWs1ZUtVSEVtckJvQzJ5aG1aSlZSS0J4THdrY0FEWXFTV01fV0E1Tml3bDBIa3VVVTI0?oc=5",
+    "date": "2026-05-11T13:46:06.000Z",
+    "summary": "SoftBank's Son considers up to $100 billion investment in France, Bloomberg News reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "E.ON to acquire peer OVO in UK energy supply shake-up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDE5bncwMXlfS1phZnpnYkl6X3VhWmdfZTRNY25RUFRCUE91ektuZ1c3c1lZRmxlRDV6VlBLTGN5QTJOSTdwQTQtY1Bod21odVdmbmtJS0VaNWdXVFVVR0wzbWc0VDJqR3g0YVc3Z3lJWXQ0c1VYNi1JZm1ESnFkNHpYcGhJcnlWSjNEaTdsOV9xU0VkdmdPTHRSRkk?oc=5",
+    "date": "2026-05-11T13:41:43.000Z",
+    "summary": "E.ON to acquire peer OVO in UK energy supply shake-up  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fervo Energy eyes $7.4 billion valuation in upsized US IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2xYR0ZEdDFIOHlnNlQ1SHhGaE5ETE12a0JIWVd5aHlNSFJZYjFsdW45NEJJUzlobEU0RDUxX0NtaWhDTW4xdVU4cEp2ZkJ6XzZ1b2taV05WLVdDQWpGMlpHMjJaSzhVc3ZEalRCdGxyVkUxQ2p1QVY5bF9mVTVZX1Fpam9hdXhMWkNiRUcxS091X0VNcUphZEVuZFZIZ0JDSU5GdFdvT20?oc=5",
+    "date": "2026-05-11T13:16:58.000Z",
+    "summary": "Fervo Energy eyes $7.4 billion valuation in upsized US IPO  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Swatch shareholder vote tests Hayek grip after advisers back Wood - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2R1RFpJUS04QndIUTN1QzR4cV9lb2pfX2dWUThtYm9wZ2hpcko1bHF3eVdULUY1M1FBVlFabGJzbFNmT2U4bUJoVUN6cS1IdHZZc3NEUW5URFlzdUxNeWs1WFN3Sm93cGhrUmFFWG9TSC12TkZ2WTlESTB1Rkc1YXRJT2hEcXo3WTdNLWtSMGVZNWZZT2szcTNtYWZraFNzX1hncWtVZllKcGhHWEdVQXR1UG1QZ3hrMVdwcVd3?oc=5",
+    "date": "2026-05-11T13:15:49.000Z",
+    "summary": "Swatch shareholder vote tests Hayek grip after advisers back Wood  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "Deals and new partnerships on the menu at Africa-France summit - Reuters",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDAxY3RoQmVSUUIwR1hlcUc0Y0N5d3Y3VlU3TzdUSXVLZHRaYlZTRXdNUnlPNEw4VERkVVFKM2cyczNUclN4bE1kQmNTVlJtZFZUQUU3aVZTc0k0NXJ3cnNKRzZxSXVOVkIyb3M3Y045WlpROGhYbFIwcVFjY1JnbFBwcHAzOTdYb3RqbHM1Sk9uV2REendBTUVwM3FiUQ?oc=5",
@@ -22,6 +78,13 @@
   },
   {
     "source": "Reuters",
+    "title": "WHO says seven cases of hantavirus confirmed from cruise ship - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEt6V1pkVVhfTFh2aUdqYkdDMHhTZ2tDUnlta05feGs3SDB3b2FuUl9oU3hnRFh3aEpkZVdCNnYzRVJSTEdUMW1WdENHX09oZWZtQVc5VWRfTDdVOFhHbUtsVGw5VlJsR3BYUldJMGFTT1FXeWVWM3pMVDVZNU1PTFdIem14Yl9pZ3g4QmRBa3V5U2FISjhka1l5cmFKQm1rUzJsLUVCNmJxNkJyVGR4blpIbE44dldDV3FxcEh1eHpSTG8?oc=5",
+    "date": "2026-05-11T12:25:43.000Z",
+    "summary": "WHO says seven cases of hantavirus confirmed from cruise ship  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Alphabet considers first yen bond sale to fund AI goals - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1VEZEpXRmh4OFM3RGgxX1Z1cjBPaHlWMTZqa3lwbklEcXNSN0VnWVowUFZ1ZEp2LUpUTFpLazFuSngtS2pyMHI2Q283Z0NybFdkTTJGNEtxcHEtX1kxTjIzS1hjTVNOUi1GeDVNRnFjVzFXWHJDRmJnMmN0VUJsUGJrdi1LeUUtbVNtdjZjMjRwaW94SlpaS2lSazRqa1dDX1M4SXUtQWk?oc=5",
     "date": "2026-05-11T11:58:14.000Z",
@@ -33,6 +96,13 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWRzd1Z6Wk5FM215ZGVuNWdkNDFZT1dWSjVLVG54WExhR1VGSkhJcWdkdVFqa2lyeGFYQzJxOFk2WjlLUG5mZzQteU9oMjdfOGptS1pBblA2d2x4amstdTNlYm9xR3NUTkVYbFp1VGlJLVg2Ry01T043UGZtdE45MTRuTVd2cXVmc0FZRDc0ZG1YUG1BN1FkZXk4OGx6bEE0RHBaNWhxTlE3alBJRVo1LWpZT3RTVUNvSU1seTVycVFvTWl6?oc=5",
     "date": "2026-05-11T11:16:12.000Z",
     "summary": "Japan to receive first Central Asian crude oil since Iran war started  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Britain to take powers to fully nationalise British Steel, Starmer says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3RhMzFOU0pPT0twMTk1d1JNVWFGakNxLTBIVkVTd3g5YVJfZUNSMXN4a2Z2SGtSYVhRX05BRVhEWlJQZG1vcHdITlBmemx6di1VV0RqQk5jVFI3UVRhWEM5Zy1vWGpSSkEtYW4zRXNURzFRWVlhMm1aVThzeWprc1pqM2ZaalhSTmViMTZPaTFCb19wd2lyZ2dDQXpCYUhidlQ2VDB0N3ZCR05VT0E?oc=5",
+    "date": "2026-05-11T11:04:32.000Z",
+    "summary": "Britain to take powers to fully nationalise British Steel, Starmer says  Reuters"
   },
   {
     "source": "Reuters",
@@ -64,6 +134,13 @@
   },
   {
     "source": "Reuters",
+    "title": "HSBC lifts S&P 500 year-end target on earnings optimism - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVc2MERiVVZURGNHYzVfRGVackF4OEVzdGdQbmdPelMzZ0xQcFFOb3FxUzlYRWJpRVNvMjBIVHJiOVR1SktfcFhFaVYxMnhCOWZaNW1nVloySGFtZHJtZHFWS2NQdEF1YlI0TWZWSTZJYnR0alFYVlFUY3VtdUZUNnpXTW9pem5ZOU15cjF2RFhENFRHWGNOU0tFLXY?oc=5",
+    "date": "2026-05-11T10:36:37.000Z",
+    "summary": "HSBC lifts S&P 500 year-end target on earnings optimism  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Iron Dome nearly 99% effective against incoming missiles, maker Rafael's chairman says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWk54d0dqLXEyMEp5SkRhb1lMLVp5Y3IzcmN5SGJ5WDRUb3NqSFpFTmpHSkxDd1VvYTJ1M1U4Qlg3ZmlWMzRwY1lKdWI5RGNXQ1QwcGZjTFY5UG1OZkYzOGRyRmk3cGtNWGlEUVZMdkVreUl5Z253dFNnNHd2WjJHR3AxcjRPZkpxbXlCNlhPbzlvcEZsd3M5UzVnS2FOSnJmUm9yQ0xrZE9ZT2xwM2VNWmpqUTdKZG5BZXBlYkh2bE9TQ0Z5TW9ubFlSZG9ETDhTZHp0aEx4ME4?oc=5",
     "date": "2026-05-11T10:36:20.000Z",
@@ -75,6 +152,13 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQW44VXhPWkZyQUN3Z0syNVU1UFdtVV9BYkZWdC0zYW5zNGFjaGVFUVBuVGlhWGVzNzFOay1fR096cXM1THZDeEtMREJqdmZDQXgtU0dTemtnakFRaE1hVXVOd09Bcl9JR3lHWDFJODBLY3NiZHowV00wajlHNVNod2JQaFl5XzhKREV5TUVwTkQwSlg5Zy1xVnVJdjVpTUZkSldpNGQybnB1TjlQWEo4?oc=5",
     "date": "2026-05-11T10:32:05.000Z",
     "summary": "Gartner Marketing Symposium/Xpo: Day 1 Highlights  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Explainer: As PM Modi calls for conserving FX, what steps can India take? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUtQWklkZzBJX1Y5djZJWldGTUxRSmlJaXE3UzVKZWlyZngtVDlMaHBHTmxUNEtZYUpHTWdydXAxSERpd1VtZ3NfVWdSMlN1T1VucDZ6dTdCaWFrenR5dnhDenhoZ3k5eUNLVHlGdk50M1dOREZVODJWeDBhb0NtaC1XS1R6MkNQWXVLYmYtSFI1RFk0ZlJJcExkb3NTZnpwbW15ZmU2T1I?oc=5",
+    "date": "2026-05-11T10:26:06.000Z",
+    "summary": "Explainer: As PM Modi calls for conserving FX, what steps can India take?  Reuters"
   },
   {
     "source": "Meta Newsroom",
@@ -169,6 +253,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Toyota to build new 100,000-units-a-year car factory in India - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnRSZW43ZjJ4cHFzUzNqZkwyMHd0a1JkY01lb3hTYS1ZQTRscEM3VEc5TnVjdHZmdGpUdnNFZ0w3QTg0eV94bGVCemxqVlVjd0FUVHo5cVhUeGpELThCa0J4X2xuOEtLS3RBSU00UFFLdlNSM1E5aDVvYndDQ21lRklnRkZEbDVfMEUwVGlrYmN4cC1XTUJSN2R4THV5T0NQLWprelh2ZXJzWjhRVHc?oc=5",
+    "date": "2026-05-11T05:51:25.000Z",
+    "summary": "Toyota to build new 100,000-units-a-year car factory in India  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Woodside Energy's delayed Browse LNG project expected to cost $35 billion - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFZyWkZzcVZKdVlNVmFhWjJHQXVlald5aDVPTXZnc0NvRmRKU3ZUdzNhR1RvUDlZOWlHQ3lsVHI4Y0xLV1gwWkpBb1dKWlB6ZVh3Q2tDVmVwbzF0VjRkeW1oRzVxNGJGVE5yUW4taTM1R282Z09HdUVNQnd1blV2NExBRE9BM0dXU211U0dFZkNSWTdWY2NXeUxmbGpwaWNMN3lQS1d4cnRpQWZZQ3dCOXlWaFJuNEhoLVAxOA?oc=5",
     "date": "2026-05-11T05:27:14.000Z",
@@ -210,6 +301,13 @@
     "summary": "One US citizen tests mildly positive for hantavirus, another has mild symptoms  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Last two evacuation flights from hantavirus-hit ship to depart Monday afternoon - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZndwM3lvd3h3TjR5QmpLUUtoZFNCRDlWeDN6eF9UalFRenNMSjVtWjg5ZWFaYmo5U2xmbktjbU1ranBwRVkwQWR5LTJzSE5ST3FOcU5jYnJPanVyczh2YnRJbGhZOElleFFha254TzlOVzBsNUxYSjhENmlhWENkMms2RnVVUFhYaG1fbHp1S1c3bW5pbkNSckZOVlZ2bGhmampDMEdrT05tZkFzMHhWTkYtWkRjZmgwZWxOLQ?oc=5",
+    "date": "2026-05-11T00:51:00.000Z",
+    "summary": "Last two evacuation flights from hantavirus-hit ship to depart Monday afternoon  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2026 Sydney: Day 1 Highlights - Gartner",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQVd5RFFIZG9XcW1pLTAtZDNiVUNjNHFBYnVoQVJVQUhTejI2SWFEMlZ0eS1CNHM1VTdEMkpJbERtNjJuVG5VTnAzTmhUV0VZbDN4MFZ1Mkxna2dSMkpJU3lOS2Q5TDNxTXA0ZC11Wi0zdE53VGNabld2dlVmMjl2b2dGY1JMR2hMQy1qenVidnNrRVBTZllHaWRPZmV6ZWpIWWx1V0ZBZmhTb2ZBNVlJZ1NEdDdlWk1vYVVHeFpBOVdoLVJodC1tZVRRLUxva08zMG5GdWdRQjdWVWlQOUI2aDdteGtxanZPc0NzbjZYRWQ?oc=5",
@@ -222,6 +320,20 @@
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObzJheEtNdXEydXhSRTRURXRETUxldzVZYXhBS253LU90RURjYy1MMXRMVEYxWEFZWm5xVGp5dGFaNm5IdEwxQ2FwNzdyLTh1SWo5cDJteUE1cE9qdUk5c0o5Z2FsZXBpOE1JN1Y5QUNyQmExVWtPN2tiNWRGUTYtWC1VVEE4d0p6MFdDaHRQcTdrYXQwUF9JQWFtcXhjMEhLUDZlMW9tNC1ZTWJxOGloQU16d0Nfb25jZnJHd0lDUFNPWjk5bEM4UlVVazJlNGJ1bzFReDRnTlZOLWRxbFJYRUNQQ3RvTEF6dnZvdkd5MVFTZw?oc=5",
     "date": "2026-05-11T00:07:04.000Z",
     "summary": "Gartner Forecasts Australian Organizations Will Spend More Than A$33 Billion on Public Cloud in 2026  Gartner"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Talking with Nigel Morris, cofounder of QED Investors",
+    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-nigel-morris-cofounder-of-qed-investors",
+    "date": "2026-05-11T00:00:00.000Z",
+    "summary": "The venture capital firm, which supports early-stage and growth fintechs, gives its founders a front-row seat to observe the industry’s accelerating evolution."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Cheaper, faster, better: A formula for cleantech scaling success",
+    "link": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cheaper-faster-better-a-formula-for-cleantech-scaling-success",
+    "date": "2026-05-11T00:00:00.000Z",
+    "summary": "Clean technology can scale even in today’s uncertain environment. Our analysis of successful companies reveals what they do right."
   },
   {
     "source": "McKinsey",
@@ -595,6 +707,13 @@
     "summary": "Boeing probing worker death as union calls for accountability  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Florida insurer Safepoint reveals 97% revenue surge in US IPO filing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHo4UXZvSXJuZExPMDk3bzI4NVVKaFBHS3cxTkZlZkZSSGx0ZkJib2ZCNnpCSTlsWjBGbXkxa093OU8wbVFaV2sxQjdqbmp3QzRFOVR3LWEwR2x0ZHpPbE9nN2RXZWtZWjNRV0ZTcTBPY2NJT0pGUmQ3UGptVjVVN01hdHFVUlc5OHhn?oc=5",
+    "date": "2026-05-08T22:28:57.000Z",
+    "summary": "Florida insurer Safepoint reveals 97% revenue surge in US IPO filing  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "LevelBlue vs OpenText 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk5ZQ3QwVl9HSXd6d3lkT0NDOUNLam0tQWtDckFvQnF5RUxrMF9GWS1MdkVaWEl5MUx2TERiWWdjWFRoQlpxbExLWGR1SjhHN1F4aXlKcjZlT3UxZHJCTjU2cFZvckhPOWJxRGhlNDZUaGcyNzBZR19lZTN3b3VQYU95dXlocF9KV3h3SUdrblllU211eVd1dVBIY1Nidw?oc=5",
@@ -964,6 +1083,13 @@
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV2NqNWJ6YjdpQ3FuVGZiOFk0bmFYMlhoUHc0Y1EwS0VzdkhjbWNXVzZWYV9sR05LeUVxdE91dlRCdnkzMHVxQUdsVVI5dnE1a0pDRV94UGFQaVJxNVp5NUVVR3F5ZE5G?oc=5",
     "date": "2026-05-08T13:59:51.000Z",
     "summary": "Acxiom Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Airtel Africa delays mobile money division's IPO as Iran war-driven costs loom - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0hhZlJhaGFoX0loUkI4eWk3bUdRN0RmV1VwVFZkdF82TFRZako1NkdfaTBYYS1BX3htaU9xcjNKSl9tTEdaRGJSMU1JYmM3S243bHhjbHNoTjBTRXd0eGdlel84bVp6NjRjREtuSjJ3Z1FyNHVERG0za0NCaThlb25FODBTZWZXUFlxOFUtOGFfbHp1U3BGSnMxM0o4VE5OX1c3eWpzdGtYTFNscEl2UkhR?oc=5",
+    "date": "2026-05-08T13:47:56.000Z",
+    "summary": "Airtel Africa delays mobile money division's IPO as Iran war-driven costs loom  Reuters"
   },
   {
     "source": "Gartner",
