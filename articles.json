@@ -1,10 +1,45 @@
 [
   {
+    "source": "PwC",
+    "title": "Human Resources insights - PwC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SM0hGQ3phV3BZSS1Dd0Q3aDdfaGJNUlUtXzJkMGFKd1c3ZWNLbUFscGZxTVVYRjJiWnNyYi1na2dmcndYdXgxUUlSbW4wRXlEZ2g5aFlKOTZ4SU0xUXVWbUNYVGNHYzJNdm1JRXFCaGJKWmQtNXpVdFVhUDA1TTg?oc=5",
+    "date": "2026-05-13T01:13:05.000Z",
+    "summary": "Human Resources insights  PwC"
+  },
+  {
+    "source": "Reuters",
+    "title": "Samsung Elec regrets collapse of pay talks with union, says to continue dialogue - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGJGTGFhQVUybUE5SUlrbUlLU3dNTFY4X2xxeWdRNnFhTGFDRFJMdkxZaEpUb3ZZV05fZ19Ma0xhaUFKV05HWmNWVS1sdFAxdy13bzBpYmVGWHdKSHZSd2VLczhObkQyN0JvOFRGemo3blJ6cngyZm90R0Zvd040cmxiV0NWbjNSeEliSHVqall1LU9rSGx0NHItT2k0a0J6ekxvOEpjUVF2b2h4Wnk0SUpSZlNpUzRPZDNqQU9SSkNxU0JpYjRvYXF2b1E?oc=5",
+    "date": "2026-05-13T00:26:00.000Z",
+    "summary": "Samsung Elec regrets collapse of pay talks with union, says to continue dialogue  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "OpenAI Daybreak vs. Anthropic Mythos: What Cybersecurity Leaders Must Do - Gartner",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1VlSTZNbG9lM1FHa0JvS2xlU2ZxNVZ6NS1TdHVGeFZGSjVseV9SY2d2YUdpUHZ2bXZaWWx4M2RWbTVvZW9uQlF0TnVTM1FHSDVGZnZRV3FSa1ROWlV1R09icGFSNVdnck10S3hPX3M5Z0doSGRKUXFON3pUVWsyQ2o3bUlYSFBHcjBWMExBRHZ2LUg1X1V6N1FFaXJlTjN6b1ZFLWVfcEVmZGNVc2FkQXNJWmEtSXlpODhfQw?oc=5",
     "date": "2026-05-13T00:09:00.000Z",
     "summary": "OpenAI Daybreak vs. Anthropic Mythos: What Cybersecurity Leaders Must Do  Gartner"
+  },
+  {
+    "source": "McKinsey",
+    "title": "CARE for women: Investing in care delivery to improve women’s lives and livelihoods",
+    "link": "https://www.mckinsey.com/mhi/our-insights/care-for-women-investing-in-care-delivery-to-improve-womens-lives-and-livelihoods",
+    "date": "2026-05-13T00:00:00.000Z",
+    "summary": "Care delivery failures account for 34 percent of the women’s health gap. Earlier preventive care could avert tens of thousands of adverse events and generate three- to sixfold returns through lower medical costs."
+  },
+  {
+    "source": "Reuters",
+    "title": "Fervo Energy raises $1.89 billion in US IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTV5NkxpR1JmRkp1NE0yOTAtcTM2TFY1cDVqNWRkTTRza3ZaMUEydkpUR3psT2tyZ19VM1FKU3Y4OVk0R2JrMlY4anRGd1BLOTMwRzBaX0NMX3l1SmF3cDFYanpjeHRYaW43TlpsSjZwLTROMEpQcThjZVltdGl5NFF1TGFTeld4Y2E4aGxLd2FMZWNC?oc=5",
+    "date": "2026-05-12T23:57:16.000Z",
+    "summary": "Fervo Energy raises $1.89 billion in US IPO  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Global EV demand rises for second month, data shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JsdEpXdnUyYmlhREg0SnhJR05JckRiWXcxamZ1ajFXaW9qbmlPSzNwSThqeDRtdHBOdk9peHBKczZUeEVGSUk3bmNBYnpESHVROGRoaUQ1LWxndXpXRk5kVjMwX28wZWRDSXZUODJ1ZXRXUU02ZWI1TkdLaEQxNGRPMFRLMG8xSW9QTGVaZlF6bjVQUmFMdEtvZm01bHJGZ2s3aUFFa21hRUE1Qi1iS1hB?oc=5",
+    "date": "2026-05-12T23:12:49.000Z",
+    "summary": "Global EV demand rises for second month, data shows  Reuters"
   },
   {
     "source": "Reuters",
@@ -19,6 +54,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDZCSzAwM3Z3bkc4VEgzcUxpUi1ieExFaUxLdm5jNHhTS3RxYXR1SUxQNUVBa1l6OE1Sc0lTS0p0R2JoTkl4X3p2aEI1NHB0SHNXVGpsWFFFSHhXazFzR0lDLWVoNG1URHFUcGFhYTRYSEt0akc2Mjd3Y3dCaklacW9OUHNYX1YtQmlFalB1d2R4eGQxa1JKNjVQOVBUUU5nN3gxajJYVEh6RWJRa2hKckZraEh2eWhKZnNPZVpIOFY?oc=5",
     "date": "2026-05-12T22:12:28.000Z",
     "summary": "Walmart lays off or relocates about 1,000 corporate workers, WSJ reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US social media legislation gains momentum as key Republican senator pledges support - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmpQRkZ4clJUbGs1ZzJyRGpoNkpKZko2YkNSdnhseHNScll5MU83d3oyZE1pTU9XRUpjeW4zbjkyVFdoLUNMVTRvb2FkWjVuWkFEbkFOTlloZGkxZ0VWd3dOVlFFLUJ6MXlaSTZTZmtTYzQtWEtlOXpsNEtmdkNMcUd1aExRVzFXQXBaR2w5VF9ON2NnWE5TeTlmd281RWVWa3R0UmpiUjRoWmRqdm5iVFFfRE14OEllcjR5ZXI5ZlBMNDlX?oc=5",
+    "date": "2026-05-12T22:03:00.000Z",
+    "summary": "US social media legislation gains momentum as key Republican senator pledges support  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Italy tests two people for hantavirus amid quarantine measures - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzBLakZMUFlKWjhqV3hZd3ktckktMEhLVWRJSTNscGMwbTcxNldKVzgtM2tHOXRXaHY5ckMxclZfVHRiMW9HQVRWblZOdHJ0OXJlYi10NWZSV0tqa1JWNGZ6MzhUb1QyazNHUGcxUWhudmpQWlBLWGg5Q1pKcmFGaC1jTW0ycGJ0akhGQmstYXFGMmNybDZKUGFYQU9tdVNTY2xjMklJa2pyenkwUXZGQzJEN0RLdmhQQ1N6Rk9URFFZcEhzaHFFcw?oc=5",
+    "date": "2026-05-12T21:54:03.000Z",
+    "summary": "Italy tests two people for hantavirus amid quarantine measures  Reuters"
   },
   {
     "source": "Reuters",
@@ -40,6 +89,20 @@
     "link": "https://www.forrester.com/blogs/sap-sapphire-2026-the-autonomous-enterprise-is-credible-but-it-comes-with-concentration-risk/",
     "date": "2026-05-12T21:15:33.000Z",
     "summary": "At SAP Sapphire 2026, SAP consolidated eighteen months of M&A, product development, and AI strategy into a single integrated vision it dubbed the “autonomous enterprise.” JPMorganChase CFO Jeremy Barnum confirmed live on stage that the bank is migrating its general ledger to SAP’"
+  },
+  {
+    "source": "Reuters",
+    "title": "US plans $22 billion rebuilding of Washington Dulles airport - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUVWdkRuT3JVWDRiekl6aEdhYXpOYnUwRE9faXJPTU9jS0Jsak1ock5VSEFHUXI4d0lxb3EzanZhYUUwbjdJcm9YUUtGd3AzYTZPd2JLUjlyZ0FkbUZ1dTZ4UV9iYnFodXh4RjNMY3dFdjk5cWRTT2M4VnVxOEVzTWxZdEZVc0tQZ3JkNWRudjRkUnhLRlBRNTJjR3NfS3VUMU9sQ3RTSEgtWE8xRDhoSUpqZjdDaEhBbWs4?oc=5",
+    "date": "2026-05-12T21:13:43.000Z",
+    "summary": "US plans $22 billion rebuilding of Washington Dulles airport  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "API shows another weekly fall in US crude stocks but gasoline inventories rise, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNFMzVQN0ZzVkJaNFFwTjNBX2FmVmpMQkVPaUpOLV9UUU5LZUYwT3dGdkdFYXRCUHZiQ0NDN2RCNUJ3VTFpVk9aOU5VRnhFU1lmZ2xSajdWR0U1QS1WRFVOT2tEZHQycWtzSE5ra2dUbjQ4ZnBRT3l6Q05DdHFqOUgxaGZnbWJVRUtHbTh4LVFDdWI4MGdNcWs0UlBXdVRvWWlLbERYTFFTcEl3Y3Q3emJlTXRXTlVrYTczaFV0SklRTXhJNm1taVNRRQ?oc=5",
+    "date": "2026-05-12T21:09:33.000Z",
+    "summary": "API shows another weekly fall in US crude stocks but gasoline inventories rise, sources say  Reuters"
   },
   {
     "source": "Reuters",
@@ -82,6 +145,13 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLW1HcUxrdUV6MENHMkxtelp5b3ZMeGNkR0lDbGo4T0w1em9aeXRYXzBHTGp5cEJ1VzlRUnpZeGpuOGRJSmdWb3l5VVYxSl9PSDF1dmtzel9ZaGhUb3J4elZlUTAzTzk2dndNLUdMem54emZORU5LVkV4OEUyeDRFQm44QURac21YcVBnVU5Qb1JSa05PMmVtZHQtVmhJOEVXLUdOZ0NlZEpNVTlJcGlmd2xRT2xmdHVudFRrVnJVWkk1MUM3c3BRQWI3WQ?oc=5",
     "date": "2026-05-12T20:04:15.000Z",
     "summary": "US EIA concedes Middle East supply disruptions are far worse than prior estimates  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "April CPI rises more than expected; bond yields climb - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOV9NN1FRaWp0MG4tby03MFBsemdkbzhhd1B0NENHdDcwSmxYVUVzX0ViZzZKRzRHLXp5eUJHd01adFFSb0RqVjI2R01HUkl2Z21uRW9iSTk2NGw1Nmswc2RnYlp1SjZuVWxiT3FpNnE1QW9INGttZXhzMXZQMEtCcXhZcG1aUzJ2VkhyNHljcFJvRElIaGNxRGk5WmxIb2ZDYU9mUQ?oc=5",
+    "date": "2026-05-12T18:41:47.000Z",
+    "summary": "April CPI rises more than expected; bond yields climb  Reuters"
   },
   {
     "source": "Reuters",
@@ -273,6 +343,13 @@
     "summary": "US indicts two foreign operators, individual in 2024 collapse of Baltimore Key Bridge  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "India's Dr Reddy's plans generic Ozempic launch in Canada this month, eyes India semaglutide tablet roll-out - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRko0eG8zeTU0ZTg3bklDbzJFek9mZlhNQXhZSFpYVm1ocFFFcnpzSUtSYk00WDRWb1F1WUY4bGJpNlRZcm9VcEZKX2IxRUtzLXJSMENrUHFMNkRoOGt4YXZidEUxSjBHY1BOVXpuZVBteWdlVElRblJWU3N2S3RORjFnTUxBcDN5S1VybFpVdXp0dHNxRGpITDQ4ek5KVlh3TEV3bXNlakQ3N1VnODhUeDZ3Q3l4VGZSX084eDlDVVhHelE4bmc?oc=5",
+    "date": "2026-05-12T14:19:44.000Z",
+    "summary": "India's Dr Reddy's plans generic Ozempic launch in Canada this month, eyes India semaglutide tablet roll-out  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "Resonate by Linqia",
     "link": "https://influencermarketinghub.com/resonate-by-linqia/",
@@ -418,6 +495,20 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEMwaVFwS241U3kzWVcxMXZJTnhMdlBjUE9MQm11U0RtNXFJWXZ1VlVzTGNBZ215ZzQzM1phQWZoUHhBejN2YXVORE84dGhXNGxNRHhsT0lJNXFCYndMcmFHQXRqQzh5cEZjUm1Tb0k5cG1sSy1uU1lpa3pHY01DR0VPRjItV1Q1c0RQcVVfT0pPQWZMbkliel9ldXNWZURla19ya3ViSDB3X2RmanpPOUhwNGtrdw?oc=5",
     "date": "2026-05-12T10:01:12.000Z",
     "summary": "US CEOs seek China business gains from Trump-Xi summit  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "German investor morale improves unexpectedly in May, but 'no fresh start' in sight - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1ZKLWNYRnkxeUFLSDBEM1JaWkZBNTFGY0JHRzBvdmlkNkZDcVNsV3FVT2RCV0VzbExiclhfMGcyM04wc1hEa3VBempUMzVSakg5SWdYcU1DdmNqYkhhYjkyQnJMWmRCVmV3c05tSTE1VU83bHJXR0JGaTA3a2pPdHIwZ0pmLVJtNGN1aWZaRS1sdXp4R1hXWWJ1bWFEb0haUGUwSHNaVDQwWHFxdlJ3eFlMa0FRb28?oc=5",
+    "date": "2026-05-12T09:52:22.000Z",
+    "summary": "German investor morale improves unexpectedly in May, but 'no fresh start' in sight  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Throughput, not just innovation, may define the future of US defense manufacturing and industrial scale - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlRYRV82ZnB6Z3pUM25BdXNMNWdGbXpTQnQ3bWtZeFpQZzVMZDMwaXJ1dTV3bEROZHVlLWM4OHg2VkJBeE5EUDBMRzR6VFRTWTlSdHVPR0xYd2M0aUpMOHBLWGJ2YllSMnluUk9tbzkzSVphMmcxQUVFRU5KN2tWRlRsa2VrWk9PRFFkVTJ5ZERpNUItbTg3TUY0d1RlTEdaN3JoNEc5T0lpTU9KUnhaTWxYVQ?oc=5",
+    "date": "2026-05-12T09:47:00.000Z",
+    "summary": "Throughput, not just innovation, may define the future of US defense manufacturing and industrial scale  Deloitte"
   },
   {
     "source": "Reuters",
@@ -938,6 +1029,13 @@
     "summary": "Embraer aims to sell C-390 military plane to Colombia, Chile, CEO says  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "Building out infrastructure? Don’t overlook quantum - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjVvbkNpSVlrRGNXMUNHbzNJVTlQUjZNblR1WHJhbTlUZWR1VGItUFVSdGtUR2F5MWpyUkFtVjdkeHBrX2RybVo3UzYzRFA4dnRzSjY4UEdkNUM4Y1NKbDZvXzh5ZnEwekRXV0lKYVpkMHJUaWlwV0twRGhSTmNLR1dHZi1rZmU0aUsyUmx3TWU1T2RqdmxHY1JHMEg3Nk1MRWRaRnVXUzVZcjhpV01ONEVzdDlPQQ?oc=5",
+    "date": "2026-05-11T17:54:32.000Z",
+    "summary": "Building out infrastructure? Don’t overlook quantum  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Starbucks to cut 61 technology jobs in Seattle - Reuters",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjVxRmx2WFJXQWI4SmNzMmlsWVkyZnh3ei1adDJ3WkpUY2lZcVJqbVpVeWh2NkxHM2pFVzk1ck5GMDRzQ052WlRDLW1uSzBiT0tMSWptN0FFMXZFTjdSMWllbzNZb3pDMDM0amZIanp2V0lQRDZtQ3B3VG42cV9FTDQyWE8ySFJLU2ZDZGI5Tkl1NVNLQWhndUI0WkJJYXp4?oc=5",
@@ -1062,6 +1160,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazhoNnRpTnJTb25TUGdLOFB3TC1QN3VTUjlYT0hJZjJxS3JPOF92dmswRkNKcV9CeUVkNlhuX05VMjIyeWh0WU14R0RvN0licEE4Qm0zOENlX3pVcUg0SUU5V1QyNmI2Mk9tNkRKUEpac0w0WGVwSUpfaHVIblJEcTgtMXNLbHBFbmJWSUhNVFZUYlEwOEpWTnRoSy1VSTdmWmN3S2RlMG9Cb0NWZzNickJ0Q05wTk5m?oc=5",
     "date": "2026-05-11T15:22:05.000Z",
     "summary": "California county sues Meta over scam ads  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Elon Musk, Apple's Cook and Boeing CEO going to China with Trump, official says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckMyb0VyUlFWdTJMYTZoTHFsZkEtSld4THFVS1RtdktkTy1yaUJQTWhfdmhMbnNKZUROS0tJVmxkc2tUUG9jRGswZEhCdWdNYWl5c1U2dUVQejhGS0l2R0xnRlU5Y3QzOEp0V05LTndmUm5yUTVCVTU1anVzaWdGX0p0MzVEUFRTQUxVczBHNEJYQ0RGRXduVzRPOU1RcUw1SnVZRzVNb0ZOc0p4dFozRTBuLVNoWjBqcG42RWx3?oc=5",
+    "date": "2026-05-11T14:53:00.000Z",
+    "summary": "Elon Musk, Apple's Cook and Boeing CEO going to China with Trump, official says  Reuters"
   },
   {
     "source": "Reuters",
