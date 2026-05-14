@@ -1,5 +1,47 @@
 [
   {
+    "source": "Forrester",
+    "title": "AI Isn’t Fixing Retail Banking’s Customer Growth Problem — It’s Exacerbating It",
+    "link": "https://www.forrester.com/blogs/ai-isnt-fixing-retail-bankings-customer-growth-problem-its-exacerbating-it/",
+    "date": "2026-05-14T19:26:06.000Z",
+    "summary": "Retail banks are moving fast on AI in 2026. Budgets are growing. Roadmaps are packed. Internal momentum is real. Customer loyalty, however is not. And the disconnect is becoming harder to ignore. AI adoption is accelerating across retail banking, yet differentiation keeps slippin"
+  },
+  {
+    "source": "Forrester",
+    "title": "SAP is Targeting the AI Data Control Plane",
+    "link": "https://www.forrester.com/blogs/sap-is-targeting-the-ai-data-control-plane/",
+    "date": "2026-05-14T18:55:35.000Z",
+    "summary": "As enterprises move from copilots to agentic AI, they are no longer constrained by model selection, but rather they are limited by governed activation of business data. SAP’s planned acquisitions of Dremio and Prior Labs signal an effort to position SAP Business Data Cloud (BDC) "
+  },
+  {
+    "source": "EY",
+    "title": "EY Family Enterprise strategies for building value across generations | EY - US - EY",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQME14d2V3ZnYzc2x3TmN1eXpWQm9RdWdjeWw1WjU3b0c2QmVzTng0QnBfMXdZdzl6cG83MjJDSjI1OU1CdlZuc3BlQ1FkQW1xZHY1M2JROUdyd2dKR0FYUC1mak1lbEJ4REh2RXNxUXJOLW81Z0RDc09pdXZ6WkVrMjhYZlBNbF9UbGJkeFYxN05RZG9EQ3VSeEhSTXdsakc0NUw4MQ?oc=5",
+    "date": "2026-05-14T18:23:49.000Z",
+    "summary": "EY Family Enterprise strategies for building value across generations | EY - US  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFZS3BkVlpLam83ekJJNVQ2N0ZBVERuU2R3Y0R5VWZMZzgtdk0zaHZPdWoyc1hpVTNOZElZdGRma0lIeFZWWGpjaFIzUG5ORUtnWFVpUmFEazkyblRiVHNLVlpXTFdKaVZrS3Q5LXdGeEg4QW9ycDV4M0pNNEpCb2xVNjRVdV9XNDVnYXFram9QRWg1YTNGZ193bE44UzR2QUdPamV3Z0JSb285c0M0U09RN29ZdGR0TTdvcEZkcmNJeHFmOENrLXNkMjJzUHFBc2NaSA?oc=5",
+    "date": "2026-05-14T18:03:51.000Z",
+    "summary": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI explores legal options against Apple, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5",
+    "date": "2026-05-14T17:05:09.000Z",
+    "summary": "OpenAI explores legal options against Apple, Bloomberg News reports  Reuters"
+  },
+  {
+    "source": "PwC",
+    "title": "PwC and Anthropic expand alliance for enterprise agentic AI - PwC",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5",
+    "date": "2026-05-14T16:49:19.000Z",
+    "summary": "PwC and Anthropic expand alliance for enterprise agentic AI  PwC"
+  },
+  {
     "source": "Reuters",
     "title": "Biogen to advance experimental Alzheimer's drug despite mid-stage trial miss - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHNzbmJucnlUdy1SRVA1RFlXcGN5MVZoODNGQ2E4alYwS2VIQ3o0NzF4RUZvS1dCR2xnTVZUelB1QzBpNmJWbDByVTFETkVRUjJxYWU3dDFCVURMdXM3TWcteUwzaVBLZ2VibkljbGlPN1oteFlDbDJSQ21yUHpqZHo0cUIxWUhLdlhVT25LRV9fWFpIWEtGNUh6bmpqRlNsdjNrMm95NWoyWGZlWWZLTzZoNWlQLWlTV2JpNHhtNkNJdnpfM0E?oc=5",
@@ -12,6 +54,13 @@
     "link": "https://www.forrester.com/blogs/genai-is-the-power-tool-for-product-management-speed-and-innovation/",
     "date": "2026-05-14T16:27:07.000Z",
     "summary": "There’s a well-worn lament in the DIY world that goes, “any job is easier with the right tool”. For all those who have suffered through a DIY car repair or home project or remodel, the value of having the right tool for the right job is well known. Product management is going thr"
+  },
+  {
+    "source": "Reuters",
+    "title": "US wireless carriers to launch joint venture to address rural 'dead zones' - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaGlZZGRLZldkdllYbjkxbEx2UjVTeEJnbTZWTmctUF83Y2FneXVnbGtLZHNMRFVqbEEwbnd4bjcxY09iNmN4TXQ0ZTBISUZ0NWJYVlY3WjRzRzJFZzhyUGlXUjJsdEY0bHFERzJFV2hPQjdxbEIxSDVVZmplSUJ0TFJhdVJrYVNmQk9iU2dvYlA0cjJUaEZHZmtwcDQzakxwQXZvc1F3akU1Q25lTVhtTGEyYU9sdmFneHlTbElkQzU0OEU?oc=5",
+    "date": "2026-05-14T14:24:58.000Z",
+    "summary": "US wireless carriers to launch joint venture to address rural 'dead zones'  Reuters"
   },
   {
     "source": "Reuters",
@@ -33,6 +82,13 @@
     "link": "https://www.forrester.com/blogs/rdrs-arent-going-away-theyre-becoming-the-center-of-revenue-execution-in-the-age-of-ai-and-buying-groups/",
     "date": "2026-05-14T14:00:57.000Z",
     "summary": "As B2B buyers rely on self-guided research, AI tools, and buying groups, many revenue leaders are questioning the future of revenue development reps (RDRs). The answer isn’t fewer RDRs — it’s a fundamentally reimagined role built around buying group insight, signal-based prioriti"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Alcohol consumers thirst for value - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUZ2MkhIZF9xU0wzb0otV0swVXBsS0FoY0VIcjh4UjlVbndvSWJJZHlxSG9FV2tCaXVVX0tqTkhTdFZPNThia2E0bXRJNjl2bGlTRUI1Y1FGMFB3REhqamJjTW5Jb2MtZHZob2pULUt4Y1FEdmdTbHlVYkVVRnJYaks2R2lEcVd3U3FKNUxEd0tvV0FPZm9FM0V1ZXoxU1gtTTRCX0pLTl9oSkpueEl3Z3FKdmV2dHM?oc=5",
+    "date": "2026-05-14T13:47:59.000Z",
+    "summary": "Alcohol consumers thirst for value  Deloitte"
   },
   {
     "source": "Influencer Marketing Hub",
@@ -161,6 +217,13 @@
     "summary": "China urges caution over British Steel nationalisation plan  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "India considers reducing taxes on bond investments by foreigners, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTRxWXF3Wm9ONHJva3ZQWE9FR0tNZEFCV0s4NG91NzdQeGl0X2Q5NkEtdFcwYmh5QXV3MUY0ZmcwaS1vNmNiT3ZIMTgweE45ckpGdG51VHBOeVB0U1lrbGt4RVZ3TzFJUGNmVmZvdXBuc290NnNnb3gzY01oNHFMR0ptQ1BNdVFOUXhCNERteXpVQjBLa2d6aWFSVW9HMXR6SVk2Y202a3pOSXFLTTRQVThicUpWR01La1ktQ2hWMEhLQQ?oc=5",
+    "date": "2026-05-14T07:57:50.000Z",
+    "summary": "India considers reducing taxes on bond investments by foreigners, Bloomberg News reports  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Business Development Manager, LE, GBS in Irving, Texas, United States of America - Gartner Careers",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVC02ZHlfN25HSHY0aWw4OHRBVnV4bU52Tm5KOVpUSnZCTVloR3pPMGh3QWdFR3BDbHVtZDk3MGhMRVVGNUp3OUZnZWdyZHhkckRTZ3VnS2dzbW1COGZsV0pkMnB5Qm5KRkJzMUstQTZHeV9QSWdyWlZKeUxscHVLWmhXSQ?oc=5",
@@ -201,6 +264,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWTZnUXR5NVZHbENselJMUFB5MnVDckJoc0NLVkVsRU5rbkMxeG81T0R3S3JDTnF5N2hFNTFOZGFVNVV4WllQYUZhNF9RRUI2QTVKVERoQ0NoVE9iMDZoUTgyc1FkNkExZ0xDSGVvNWNXaEZKVmRxaHAwT2JPMzJDMnQ3QlRORG5PWkNXQUNPem9QVUV6alZ5VzFvWjJfaTBkLVR1S29aeGlybmpvU1dPN0RiY3JabmgzbTBoTzM0Y01hUEk?oc=5",
     "date": "2026-05-14T05:40:00.000Z",
     "summary": "BlackRock's GIP teams up with Temasek, Abu Dhabi heavyweights to target $30 bln in infrastructure deals  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Investors gird for high US Treasury yields as new Fed Chair Warsh battles inflation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjF1MThqUW1VME1LWjZDbVczTzU5TzVtTm1fV3dlbVF1a2RwdFE3dGptbExfS1Q2NGltMXEwREloVlNteWpkRXh0enQ4dE1PVDVwM1MxbGN4OG1JaDQ3YlpBS2pQUkVpOW8tVy1zbW5ZMXFaQWVXQ3h0MFpxSWg0N2p4a1M3aUVMejdISWo0a2VtMHF1RV9ER3Z0NWxmYWl2LWFGWFBQOENrQkRIcmpFc09lWFg3aHY0MDdITnh3?oc=5",
+    "date": "2026-05-14T05:02:00.000Z",
+    "summary": "Investors gird for high US Treasury yields as new Fed Chair Warsh battles inflation  Reuters"
   },
   {
     "source": "Reuters",
@@ -299,6 +369,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHN6d0xnSndpbnBrTjd4bjYxZmtBVVN6QUxIRTFKbUZab1p0bnFsU0VQQWNldHBBdFJyRERiV183eVZCYzZ2NjhGVG1JOW1zcEhjNjdvM24wM2FHT3dLc3d6SlpsU3pISUhwQ2E1TlphZFFrUll4MVNSQWlMLWVWSjV6LUNxS25qWjNkMGlJX3F1VDU3QUxnVXpLVXZhUzh1VVQyb25wTWhTRTBIVERHWkEzeDV4dw?oc=5",
     "date": "2026-05-14T00:20:00.000Z",
     "summary": "Citadel asked some Hong Kong quant staff to relocate, FT reports  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Sell, close, or continue? The transfer of US businesses is at a crossroads",
+    "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/sell-close-or-continue-the-transfer-of-us-businesses-is-at-a-crossroads",
+    "date": "2026-05-14T00:00:00.000Z",
+    "summary": "McKinsey research on small-business succession reveals trillions in opportunity—but significant gaps in financing, infrastructure, and postclose support for potential new owners."
   },
   {
     "source": "McKinsey",
@@ -869,10 +946,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Chinese oil tanker exits Strait of Hormuz, heads for Zhoushan, data shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcGdhZmtfdThVeUJHVTBTU1NDNnNxc3VNVVRvcWw0aDFrNmEwT3psOG5VSUhmTWl1QnJhWkJRM0FjeTVRd0JpWTI1VmVEMkZIT21SSVRJUUdtdVVzYzJYNXZkY0UzRWdVc2JfbU02dUR6dVJOVU5ldDVETkQyM3p5X09raW0ybEZvU196M2ZKVmtmRS0xZHVhcExtRGZqSUlicTUwaDdOVUs?oc=5",
+    "date": "2026-05-13T07:52:00.000Z",
+    "summary": "Chinese oil tanker exits Strait of Hormuz, heads for Zhoushan, data shows  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Ukraine's Zelenskiy warns of incoming Russian drone attacks during daylight - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWJWLV9yS2EtVV9IZV9ERHhCTkNUZGttUmxTUXlPbDFINWE4Tlp6R19IamtqYzU2NDhOZWxxVnpkYmJVRXJxOHlVV3RVYlRHTVdaSnJMMGY1ZVd5R3p3Y25oNDNsR0RKR0p6T2czXzYtemp3NFQ0VlpYcS1OVkF2NkJoaXNEN3dnb0tFUFRMckRXMUtSNFgtejhhVnJIZjRha2RUTHI5VEZZR04xMFczT3RvV3BiVk1SNVQxeXVpanJNb0dUMTUtQ1hlemEyWjA?oc=5",
     "date": "2026-05-13T07:51:43.000Z",
     "summary": "Ukraine's Zelenskiy warns of incoming Russian drone attacks during daylight  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Bombay HC holds no IGST on ocean freight charged by Indian shipping company on goods imported under CIF contracts - EY",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcU5TZWlZSFNfVVZqbnNaVDRnVHJNOElaX3RfUEpPcVY3MDVnbjB4MEs2UlhCcWxmdlhjbnpBZ0t5RVVSZ01WWU92MGQ0dVJqbVVKTzVkRkZhZ0MtV2s1TkpNQjBVRkI0QkhVZE9XVGxrMzBuYzV3TDJBWVNKc2RjaWVLWm9qUXZILS1sVE9qdWpyWVQ1X2R3eFJvZks0NVlmeGV5Sy1hT2NseXczMGlTSUJHa1RQX1cyYThJazRjWlNIaV82cUJmWQ?oc=5",
+    "date": "2026-05-13T07:00:00.000Z",
+    "summary": "Bombay HC holds no IGST on ocean freight charged by Indian shipping company on goods imported under CIF contracts  EY"
+  },
+  {
+    "source": "EY",
+    "title": "Bombay HC holds corporate guarantee issued without consideration is not taxable under GST - EY",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWkNRUmFWREdsd2taMnNFRS1zQnRZWG1JYWxUSjEyN2tkNElwRlVTajA4YUJGbFVISkFBRmRGTGhnNm1sb0xiOXRYTkxWVmJsSTlNNHl0MldCbEtMbFhxSVRPV0NrNy1yYnNzZ3dER0JDU2xzVUJMd0hvdWYxQzNYcnN5ZEpiTWNkaUs5WUN6WG91bEhHZGh1SWhUZktvUkFiSzVYTjFGU3YtZTZRZnExYVpwa2JKVldiNDBkUDBfR0dxWU9waUJsTTQ5V0FHdjJWc05sOTdBM1FMSGc?oc=5",
+    "date": "2026-05-13T07:00:00.000Z",
+    "summary": "Bombay HC holds corporate guarantee issued without consideration is not taxable under GST  EY"
   },
   {
     "source": "Reuters",
