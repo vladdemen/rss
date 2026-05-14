@@ -1,6 +1,83 @@
 [
   {
     "source": "Forrester",
+    "title": "RDRs Aren’t Going Away — They’re Becoming The Center Of Revenue Execution In The Age Of AI And Buying Groups",
+    "link": "https://www.forrester.com/blogs/rdrs-arent-going-away-theyre-becoming-the-center-of-revenue-execution-in-the-age-of-ai-and-buying-groups/",
+    "date": "2026-05-14T14:00:57.000Z",
+    "summary": "As B2B buyers rely on self-guided research, AI tools, and buying groups, many revenue leaders are questioning the future of revenue development reps (RDRs). The answer isn’t fewer RDRs — it’s a fundamentally reimagined role built around buying group insight, signal-based prioriti"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Is MrBeast Building a Creator Media Network?",
+    "link": "https://influencermarketinghub.com/mrbeast-building-a-creator-media-network/",
+    "date": "2026-05-14T13:37:59.000Z",
+    "summary": "Influencer Marketing Hub\nIs MrBeast Building a Creator Media Network?\n\nFor years, influencer marketing platforms have focused on helping brands manage creator relationships. But recent developments surrounding MrBeast...\nIs MrBeast Building a Creator Media Network?\nNadica Naceva"
+  },
+  {
+    "source": "Similarweb",
+    "title": "Seeing The Full Digital Picture: Manus and Similarweb Go Deeper",
+    "link": "https://www.similarweb.com/blog/updates/announcements/similarweb-manus/",
+    "date": "2026-05-14T13:17:32.000Z",
+    "summary": "In January, we partnered with Manus to bring Similarweb data directly into their AI agents. Within days, usage took off. Manus users started exploring competitor traffic, comparing markets, and digging into channel performance, all from a single conversation. As people got comfor"
+  },
+  {
+    "source": "Forrester",
+    "title": "Atlassian Team ’26: The New Logic Of Work",
+    "link": "https://www.forrester.com/blogs/atlassian-team-26-the-new-logic-of-work/",
+    "date": "2026-05-14T13:15:57.000Z",
+    "summary": "Atlassian's Team'26 event highlighted how AI, agents, context, and workflows are reshaping enterprise work."
+  },
+  {
+    "source": "Forrester",
+    "title": "Context Is The New Competitive Edge: Takeaways From ServiceNow Knowledge 2026",
+    "link": "https://www.forrester.com/blogs/context-is-the-new-competitive-edge-takeaways-from-servicenow-knowledge-2026/",
+    "date": "2026-05-14T13:06:38.000Z",
+    "summary": "ServiceNow Knowledge 2026 showcased how ServiceNow is expanding its role in enterprise AI, workflow automation, and digital workplace transformation."
+  },
+  {
+    "source": "Nielsen",
+    "title": "CTV’s Data Gap Holding Back Bigger Ad Budgets, New Gracenote Research Finds - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1paRlE5YXJfajRVaFlzcVU0RGJSNHJZU0R1Z1l0bHpTRUhHZm5nZXZteWdaU3pHNFZGMFI0UFJHWi1iYXhCekhWbnpadHBvVlJ3ZjgyZXkxMW1QQnVhelM2M0R2QURuX3gxTXgxcGFmVTNtNkZUa0RGVGtWTDh4anRCREgzWG00bGotSFJEcEVtdw?oc=5",
+    "date": "2026-05-14T13:02:05.000Z",
+    "summary": "CTV’s Data Gap Holding Back Bigger Ad Budgets, New Gracenote Research Finds  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "US retail sales increase again in April, partly lifted by higher prices - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0phdlQ4eEthdHBNek91YXJkMjRvZWxrd3Y0WHI0OW00UktjV0NqZndITjFBb2d2cnJBZHN5UVNUX1puUXNNVG9EYjE1V3FDVldmQ09randoSzNjQlJYei12LWc0ek43UzZwYm9hajBGc09pcWxMemU5NW10VGZMaW5MWVo5eXJoVWttY1BHSXJNNUpMU1UxeEttOXpWSUVCZW1ROFhqUzFuWGJ1NV8yTnFR?oc=5",
+    "date": "2026-05-14T12:56:44.000Z",
+    "summary": "US retail sales increase again in April, partly lifted by higher prices  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Why Business Leadership Is The Deciding Factor In API Success",
+    "link": "https://www.forrester.com/blogs/why-business-leadership-is-the-deciding-factor-in-api-success/",
+    "date": "2026-05-14T12:56:21.000Z",
+    "summary": "Every year, enterprises invest millions in APIs, yet many end up with brittle interfaces nobody wants to reuse. The root of this problem is usually how the program is led rather than the technology. When business leadership is missing, APIs devolve into integration glue. They con"
+  },
+  {
+    "source": "Reuters",
+    "title": "US weekly jobless claims increase moderately, labor market remains stable - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJWYTJvTjNoR1pFel9Zazc1ZkdTck55WVFnZXFUa3Z1ZGtUU1ZzOWt2WUl6UUhtNm50ajVNd1MyajFiWS1nZHp4RjIwZmthWE8tSG5WdDdqTjdBOEg0R29Hd0h3ejUtSlZINFNWZ0xocXBjMTNoQWFLWUFUaUoxVnVBRzZMd0FIcnplV0xtUTJTVklZSWlWVVU5NEh1dEtHZUVzOUdTcU5Ka1JWeHVPX2xINWRENTA1?oc=5",
+    "date": "2026-05-14T12:48:17.000Z",
+    "summary": "US weekly jobless claims increase moderately, labor market remains stable  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "White House scrambles for gas-price relief as Iran war drags on - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VjdHVndkRaT0dPYVNNTTAyaHRxdkpxVkVhQlpac3Q3N2JPZ3F2MDk0Q0RlZHc3RjBTb3dTS041OVZvaWdHeUV0TlR6NVROMFVFN3hRUG9CZ2E1UGRjMzJ6X3EzbmVKTG94aGFqdUd3ZFVOT05pVEJjQUtHVlNieGFicjl6T01lMndOT29Ta2pLdzZ2THFoOXdvZ1Q2WjU1dERveHNSNUQ1MmZZMmc?oc=5",
+    "date": "2026-05-14T12:40:57.000Z",
+    "summary": "White House scrambles for gas-price relief as Iran war drags on  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US Treasury's Bessent expects large Boeing order during China visit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2NFdlk1aWJ5RXY5d1ZQZVFsTDMySGdtQTl0NE1PTjNVek02NXVQY1prMktwZWlRNDNOYVdxdW5MdFJ2czQyMHpCZjdzVlI0VlVKeWlhTkpzSjRMZ3doT1ZtNHNlQktOR1Zzb2lFQTJVZFRaUktsWHJMUUNZc1FTVmo4cjRKOG5HSjlHVFgzTG04Z3JiTWgxUDZrRnFFYkJjNTlCelptZW9CcVRXTy0xaURLZnVtNE1IeXA1NU9uZmI1dkI1YWtFRg?oc=5",
+    "date": "2026-05-14T12:34:13.000Z",
+    "summary": "US Treasury's Bessent expects large Boeing order during China visit  Reuters"
+  },
+  {
+    "source": "Forrester",
     "title": "OCX 2026: Open Source As Strategy",
     "link": "https://www.forrester.com/blogs/ocx-2026-open-source-as-strategy/",
     "date": "2026-05-14T12:09:35.000Z",
@@ -8,10 +85,24 @@
   },
   {
     "source": "Reuters",
+    "title": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzNLTkJTTF9kelVrZUNaWTY3Uk1hSlpacmpvWFJyQnZTaVF2ZW93TWVRcEpfVURUNHBvSDB0NC00aEZ4WXktZl9maVRpdHBCMndpSFljbXNYMXRHSDNvZnBQcTBXcC03Uk9RTEF2NjR5M0ZabzZCWnExcEpFNkk1SHlhUFh4azFHWnRiRVZoLVhMSFZiQV9FczlNQzRocUZ0Tl9Qc243VnpaYmZIUU00OA?oc=5",
+    "date": "2026-05-14T11:17:47.000Z",
+    "summary": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "UK opens antitrust probe into Microsoft's business software - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk01U2ZPNkNsWXNIbTN5S3Z4YTduOVNDQnhyN2hOaWljbW55anhJYXpwcGZBWC0xRl9lYk90SkMxNmdEU1FJejdoMHJUazVZeWJmMVdoNjJpaWRZdHAxLWRudV9nNVNpMWZpVWVPcmM3YjdXQlZjdzFsUHYtekY1TVdUNTM5cmctUjhYTl9sRHJhb1JFTHR5ZzNFR3Vra1cxaGdDRUtMTElCc3o0dGUxMQ?oc=5",
     "date": "2026-05-14T10:44:56.000Z",
     "summary": "UK opens antitrust probe into Microsoft's business software  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Cisco jumps on strong revenue forecast, AI push with job cuts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1Bjb1dRLWlzWjBka19qWTgyNzY3dy1iVER3U0lNOFdOZklIUjdhclliQ2lLenRvc1c4Sm9xUzlhaEt1VnBMbmRRNU9vNXY2Q3BoMktGbnVKUWtFTjMtOU43S3RvS2xmMzlzai1JY0hyMXlUREh4S3dZRGRoeFh5WWUyNXR6b0xBY2IybGtiUDhuMDk2YVdrNGUxU0FiOEpyNGQ0clJSSXA5WGlwYTRZTDZKMk5kZFU?oc=5",
+    "date": "2026-05-14T09:39:43.000Z",
+    "summary": "Cisco jumps on strong revenue forecast, AI push with job cuts  Reuters"
   },
   {
     "source": "Reuters",
@@ -40,6 +131,13 @@
     "link": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops/",
     "date": "2026-05-14T06:27:46.000Z",
     "summary": "On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions.\nThe p"
+  },
+  {
+    "source": "Reuters",
+    "title": "India asks US for Russian oil waiver extension as Iran war drags on, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHRfTlZmLS05NlkycE1GYmRUekJYLTZUbEVZbDhvS19kWFZKa1NIRWdvVF9Bejg1T2UtZWU4am1HMkdqR0JWTjcyaENSdUNWcjhtXzFXeE9zNTc2NUFyMVhzYkZQMF91UHRBalY2SE13cGE2QW5TMWp5ckU1enRBUXcxVml5dGRySU15SkFkb2FJVURlNXBTSjcwWWN3Y25Xbm54bFpwbHcyWlVxLVl1aURUZkZpWEhfN3ZsYndFbVdvMjRhdlU0eFpDeGg?oc=5",
+    "date": "2026-05-14T05:54:00.000Z",
+    "summary": "India asks US for Russian oil waiver extension as Iran war drags on, Bloomberg News reports  Reuters"
   },
   {
     "source": "Reuters",
@@ -147,6 +245,20 @@
     "summary": "Oil edges up as investors focus on Trump-Xi meeting in Beijing  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Citadel asked some Hong Kong quant staff to relocate, FT reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHN6d0xnSndpbnBrTjd4bjYxZmtBVVN6QUxIRTFKbUZab1p0bnFsU0VQQWNldHBBdFJyRERiV183eVZCYzZ2NjhGVG1JOW1zcEhjNjdvM24wM2FHT3dLc3d6SlpsU3pISUhwQ2E1TlphZFFrUll4MVNSQWlMLWVWSjV6LUNxS25qWjNkMGlJX3F1VDU3QUxnVXpLVXZhUzh1VVQyb25wTWhTRTBIVERHWkEzeDV4dw?oc=5",
+    "date": "2026-05-14T00:20:00.000Z",
+    "summary": "Citadel asked some Hong Kong quant staff to relocate, FT reports  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "HackerOne CEO Kara Sprague on how AI is reshaping cybersecurity",
+    "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/hackerone-ceo-kara-sprague-on-how-ai-is-reshaping-cybersecurity",
+    "date": "2026-05-14T00:00:00.000Z",
+    "summary": "HackerOne CEO Kara Sprague discusses how AI is reshaping the cybersecurity landscape and why security teams must shift from finding vulnerabilities to reducing exposure."
+  },
+  {
     "source": "McKinsey",
     "title": "Alabama’s playbook for jobs, growth, and economic opportunity",
     "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/alabamas-playbook-for-jobs-growth-and-economic-opportunity",
@@ -180,6 +292,13 @@
     "link": "https://blog.youtube/news-and-events/new-youtube-series-2026/",
     "date": "2026-05-13T23:30:00.000Z",
     "summary": "Discover the highly anticipated new YouTube series coming in 2026 and 2027, from creators Dude Perfect, Alex Cooper, Trevor Noah, Johnny Harris, Erling Haaland & more."
+  },
+  {
+    "source": "Reuters",
+    "title": "Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3kySnlwQXdVNHpNR3pKN25GSU9ZX25qVkJFbk1GLXhTVjVkSU8xVXhEZU5ibnViSktpS2NoLXVfOWhQcWpQZnJrdkY4dGVjN2ZzdUwtM00yLS1Dc1NBUzBRUVVRdmhYTWJ0em5DcUhCZHRUWWduQWExQVpodGNMckdsS1lXZUVTM2FRUEJFWHdnaHNHb1BzQS1RYjB5YmNzdHBySTlTVjZZXzFKQlF5cllrbkJLSGV1TDNVdm53?oc=5",
+    "date": "2026-05-13T22:56:00.000Z",
+    "summary": "Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed  Reuters"
   },
   {
     "source": "Reuters",
@@ -306,6 +425,13 @@
     "link": "https://www.forrester.com/blogs/openais-daybreak-promises-to-improve-appsec-but-introduces-a-new-pricing-model-five-buyer-side-implications-for-cisos/",
     "date": "2026-05-13T17:47:17.000Z",
     "summary": "OpenAI recently announced Daybreak, its vision for making agentic application security faster and more capable. While promising, Daybreak will also make security more expensive per unit of work. In this model, customers will pay for tokens and multiagent workflows burn tokens. CI"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tyson Foods sees 'spotty' efforts to expand US cattle herd, CFO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbml5bi1Nd0taMmZIeTdYRkdiaGJJcFpjenIzbUp4LWFTSHVHT3FuVjFYNHpvSUNIM1hHWWUtNVhlNU9keUJpZVpRdk1LTWlqa0kxVGdSTENJQWQ0YlBJUE4zSnJxUXc0RzdaSVQyZDlYc1VnTXVJYTFLT0ZBT0tOQ3FDeHV3MTNjQVBoQzF1ZXQzUkZYdzZNTE11OE1CcGtsR2FKWnZFX2lWeHc?oc=5",
+    "date": "2026-05-13T17:21:12.000Z",
+    "summary": "Tyson Foods sees 'spotty' efforts to expand US cattle herd, CFO says  Reuters"
   },
   {
     "source": "Reuters",
@@ -768,6 +894,13 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmt4aTZnVjhCRXJKeW9ENnlFTmE3SS0wYk5ENkRlSjZZMmlsajBrTHMzRHNjS2FHSFRuYTdBYm1TdjVyeUhIX082M1dnam1WaXg5Tjd5SEtYaHNrZ0VKT2dTU01TTGZiQjZlM0JEQ2plcEtsRzFVSnhaRTlwZkdKWDl0aDhkQnc2SlRzUDh3VXl6TmFxN2dPWmFlakdBWm9QYTl3eGZZNGZYZ0dMdER0YmJOZ2xZcVROdFR2cA?oc=5",
     "date": "2026-05-13T03:56:00.000Z",
     "summary": "JPMorgan to reshuffle investment bank chiefs on wider overhaul, FT reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australia's CBA shares slump on tax changes, provisions; lenders fall - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWFnVHlXVG41VDF4cGk0QzZkUkVwRzBlTUdqby1Pc1BzV0djaFAzR2MtRzFnaDlmUGZwdW1ETUowWld4NmVJQTNvdU9tMWpSbDdTMGhhM1ZRTDVkbElIQ1IzMnFZMGcyLTZ1Unc3RUp1VTVZRUx0eExyS01tQ0JXdkxlbGJyeHcyZDVuRmVMWEUtZ29Bc0JyVTlRNjFMSWV4MjlXd2x3bzRBTl9fS3dOTFpabC1qVkUyVnU2Yk1RMDBLMFpVakdLWlJn?oc=5",
+    "date": "2026-05-13T03:32:00.000Z",
+    "summary": "Australia's CBA shares slump on tax changes, provisions; lenders fall  Reuters"
   },
   {
     "source": "Reuters",
@@ -3512,6 +3645,13 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjZGeGhRamI3TmRJRDNoQVNfa1ExRGJldUw4cUJ1a05OZ0RjRmhzR1VMLWN6ZXdxVkxPaHJwTmxpUlRJeGt1ZkE0QjdwOURsVEJ2dkVGX1B2U1lMUkQxd3BuZW12eDRUN19BQVBYdTFrQm5NY1dyYUJCNjlrNkdhZW4xN093Z0dnZENING1FUVpJMzczN2NFSzlYZw?oc=5",
     "date": "2026-05-08T10:30:35.000Z",
     "summary": "Sweden halts plans for power cable to Denmark over disagreement with EU funding plan  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Senior External Auditor - Jordan Hub Job Details - EY careers",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVI4eENYVEZQc1lXdGtvLVFGNmdiVEFvQ0NELWI5VFJvc1Brc25vU245cnhzSTNsa0xJVmp2TENERW5SRE9uSzdWbWN6VlhvblJUU3RSZkdkd3RKS3VWVElndkVRaFdER1duUm1jcjI0aXgyMGl3WmZ5U0JNSDctUm15NlY5djVaLXJjZkh6T3BDZw?oc=5",
+    "date": "2026-05-08T10:16:24.000Z",
+    "summary": "Senior External Auditor - Jordan Hub Job Details  EY careers"
   },
   {
     "source": "EY",
