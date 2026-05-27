@@ -1,10 +1,101 @@
 [
   {
+    "source": "Gartner",
+    "title": "Gartner Says CFOs Risk Falling Behind Without a Scalable AI Strategy - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQm5wSE1tVzNmLTdXRHY5RmxVUlFRZVdYUnVSaWNuN0hUTS0zTjFPR19DZkU4QUVSek5PdWxPS2pJMS1GMXlUX2ZrVW9pSFpjZUhqLS10LVRrY2hGTnAyUG9WVy1WUlN3ZDBrNFZxUUthZlVJSkxsUXJiZFpTNlN5enR0ampEZll6bXVFMW9KT1dia1kydHBreEpQRlBrblJyYm9oeGdUMGNodmhiZW9oV1lfQTc3eFRSV3E2NTJ5R1FCS2dYQTJJcThB?oc=5",
+    "date": "2026-05-27T14:17:24.000Z",
+    "summary": "Gartner Says CFOs Risk Falling Behind Without a Scalable AI Strategy  Gartner"
+  },
+  {
+    "source": "HubSpot",
+    "title": "Introducing the HubSpot Agent CLI",
+    "link": "https://blog.hubspot.com/marketing/introducing-the-hubspot-agent-cli",
+    "date": "2026-05-27T14:00:06.000Z",
+    "summary": "A few weeks ago, I wrote about our vision for the agent era: agents should be able to run on HubSpot, and to run HubSpot. I want to go a level deeper on what “run HubSpot” actually means, and our latest step in bringing this vision to life."
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St opens higher on AI optimism, Mideast truce hopes - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazZGNWNTZGx6a1RVMDMtX0ZUSTktT0MwN25TUlpXUm16QTZWM3BCbWlGcWltS29YUnAzQ1NOS3lFLUxZcldBZzQwako0dTNhb3JJWTU3S2d1MlZobnE1Z3NNaF93M3U0TXNBam5xMUgzRG5kZzJEUmozYU8yMTI5NlBJYVRkcWNQZUlfQkVWU2VSUEY0YVFXcDdlRkJhVEUwelFZdXc1dmVvMUU3eDJ6Q1Zn?oc=5",
+    "date": "2026-05-27T13:34:09.000Z",
+    "summary": "Wall St opens higher on AI optimism, Mideast truce hopes  Reuters"
+  },
+  {
+    "source": "Similarweb",
+    "title": "Detecting Suspicious & Fraudulent Websites Using Similarweb",
+    "link": "https://www.similarweb.com/blog/research/digital-analysis/detecting-suspicious-websites/",
+    "date": "2026-05-27T13:33:19.000Z",
+    "summary": "A potential affiliate partner looks legitimate on the surface: polished design, compelling messaging, a professional domain. Then you run their domain through Similarweb. Traffic spiked 900% in one month. Direct traffic accounts for 85% of all visits. Their top referral sources a"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Survey Finds Consumers Want AI Shopping Help, But Not AI Purchase Decisions - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY0N3Wm5ZenlGZUV0cW1KcFRwamFWZGpEOGhkRC1MSGxXa0pjdER3T1VXdXVZRElqZnpwaDhCQ2xNeW9GdEhBOW8wVlprY2NLeDVlamtjS3ZlaU9zRUVpLWEtaGpNR2g3Y0E1RHFnelROQ2FodVRra19FNmVWb25rR1dBaXl1ZGZQbV9xVjRoMlJxWXpjazBOdEQ0WXlfMThDd1poeDdQSjktZ1lwS284UUlIZm9oWjVFci1YSnRqYVN2WDdxbVJsRDVHUmgzQ2ktQlVvWHF0Z0tOeGFZ?oc=5",
+    "date": "2026-05-27T13:02:24.000Z",
+    "summary": "Gartner Survey Finds Consumers Want AI Shopping Help, But Not AI Purchase Decisions  Gartner"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "Improving AI labels for viewers and creators",
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "date": "2026-05-27T13:00:00.000Z",
+    "summary": "We've heard consistently from our community that they value transparency when it comes to generative AI content. Today we're making two updates that will make this proce…"
+  },
+  {
+    "source": "EY",
+    "title": "Preserving India’s long-term growth amid evolving economic clouds - EY",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW9YWG1QV2dPOXlMYW1OWVh1ajJXeUZEQUZKa3NsOUVUMEpybEtLcmZkYlpPWWM3Y05wbzJMVUV3Sk85LTJ2LTM2SjF2TTZWTGt2UHg4Ujk2TEFrWWpteFBGYWFRSkhrZHFtVmVwTTctUFhaYm84aTNsUlNfWlB3QWdOQ19yRzR4eXd1em5BTGNwbXM3cGMtQ0VvYUp4Z21OVks0NDU2dnJVLVA2eEQ3amhtNlhlZzZq?oc=5",
+    "date": "2026-05-27T12:58:48.000Z",
+    "summary": "Preserving India’s long-term growth amid evolving economic clouds  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Lululemon ends proxy battle with founder Chip Wilson - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0FQSXJBd0hBdHhLVGlvNDJ3MmhVZ1QwdnNFMDJ0UjUzM3Z4SDNLcmhDN3VTNjZSZWJ1ZjhhUVlBMWFBdEhHX011Ulp1djVFVVU3d1BCa3BGeW5aVFU3dmtzNUQ0c05MNTRKaC1pbXhxR3g0WWpsMWJKdzFHNmZORWZZeld1d0ZNcTk5Nml3SlZBbjZyQ0NHNWpvdjZYdw?oc=5",
+    "date": "2026-05-27T12:56:25.000Z",
+    "summary": "Lululemon ends proxy battle with founder Chip Wilson  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Robinhood opens platform to AI agents for trading, credit card purchases - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUFlcWNqNXljc292cXA0bjd4UlNxTEhHZ3FnNjZZemdxV2wyN1hWVFpvbHFYODktMjBZcHZ2ME85S0xLUHRWZld0ZE5ELWhhb2tYUmVJSWYyRVhtb0E4M0lCZGZTd0paUnpab2k3UnlmaC1CNFlOUksxVmFybzFBSWRUWjZNNF9JZ25sbzVXeEV3U3JUNktLUWlPeGdOZEhmSTZVdUFIY3lRWHdYeWc?oc=5",
+    "date": "2026-05-27T12:44:56.000Z",
+    "summary": "Robinhood opens platform to AI agents for trading, credit card purchases  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Schaeffler, Spire Global team up for space hardware, satellite platforms in Europe - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjVOZUdNQnNXR3JjS25TX29ubTE1ZEJURmtfSkNZN3F6V2x4Zk5EN2p1M3AxUlROd1dROU1RNzlWMHFWU0hRUHFwU0FQeWg0aDNWcWVhM0VBUGpST2hSZVdIbFVqTDYyZVV2Qjk1bzIzNFFkYVloOFZQVWZteEZab0tJRnkyX29HN3hNckhybnJrWEluUmdpUHpHLUd6c2dZWnlydUpLWjlVSFJiSFJUMUJmMTQ5YVhjNUdQXy14cXRUVEY1VUJEQ3Q0TXI?oc=5",
+    "date": "2026-05-27T11:43:46.000Z",
+    "summary": "Schaeffler, Spire Global team up for space hardware, satellite platforms in Europe  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "A master class in persuasion from an unlikely place",
+    "link": "https://blog.hubspot.com/marketing/social-proof-master-class",
+    "date": "2026-05-27T11:00:03.000Z",
+    "summary": "Walk down a suburban street, and you might stumble across a following sign. It’s probably messy with poor formatting and inconsistent font size. Here’s one that I saw in Houston."
+  },
+  {
     "source": "BCG",
     "title": "Global Talent Acquisition Strategy & Insights Senior Specialist in Lisbon, Portugal | 人事 at BCG - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3VyTlNfYWFOeVVfalBaUTBBbzdqWWVFNjV6YkJxaFlEQ3J1LXFNM1lWM19fMUZ2X2dhcFUwazR4clZVc0RSMWlEVUpoQlJLNk03Z2Y5Z3NLMzl5NWFwbWhxalp4X0NBRUxRVmQ5WkVmaElRaHEwaVFuR3Q5U1lFT2tsakhjQTVjS09sZEs3cjBFajhrZWloOFVxR291Y1cwWEYw?oc=5",
     "date": "2026-05-27T10:28:52.000Z",
     "summary": "Global Talent Acquisition Strategy & Insights Senior Specialist in Lisbon, Portugal | 人事 at BCG  Boston Consulting Group"
+  },
+  {
+    "source": "Reuters",
+    "title": "Investors hunt for AI winners in small-cap US tech stocks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFdBRGM1U3NfTDNZcmpzYjZVdF8tOXVIX2Rhbm53cmotQUZDMk56eWowdzRTMEphWk9RN0VSTnY0SWRFOTgtdUJabUNUNjhCUVl3clA3R3Q4eE8zVExSX0NMdUM4NC1uS3NRc3R5VkZZUnZrX204OWc4d1VkZmc4ZXhjNDNnMmRreVZ0d3VTcFhjZ2N2LWJaRGZxaw?oc=5",
+    "date": "2026-05-27T10:28:49.000Z",
+    "summary": "Investors hunt for AI winners in small-cap US tech stocks  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "CD Projekt to launch new expansion for 'The Witcher 3: Wild Hunt' - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDQ1bi1fVkgzQ1BPT01QTXdiSG5LSVp4NnBad1dxSVZSbmdaMy1CMlZkbHNUNkkxdC1DbDlBbjNFVExtdjZaMU5DNzlEUzBJZ1hxMUEwenloUmY2REJzMks4U3ZaQU9vc0lRb3NxeW1SaWVodnNrWUF0YTlWTi1qLWZCSzZYaTJmMm5wUWt0a1o5b2xRVHdDYjgyeHZITFJjMVE?oc=5",
+    "date": "2026-05-27T10:19:46.000Z",
+    "summary": "CD Projekt to launch new expansion for 'The Witcher 3: Wild Hunt'  Reuters"
   },
   {
     "source": "Reuters",
@@ -63,6 +154,27 @@
     "summary": "Financial well-being is under pressure — learn how banks can drive growth, trust, and resilience by embedding proactive, personalized digital experiences."
   },
   {
+    "source": "Reuters",
+    "title": "Pope Leo decries 'sharp intensification' of war in Ukraine - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2J2N1ZhVFJMTzF3cXBsZzZBZjhqb25ZQm5XSHRmZ3RwLVUtYjVJRFFjSXJyU182M2gtMFV2NzZuR3Nhcm1iUm10T3pGTTZMcUtMZk45a2ZfNWg1VjRlek5jQ004VnpWdzdRUDAtbkRGVVpLZGpYZkhLZDRIZXdxUFpmaXlwVUw5Rnc4cENJbEg2dnNSWjY1S0lLejl3VWhSQkNMT3VjbWhYVTQ2WWc?oc=5",
+    "date": "2026-05-27T09:11:44.000Z",
+    "summary": "Pope Leo decries 'sharp intensification' of war in Ukraine  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU governments clear US trade deal legislation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHVPTWxmbzJBeVBQYnlJQjlFYXhCSHVnalZKTkNGOUhYeUlqV2VMMVFaMElYVjVUcXRYQTRJS1Q2bE1aczlkc2h2VEhaTFdXX2NSYW1XbjFNZ2Jramx1dHltLWEtMlY2QWVHcG1zeXFWUmJ3WlVlWFFFbkVLYTZDNFV3WGdLMEdJLURhSUxndURoV3hDeHVfd2c5akNmdFczc09tZU04MDhpQQ?oc=5",
+    "date": "2026-05-27T08:58:46.000Z",
+    "summary": "EU governments clear US trade deal legislation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon invests $20 billion in UK in 2025 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUxtSmpfbnctRFdpMXZsMUxlVDVjZC1RN3RZY28ySzZ5TXNnN1ZNekV2SXd4b2pqV0R1Q3Z1dGdfbUZ6NzJTV2g2b05GeTNQLVI2OW5LRlNWTnNzUk1YeXhUOUVHd2hidmVXQ2ZDRFBTejJKeG1nMWFpNFNEN2s3alNGOVlqSW5zaC05TFZtenNReHhiVTJrVktB?oc=5",
+    "date": "2026-05-27T08:57:03.000Z",
+    "summary": "Amazon invests $20 billion in UK in 2025  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "PR Email for Influencers: Templates That Actually Get Brand Replies",
     "link": "https://influencermarketinghub.com/pr-email-for-influencers/",
@@ -71,10 +183,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Iran war fallout amplifying Europe's financial vulnerabilities, ECB warns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2Q5Z2JLNHlCemNRRDY0NjVad0l3cXlVbS1wNEd3aDJqTE1POVlvWHlScFZPNEg0cXh6QjVVU1ZjZXhmd1lZdzJybHEyTnprTl9FcE94ZTNaOEdwTWtPMEdGMFBCZzJROEttZ0lWTVctWW1XZDN2ZGtRRmQtdHNxRGRSck9mTi1nTmk5RzktSjNTMXNYV2FtOUcyWWxCcHhKbGdYa3psaUhFWlJfYUphMVU0dzZsZ0VEZjVrc0ttT21nQQ?oc=5",
+    "date": "2026-05-27T08:21:44.000Z",
+    "summary": "Iran war fallout amplifying Europe's financial vulnerabilities, ECB warns  Reuters"
+  },
+  {
+    "source": "Similarweb",
+    "title": "Robots.txt for SEO: The Complete Guide (Including AI Crawlers)",
+    "link": "https://www.similarweb.com/blog/marketing/seo/robots-txt/",
+    "date": "2026-05-27T07:42:05.000Z",
+    "summary": "Robots.txt has always been a small file with big consequences. Configure it right, and search engines crawl your most important pages efficiently. Get it wrong, and critical content disappears from search results entirely. But there’s a newer dimension to this conversation. Since"
+  },
+  {
+    "source": "Reuters",
     "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5",
     "date": "2026-05-27T07:20:42.000Z",
     "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Job ad for shepherds goes viral in China, exposing labour market strains - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTJnWEFXSmt4c1dGSzFReVVZUk1yQXo0dFBxU2JvRFhTcVZQWkNUQlVTYUJ4OVZqZGhQUThubUxkMWRBMUZyVXJQWmlRanAzNHFNVHZkYTlkU2ZoWjlBQjA0VHQ2WlJ1dEFfSERMZk1RWGR1U250THhzbjNBWmplUzZsWHcxbkUtTDJxM3RGekVucVN5MG9kcm1QYW8yNTZVUWFBdDd0U1ktZFNPNG9TNlI1Q0pYTzNRVm92UTRtU3E?oc=5",
+    "date": "2026-05-27T07:15:05.000Z",
+    "summary": "Job ad for shepherds goes viral in China, exposing labour market strains  Reuters"
   },
   {
     "source": "Gartner",
@@ -152,6 +285,20 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGxzMXdZNkxtR1hhVG5sajhWMDlzVGw1MTZRWmQ5SUN1dlhpRkpWcHpMMUpqZ25pU3Etanh3OEZRWXVZcFhXX3pIVEwtMUtWWUNfQml2ZzhiSnB4bnVUWjBCdmpzTzdmc3ZXaUx6d0MzXzkwZWFFTnJGQ2E3ODhael9pc2lOd3htUTZ3bkZvSlJfWHZMcWEzaHIyY3ktZkFWZ3g4UkVWUTJReG40ODg2NWJWQlJwY3U0QXJ4Ng?oc=5",
     "date": "2026-05-27T05:02:00.000Z",
     "summary": "Europe's push to break Big Tech's grip tempered by internal debate  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Vietnam leader to visit Philippines next week for trade, security talks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2FtVVF0ckozc1RzZmVaNGozQzFGMlJnSDctYTJzS2tTUTVTMmJnYUVEWllZbC1iR0toR3ZaRW9vdDhXVGhHNVJqUXZxMU1LRW1TOWJ5V3YwcGk5ZGRWNUNhNkstM2VJUGtUeHZ3S2VHWnJwR3ViR0xNcUFFemJhSFVnbWk1QWFxZUVTV1dJWWh3YVRpRFotYUpKaXNQck5XZHpMdkROZlhmVktiWV9wVw?oc=5",
+    "date": "2026-05-27T04:43:43.000Z",
+    "summary": "Vietnam leader to visit Philippines next week for trade, security talks  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "2026 Global Wealth Report: The Great Reordering - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmgyZWVheTNMcmVVa1ZuQTdFS3gwc254dkVoM09yam5tNzA2SjRiUE1Dem9PRl9QZERqQnFSTnVlUEFzdDltVVBIdkpBY3hvcGVXWWctVnFXOGF3ZzQtMEgtc1hBc19fVHh5ZVlDbm9RQWlvb2dxNm00enZBd0JKeHV3eFNISnJteEE?oc=5",
+    "date": "2026-05-27T04:25:07.000Z",
+    "summary": "2026 Global Wealth Report: The Great Reordering  Boston Consulting Group"
   },
   {
     "source": "Gartner",
@@ -260,6 +407,13 @@
   },
   {
     "source": "Reuters",
+    "title": "India's GCC model shifts from cost to capability as AI, talent strains bite - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekoxTG5Kbl9CSWhwNmk3TEZtekwzVFZidndNZmJQZmNNNGFzbDY4QUJwX1VYUmp4aG5VcnlKOV9YZE1DX0I0cDVMbG5ha05JSU9KcVRuVERReFc5cmJpak5xbklvMWxqOWx5aXE0QS05SzdEY0RQNm1hU2owWHIwQmlzN0RQTmRhSW1jWjVkX2xpU19kM1QzVlFzNDdQQ0RTMDRpT1ZBQ0ZCSnF5bHU0?oc=5",
+    "date": "2026-05-27T02:57:44.000Z",
+    "summary": "India's GCC model shifts from cost to capability as AI, talent strains bite  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Ugandan woman quarantined in India tests negative for Ebola - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdm5oRVBvTjRCWUZ0djhQQUViWS1Qdk03WUE0dkpfUlJBVkFmc2djSk5jbmU2RjBsUUhWeUFONG9rNUVCdGhtVk5NZy0xUzdMMTZpVV9iWjQzemhFNElnTnNIMzFVVkF2c3AzbEZuRVVLRHdkUWdBYVY2UkFFY2x3WFFQY2gzTFM3TWpkMU00Und1RDZOcndvUWs3dXUtdUIzR0tpNEJHVTRtaTdkR1dwcnEtZUpmcFR0NlRYRFQzRnFwbHpHZ1FQU1F4aWVwSk9yT20tM3UyOGJWVENsWVA3eXB1OHg?oc=5",
     "date": "2026-05-27T02:48:00.000Z",
@@ -348,6 +502,13 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazQxQldSNG9veGFEaUNVN0FhdWdGOUpScEZOanhyaGx1cnVqTFNKSHdfbU5QUjJBSnp5akxpeWlXZm1aTkdLT0EzNWxOVm13TnVNLV9vX1pqaFhfbFkzQ1F0WFkybmw0NFdXUEQxdGx4b2dEWTE3WUItNVlydWJhOWp1cUNPSzRFYTlyVEZJN2xLbV9MNXMzQ2JVNHgwWXhzZDY0VGpWMGNuQzNlc2ZTWUhSWWhTWnZwalJFY0NKdmhYLUdtdkE?oc=5",
     "date": "2026-05-27T00:45:50.000Z",
     "summary": "Analyst- Strategic Support Services- Strategy & Insights- Hyderabad  Deloitte"
+  },
+  {
+    "source": "McKinsey",
+    "title": "The board’s role in managing emerging AI risks",
+    "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/cybersecurity/the-boards-role-in-managing-emerging-ai-risks",
+    "date": "2026-05-27T00:00:00.000Z",
+    "summary": "Leading cybersecurity executives and board directors discuss the challenges and opportunities of AI."
   },
   {
     "source": "Gartner",
@@ -481,6 +642,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1FEdFdLR0wyVi1fSnpxX2NINmZXVmotUk1NOHhIbVJ5NThEek9tb0taZjZnZGJWa0RxbEQ3dERKSEV2STZXN1FsbmZoSEpvV19BQkltcDlrMG9JaFgtNzFBU3lmdlZPMFY3d1l6ZVliMlltcFV5OFFpUVhDdU4wdi1nXzh3ZmRNb1VrZG9lUGtXa3lVYzh2STRCdmc4V1JNX244UHRUMWlKYnNvWi10Smc1MXVxbFc1UG9PMnlYRQ?oc=5",
     "date": "2026-05-26T17:27:55.000Z",
     "summary": "Japan set to start trade talks with Mercosur, Nikkei reports  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Services Support Associate, Office Portfolio Strategy & Management, Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdGFZUXAxcWNqSDFOdFV5dnRsa0t6cFY1M0I0TDlwcmNrODhTTGdJM0FuUzRGblhKV1MwaHNVVzdSLTByaXpLS1g5eW1hdmVTT1R5Y3dZbmhZWVNVdlVCdHlOa3NXRWxaSjRkNW5qbjBrcXBHdlVWVDMyczhzMmtoaXM0WXlONENzbWNwalZnc2d5RUdtMkxGLTFXZXpBU0hEUmJwT2l2RUFSS3djRmdqdk9rcWU0dFFLNlNaRVZGTVQ1WHpfVmZ6NWgzQWF1OUFLeEU0ZUxtb3FGTlRIZzE3SGNYcXZlOGdKODFZMFMyNzF2a2lYX2pQaw?oc=5",
+    "date": "2026-05-26T17:26:15.000Z",
+    "summary": "Services Support Associate, Office Portfolio Strategy & Management, Hyderabad  Deloitte"
   },
   {
     "source": "Gartner",
@@ -1321,6 +1489,13 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzlMTU9DMWQtbGFFSE5ZV3YtSTItUkJxMDFmYmVDcG5FTTR5WnViRjl2c0NtNEtXUXJVWXcwSTVqN3dkeEx6ckYtVkZiSVRYZC1MZkN2ZXBwQnNsQ1pqZXFJR2hsTzR6cm1xUHNtOUplS3FqSHhUZVFHcGdQUVR0bHNnN3YtdFVtWWlxakxsTTBjd0IyYmhmWkx4bkp5ZHJHNkV1eWIwanBMUGRudDVZZXkxck1qRWR3eWtRVw?oc=5",
     "date": "2026-05-26T00:32:00.000Z",
     "summary": "Australia's Santos plans to boost LNG, oil production while lowering debt  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Quantum’s breakthrough",
+    "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-quantums-breakthrough",
+    "date": "2026-05-26T00:00:00.000Z",
+    "summary": "Quantum is approaching an inflection point, bringing significant economic opportunity—and potential security risks. Are business leaders ready to harness quantum’s potential?"
   },
   {
     "source": "McKinsey",
