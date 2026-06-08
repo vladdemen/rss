@@ -1,5 +1,61 @@
 [
   {
+    "source": "Forrester",
+    "title": "Autonomous Malware Is No Longer Theoretical: AI Worm Proof Of Concept Created In A Lab",
+    "link": "https://www.forrester.com/blogs/autonomous-malware-is-no-longer-theoretical-ai-worm-proof-of-concept-created-in-a-lab/",
+    "date": "2026-06-08T19:46:39.000Z",
+    "summary": "On June 2, 2026, security researchers published a paper about the creation of an AI work. The headline is as subtle as a fire alarm: this lab experiment of a worm is no longer just code that blindly crawls across your environment; it leverages AI models and can now reason, execut"
+  },
+  {
+    "source": "Reuters",
+    "title": "Germany and France drop joint fighter jet project - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEVlR0lobTBLX251amozdWRGQnRoQ2wzU1FrLUpNWGtGU0c0NjZPWEdjaDM0OS1USHJfdS1yQjVBM0hyZ2tnLVRPVmlsSnJSYVpVWEFUcWlLcmowUjhhRDVZRENvWHoybXFtbXZQb0o1RVZXYmZuSVBqWUdqVkVoRVZFRjltRzVxcGVYQWRaSk1zSy1xSGtUUEw4RXFrVDlsTTlCb0gwOW5VV0RhYlBDR0JIZndDckxzVDdNMzBjcXJUZ0puUVdfWjFMMDJ6V0p5eGc?oc=5",
+    "date": "2026-06-08T19:01:09.000Z",
+    "summary": "Germany and France drop joint fighter jet project  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "ISS urges Warner Bros shareholders to reject executive pay tied to Paramount merger - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbE00dUJDUWdJVkxIQzMtdGZvWWRqVmhvaFF1OUJKcmxvMW1NUmdBbkw0TkdTTldoV3JzTC1JbmRlTUdCbEMzRjFYbDNINFFsM1VBa3NKTklkTzlxY1hVQzdwVERwc0pGWXBYZGxZckFsM0hDbk94M0VNRFdpc3Njdms3V2EwQU9WTzRrTEptaGllS1IzTEF6aG5PazZkX2NaaTJ3Q2RxX2FCc3BFdDVSRVFxSnYtZ0N3RFZsVkJVOVhBWUtPTi1paXV3?oc=5",
+    "date": "2026-06-08T18:59:27.000Z",
+    "summary": "ISS urges Warner Bros shareholders to reject executive pay tied to Paramount merger  Reuters"
+  },
+  {
+    "source": "Similarweb",
+    "title": "AI Bot Funnel Analysis: How to Map Crawl Paths in Server Logs and Fix Your Agentic Search Gaps",
+    "link": "https://www.similarweb.com/blog/marketing/geo/ai-bot-funnel-analysis/",
+    "date": "2026-06-08T18:57:47.000Z",
+    "summary": "You know which blog posts rank. You know which pages convert. What you probably don’t know: which sections of your site AI systems have explored thoroughly enough to actually recommend you, and which they’ve barely touched. That gap isn’t in GA4. It isn’t in Google Search Console"
+  },
+  {
+    "source": "Reuters",
+    "title": "Apple rolls out new, AI-powered Siri at annual WWDC - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk5BeHJzcVFqR05lZ25VSVAyZnRVdng4YWNwdjh0c1EtMndLUG85VVNqTEY2bTFEWE9nejF2c1VxUlluWEFWeFVwUnYxenNLU0ZQZk1NZnFELWhvcnpVVEw3QXU3Z0lURFY4VldPYkxUVHBlTWdTbVdWYzZWOWdSSWNKRXdvZXJiMzJlTVNEd0F4VEdaSDh3aFJXM0xHNU5tZHpfeFVwcjUtdWc1YlFXNDNsd3NJTXFRVmc?oc=5",
+    "date": "2026-06-08T18:09:43.000Z",
+    "summary": "Apple rolls out new, AI-powered Siri at annual WWDC  Reuters"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "The ultimate YouTube watchlist for 'Backrooms,' 'Obsession,' and 'Iron Lung' fans",
+    "link": "https://blog.youtube/creator-and-artist-stories/youtube-horror-directors-barker-markiplier-parsons/",
+    "date": "2026-06-08T18:00:00.000Z",
+    "summary": "Explore the early videos of Curry Barker, Markiplier, and Kane Parsons before seeing their horror hits Obsession, Iron Lung, and Backrooms."
+  },
+  {
+    "source": "Forrester",
+    "title": "Highlights From UserTesting’s Crafted 2026: Build Fast, Build Right",
+    "link": "https://www.forrester.com/blogs/highlights-from-usertestings-crafted-2026-build-fast-build-right/",
+    "date": "2026-06-08T17:58:27.000Z",
+    "summary": "On May 28, we joined the research community at UserTesting’s Crafted event in Seattle. The energy was palpable, with passionate researchers and designers eager to evolve their craft responsibly and effectively in the age of AI. A clear takeaway of the event was that building fast"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Specialist Lead, Culture and Belonging - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjlEY0ZwdFRUVDM3ZXJWaGJkZl93akozY1M2dng3OU15R2xtckFhUldabEFrV1FmSF91Y0JrX3I2T3pkR29QVmRCQlh5dlRsb2lXU3dnU1BDT2ZrVE41RzRLWmFUaWlwMTU3d0hfYzhnRXZkU1NIbVVuWTA2XzJJWlFEUnlDUWJ4NmxuaEhlY1BXSktiSDdGRU1jYw?oc=5",
+    "date": "2026-06-08T16:39:09.000Z",
+    "summary": "Check out this job at Deloitte, Specialist Lead, Culture and Belonging  Deloitte"
+  },
+  {
     "source": "Gartner",
     "title": "TITAN AI Reviews & Ratings 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQ0VqMDM4TlhPalBYSUI2WUNnS3J6bEpKcjEzT1VvYUJlN195aTR2QXBya2NTVmNTRFA2bGdEc2ZTWC1jNWQ5WkpMSjF5NlJmWHY2ODgyZHNqWDNw?oc=5",
@@ -28,11 +84,25 @@
     "summary": "Gartner Marketing Symposium/Xpo: Day 1 Highlights  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "US public's inflation expectations largely unchanged in May, New York Fed survey shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOai1MTHgxWEJWS0xlYTNPdE9aNFpsdkRULXpIU3dFVHRra2NreldxcmF2aFZoblVMaEFLZDUzZ0d1aWZKeDBQWE91TlAzR1V4Y0g5cjhsZldvQXBJS0o4TFJRNkdpTGY1ajRKN1RxVWF2RXFTcVBLZFI0TWI0bFVoNEtJQkZOeDZ6V243TDd6LVhDU0hobTdZUDUyeHJjMy1ZVF9XcVNRcw?oc=5",
+    "date": "2026-06-08T15:29:43.000Z",
+    "summary": "US public's inflation expectations largely unchanged in May, New York Fed survey shows  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Money20/20 Europe 2026: Intelligent Finance Takes Shape",
     "link": "https://www.forrester.com/blogs/money20-20-europe-2026-intelligent-finance-takes-shape/",
     "date": "2026-06-08T15:11:04.000Z",
     "summary": "Money20/20 Europe 2026 reveals how agentic AI, programmable money, and trust are reshaping finance into an intelligent, AI‑driven ecosystem."
+  },
+  {
+    "source": "Reuters",
+    "title": "US airlines' fuel costs soared in April to $6.5 billion - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ViM0pmR0thY1BkcEUxOW55Z2FSNmFfTWNBZ1UtblZ4aFRLUV92bGNlZ3l5Qk1aMGpEWWdDbmZiNEZ6LVR2VXg3czdVejlXbGVPRUVvUzRERjlqY2xCWDA5clVDV25LWThPVHQtM2J2aGRTcUMzaWNWMVRPbW9VWlkxSElDY1dTb0hSR0NqN1BTRmRpeW4wdzZISWdzX2c?oc=5",
+    "date": "2026-06-08T15:09:34.000Z",
+    "summary": "US airlines' fuel costs soared in April to $6.5 billion  Reuters"
   },
   {
     "source": "Deloitte",
@@ -61,6 +131,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEdwcFFpbkFsTzZPcUlsR3lZVVRGUHpzOGsyUDh6NDU5TEhnX1lBOUFUX1Q2T3N4dnRPMmFoM0tBMFhuc0xiWmdXUEI1Wll3TFNVenh2c2RfMWZlektma0ZHU3dmdTB6ZDR6bzd5YTQzOUNZM1BWOU1Ib1hvR0RlaVJHeTQ4WHhEY0RKWWpxTXNZdGFCekFOWVdTX201ZW54V2oyQ003SVY5SFJCVUlfQ1VjbWk5VmloSU8xc01B?oc=5",
     "date": "2026-06-08T14:46:53.000Z",
     "summary": "Roche enters cancer drug deal worth up to $2.3 billion with Nurix Therapeutics  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Fullstack Java With Angular-Software Engineer II - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeXl3bEpnTFBFYzNhT2liQ1Rhak5WTmVOUDlYVGhVZFJlQ1JVbkZLeWI2MlNULUppd0RUNDEzeFlJUDJpQ2hXcGFfVFY4dHhKYks4Ujk1cUFWRWItMzItMS1DS0sxLWR6eGJzOUxoSkZKUVQ4QTlIZHZMTUh4bWYyc3AyYWQ3TUVSaXhlVUhuM1VUc3JPQ25pekkwZWNTQy1tZnFCYnU3QVU3N01lLVg3bFBIYTZremRiRjJuaTFFdEY4NmNqSWNpN0FNRGd0OUZoTzQ0cjFPckhsazJGMnMtR2ZZd0tSRFNvS2dFY3FWdw?oc=5",
+    "date": "2026-06-08T14:13:32.000Z",
+    "summary": "Fullstack Java With Angular-Software Engineer II  Deloitte"
   },
   {
     "source": "Reuters",
@@ -166,6 +243,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVZ0ZlJwYWN3UDB3LWlMWHRZWlJtcVVCZDV3YS1GUExsdGVKRGg1ZU1tc3ZjeUhYX2pKcVZHNmJNa1IyelV6ZzJZTzI2d2pla09Cb2dvd1Zidi1leWZvWGFsb3pvdHIxSmJ5b05Td2twVlFSd1luN1NCM3VnY1ZvbDFINUhjaFVjS3dDSTRQXzVINUlIbXE2RV9vdlNhZ3R1SjBCczM2eXdvY3BOcS1QOFNXWTFGUQ?oc=5",
     "date": "2026-06-08T11:18:14.000Z",
     "summary": "artner Says CFOs Need Structured Finance AI Roadmaps  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Technip Energies wins Mozambique LNG contract for Eni, partners - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjNQaFlhWkYycDgtX1JOS2N6dVpQNE9TNHJleUU5MU9BYTdPeW9PZGFmMlFMYkRPdHVjaFQ4VldSNlVOemhsWk9uWjJyTWlMNFl2WVpzcVU0Mlo2cmVIdGFyOFAzM2lVZXVKOXFQaEZUb01uOUpXYUFjY0hJMlhNYThqZVA2bmtpbklnNWhpZ0FXTnNpLVA1Sk1UUHpQWkxNS2t1eXZUVDlVU1B4cTVV?oc=5",
+    "date": "2026-06-08T11:14:07.000Z",
+    "summary": "Technip Energies wins Mozambique LNG contract for Eni, partners  Reuters"
   },
   {
     "source": "HubSpot",
@@ -280,11 +364,25 @@
     "summary": "Japanese investors make biggest foreign stock exit in five years in May  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Sterling muscled toward two-month lows by robust dollar - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUc4SEZ2bU5nQ2poWFBJck4wbnVpTGdVR0JkbWNPYl9ERl90NnNTX1hJb21MVEpURG5fdF8yRTI5aTZhYnVPVUZSUWdoMWF2dlFoWWFKcGhMLUdRU1VEdUVQOW9EcThmb1MwSWhyN3diMFhuNUtDNzdoNFU5NVp6YnpOeFd1V2dOb1Vlc0pGSnNUVElvdmM0M3pUdFlVVUlOSWc?oc=5",
+    "date": "2026-06-08T09:03:43.000Z",
+    "summary": "Sterling muscled toward two-month lows by robust dollar  Reuters"
+  },
+  {
     "source": "Meta Newsroom",
     "title": "Fighting Spyware: An Update From WhatsApp",
     "link": "https://about.fb.com/news/2026/06/fighting-spyware-an-update-from-whatsapp/",
     "date": "2026-06-08T09:00:04.000Z",
     "summary": "WhatsApp caught and disrupted spear phishing attempts linked to NSO, a spyware firm blacklisted by the US government.\nThe post Fighting Spyware: An Update From WhatsApp appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Deloitte",
+    "title": "Gen Zs and millennials are redefining career progression on their own terms - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTNoQko3blltcnh5dXNYV04tSUoxWHF6UF9WaW5qb2R4RDVDZWtya0p4a3RYa2thclB4dnBiRWlHbFcxSHZJUlFTemxiYnYzbkxtMzUyRG01Wk5YeWNSMVpwc3pvWUdYTXBjaEJNZkp1Mi1JY0w2ang3aTZ4WXR1MlJNeWVZdGt1c0lsU3RGQU1qT280LUcwcWdKcVY?oc=5",
+    "date": "2026-06-08T08:54:59.000Z",
+    "summary": "Gen Zs and millennials are redefining career progression on their own terms  Deloitte"
   },
   {
     "source": "Deloitte",
@@ -544,6 +642,13 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5",
     "date": "2026-06-07T20:00:31.000Z",
     "summary": "US troops, families adjust to new normal of Iran war  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "New to Gartner? - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWMVkyeVI1bWdKRHVjSzBRU3NDdUw2RGhQS0RHQ0RQaERELUpReFpnNXNjd3NRWkw5N0w0dUhQYlMtOG1rNE95aQ?oc=5",
+    "date": "2026-06-07T18:58:11.000Z",
+    "summary": "New to Gartner?  Gartner"
   },
   {
     "source": "Reuters",
@@ -1300,6 +1405,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzBTUlhlNzdLejQ4LTZzMlJpZXBQalFXanV0NThyYnNTVEI2SWRHRUpqN2ZxVHc2MTBuYVJUN1RLc25xY3QxN0szY1BhWDFDLTZrQjhjOWpTR0xRN0NnYmJWLVBWSTFvXzUyTmZISFpMMFpTWkVOUFhDRnZobWpRWFJWa3RNdTRaaEE1ODRpdkd4RXZxRTd2UnlPT3lCX0paNmlzZnZLRE14R2U0TlR4dlBXMjJyX1FSbjJOWkFfejcxMXJ3VmZiOVNiNGtGNUhYZVJYN0RWdnZZVFE?oc=5",
     "date": "2026-06-05T10:21:17.000Z",
     "summary": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Specialist Assistant Manager, Analytics and Insights-Global E&A-Bengaluru - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN0d6WEdhWmE1S3otZ01QRjFmclh5MGVKdmxvdElxMXZYdm0xdnc2U2ZMdjAzX0xtZVJ3elhTVTRTbjI1cEFhSlZTM0o3VGVyc3IxSkE3OFJrNTBTRk44YXo5Qzk1LTlPVHN5Vk50eXRtWDkyeXo4cnFpNHA0T001QXJmQ21YZVdmcExHcG9BUF8xUXhDZnpabU43V1J2UldCYWVFZFJLcmc3UkYwZGVIbTZSMkthc0lNZEdQblJtRTdmVEJVUm9uS1o0XzJ6bHBHY0Z2OTVrQ3dsa2ZNRmU5UlRBT0dsU0hVWW90bE5KYw?oc=5",
+    "date": "2026-06-05T10:11:55.000Z",
+    "summary": "Specialist Assistant Manager, Analytics and Insights-Global E&A-Bengaluru  Deloitte"
   },
   {
     "source": "Reuters",
