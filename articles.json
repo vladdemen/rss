@@ -1,10 +1,45 @@
 [
   {
+    "source": "Forrester",
+    "title": "The CLM Market Has A Messaging Problem, Not A Capability Problem",
+    "link": "https://www.forrester.com/blogs/the-clm-market-has-a-messaging-problem-not-a-capability-problem/",
+    "date": "2026-06-09T20:55:01.000Z",
+    "summary": "If you’ve ever tried to meet someone “at Ray’s Pizzeria” in Manhattan, you already understand the contract lifecycle management (CLM) market. “Original Ray’s.” “Famous Ray’s.” “World Famous Original Ray’s.” Same name, similar awning, very different experience. That’s CLM right no"
+  },
+  {
+    "source": "Reuters",
+    "title": "Three blasts hit gas pipeline in Russia's Dagestan, TASS reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3lPazNIR2VGVTdyTDhyQzVXTVVIUFJXV0FpUVdrczZPblZ2cGNJaHNDdVR3V21nc1RRRDFJdFVpeFdLMkRsajVGME9Eb3ZvQUZEZnRDRk9waVE4VUxqamVjM1lxSkFpajVvcTdjbXZUdU80QXUxSVczazFkekE5endBaTNhWUExenZXUml0cjZOUGhoRUJYekY1bmJORENrVlctUFNWN0JoMVRWNksxTg?oc=5",
+    "date": "2026-06-09T20:33:19.000Z",
+    "summary": "Three blasts hit gas pipeline in Russia's Dagestan, TASS reports  Reuters"
+  },
+  {
+    "source": "Edelman",
+    "title": "Hellmann’s The Official Mayonnaise of Sandwich - Edelman",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yenpxMmVibTJKMkF2em9nbWJUbTdXUVFUUXNmdFhFN0dvX1BWUFEyQ2RZYVJMRXdsQTBWaHBkSHRVSm1hVW91S1YtaHhQdjlJb2pBUVl1TGZ5TmpibF82ejBaUGZJRHhw?oc=5",
+    "date": "2026-06-09T20:12:31.000Z",
+    "summary": "Hellmann’s The Official Mayonnaise of Sandwich  Edelman"
+  },
+  {
+    "source": "Reuters",
+    "title": "Rising fuel prices hit US farms as Iran war drags on - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEJuTERzUURfX2hORlJoVzlkUVc2TFhvV2xiWVZrc0d1TkJYMXRfbllmM21BNEw1Mno1cmE3cHZtQjdHX2xncldFbWNOeEFXbG9jaTNMeGJXcDVGQzF3d3FzT2hVM055OWFZbUVLX2xoX3VjVUptTEt1R0c3NjhNTk9sZFhfT3BKRGpXMTRMMUdMRklXbS1zWjU3SVM5Nzg?oc=5",
+    "date": "2026-06-09T18:51:48.000Z",
+    "summary": "Rising fuel prices hit US farms as Iran war drags on  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "Exclusive: SpaceX IPO demand is approaching four times oversubscribed, source says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUdxVklCSVNiWC0wakRUOVBtRU02MWI3QkN6Wk5Tc2xuVUQxTWdjYzlwbmR2V3VkajVPVnNJM2dGVDBXUHpaaHJrUlczSGRfNlBMNHQ2NDVldURZWjVvWHliNEtKVXZrVURrQTI4NkFiU3h0X3E5S3hSR19BZnVIMXI0THBCRHZXNnotVTNhUWkyTG1QVklxRVZVYjhfc0RRaGtjeFE5QnN3MjU3eUwxUVF3?oc=5",
     "date": "2026-06-09T18:40:29.000Z",
     "summary": "Exclusive: SpaceX IPO demand is approaching four times oversubscribed, source says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "JPMorgan keeping a watchful eye on consumer health, executive says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHNsUEdaWXlmcHV4TVJwRkRBcFV0MUhlSkNWTTZLN1BlSVNXUHNXMUE5VHlzM1FRQk50RGJTV3E5N0ZXMkZqUngyQ0s3SE1vVDB3eHNKaW5QTjg1Y0gzZld4cFFjUmFaWFlkVkt6a0UxZ1l4enBKSXFvdEQySVZVTkJscFY0MHJmTjE4dHBDdzFWYTh1WVN2cVA0WUVSd1FCcVVEcG5WaEpjMGxCUEhObGlrMA?oc=5",
+    "date": "2026-06-09T18:08:21.000Z",
+    "summary": "JPMorgan keeping a watchful eye on consumer health, executive says  Reuters"
   },
   {
     "source": "Reuters",
@@ -33,6 +68,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeDVIQXdhUXpjbDhKa09DM2F4a2xDWjI3czJpUWZPX0JtZHlacE5KT3VtMl9tYU8wNEdjOUpEWU1VM3VXTG90WUprdFJLZ1FGYk40SndjQnJRS0ZYeUZUeDQ4ck1lemRfb3hhcmRWWS1JSWN1YzlXd0Y1UmhCZlRoQm5MUGJsOEZVbzZhWGJhY2J5YzktYlc1RFhSdGdjOTNodXFMc2s5dmdzLXpUdFNDclB4a3kwYklzTDZBQjhrTXQtY1p0OVE1QXJqWlo0M0I5dVAxb0pjTnAzWFE?oc=5",
     "date": "2026-06-09T17:05:40.000Z",
     "summary": "Gartner Survey Finds 49% of U.S. Consumers Say GenAI Has Made Content Quality Worse  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnNISzBtNzk5bENjMFJCQTEwR0FXTnBNVDY4Zm94cnBIWFNFM21oS05CTHZjZzd4dTladWh6Q2pNZ3FJSGlmc29ZQWdvNVRSSk1XbkRia080a1VmSnpCVTVhYkYwQnFuckc1alBENTVMSkRJTVFLQ25rb3I4NThvM0U5M3VCNC00TnBNcUdZaWUwVjhkMFdRWm1ocWU0ZmNocWZYTG5HTDZLQWdMTUFUQnBkUjdCd3BhMDNGWl9kbEdJbEVYOVB1eVU5RWU2QWRUUE84?oc=5",
+    "date": "2026-06-09T16:50:47.000Z",
+    "summary": "Amazon issues record-setting Canadian dollar-denominated corporate bond deal  Reuters"
   },
   {
     "source": "Reuters",
@@ -175,6 +217,13 @@
     "summary": "Gartner Says Frontier Finance Teams Will Overhaul Enterprise Decision Making by 2030  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "EU proposes 21st package of sanctions against Russia, targeting banks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNheFk3dldYOFdsYmc3RTlRMHNpZjEzbGc3Z29YWWMyZ2RoRHVyaXhZcjNPSTExaXJpNlFoOWRwc2pjUmZsSVNUYVlzQjZKMVRMYVVYMDFZZjVNQ0tuZmJiOUk1UU0zWUNXMnFMbGd3N1NKQ2RZbHgyczFEOVZ2TzNJb0JUZ0hsYVlkS2FnTEc2YUluZFM1ZzBQZENIRDZveTNCb2Z2eVN4REV3YlJZ?oc=5",
+    "date": "2026-06-09T13:33:25.000Z",
+    "summary": "EU proposes 21st package of sanctions against Russia, targeting banks  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Says AI-Powered Disinformation Is Becoming a Brand Risk Marketers Can’t Ignore - Gartner",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUp3bG1JTXF3Q25tTHpoVHk3bjE4Rk1Kc3BjWmxwcE9NLVZaYzZHckdZbGMwS3dmLUtFTmQ2ZjVsZHVuMFJoczlMWjJQUjlnNHYxTlRqMDZmbTFOMVRDV3l5Y0FNbm1QVkRXdGNya1h3VUpqLVFIMXRJbjhTUXJ0Y3NQU3dyRnY0RU5mbGJxVk5XeEZZTTJEMlFKdlpBeC1nQ0RxZ19ucUJvXzluam5WYXFvS1lsM1dfMGM5X0VHbHJWQ1U1TWhQdk5IVTI2UEJib25yWjlwU21GYlYyOHZzdw?oc=5",
@@ -292,6 +341,13 @@
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMMXVxNHozMHRBc24wRm5sZDU0aGRhUFl6V2U5cWY4cXlKMEV1a25UYUdHTUxXd0F2d3l2N0JVNDZ3d1pzZHVCV2FLV0lPTlFnaEp6QjBQTEV0dGRiWmUw?oc=5",
     "date": "2026-06-09T09:25:38.000Z",
     "summary": "A Golden State of Mind  Edelman"
+  },
+  {
+    "source": "Gartner",
+    "title": "DigitalAPI Reviews, Ratings & Features 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xd0p4TEpraU1ldGJRWWxYZEl3TlJPT1JmcFFLVHpncEUtRlp4SXNyMmdlVThITkxYOU9vSHVjak5jcWV2ZGhCUzk2NXpJeVU5aVJNQVNWRThGUk5DelZRVXowVU84aVh4TFMwU25MQVZLMzlKaG5ZTC16SQ?oc=5",
+    "date": "2026-06-09T09:24:53.000Z",
+    "summary": "DigitalAPI Reviews, Ratings & Features 2026  Gartner"
   },
   {
     "source": "Gartner",
@@ -572,6 +628,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQno1QTVjdUJYSkVuMTUxZTVxcHBhUWNVQWVfN0JsVzdpNmVPUTBjMjdTaE4wSy1RNVpNNGJHdi1DVGNzd0NfQUdYOVVILWh0djRxbFpSSUJGTEp5ZTJnNUFsNnU4UkRscHJBZi1mVlYwNWFiUGFyVk1TOGNxcDEtVDc0cFhTYmpvRDdrd0tTYjFON19JNmI2Sm5MX3ZXb0M3UE5lZ0Q4UTFZSTJ6VFNudFMxRmVQMUh6U05XU3M2SGtpNmc?oc=5",
     "date": "2026-06-09T00:47:00.000Z",
     "summary": "Oil rises slightly as investors await clarity after Iran-Israel halt attacks  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Reinventing autonomous driving in the age of generative AI",
+    "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors."
+  },
+  {
+    "source": "McKinsey",
+    "title": "AI in life sciences explained: The technology that could reinvent medicine",
+    "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-life-sciences-explained-the-technology-that-could-reinvent-medicine",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could mean for patients."
   },
   {
     "source": "McKinsey",
