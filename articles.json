@@ -1,10 +1,129 @@
 [
   {
+    "source": "Forrester",
+    "title": "Your AI Bill Is A Context Problem ",
+    "link": "https://www.forrester.com/blogs/your-ai-bill-is-a-context-problem/",
+    "date": "2026-06-10T14:50:55.000Z",
+    "summary": "Within four months, Uber burned through its entire 2026 AI budget. It then capped every engineer at $1,500 a month. Similarly, ServiceNow exhausted its full-year Anthropic coding budget in the first few months. Even Microsoft is winding its own engineers off Claude Code. All thes"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Influencer marketing isn’t broken. Your measurement model might be",
+    "link": "https://influencermarketinghub.com/influencer-marketing-measurement-model/",
+    "date": "2026-06-10T14:42:44.000Z",
+    "summary": "Influencer Marketing Hub\nInfluencer marketing isn’t broken. Your measurement model might be\n\nAsk any marketer how they evaluate an influencer campaign and you'll likely hear the same question: 'Is it...\nInfluencer marketing isn’t broken. Your measurement model might be\nNadica Nac"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Infrastructure Explained: Compute Power",
+    "link": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
+    "date": "2026-06-10T14:30:04.000Z",
+    "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs. \nThe post Infrastructure Explained: Compute Power appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Reuters",
+    "title": "Jobs, rockets and a lawsuit: SpaceX's Texas town divides the valley it transformed - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBYWGhBQzFxUFdpMXVmNHpMb2g2VlVVVVZGWkhIZWlCa08wNEY4OWtOdmxSb0cxVkZ6RWFlbmxJTktXNEhaVlpoVGlLb2VoVm1JUkY2VEp1Y3VuTzdrbnhNZGplcTR1LW9YV1o1ZUZxMjNzcmpCUURXbHVlRnpWR21BWVFQY29ydDJzbEZLTnRqWmJhYUxFVkJoNzJrYjFEQV9mcFc0YlBPb1BLRFFOVURPLUUxUQ?oc=5",
+    "date": "2026-06-10T14:07:44.000Z",
+    "summary": "Jobs, rockets and a lawsuit: SpaceX's Texas town divides the valley it transformed  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Paramount, Warner Bros deal under EU subsidy scrutiny, decision due July 14 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDlzekM1Vng3NVFhZGVUU2hkNVRfZ1ZMbXV3U3RRTmJwVHRkeGVqRXA4SGhPYVhWVXdGSEpzc0E1QlN1UnJPUkpoNE05QURYaDBSbll4SXkzUUdzb3g5WFR5WG9rV0FrWXRjY0Ywa3Q4N0FIY3JaVGZmYW5JdUIwMmlzZHl4dk83Tm1DWk9DN24xU0FpWWU2MVlBdFdyenRNVkNwZGk3Y3JndXhmV0ZiVkpHT2RTOE9TeW5vaUN4M2VPTWk4?oc=5",
+    "date": "2026-06-10T13:59:52.000Z",
+    "summary": "Paramount, Warner Bros deal under EU subsidy scrutiny, decision due July 14  Reuters"
+  },
+  {
+    "source": "Semrush",
+    "title": "12 SEO writing tips to earn visibility [2026]",
+    "link": "https://www.semrush.com/blog/seo-writing/",
+    "date": "2026-06-10T13:59:00.000Z",
+    "summary": "SEO writing helps content earn visibility in Google and AI tools. Learn 12 tips to do it well in 2026."
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St dips as tech declines, Middle East tensions mount - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxUT1NqQm1KUFlpbmdjN0VuSm4wU2VIODFBNF81YU54bFBsWUptZVV0bU41ZXl0MHQxWE1UamxBaHlkUWhvWUY3MHFJZVJhYmJKdDZtMlkyLWlEbjdpOXZubnJLZFlZREdyOVhfMU5QM1l0ZGNoQnpIdHlYVjFVSHU2eXI3WGk3ek9aNXR4ZUJaQmp3dzF2dUxybmhWczI1ZEt3M1hCVmdNdmQ2bDJ3R3NOTkhzUVlRVE52WjF4cw?oc=5",
+    "date": "2026-06-10T13:58:29.000Z",
+    "summary": "Wall St dips as tech declines, Middle East tensions mount  Reuters"
+  },
+  {
+    "source": "Similarweb",
+    "title": "Introducing the Recommendations Hub: AEO Recommendations Built For the Full Picture",
+    "link": "https://www.similarweb.com/blog/updates/product-updates/introducing-the-recommendations-hub/",
+    "date": "2026-06-10T13:36:18.000Z",
+    "summary": "Most AEO advice is just citation advice in disguise. Fix your schema. Structure your content so AI can parse it. Write direct answers to common questions. The logic is, if AI can find your page and read it clearly, it will cite you. And citations mean visibility. The citation tra"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Marketing Survey Finds 84% of Companies Are Stuck in a “Brand Doom Loop” - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNDFOWGVhNGZkU2pOWm5XdkZWY25VQ00wZGZ6X2tIMnpNN2d3bXI5VWpKNjFSbmpyaEZUaG5FWElvNk02RnpvUlNGLUp0eFlNT3ZaSUVibE1ta0h2Nll4Q3I4bzZ1UUhSMzh1TzdYUndaM0NNbVNSdU5YRGJzbi1VNEVsbGIyUEpPZGIwakg3VGs2QkpMNlpNMXhJTE9jV1BXYTVkeXd3Z2JJYzY5Y2x6TjZMRko1M1d4LVNHd2VmN0s0TXFLUWtHOWwxRk05bmFiSWVmdTBR?oc=5",
+    "date": "2026-06-10T13:09:37.000Z",
+    "summary": "Gartner Marketing Survey Finds 84% of Companies Are Stuck in a “Brand Doom Loop”  Gartner"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Ungrounded LLM Fabricates Every Detail for Nearly 1 in 5 Movie and TV Titles Tested, New Gracenote Report Finds - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnJWbEw2Q25LSmU5OElKdndFNHlwWEJJTjB6OXljM2NwMFIzbEJDVzRtUGhLNDFQT3JLZG4xQzRROHhKRi1BdkU4djNZWk9yZHEtNlMyQ3VWZWQ2MUNlR01xYjhkOWhFejR1YVF4dXQtWXRfMDJKMlU0RllLbnhDYjAwTW00NWIwU1M4eEFMb0pQYnFoZjViZ1NDLXhpcF93UkRxSG1WUW9WLXZMZVNVZy1wVnVmeGdKeTlaMGJQOHZSY2JCVmRXSmE4S2g1aDJQaWxodmdNbVdNa3N0WlpfRkFMMHhXZUE?oc=5",
+    "date": "2026-06-10T13:03:25.000Z",
+    "summary": "Ungrounded LLM Fabricates Every Detail for Nearly 1 in 5 Movie and TV Titles Tested, New Gracenote Report Finds  Nielsen"
+  },
+  {
+    "source": "Bain",
+    "title": "NRF APAC 2026: Agentic Commerce Is Exciting. The Agentic Operating Model Is More Important - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1MyUGpONzRBeWNrdmhjNDVEa1NXSWd4Z2t0d1lLSUpzaFdqRElIbkIyVV9TbnNwT2JkellEaWE4U1BHUEhHaURKemk4eEw0dkVTbkdrdDk1aG5sZExRX2FmNEVaVjdSWk5PUWxHXzhjaEhiOUp2WFNGc2poZVRMQUIwNTZtVzRhaUU2QUp5bW1hNzYyTl9OdS1ySHc3cS04ZTgtX2xGQnBaQ1NOQmRpUklQSHo5ZW1qX204?oc=5",
+    "date": "2026-06-10T13:02:15.000Z",
+    "summary": "NRF APAC 2026: Agentic Commerce Is Exciting. The Agentic Operating Model Is More Important  Bain & Company"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "YouTube FIFA Creator Cup announced alongside global creator roster for FIFA World Cup 2026™",
+    "link": "https://blog.youtube/news-and-events/youtube-fifa-world-cup-lineup/",
+    "date": "2026-06-10T13:00:00.000Z",
+    "summary": "For the first time in the competition’s history, FIFA’s official media partners will have the option of live streaming the first 10 minutes of every match on their YouTu…"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "How to watch the 2026 FIFA World Cup™ on YouTube",
+    "link": "https://blog.youtube/news-and-events/watch-fifa-world-cup-youtube/",
+    "date": "2026-06-10T13:00:00.000Z",
+    "summary": "Stream live matches, catch quick highlights, and see behind-the-scenes creator coverage of the 2026 FIFA World Cup on YouTube."
+  },
+  {
+    "source": "Forrester",
+    "title": "Build The Human Foundations Before You Scale AI",
+    "link": "https://www.forrester.com/blogs/build-the-human-foundations-before-you-scale-ai/",
+    "date": "2026-06-10T12:50:59.000Z",
+    "summary": "CX Summit EMEA explored the real AI opportunity: building trust, strengthening foundations, and reimagining experiences — not just making them more efficient."
+  },
+  {
+    "source": "Reuters",
+    "title": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblhOcEVuUk1qbFpIeVcxYjkxWVpyY18xSGZQWUpjblZtMDl4NWJ2U2tJYzlwa09TRFh1R0Z6NjZhQmFTdUw1a005RThEZ0ZiVjVuUloxaW9PTXYyaWY2UExqMGFRQ1ZpNU5mMFQ0Nm1HMnpKd2h4amNxbkd6UzgtMjRGdnVqX0VRVnp5V0tiUGRmdktxSWN4djNVRnUzLU8yanotSHhacjVtOHhocHBsbnl3b0pqcUJZLWlETWVZTUhOR0xrWkhKbk55WTB4dEluUUpV?oc=5",
+    "date": "2026-06-10T11:19:19.000Z",
+    "summary": "Half of Americans fear AI could put someone in their household out of work, Reuters/Ipsos poll finds  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Thomson Reuters faces shareholder vote over ICE contracts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDZKZEZhdzRoU0QzQnJYYl9JMERsTHpVS1dkTXlIUFQ3blZoazhjWm9YRWpsUGVHZXc2bDQ1TkppSUtWdjVLdU1DeERURGU3czVLZGdUUERmbFNsdVhlbTZzMlBrOUdvYnpNQndfNGFhbHU0V0pWNkp4UFM3b2taSTlEZjBiT3Q1ZG5CM0d6ZlJ0bVRVZEd0VVNFN2RBRDdoY1lScGFIdTYtV0JfSFE4eUdnNA?oc=5",
+    "date": "2026-06-10T11:03:03.000Z",
+    "summary": "Thomson Reuters faces shareholder vote over ICE contracts  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "FAQs for AEO: How to structure answers that rank in answer engines",
     "link": "https://blog.hubspot.com/marketing/faqs-for-aeo",
     "date": "2026-06-10T11:00:05.000Z",
     "summary": "AI search interfaces are reshaping how content gets surfaced and cited. Pew Research data from 2025 found that around one in five Google searches produced an AI-generated summary, with 88% of those summaries citing three or more sources. Bain’s 2025 research found that roughly 80"
+  },
+  {
+    "source": "Reuters",
+    "title": "Airbus leans towards Saab as Franco-German fighter unravels - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemtndS1Yc1R5LTQyQlR6dDlETDYyVHBzcWhxYTM3VkRtTS1MLVpkQ1BqNktCd1JQUzhtLVk2VjJGZ2RWUnI4VlNLNnlXUGNtOGx0eFVRVDV5bFB1bF9NYW9rRzRkZnhKV2toRUd6TG1TdFZIRDBhZE5QTFE0dmp3UWVvTEtSTUNVQnFzZUtKazJyM3Q1UXFHZUtMTGF1LWlRSXo0Ti1VdHljZHNMWDctdVVVMFlpOEtBQUdV?oc=5",
+    "date": "2026-06-10T10:50:05.000Z",
+    "summary": "Airbus leans towards Saab as Franco-German fighter unravels  Reuters"
   },
   {
     "source": "Gartner",
@@ -50,6 +169,27 @@
   },
   {
     "source": "Reuters",
+    "title": "BizLink to buy Interplex Datacom for $850 million to expand data center business - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHZZSmx6dlA4SE5meHQ0dzRHajRmMFpobVg1TjdmS1VBRnRDWERienBFSF9oeEY5dU5jTEZnUVg2MU4zeFBlbXBzc3FzOGxvY24wcFFoaTVJa3k1ZzlZMklQa3VSTGRBYk1zalJER0RreVc3dTNJWkRhNlEtbHdVUzRmUlc0c0pvMU9zTjMtNl8yS1ZhMHZJeXhxNDNsbmJxYTdNWkNiblhHTWJJY21VQUJmMERHZUxZTGVUVXVENjd2QQ?oc=5",
+    "date": "2026-06-10T09:38:47.000Z",
+    "summary": "BizLink to buy Interplex Datacom for $850 million to expand data center business  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Gas generator maker ERock raises $600 million in US IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtUQ2dXY3BEdE5sRFM4a3BvcjVlV0kzYV8tSXQ5STVNeFhHams5ZU1DZEtFRFJ4bTNkQ29oblFudjdVbHdqVHFJc1c1UTR0a191NlpqYXNsQl9xMjd0WlVFRTRFaktJejRZby1IN0RQYW5yTU5hWTExcjB2bTE3X2FkcHA3NzUzckU4RzYwdDNBNG1ZR0U2MmczaHJkWUlteXBwUjdKM1J3WlE?oc=5",
+    "date": "2026-06-10T09:36:56.000Z",
+    "summary": "Gas generator maker ERock raises $600 million in US IPO  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHhQQzliT0NBZG91dllyZDRDLWR2NS1obHBvODdkMFpoWW4yaThlMjFqMU1rNWpZWVNhbXUzVHVWaXhUUVJScXRZNi1pNjhfb0phRlItWHpocHY4QWFBSDc0TXpvdFdsU25oM01iRU9SSnN2WnJPUFcxa252dTZmY3pDWFdOd3F2bldMd1pBVzJFVlFrbjdoOEdqM0hNWWdnU2FzMy1oNTlMVmJpbnc?oc=5",
+    "date": "2026-06-10T09:05:41.000Z",
+    "summary": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Global watchdog calls for tighter controls on agentic AI in finance - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjQ0MVEtX0xuUUFuYl90T1RVeVZ1RzZUMXR4a3kzQjFsR2tKSTRWVU9fUUpkZkNfZUgwT0ltWGg2VE1OeUVDTjVMRzdWUE1iTkJUdTRIQ1BVc1l6blRQUUc4dXZxNG1nTUd1R3NLRGhaYWZIRHBrQlRtckxDSUxEbFRuNlA0RDVtUjFkRkpubVVBNTN0SWQ4dVJHbGZkNFMwN3ZrTWdGajhCaDBUdGRJM2d1OA?oc=5",
     "date": "2026-06-10T08:10:16.000Z",
@@ -75,6 +215,13 @@
     "link": "https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/",
     "date": "2026-06-10T07:11:00.000Z",
     "summary": "Learn how rtCamp improved its AI visibility, strengthened security positioning, and increased favorable AI sentiment to 100% in one month."
+  },
+  {
+    "source": "Reuters",
+    "title": "Malaysian energy firm Petronas signs 20-year LNG supply deal with Japan's JERA - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWThJQmxHbGtrNWxDRXRzSHBSV0hNekxvX0Jndnk1Zmk0dzdBVXQ1OTNPYTVJSi1JSjE5ZmVwV3lGX1Q5cWVMWmdWa0dNQzh0YmVzbUsxZEJsNEEweU1mXzYyZWRpdGVLNTJVV0RyZ2tsdXpXRldvaHNxaW1KWnFTY3VIZ2IycjZaTUdkWFJJa0M3anQzd19veE1ELVJTeDNTV3U4M21HWWdtekEwa0IzMzNKREFaaGwt?oc=5",
+    "date": "2026-06-10T06:56:39.000Z",
+    "summary": "Malaysian energy firm Petronas signs 20-year LNG supply deal with Japan's JERA  Reuters"
   },
   {
     "source": "Reuters",
@@ -110,6 +257,13 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTmp0cTg4VDY0QkhtVUhhZTd4MktzbHg4UXdVSzNvSklxLVEzSUozWEtnQkROcWpyTmJkRE9XbmxVRnVIR040UnVITTE1RUlPOVduLVVRRlRFRE8yWS1HbVZPeXJkNFhXVXZCY0NEWnlaTTBMU0FYakRWV0RxLUU?oc=5",
     "date": "2026-06-10T04:35:00.000Z",
     "summary": "Morning Bid: Nervous but not yet panicking  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Copper slips as macro concerns outweigh US tariff fears - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1Nodk1IRDduSFhtZ2FfVmFLTVJSczJUc2F5bDA4bGpSd0xXTk1IVmdmWUFQeXRPNk5nbkpCWjBUa0VueVB5VVdDOUN6WjFpRU1EeWhQTWliTlVob0g0ekR2T0dsd3VZczFDMFBOaUdFOWR6ckdwYWVUZ1o3WThnelBnenFRdFRnYTA4YkZLOXFzYjMwaE5mZ3pCdmpwUTB5dWY4?oc=5",
+    "date": "2026-06-10T04:00:00.000Z",
+    "summary": "Copper slips as macro concerns outweigh US tariff fears  Reuters"
   },
   {
     "source": "Reuters",
@@ -190,6 +344,13 @@
   },
   {
     "source": "McKinsey",
+    "title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+    "date": "2026-06-10T00:00:00.000Z",
+    "summary": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage."
+  },
+  {
+    "source": "McKinsey",
     "title": "Launch of China Auto Consumer Survey, 2026",
     "link": "https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026",
     "date": "2026-06-10T00:00:00.000Z",
@@ -243,6 +404,13 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEJ0VnJacU5WYTU0emFkOGlLVi0xQ0E2ckhETkM1SjdFSlgzQzkwSGsxdVNsOFhQN2hCbE5WVy1OOFBDVE9yUHJTU3BwalZsdVdPOWJQRjFGTDFGQmxobXJhX2VkLVFzdWVpZ04td29HeXcxQzdxYVhwNlhhV2JCTVRDYm4zWTdOVjFHTnNjZDl2MjdybUtndlMzSGc5UVRucmdSU3FSbEUtaEZHZVhkMEVDRzZNd3h0TDNHTVdfOEJTRTdqZnB5dzlqMXlTZw?oc=5",
     "date": "2026-06-09T22:32:54.000Z",
     "summary": "SpaceX aims to launch orbital AI computing tests by end of next year, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Devon Energy sees 2026 output at 1.38 mln boepd after Coterra deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDlsc2NOMC1yNWU5cnlNZ2RaZlBuVGIxdFMwRVdSV0gybEp4VTFBWEdzVDl2NnFYSmNYeWpDdm5kY19JNHRYYTZiWVUycm5ramVfVmVJNW1WQ2FCdE9idXEwZ0FtZ3BBbUxONURUUndKb1B1eXNfM3dQSG9zZkFEdmx5eGdNbEV4a1gyREpPYnVQa3h5RHNaSkQwZGtvY040bkIwQ011ZkZKUzJXdm10NlE0RE80aXVmS2pqY2x5VmJpTDA?oc=5",
+    "date": "2026-06-09T22:11:19.000Z",
+    "summary": "Devon Energy sees 2026 output at 1.38 mln boepd after Coterra deal  Reuters"
   },
   {
     "source": "Reuters",
@@ -638,6 +806,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Indonesia's trade ministry faces barrage of questions from businesses over new export control plan - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZqSHNvRmlMTDI1X3VLUzRONFVaekFyZWlRcUh2X3YwUmxnTHM2V3BfdzR2LTZiZ083Yk0tbk43b0I3QUVZSjc5eVNwN2xKZV9HdjNtQnNKR3M0LVhIcjZVMzY0d0ZnYkZsc2RIamo1b2UtYnF4ZjMzVjRieF9iZkhoMThId3gySzFsSm5TeERCSEZqdVB3WVR6bXFubjRGNGtuVEZyYUNsc1ppbmJHX1RCdnl3RFctQ2xvY1hLX3o0cGVkN1NPeW96MA?oc=5",
+    "date": "2026-06-09T12:21:43.000Z",
+    "summary": "Indonesia's trade ministry faces barrage of questions from businesses over new export control plan  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Chinese hackers pose biggest espionage threat to tech firms, CrowdStrike says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT08wdTFVMDN5WHgxclk1N3VWZVhhSFVHXzlqd2VaRnRmY2RvbzlJVkNDQXgxZEVmUkpEV2NlYURac3RFQ0Ftb3p0NzJJV2c5WDhza1hWYVJlYVM1UHBlZUpHS1BQU1RZX1VLSm5ZdzJHU1o1U01NeDEwa2cwcElYNnBNalQxNU14ZUxMRjh5ZWphQm1TSWY0SVZwRGZPTm55M0pRd3JmODZQRllvZGN1dXA1OThfZFh6ckhVNnl0WmwwbG0xOG55Mm9ud2Y?oc=5",
     "date": "2026-06-09T12:01:57.000Z",
@@ -656,6 +831,13 @@
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXFnXy1tUjZBQUZ0MjJTdjFIOVNzdzBFR3pLMXc0QTJNUk9sQTZBMEZJdU9MZmFwM3FMU3dzOGIyOWxDazJKWTZPYTJPbjRtRFNFT19acWgtWVV3MUhxWGlCb2cxOWRJcDVLOVREY1dFc00tSW9DaTRzZDlOaGNLbERHMF8xdGFCNFJvbVp3aXBEWTVhNE54V1BJdWpEMDBPSWJtYm0zNDR6VVhBWW1ienQ0RVJmTTVjNXhlRmxrVzlQMFRCLWZTQWZDRXpfRmZmQmF2Ng?oc=5",
     "date": "2026-06-09T11:49:03.000Z",
     "summary": "Airbus sees no sign of jet order cancellations despite fuel pressures, CEO says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's opposition urges government to absorb oil price shock, warns on growth - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXpnZzVTZThGTW01N3ItcFBrUlNNWjlaTmdUdnkwamxPV2dnLUlQZ1JoVW43cEFWZm5BcmlkaU03emNTN0FseDB3VXpKSGN2V0xhb1JUb1pBenVTU2ZrMV9sRW5WZ0J1djMxRWdvU3BYRktyaHpZVURTeEJhcU0tM3ZfZmVlZ3VQSjRVU25LZjlQR2lqcFhVWHVoM1pPVktqdUhHSGE4cy14QzIzRi12alg0bUtySzF2ZWZ6cE1OWQ?oc=5",
+    "date": "2026-06-09T11:42:17.000Z",
+    "summary": "India's opposition urges government to absorb oil price shock, warns on growth  Reuters"
   },
   {
     "source": "Reuters",
@@ -1251,6 +1433,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQek1RRHJONDVfSmFNa3l0eTRYSVBKcGZaZjMtWE9kdGlyaUVzYXZhdHpRaWZRZjlmaGFVY1FaYmtoZ1l0cmpCX2g0aURfRlpzdk5rSFdFTGFsWkJvaXM1Um1vQnRKeVZ6aVBQZlY5U2dzb2dNQUg2ZWVTbE9naE9takdGVzhfeTU1cjFQYThFWkRlT0x5WnQ3OG1IeW9CZEhhS0dzX3BSdUJLY05HSURzbUMwV1Jvdw?oc=5",
     "date": "2026-06-08T18:51:43.000Z",
     "summary": "Canadian dollar falls as speculators raise bearish bets to highest this year  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Deployment & Operations Manager - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbElIWHkwdUVVZ0ZzWHBkNHZFaG1qd05JQ25CaDdUWnZISG1DcnJjX3NYaVVsOHJZVDhUY2VhblFia3RLcmR5bEE1d3FWSjdrUFNEY3JHQk5kbEkyYnQzTVBVYWd1czMyaGlGM25GZ2pRMXk2OHBIVElDcXRTY0ltQ1AwYTdpQXRHNHJGQUhaOXo?oc=5",
+    "date": "2026-06-08T18:09:44.000Z",
+    "summary": "Check out this job at Deloitte, Deployment & Operations Manager  Deloitte"
   },
   {
     "source": "Reuters",
