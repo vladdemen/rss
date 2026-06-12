@@ -1,5 +1,19 @@
 [
   {
+    "source": "Reuters",
+    "title": "Microsoft has considered spinning out Xbox, The Information reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzgyNmFEamxYaUcyeVdSTnNLZDc3ajVVSGwwSlVFZlZoS3lBRzREelhDVG0tbXhYYnItU25zTE9sQWlPbE5XSHVHWkpJTWRScjYzUTJhQmRZdFRsQjlNMUFXQ295al9Kc3NkYkIwUjkzV09CWXY5cDRBVlFNYTY5dUxmaFQ0ak1scWtaZ3lCUDJVNnM1cnF2dkZUaDREQmVVRDg0Q1B6b203ZXc?oc=5",
+    "date": "2026-06-12T18:44:11.000Z",
+    "summary": "Microsoft has considered spinning out Xbox, The Information reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US consumer sentiment pushes off record lows as gasoline prices ease - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenl0OHVZSjNUQ05QM0FTbnhld3NWZ3k1ZzdPWHU2YVU3OGFxenUyWnBZSzVvZFpCSHNyc0pfWlVEclV6TTNNWDRiTFhJUnlBUlhTSVN3bGREV1pTSnRub2lJZ1ZZbDRDT21MQkgtcDY5TDlGekI3QXl2OWtseWppbzdHWWdOOWc?oc=5",
+    "date": "2026-06-12T16:24:43.000Z",
+    "summary": "US consumer sentiment pushes off record lows as gasoline prices ease  Reuters"
+  },
+  {
     "source": "YouTube Blog",
     "title": "500 million and counting! MrBeast makes history as the first individual creator to hit half a billion subscribers",
     "link": "https://blog.youtube/creator-and-artist-stories/mrbeast-500-million-youtube-subscribers/",
@@ -19,6 +33,13 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORENFaVhIaTdJZmQzcURNT2t2aUstTFhuYjBjaVBUZld4RkpZUnZqQkx3Uk5WZWcyakRTZDN0ZFBhV2Q4V3Myc0Z2YUoyQURnemtVU1BKSEttMEQxQ0kyLUlCcVZXa05Vb3VsN2M1VWdxYTdlQ0ZzQThheV9mYnB0ejgzeVFWTk9ac2dmamFoOHRjbmh4cUhjV0FRbkJTc0FCTXU0aFQ4cw?oc=5",
     "date": "2026-06-12T15:58:26.000Z",
     "summary": "Tired of chaos, investors retreat from oil market at record pace  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Lost Gulf oil exports far smaller than thought, traders and shippers say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVdzM19nNXdPNjE2TWdVTDB0dzAzTTE1czZISU4yc0hlblIxWVhzS2EtT0R5Y0tTbU1rS3RQXzNKdjNsR3NZMG1fLVB0MDJPUjFTTVNwWmFwNGk1R192VjJhaHdxX1VZNkViblRNZUI4S29vNzRvN1B5NkFyTkpkZGdSTThtZERDZ05EMGMzcWxVZmpKSkFoWENFYWlzQmlLdUxYdnl3alUwYkcxbjYyLTFhM28tWXpFMmdV?oc=5",
+    "date": "2026-06-12T15:43:43.000Z",
+    "summary": "Lost Gulf oil exports far smaller than thought, traders and shippers say  Reuters"
   },
   {
     "source": "Reuters",
@@ -98,6 +119,13 @@
     "summary": "Ukraine's defence AI chief predicts 'new paradigm' of warfare  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "Software Engineer I -AI Engineering-Software Engineer II - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT0dPcVdJa0MyclRDQTlnR1JsY2xSeG5Gbm0zME1KU0doelI2TGpsZDVjWXFLZklzbHpheVlSRFlBVjFfeVdkZnRJalVMbmcySmxCSnFudDZRdzlxbnJVdFdYcFlyWHdTcFhuaFlscWRCbDd1Vkp4OEFRS1Z3bmF5Ym5qd0RNVDZQV3hXT056V2dzLXpGVnNiQXFpdmY4WVJxX2JtamtBU2hJaDVtbmJRQU5rc19sV0JWSHNPazZYZmE5X1Nic1E?oc=5",
+    "date": "2026-06-12T13:20:35.000Z",
+    "summary": "Software Engineer I -AI Engineering-Software Engineer II  Deloitte"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "How Bezier Labs Helped NeetCode Grow From 10K to 104K LinkedIn Followers",
     "link": "https://influencermarketinghub.com/how-bezier-labs-neetcode-grow-linkedin-followers/",
@@ -113,10 +141,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Bank of England to hold interest rates this year but strong minority see a hike - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWNmaW5sNEpsc1BkMG1VY2wyeDl6NkpJZmFGRkctUV91WS1uZWFjV05qRTVvTmttTnF4YkNoZVBFZ1pVSE92Uko4M2FXaFVTYk5HN2pDTGVJOGZNOGNwR1B3UW9iWVd4TVlQY0RHMzRhekJ3TE5uQ3BMSDE1RGxDcGNnN1NJSVU4STQ0dS1WSmJEQWpVYWU3aWNqWW1ocVJKS2NmLVNhSWdlM2xQUmRyeS1R?oc=5",
+    "date": "2026-06-12T12:28:42.000Z",
+    "summary": "Bank of England to hold interest rates this year but strong minority see a hike  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Exclusive: South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkU2V1FrUkRUM0E4UkVxVjlWYjVNbU1kYzI4SkJoTkxtWDZWVm10WVpsMkFGYWhIVE9FWmxnRmxOcHZaeTBpeERFOHNyVzRjc1RTVWpKT3lLRV9NYU5IVzJUNGx6LXpmczFPUHdzOVVaMDU2RXlCeDNMSkpmQkd3Q3BibXV3ZFlmQmtJOEZDN2xtYU9TWEJ6YXZzVUYxR3B5N3ptVW5Tc0xVQ21wX3l4MS05NjBVc25xZUdrVWQ5UnhVdw?oc=5",
     "date": "2026-06-12T11:28:01.000Z",
     "summary": "Exclusive: South Korea's SK Hynix to opt for Nasdaq for planned US listing, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Channel Tunnel owner threatens legal action against UK over tax hike - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOai1sc1hoZHlZSl9pUHRZX2JMdlA4YmdQTUk0OVpBUExBemdNX1JXV3d1ZnpYc1ViMkRjUGlIMTVweGtrNmtWZjRMSnBBNjdQaUZkMlh0dXR3RnBuLVh5NU1ubjJ0bnVyWDZjS1Z0MXI5VkFJRnhCc0hBZ2NxYlJRRkJCVGxuWkJIX1dzWU1LVE4yX1dSRVBqTmUwWVd5OTBTUDRFZi1vZ0V6dnlGTEpXemZzdw?oc=5",
+    "date": "2026-06-12T11:15:43.000Z",
+    "summary": "Channel Tunnel owner threatens legal action against UK over tax hike  Reuters"
   },
   {
     "source": "Reuters",
