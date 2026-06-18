@@ -1,5 +1,243 @@
 [
   {
+    "source": "YouTube Blog",
+    "title": "Go behind-the scenes of the premiere of ‘Outside Tonight’ with Julian Shapiro-Barnum",
+    "link": "https://blog.youtube/creator-and-artist-stories/julian-shapiro-barnum-outside-tonight-youtube-premiere/",
+    "date": "2026-06-18T17:00:00.000Z",
+    "summary": "Go behind the scenes of Julian Shapiro-Barnum’s new late-night YouTube show, Outside Tonight, at its historic NYC premiere."
+  },
+  {
+    "source": "Reuters",
+    "title": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLU5CbGtVaEcyNHFuR253WGxMcTRQMkdPTU9NZ3JGZ0NCTzlWaUdLWjIxcVE3bkdXUjltLV9QUzJzTVJHTkhKWlZIQzhvclFVZmt0SkZ1RURiWTJoaDZQNVdKNTZTOWM1RzB3VTVVVEZsUUtGZjFJTExyeDhrYTg2S2dfUGprS0NUWFMwVjdCOUUwMTk2ZWxDNFRJb0NLNnFnZ3RuZmZ5YVg5VTlsVFBpc2NEVU5lejF2aEhvbnpGVE5sX1VKbnhXTVo2cjcwUkRWWHc?oc=5",
+    "date": "2026-06-18T16:14:56.000Z",
+    "summary": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Exclusive: UniCredit turned to CEO Orcel's brother to broker Russia sale - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEZzT2JncXhaeTlFcTVBVVp0TXFjRXJTdUFOdHJRaGUwV1ZuTDF5NzM5eUFpMjBMWlQ4aDcwbDNwb1NZcWFUcnlUZzBkeGdHbk5pNGMzbUx4NkZxZDdyUDNNaXNNNGpOc3lpUFJUbWhOeUY4YkVlT0VuT2M2YmRrLVdzVlBNTFlEdkFFUVNSUjVFeFFETE8zQ3hKYXplZ2NITGVMZnM5dUdfVkk?oc=5",
+    "date": "2026-06-18T15:24:17.000Z",
+    "summary": "Exclusive: UniCredit turned to CEO Orcel's brother to broker Russia sale  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "360 vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEpEOGpfVFlIR3BEQUtMWkl6bXJLNlR0TlJUSG5lWGZtSlZMcnJ5TXMtaUZYNTZ6RURqaTVuMUVMQ2QxdjNMZWx6Z3NJQWgxZVcwWF82UFVQTm1Wd2lGME1zbThkem9Wc1JPNGFmeTlIYU5xXzhtSFpCMm95MWtWY3RlNXdiSFplNkRTN1RFbFlmM0tJVExN?oc=5",
+    "date": "2026-06-18T15:12:17.000Z",
+    "summary": "360 vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs Proofpoint (Hornetsecurity Group) 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2l2S2ItYWFGU19YZm9hb1RVREtSMjJwaEYteVB0RXNOWEEydlBZcmY5OFlndkRhV2cxZnJQR0ZoY3lhdnpOcjIySGpGS3d4XzhYbHZuN2Jkb1Vhd09feURoc2taLW11dGZObVRyYXpoUm9ITnRSTmpuYkp3TmtlbmZ5M1h3VEw4ZXZ6RzZYMG00M1dNRjg3dVQ0bllnakpKbnQ3bjBHdUk?oc=5",
+    "date": "2026-06-18T15:12:16.000Z",
+    "summary": "OpenText vs Proofpoint (Hornetsecurity Group) 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs Trellix 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFFtbHoycEsyU2RHNUI1MjUzMGo5b2RoN0Z6U3dNQmFaQ2QzR2FoWms1VzB3S1B5eHFlOUdOVG5EamJOMVlzQXNlbWJZOVl4Y2JDRFFCeDdVNlQwOEZqNzZmdGtPZUFmVFU5OHZhSHRxU183cHpuaHZXaE5xaHl5cTVjT0NIWDE4QUdWTWxqb2JfcVM0ODJsaGpWeXQ?oc=5",
+    "date": "2026-06-18T15:12:16.000Z",
+    "summary": "OpenText vs Trellix 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Heimdal vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWVGbWFnN0xhSFEtMTB6b3gxRE4tcHE1UFdVNFkwcHEyS1YyakFkMkxPcFBSMVRnVGJkUUN5dlJnYmQ4eS1MekNkU3VHLUhpcnQySTBJbVFuanRaUEtlbUYxOVpURHhOMU9xUldFZTFBTW5qV0t1eUdEaENfYWlwakluRlpvTWs2?oc=5",
+    "date": "2026-06-18T15:12:15.000Z",
+    "summary": "Heimdal vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs TXOne Networks 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdwdXZoNUhVSmQ0YUltOFBYWHRDd1M5WmIzWHJGZjhUTTMxQmVYOTlHVmpsM25rb19aTkxWLTJNQXlWTjhuQ3hTb2NmZS1neVM1TzZjVlI2SjJsNlRqbm9iVUFiVFQwRm44aHdkTlEwMjBJckE5NVlPWmlZTWhKZks1UWY4b0lJUHBaRE5iZGdWRnpMSXZRWHRqUFFOX2RXZzBpc0Z3?oc=5",
+    "date": "2026-06-18T15:12:11.000Z",
+    "summary": "OpenText vs TXOne Networks 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs RackWare 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXFoUGo1RlAwNGhKZU8zWHppSTlXUm12U09JNzJaUVpSRVRQUE5lLURiYUdsQTVZZDFfellXZFdCbU5BWFBmWk5aTHM5WmFpdzA3eFhBck15R3FPWXFjOGJJaDZBVTZuSXFKSk5oNWtUb1E2WGZha0ZEaTBLTV90REp1ZDI0Z1l4RFdZMzZuaGhlREFid01xU0NyQQ?oc=5",
+    "date": "2026-06-18T15:12:10.000Z",
+    "summary": "OpenText vs RackWare 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Kiteworks vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnFKVWpldkg5N3p1U1Y3Zko0Z2xNY2RVWUVXbDdiVWMySGFLUk5xNlpOSDE1eVF5Z2UyVmdXMXoxNklqWnVNRURYam9aNUx0dUZhY2VyN181NzE0eGtVX3h1aXJ4UjRWSUJ6Ml92b2E1a1loVmp1ZEdXYUswcWxxWkVPLUtzUDBmbWpZ?oc=5",
+    "date": "2026-06-18T15:12:10.000Z",
+    "summary": "Kiteworks vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "CloudEndure vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTEyZWJhdUhTVmFOM0RzZWxKVjhPNERob0ZONHNFSVVyR1I5N0UyUkF6Mks0dVoxTGN3WXc2aW5fcGp0bmJGYjRPUHlMQmxaVV9YSTBFX2lYdzJwSnlRV2dWZWE2TlBNQ0dQWW1lSjlFa0lwMUM2YlI2Ykgwck5raXdZWi1BUEhLSGc4RW5KOEhCcGhXZ216OWVMeERlcUU?oc=5",
+    "date": "2026-06-18T15:12:09.000Z",
+    "summary": "CloudEndure vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Mesh vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlVZRVdjVHU4N1RuWVNsUkpEYTc5bXVDbFBqWE5rc0dwMjJ0UDFvNUkxeEUzd21RRmVoSzd1RkJTQk4tT0lzcHBlRWN2Mlp1OF9OeW9hSEI2bkpnZWY4R0VJbmxVUlBxdjhOMVdPVEpSVXJLY3VTOVNQbm5iT244azFTSng?oc=5",
+    "date": "2026-06-18T15:12:09.000Z",
+    "summary": "Mesh vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText (Carbonite) vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0pwTGgwWUdTNE5rcFZNaGFoY2pMS3dvMDZnWHp6TFVsRHI5WHJHc0x2QUIyNlRDMHVCZmhObzFMcU5aMVBjcGRwT3ZTam9UeDFvcnZFWmdmRjUzZUh6UVI4TXo1TE1CcUV3VnhfWjB3bWhoX0N3M0JtOHlodFlWRVlVT0hVNnR2T0dMVDgyaV9nZw?oc=5",
+    "date": "2026-06-18T15:12:09.000Z",
+    "summary": "OpenText (Carbonite) vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs SIOS 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEN3WjgyMXA0c3BhYlc4V0JPZXB3bHBPenJVaV91WUJldmtTT2p2WTNXMkN4azRuazluXzJ4azMzamkyVHRWMmg3VlIxTGRvTEszMkRTdE9rXzV5TldJX2Jxc0FaSUFKUGhXY1ozQjltTjJ6TjBVR0RVdHRVQVRWSFNMODN0WlBwdGtvRlRHWnRCMDE3VFE?oc=5",
+    "date": "2026-06-18T15:12:08.000Z",
+    "summary": "OpenText vs SIOS 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs Recovery Point Systems 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWdXVENOM0Z6SXd2WXNTMUJWN19vSkJTRVp0TUEwU3NGa00tQkpkNTZsajhOMHpCQWRTODRiRDFUS1VQbU5wTG1QamNtM1gzUFFuU1B0Tl9PNXJYcDJwUjNNVmJJbzVDYmdCOE4wb2txc3dveU5jLU03V3NFM0FnS1VrV3BYeHNNT19IeEstN09SMVdZd05vb3dWclVVZmtoOHBLZ1VMVS1tOE9UTEE?oc=5",
+    "date": "2026-06-18T15:12:08.000Z",
+    "summary": "OpenText vs Recovery Point Systems 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Qlik vs TIBCO 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaV93S0stM285OVlZbld1NF8tUHEtRHI1NWhOcEZjNTV1MWRfSjZJQ0kzdkE3MXZPYVpTcUV5ZERsb2RKUXJtczh5ZWJjY29yUHhQR2hVdWxLd3dfUXNwU2x0VmU4ZFFwZ0k4MnZUQXJ4RGVwODljUHI0eE9maHFkc1U1QWZYUk92enlRbnU0UVNMLWxZNEZnRg?oc=5",
+    "date": "2026-06-18T15:12:07.000Z",
+    "summary": "Qlik vs TIBCO 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Data443 vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekNqdHhyZXE0OTVTMTB4SnAxanZwOV8xR1VRdE9wRlV6b05RWXRFQU1kZ1FQWlJwbjMzcXpNMlRHdzdtcFNJSFRROUtwUGhwVTFZZTVlWFBrRGh0UlhjU1o5SkVveWVBNHl2azdvSmREUDBUQzhVcnBGdjVnWkRrVlg3YTFveGpN?oc=5",
+    "date": "2026-06-18T15:12:07.000Z",
+    "summary": "Data443 vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs Seqrite 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDNtcERGeDZmTmpGVXA5dXBIU1NIUE0zdDBMbk1MbGZ6Sm9mUEJLWEwzX3VHMWxZSEZTOWhQeW8wMy12WWRQNWpoVWdndmFOckt3blMtUTlocU5EdmEtbWFuMXFBWjBKU1VHS211cm16Q1dZbHJ3UDBSZEdQZ0NHM2g5UWNLb2s1TlZCT3gxcE9yRTNJWlJfV0V6aTA?oc=5",
+    "date": "2026-06-18T15:12:06.000Z",
+    "summary": "OpenText vs Seqrite 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Broadcom vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEw2U0xIX01KcVNzanI5NmpxUXl3QlJRS1RXNlJJYldvMVhfcjZXSF9YSXB6TTRKdjBtS1Y2aGQ0dHZQNUdXWHprekwyMTVDRkhDdGNXS0hWdkRoTWtxbVpkalhZUm1PeENSdkV3b0VScGFYQnFKZmpGV2pTV2s2MWFfY1diZXlkekE?oc=5",
+    "date": "2026-06-18T15:12:06.000Z",
+    "summary": "Broadcom vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Arcserve vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXVzdnpFOEk2VTJvYXdLRC1KV3E4TERqQ3BaVnpvSU1zNmpNc3I4OXgwZlBnbUNGV0lXNXJjOEFzWGZSYzlFaDA3QWswYlBqbWxhSnFFN2R5NjgzQ2NNMUF0ekZJbFl2TVY2aHZ5MHNuNm9VRXFfOTFEQzdZQm15RHhCUUgyV056d0FHdXRjMDZqLUJLV2lpRGFiOA?oc=5",
+    "date": "2026-06-18T15:12:06.000Z",
+    "summary": "Arcserve vs OpenText 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Actian vs WSO2 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblFYNTRCSzVEcUdWLWNveWZhbkt6X0tyV05LVHFxSnd4RFVoWnhfamVGYlNCLUtNYjByc191R2NHcUdldGRXdk5TckRCZzMzaXhqVGlHN3VvSS1ySlNraUdVbGJjV1NJdUh6Y2hacC00M1FzbWRuSW50ay12aWVSYmZhRzRXSWtZNXc5ck1ab3RkTk5mV3dvVUJrRkdBd1U?oc=5",
+    "date": "2026-06-18T15:12:05.000Z",
+    "summary": "Actian vs WSO2 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "OpenText vs Trellix 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTG8taVY0VlB3R3ZMbHRQcThPWkNqaXE3alUwcmFodnAtVEtnY21oNG5HN3hiSHN2YktiRmtzYkNkQnUtZDlWVUpnaFY4bWdzbmxHVVpWTzdKcmxpY3dBdG5ndkFoQ1BmRlNHQ1dMMlI3cGxTa1RnNTU3VjUtdWswWGU4SjVUYmFf?oc=5",
+    "date": "2026-06-18T15:11:10.000Z",
+    "summary": "OpenText vs Trellix 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Second Moscow refinery attack this week damages units, sparks fires, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVGFSYUpuck9xemI4bmp5MjF0c1VnbWJVR29YWHdLaTRfYm4tOVRNUzBPYzg5bGJ1UUxUYVk1Y09vUVB1c1pYOU5ZVTJZam5OODQyQkU0bjdiM0RpaUxEak5oSEFDcXA3aW5KR2U4R002bjV2NmpIRllRclh2VjdYY3pGNXROT1hUTk91b2o5czdRNGVzNXV0YW9mdG5YSDlXRDRUNnNPU1hDQUFGM1FDLWdCUVA5U0dpTUpaeGxHcWtLZUluTk1uOGt3?oc=5",
+    "date": "2026-06-18T14:54:09.000Z",
+    "summary": "Second Moscow refinery attack this week damages units, sparks fires, sources say  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "P3 LogiQ Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wb2VvMDRTVEljQmtkWmpIbFhhbGs3WGhZUVh4TGprUjZHMU9VYU1jQzV3SVhWZ0ExbkhrVUhzRmQxS0Q2eW1mZENBZDlkcDlDbGdlUGlROEpkQUpp?oc=5",
+    "date": "2026-06-18T14:23:42.000Z",
+    "summary": "P3 LogiQ Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "SEMINE Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRDk4dWlPbDFvQ1d5YzVvLVpuQkVsVndqWHRqU0VpOV8tYUxUSlcteWtaaW43ekZLUlRiNk5adUpkemhsanVfWjk2MkRhakFXRG8zUjFQbFVfUQ?oc=5",
+    "date": "2026-06-18T14:23:42.000Z",
+    "summary": "SEMINE Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Prestatech Cashflow Analytics Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUNG5oeDJWMXg1Y0xEakJRdUVHcVFMeGgwcEdzWmdpcTV1NEpDTy1feWQxek1RdFYyM3MtT1FlQjJsQlpFMEk5SEd4ejRBOHpBQWNRM3Ria1NuM1NmYWlEMkJ0bWVCMjFsVTBLTE5peWJFQ21hRTZOeQ?oc=5",
+    "date": "2026-06-18T14:23:42.000Z",
+    "summary": "Prestatech Cashflow Analytics Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Impossible Cloud S3 Object Storage Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DTll6blhxNE1FZWxtNThTa0xSTWRkUHlqbmF6dk1NUVVPRzRwdGtGa0t5M2UwNzdBbTAwMHdJYU9aQmZvampjWV9WX0lrdVhOZUFLbW5aU2Q2ZlNBU2lWR1JrRWNOaW9RZGxIQnB2QkJ4SXBocUVIaEZ0UnVGbkE?oc=5",
+    "date": "2026-06-18T14:23:41.000Z",
+    "summary": "Impossible Cloud S3 Object Storage Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Portkey Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbVF3N3lKeEtycGVKNERiQzVnMElRZDhUVGJzSTBXNnVaY2RheGpqaC02cjdQUmJqR0d4VjdKUlEzRlJDUk1oVlZ5a0UxUzdrZ0RXNGxyR01EM2NNd2RuSnZ1b3FCbk5f?oc=5",
+    "date": "2026-06-18T14:23:41.000Z",
+    "summary": "Portkey Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "deFacto Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdTZoeHZySlhtekZsTFRnX3BhbUtkbDJkeUhxRFdpQUtWR1VzR2tsWFFLOE5Zblk0bTZYOEg4QW8zeFhvODVodHJQN0U2YkprYTVFVHZ2NklYb0E?oc=5",
+    "date": "2026-06-18T14:23:41.000Z",
+    "summary": "deFacto Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Pfizer CFO Dave Denton to leave company in August - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaThUU2M0R3dFcHFGeWFodnBicFh1OWxsR2dURzR2SjZfblNwR1E5WjctTG5Gb2prWXhDYjMwS0RWeVpoVElRbzNyZzc2dHF3M09aalp2QU1zSmowSXpSMmFuMmN1U19QMGMtcDNYN2NDMzBSXzVPZENFX0JBbVdqMV9veHUwaW5LMHdHRVZIZ2JickhncDhpdThuMHYwdjJPdnVBRzZsWUdmMHJJelc2cA?oc=5",
+    "date": "2026-06-18T14:21:55.000Z",
+    "summary": "Pfizer CFO Dave Denton to leave company in August  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "NuPlay Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QR0hoZzVaZ25xWDJtMVhzNFRYeEJQaGNCT25LMncxNkVYSzVjaGdSU2dOTmhHYjAxWmR1M0F1THQtNkRvWkRaUGZ2dkNfY0tGOGVHNWNDLWJMUQ?oc=5",
+    "date": "2026-06-18T14:21:50.000Z",
+    "summary": "NuPlay Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Lenovo Digital Technology and Business Consulting Services Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXRTUW5ZRUphWER5dzhSWUNmb3RWYkRhT0tFa0VQZW5ZdnRVTDVoOFpnSkFZT3hUa2RCbmE0cVBtWXM3TUhyZ1Q1azI2VlhXWllac3ZFeEYtVTBqcU5aMVFzR2RCZjM3MkpNRTM2ck5VaklaZm9fMmdSR1JEOUZFZHJtQ0hCUWoxWkNRcGs0RXFpbFNjbTBGWjhrQ2djRDQ?oc=5",
+    "date": "2026-06-18T14:21:49.000Z",
+    "summary": "Lenovo Digital Technology and Business Consulting Services Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Amazon Supply Chain as a Service Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5felRURW9vU19uMWU1d1dFRVNuaW5TTkF4cTFuNDNyWVVhX3A5UXRVdUZSeWNYd0JlSlBTRWI1czM3YlR1R2h6VjhuUnhHWUNTLXhsS05uZHZLQ2ZrS19fOXlsWUF3NEw3VkVmQUVQVjd5ODN4Z2ZveEtxSGk?oc=5",
+    "date": "2026-06-18T14:21:49.000Z",
+    "summary": "Amazon Supply Chain as a Service Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Semrush",
+    "title": "Why category entry points belong in every AI search strategy",
+    "link": "https://www.semrush.com/blog/category-entry-points-ai-search/",
+    "date": "2026-06-18T14:19:00.000Z",
+    "summary": "Learn how CEP-anchored content performs across ChatGPT, Google AI Mode, and AI Overviews. A research experiment in AI search."
+  },
+  {
     "source": "Forrester",
     "title": "Retail’s Incremental Total Experience Shift: Select Brands See Significant Improvement",
     "link": "https://www.forrester.com/blogs/retails-incremental-total-experience-shift-select-brands-see-significant-improvement/",
@@ -26,6 +264,13 @@
     "link": "https://www.forrester.com/blogs/ai-agents-need-real-time-context-data-streaming-is-how-you-are-going-to-get-it/",
     "date": "2026-06-18T12:50:50.000Z",
     "summary": "Real-time data is reality. It is the context that represents the physical and digital reality of what is happening in your business right now. That context is what AI agents need to make accurate decisions and take appropriate actions that affect customers, operations, workforce,"
+  },
+  {
+    "source": "Gartner",
+    "title": "Commvault vs OpenText 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1lodHlHZWhUd1dCOGtQQXhlME00eERiVnJHUDJyZ0pjUEFnTTNlTV9UTXhvNENXdktyZ1pZcnd3Z0x4cGluSHFjWDFoQ2ZEMkxIZUhFTV9LTXhyRzZRa0EySHAzS05vZTVIVGFLSm1DQXJ5bkRHZ0t0M2ltQmZqcDhzTnNtbHZBVzB6RW9sSGl1Zw?oc=5",
+    "date": "2026-06-18T12:41:32.000Z",
+    "summary": "Commvault vs OpenText 2026  Gartner"
   },
   {
     "source": "Reuters",
@@ -77,6 +322,13 @@
     "summary": "Top OpenText Likes & Dislikes 2026  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "India's thermal coal imports drop to 4-year low as green power rises - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHJOejloXzNkQm5BdVRKZ1BYSXIwSGM4NFdRQ2hmRUxNenJXdDZUNW14a1ZXMG1SU0hEZGIxcGxadU5LTGt2dFdiUG9KLXQ0OVRUQWNsck5IYmJ6RU1CbURBVHBYa0xWSDFZSzlKWXNzVXZPOGhqVnRBajFneDExRXdxUktrd2FJbHVodk0tQWltdFYxVjcwZFh0eHJPVi1vMFpXLTZCTTRqMG1aTkFzQTlzSQ?oc=5",
+    "date": "2026-06-18T11:35:45.000Z",
+    "summary": "India's thermal coal imports drop to 4-year low as green power rises  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "How to rank in AI search results: Expert best practices",
     "link": "https://blog.hubspot.com/marketing/ai-search-ranking",
@@ -89,6 +341,13 @@
     "link": "https://influencermarketinghub.com/ad-exchange-explained/",
     "date": "2026-06-18T10:36:41.000Z",
     "summary": "Influencer Marketing Hub\nAd Exchange Explained: How Advertisers and Publishers Buy and Sell Inventory\n\nAd Exchange Explained: How Advertisers and Publishers Buy and Sell Inventory\nKalin Anastasov"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russian regulator demands explanation after one Moscow petrol retailer hikes prices by 19% - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmRQWGduVWRnaEo5T0x2WVpQX0lsMlN4dEh4TUxmdjc0UngydDZBUlVGTWtZaEdROTNpbDY3QzYzeDZqRzhiYlQ0TkU5MmdvSHY5azFUbGtNa29WTzVIajFWOHpfQm9iUFNRMHFla0xCb1cyaExPRDQ0SjZSdVlKVWJZYUFlc0RsSXVtR21lRWx4SVVKSjVlZUNXSTc0YlZnMWNsakg0cGdYcGgxXzlSbU1lY3ZNSm85OTZXZnNWQTVKWU9tNWhn?oc=5",
+    "date": "2026-06-18T10:36:36.000Z",
+    "summary": "Russian regulator demands explanation after one Moscow petrol retailer hikes prices by 19%  Reuters"
   },
   {
     "source": "Influencer Marketing Hub",
@@ -316,6 +575,27 @@
   },
   {
     "source": "McKinsey",
+    "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce."
+  },
+  {
+    "source": "McKinsey",
+    "title": "An update on Asia–Pacific consumer sentiment: Outlooks diverge and spending is more selective",
+    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-consumer-sentiment-in-asia-pacific",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": "Concerns about inflation, job security, and geopolitics weighed on consumers across the region. Here’s the latest research from our ConsumerWise team."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Rewiring Talent to Value in the age of AI",
+    "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": "As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started."
+  },
+  {
+    "source": "McKinsey",
     "title": "What corporate leaders can learn from start-up founders",
     "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders",
     "date": "2026-06-18T00:00:00.000Z",
@@ -344,10 +624,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Ukraine's Zelenskiy says he spoke to Trump, Macron after G7 summit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZll4cERIZGk4ZXFnNG45aGNQdEdISXRhcEM3MW90UkdvVGRJRG5pNEt6SGt2UWdFN0U4SC1DOHdxdGc3YzdwZ0tleDJDOXZ0a2J2R2VaU1NoSGhVZWcza28zOE52OWU2dThmWTViUUxFYnJvTzI3MVRFaFRBMXpYZDYxZ3lZX3lnLW1YYVFlN0tKc1dienY5czUxeUZLS3BpX0JmcUlqeDVTeGMzWVpvREY2WThoalRlWHBFdWw0WV9oQQ?oc=5",
+    "date": "2026-06-17T22:48:19.000Z",
+    "summary": "Ukraine's Zelenskiy says he spoke to Trump, Macron after G7 summit  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Chinese regulators clear Paramount Skydance-Warner Bros Discovery merger, source says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWNEVVRaV2NnREhMN2VOVjc1WG9sMmlJMjJIWGRvbDU1LUlXN3lGbU5lNGVRT1RZRVc4blpMRE50X2J4bFJ6SlJ2VzN6Tk5VTG5tVGVkZ3VOa3FsYm01cTJUZzdsekFhVk1DRUdFNFYzSnhDazZpaXgwdjl2UlphTEFLejdZM2NhV1EwYTN0b2NiMFk5bVZrLTNXYkltTnNwVU9YczdCdTBSZ2RfMTVyRG1adEFVMGZoXzRidUlKSlgxVzVqTm9jQk5jX0hNa1dKT3dFaQ?oc=5",
     "date": "2026-06-17T22:16:48.000Z",
     "summary": "Chinese regulators clear Paramount Skydance-Warner Bros Discovery merger, source says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Congress to hold hearing on US airline competition, regulation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnI0SW0xVFJrZlY3dHBYTkNwcWMwYU5FQU5mWHJ2YVRoaHhlQ01tbFRhQzVyNk1tY0p4SFRxZXRKY1psZTV2Um0wMnpSWTdGWFQwdnRDUGJLRUlqN19JSDl2YTRfS1JkdWlheU04dDdmUHpWR0VPR3Fhak5MNDRsM21IU2JYa2JjSloxTWVhLTRyTllUSmFJSzlTb3plUGFsUlE?oc=5",
+    "date": "2026-06-17T22:15:19.000Z",
+    "summary": "Congress to hold hearing on US airline competition, regulation  Reuters"
   },
   {
     "source": "Reuters",
@@ -435,6 +729,13 @@
   },
   {
     "source": "Reuters",
+    "title": "London court upholds injunction preventing new South Sudan oil prepayment contracts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjRCbXcxMHQ2anhOSUlFd0JVUjBXWW5JZWhaQmZiQUFLQXJJZG8wdkhPV0dEWC11bU1uQjlRV3dMRWcyT0lyNnNyQTAtU01uOGU5MUlUT01JSTR0NUNnNHZ4RDJSWnVpN0ZtemFvY0RXVWd6TEZaNVFyNjFpdUdjSGhmZUhrX05SM19VSW9xSi13Nndic1dhYjlvUUw0QUJ1cktMVWJvYl9JNUFrSTFxX2F1RVZNNFRGQTQtcy0xTGR0YkU?oc=5",
+    "date": "2026-06-17T19:47:03.000Z",
+    "summary": "London court upholds injunction preventing new South Sudan oil prepayment contracts  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Fed chief Warsh appears to forgo a 'dot' indicating his rate-path view - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTG5nNUJBczdIMjlwaWxza0xkbFdjTmRUOEJTQ0RKU0pkUDJISS1WWlN3a010aFY3WE9KYUxQejAtY0ZvdVBGdVpaZUdocThiV2lqVy11M0lhaU82WjA3dkhYRXBMSkdBdnA1NkhqWFpRdlJwZEM3SzJnWmFXdlc0SGktSUlneGV3OVF4MjNXQ1dITzQ5bVlJX3Q2MXdqQmJlN1BfS1F5VGlQQ2tqNXV4YnZDNVgyX1k?oc=5",
     "date": "2026-06-17T18:52:52.000Z",
@@ -467,6 +768,13 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3RGdFdxNnpXLVpLTlkxemJqLUtGWTdweGp6YlNfUWw1M3pQb25JUDc4ZFZKYkR4MnkzSWpLY29sLWRuTFgyOS1pRmdJVE1BUVIycVJKQ3pnNU1DdUN3VThGT08takJiLWhxSGlWb3RCU3ptODRadTNRTXNPZFVETzhUWE9PdkFBNFhmWm9kcnNLS3BMTm5OUTl2U0dsZTg?oc=5",
     "date": "2026-06-17T18:09:43.000Z",
     "summary": "Nearly half of Fed policymakers see a 2026 rate hike in the cards  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Italy's privacy watchdog fines Emirates over handling of passenger health data - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZDJ5Z3NWVUVKOWtfTmYtRGZpeURENm94YzZvTDlrWHpYbDZ1YmFzeEFFbm1GQndjRFZHMzRBSFlOT3lHUlJaVzFmU3lnZnBOWWs5clByV3BCeElycEl1dHI5WXVuZWROY09XVWJZQk9zWENrUzRpVHlzaUlGVHo1Rkp6b2h4MWhaOGpkbHIwbElqMGZmQlo3aWhCQlRNT0NEY2Zpc3NpNUlzN3NZWGNUMllKd3NhTFNlbmt4MWJaVlMwa3FwZHVwYmlMMWNuVnlLaW5KNUhTNXBKRTY3Y3Nr?oc=5",
+    "date": "2026-06-17T18:02:54.000Z",
+    "summary": "Italy's privacy watchdog fines Emirates over handling of passenger health data  Reuters"
   },
   {
     "source": "Reuters",
@@ -624,10 +932,24 @@
   },
   {
     "source": "Reuters",
+    "title": "US progesterone supplies tighten as menopause treatment demand grows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1vTUVVMnJ3UlZ2YXRQWkFzWEZQUEFaaWZlSlpTQUhYZ1hOTGZRRHczYmhab05OMXE3OG1ibU50dTRnSFZSMjRnbC1qcFlqUXJHN1lWZUhEb0o2blVQajI2QWVMYTRYUW1RZFZnM3MwTHRFelhxSDFrQUFuODZVMl96cXJiTk1rcDhhRklwTFZqNGxEV3FyeElvOHdWQ2xSaFF4d3VWVG9LeGdTX0RfcjdLTUlQM2g1Zk5vUXV3NXRRajg4QU1TaFczMGZtVnhQY3Rv?oc=5",
+    "date": "2026-06-17T15:30:19.000Z",
+    "summary": "US progesterone supplies tighten as menopause treatment demand grows  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "BBC to cut 550 jobs in cost-saving drive, including news division layoffs - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVdVMWJTOXFyWkJoYW9vM2dFdGVZT1pOWTc2d0ZLS0FxOTdhTzZ5cDRLaXh6RVpKNmRWbDFUMWt0bENhdVFycFpXN3FCU1J1eFVTYm40M3hmUWlybjhBZ0Rkc2ZkdGpsTEdlekpHSE9mbDExdktQRGVyR003MlhQbmxxVWdYa3JraE5XZUwzYVA4X3ZLWFluS2J6WFdTNVdVQXJKVUVMdWRZN0ZhdEljVg?oc=5",
     "date": "2026-06-17T15:06:55.000Z",
     "summary": "BBC to cut 550 jobs in cost-saving drive, including news division layoffs  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Poland and Germany sign bilateral defence agreement - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC03VmhQUGlCekNpRVBWWXhXNGdzcmowLV9sa1RibUZWcUVDWUIxMVJWTVhKT0NSOEsxUmE1OUZGM3lwbmdvMkttUWQ3OFMzNENQblJqVUlycFppMEtwcGRrd1ZIYS1oS25XbnJQMDFtSjU2d05UUmZrV1hRX2xmYjJJSklOdlNmRnB2N0RySHhoa3p6a3JyUm5oZHJFVkk2QUhmYVBIaWFnX1ZKZlR3?oc=5",
+    "date": "2026-06-17T15:00:18.000Z",
+    "summary": "Poland and Germany sign bilateral defence agreement  Reuters"
   },
   {
     "source": "Bain",
@@ -887,6 +1209,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUtrRHFMOXdmVGFFdVpVV0psY0dEd0x6dUZjSHBOLVdlQ0lMeDhkRTlBdGYwVjN6emhrdXhNWWd1a3JEbEtnaURFOFR6N0hlRlhZNnlGSzJESHdqTExMNnd4ak96ZTVDYm96UHFPUXlzX3lHUV9XdFdkV3lQRGlOYlJPcFZQWUIwYnZGRzl3R1hPbXdQV2hfa2c5ZnAyajJTdlVTQ0x0YmZDWHZQVXZYVjU0TW9MZzlIbklxOU9RUQ?oc=5",
     "date": "2026-06-17T08:59:51.000Z",
     "summary": "Exxon Mobil to supply South Africa's first planned LNG terminal  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "ECB wage tracker shows muted pay pressure despite war inflation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHJPQ2laTG9YY3BHZ0tFTGN2WDViVEQ1T1dTVFZVSnc5WnVsdlhlNFprZVBuTEhObENVSkdKZzRla1cxZHQzNk5zS3MwRmtFOHB5Z1pGZ2dXdm1pWVpmblVyOTQ5U3UwRXVoYjZ0Mk45YUI2dEs1UE1NOU9ZMDdjLWFzd05PQmNuM21ILWttZDhKU0lqaXNnVjdtOEhvTlBVODlGYjhHVV9RemVtcjNwbm1QR0hRY2wtZ2V5YXYzYw?oc=5",
+    "date": "2026-06-17T08:53:57.000Z",
+    "summary": "ECB wage tracker shows muted pay pressure despite war inflation  Reuters"
   },
   {
     "source": "Gartner",
@@ -1881,6 +2210,13 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpDNndYUmFqakNFZXB6RFBCdGF0LXA2WjJBTHRRS1dhX2pfUl9hNHU0bEUxM0gxMXk2M2xkTUxfOWhsZzBsbzBJZ0Y0X0h2Y081ZVFpeWVjNV9udnNWTFdSN2ZadnNsTXZiOTdHcHYtRW1UNGVpeWtkaUF1WjlhYU1mMWhWS3JVa0U5MWpTcjNXLVE1ekRQcVdyNmFPbTVRemZucGYxdUNERVdxc1BqUTFR?oc=5",
     "date": "2026-06-16T11:18:58.000Z",
     "summary": "One dead, 4 injured after magnitude 6.3 earthquake in China's Qinghai  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Consultant - Tech Consulting - GPS- Backend Developer (Junior)- Noida Job Details - EY careers",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFQtLTA2eDZLZFBIT0toaUxNVUZvQjZvQkQxSjBUQ0N6Z1JCaXl5dktjdmhSUlY4SnkzTjk0OFczWWczSEdQaERPX0Q0TVA0aHZDcTN6bkhJZXVWaGp5aUJyWmhuUk90NzRnYU5xQUx4R0hMd25DRmh6eG4wbXZyaUtaSGV5bDdGbW1JbHAyVjFDbDN2aXB4dXctbFRuRVBwVmFoSkxUREpXdnhJdzJFNTAtZDkxdk5DR3lmSWpEVWZvNW5iQ3pueVJyWQ?oc=5",
+    "date": "2026-06-16T11:18:34.000Z",
+    "summary": "Consultant - Tech Consulting - GPS- Backend Developer (Junior)- Noida Job Details  EY careers"
   },
   {
     "source": "Reuters",
