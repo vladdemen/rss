@@ -1,10 +1,59 @@
 [
   {
+    "source": "Forrester",
+    "title": "AI Is Moving Fast, But Trust Is Struggling To Keep Up: Why Security And Risk Leaders Can’t Miss Forrester’s AI Forum",
+    "link": "https://www.forrester.com/blogs/ai-is-moving-fast-but-trust-is-struggling-to-keep-up-why-security-and-risk-leaders-cant-miss-forresters-ai-forum/",
+    "date": "2026-06-24T20:03:20.000Z",
+    "summary": "AI adoption is accelerating, but confidence in its outcomes isn’t. At Forrester’s AI Forum 2026, security and risk leaders will learn how to shift from traditional protection to a trust-and-assurance mandate — with practical frameworks, real-world perspectives, and strategies to "
+  },
+  {
+    "source": "Forrester",
+    "title": "Answer Engines Will Select Your Content. Your Digital Experience Has To Do More ",
+    "link": "https://www.forrester.com/blogs/answer-engines-will-select-your-content-your-digital-experience-has-to-do-more/",
+    "date": "2026-06-24T19:58:08.000Z",
+    "summary": "Last week, I received yet another eye-rolling vendor email: “Hi Laura, we want you to know we have skilled engineers readily available for long-term contracts…”  Wrong name. Wrong role. Wrong company. Wrong everything.  So, after double-checking my calendar to make sure it was no"
+  },
+  {
+    "source": "Forrester",
+    "title": "Meta Gambles With Its Trust In Prediction Markets",
+    "link": "https://www.forrester.com/blogs/meta-gambles-with-its-trust-in-prediction-markets/",
+    "date": "2026-06-24T19:12:24.000Z",
+    "summary": "Prediction markets have gone from niche curiosity to mainstream phenomenon in a remarkably short time. Trading volume on leading platforms like Kalshi and Polymarket has surged over the past year, climbing from under $5 billion per month in late 2025 to roughly $24 billion by Apr"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oil markets start to signal near-term oversupply as tankers exit Strait of Hormuz - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmJaZHpSZ2pFeUs5SjJxLUVGcTIzRGhXLU1WbUF3enJsdjJneVVob01zdE5zZW80OE1fX2poRzZYUFhTTGc1SENEZmNhMTlndHZTcHFWQi1zRm82bVd4cmdWUGl4eEFTb0xULUlPMlRRbk1iLUdSODhDRXlfVkl2WklKNnY2ZmFmd1ZDZmktc215bEJadHlZUkZxanlXa19UQ0FkX3hwYW9ackhyUUtDcVlLbmZtR3lQbmduTnB6QnBkZw?oc=5",
+    "date": "2026-06-24T18:55:56.000Z",
+    "summary": "Oil markets start to signal near-term oversupply as tankers exit Strait of Hormuz  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Qualcomm bets on AI chips to break smartphone reliance, but faces crowded race - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnR1NDI4aWZHU3RPUlpodXhUMGlKSXFMU3k0QWZOY2hYSVdsVDlDdnhuSF9BaHh3UlV2WURZeFZQVGVKSFluTlJ4WmVHTEJVQy04clNMR3VONzUycVVUNm5zcHhOVW9EcmdGVXFtR2V6bEVMeE4zOVVNUnAyYUpnRklIWWh3eTZyR0lnUzBkeGNiWXhMRFN4ME9IZm9WMlFwM2I0eC1mY2lwY1B3T21RYUhqNjhNbXhGcHB5UHQxOTlQcXJfN2VV?oc=5",
+    "date": "2026-06-24T18:26:03.000Z",
+    "summary": "Qualcomm bets on AI chips to break smartphone reliance, but faces crowded race  Reuters"
+  },
+  {
     "source": "Similarweb",
     "title": "You Can Rank on Google and Be Invisible in AI Search. Information Gain Explains Why.",
     "link": "https://www.similarweb.com/blog/marketing/geo/information-gain/",
     "date": "2026-06-24T18:22:51.000Z",
     "summary": "TL;DR: Information gain is no longer a content quality trophy. It is the entry requirement for AI citation eligibility. A new study by On-Page.ai scored 150 pages holding top-3 positions on Google for content originality. One in four graded ‘mostly shared’: the content was semant"
+  },
+  {
+    "source": "Reuters",
+    "title": "Renault seeks to cut 800 jobs in engineering in France - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTZXQVlha2Y1NlNUUVJ2WEoyb3NIX2g2bzM4YmFJMnZWcEtyaV9iMFN4anVuSjFhVWVzUnJ2Yld6MTE0U095MUg5bVV5QThUMW1RMDNEbk5jNUlsMy1aNWE1ZFI1bl8tQzg5SUNiWFh5Qm9vbmE2bVFmZ2JPVVY1d25KU2Q3ck1LWGZ4dkNaUGxPRk5xMFJnYjBzUTBGT2Y2bFRuOW5LYw?oc=5",
+    "date": "2026-06-24T17:44:41.000Z",
+    "summary": "Renault seeks to cut 800 jobs in engineering in France  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US airline stocks rise as oil retreats to pre-Iran war levels - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWlMZ1R5R3kwcFZ5aU1SNnlnYm0wNThQTXFLU2c4U0c2WFNWLVJXZVhJRVp4VTJHaW9OT184bWI5a3ozY3NPeVVSWW9sQlEwQ1pBNWEwYlk4cUhUY1hSVXZOdUJ5U2F1eTRyZEZlYXJRM2JkdUJTUXRacDNYTWNwUXJjOV9JTU9GN0g4NEQ5TlBXR0FNdEZ5ekZBVk5YejJ6cDdTOEFBdzQ5ekk?oc=5",
+    "date": "2026-06-24T16:56:14.000Z",
+    "summary": "US airline stocks rise as oil retreats to pre-Iran war levels  Reuters"
   },
   {
     "source": "Forrester",
@@ -124,6 +173,13 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOC1PVDF6c05Rdzd2N1pPVXgyczloUkN5ZjRHQzF2Zlhya1lXdmxQWXBtc0xTMFZLdEZqZ3NrN0hSYUNhcDZmQWZIRkp2VGlfZ0txSEV0cnVVOWg4MUg4RDJPT25zYUFWaldDNXllMmw3ZlkwUGI0aWdnZ0pDMG1JMkhqWlhUU3ZHdnhOT09iVF84T3FtMDdibWhuQVdfM29WTTh4S01GTy1CeDI5?oc=5",
     "date": "2026-06-24T13:36:09.000Z",
     "summary": "J.P.Morgan raises S&P 500 year-end target to 7,800, joins bullish trend  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US current account deficit widens more than expected in first quarter - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0Q1Qzhka1FqemE5N3hObWJnem1fRGx6bDROSjJiMXE1bHYzMWtLUElObkYwRVFHNEpuSmRTYVcteERVbVNGamR1LTQwcjFYVEszWXhteVlNc2kwcHlxS3lZX3E3SVlZMmI2Sjk4ZWpONG5nWFB0RGJqU0Z2dDZpUmN3WERCb2VvM3hkelVfMklRaDdGdm9rUWk2RmZCbUxmRjhfbWlqVUhsRFBZWXBrTQ?oc=5",
+    "date": "2026-06-24T13:30:09.000Z",
+    "summary": "US current account deficit widens more than expected in first quarter  Reuters"
   },
   {
     "source": "Reuters",
@@ -274,6 +330,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Hyundai Motor's South Korean union approves strike action over stalled wage talks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHQxSjlOZlJQM3F6aklxZ2g5LTREYjBvTzhKaWVidU5VeUpQbnN3TGMxOHREaG4xWGk1QWhiOTZ4YlJGdHJjUXk5ZWZORGRPM2lvTjFoVTNqRWpEa1ZIV2Q5cDR0Vzh1cGt2NFRVUHNWaThPNXY1NUM4UkxTakM4T2RIMjNGV18ySXRmLTRFWnJMWXh5bVpncUFQWGVnREdPQ0U5enhrbU84SW16RVJUaEtMTDlJb3c3c2xNNWM5TERCOC1yLXJqa3gtSUwxeHdyMmJIU2RR?oc=5",
+    "date": "2026-06-24T08:56:07.000Z",
+    "summary": "Hyundai Motor's South Korean union approves strike action over stalled wage talks  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Green steel startup Stegra says $1.6 billion funding complete - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNwNlEtemJxOTNpTWRYU3N4TXRrS2dpaU1jbUtNVk85dzhyXzNSM3JfLWdxbS1UbTc3cVRkdmZjaHhsSWtZdUxNNm56aVp2Wm9abXVfQS1jeEZtelM5WHFXaWxQYzl3dzMwWS1QXzVza0lxY3lseG9LVlhab1dwT25iRk1IWFNMVDlWbXFtaUZNejlvLUVqeGR5NWJVR2tnUFlZd1dyUlByYmRTVUJubmhldw?oc=5",
     "date": "2026-06-24T08:33:03.000Z",
@@ -327,6 +390,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEpnVnIzOW9wd01WamFhWndJQVowNEVvSXpWNXlhM0doZC1oRlJLTV8wTENvNkthNnVMMVFXTEhCTXAyNnB5VlJmcXNOR2UxUzJha19VNV9odFBnYlpuN0JPUURGOWw0Q2dYV0h5aVRmNnFHNHZTNlpUeE1PUFBvUHg4b0pieGZHd01NLWJyZ3BkRW5DaEJ6aWZqT0xxbWpoSWZkdmdZdWhvbFNkVVhaWHVCbnRTZG1oZmJrUU9R?oc=5",
     "date": "2026-06-24T05:25:57.000Z",
     "summary": "Russian oil firms should process 30% of crude oil at home, Kommersant reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Adani aims to be major player in India's nuclear power sector, targeting 10 GW by 2035 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc19GYXBoWnpBRVhPOEs3bmJsZVQwMERaM0FMWV9IWFVWM2RCdHBaYmlYMlBPY01mZk5vaFYtenpoR2pEVGRaTXFGdVQ1X2p0R0luQ0RabmlLNjcyTDczRlFsZ05WUjZBbGxmb0N4Z2tITDRFTktncWFkNEdMQ1VYeUVjYTJYTUE3a1BGU05nNkFFZUpyeWdaVVRuNU1GMDFzdVZGaEFQWXhRSDRlSU95dGRR?oc=5",
+    "date": "2026-06-24T05:24:00.000Z",
+    "summary": "Adani aims to be major player in India's nuclear power sector, targeting 10 GW by 2035  Reuters"
   },
   {
     "source": "Reuters",
