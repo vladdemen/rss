@@ -1,10 +1,87 @@
 [
   {
     "source": "YouTube Blog",
+    "title": "Building for families in Türkiye and MENA with new kid accounts",
+    "link": "https://blog.youtube/news-and-events/youtube-supervised-kid-accounts-middle-east/",
+    "date": "2026-07-01T21:01:00.000Z",
+    "summary": "YouTube is launching supervised kid accounts in the Middle East, North Africa, and Türkiye, giving parents new tools like Shorts timers and content settings to manage ho…"
+  },
+  {
+    "source": "EY",
+    "title": "From theory to practice: TLPT in the finance sector - EY",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGFmWHlEaDdMT3ZZeUlxUjBfd0J3dVdtdVlRYTBpYXlUdmN5a3BJS3V1OU5VQWRCTGVmbHVpR2xQc1lKWXg1eXNHYUFoTjN2QWVWNEExZWt6UFpId1R6eDEtX1BKZTBKMHhucWQ5bFpwSEFIQWFad0Zlam82LVpRczRIU2kxLUp6bmlXbzV6WWVwOXhpdmlJWXpMV2lYWUk4cUt5YnR3?oc=5",
+    "date": "2026-07-01T20:21:36.000Z",
+    "summary": "From theory to practice: TLPT in the finance sector  EY"
+  },
+  {
+    "source": "EY",
+    "title": "How is sustainability shifting from compliance to business value? - EY",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONk1mQVc4Q2dOSGhUQjlkbXpXMWtvbEE1RU40UDQ1b1p0b1dsSFVYRHkyYVNXdVUwSDlaWG1hb01DajV4TWdHN0FhS0JINS12dFpjcFNZRHhjbk1RY1ZfUUFhSXJLdlZKOVZVUXpLeEhHa1k4NnlWQWF0cjJVdDVnbTQxdHJaYUI5TjFMTFMyM1RYY1J1NEFnZlE0bmdicUpXOXU4Z2lnaGRBSGFKUEE?oc=5",
+    "date": "2026-07-01T20:20:45.000Z",
+    "summary": "How is sustainability shifting from compliance to business value?  EY"
+  },
+  {
+    "source": "EY",
+    "title": "Global PE Exit Readiness Study 2026 (PDF) - EY",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzlEdFA5ckxaalBzYnIyclhab1l1WmE0RkhXaDg0MUVQTGxSVVBPOW5vdkdhS2F2OWMyV1pyQ2htZnUyUkRFejJzb1hubVYxMTJ5bGtfY0hWOG5BR0dOeWc4ODRfRFBQaEh3ZmhBYldJWDR0SVp3OXVaTFNLbzJaaDViNnczeG85dzBDUw?oc=5",
+    "date": "2026-07-01T20:19:45.000Z",
+    "summary": "Global PE Exit Readiness Study 2026 (PDF)  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ukraine announces framework for wartime arms exports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT1AxeVk0Rk1jWThVTDdZcmF0TjZjOFVsVXdsTmlldm1FZEp4cGpvNU5rWllqbXVCek5UX1dVM0ZaRlA2YnlDN1NVYlJndnJMOTlXVFR3dHNSWXUxQk5UV1hpV2NRaldyRDYtUjNTb0owdzBsU3hlRG9HdU9vSXVKUjhZNElCMFJpVGlXVEdlY0pLZjdyQkNXRDhSai1iS3BUdlNQY1RjVnpUYlhOYXRPbno0c3JPa04xNHFoOXU2Q0JDZmRqTUVhOU5CSjhDQW5PNlE?oc=5",
+    "date": "2026-07-01T20:04:33.000Z",
+    "summary": "Ukraine announces framework for wartime arms exports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI hopes and fears dominate global central bank meet - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
+    "date": "2026-07-01T19:15:44.000Z",
+    "summary": "AI hopes and fears dominate global central bank meet  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFJZTzFRUHJxMVVWc0FKU3Vhb29hWFVDQTRZdzhMaE1BYTVWbHVHUWZtNTY3VnBER0pBbUJOUEEtSkt0NnRoRDlNVldoTm50T3NiTEVNY09GcWZaOVJTeWhTUWpwLXFqLU1FRDlkRnFvdGI3N1VqMGIxX1hFREF1RXoyd2ZKYVZKbmhDRFR4N29EeVI3T2QxUEZxcEloWk1fQW5ZNW52WFJvQnE5MUdGMGtEVE5lZGlCemcyNmVGTnQ1clhZRkp4QWg5aUM?oc=5",
+    "date": "2026-07-01T19:03:15.000Z",
+    "summary": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO  Reuters"
+  },
+  {
+    "source": "YouTube Blog",
     "title": "Introducing the Brand Deal Desk to level up your brand partnerships",
     "link": "https://blog.youtube/creator-and-artist-stories/youtube-brand-deal-desk-creator-series/",
     "date": "2026-07-01T19:00:00.000Z",
     "summary": "Stop waiting and start pitching like a pro with our new series helping Creators get brand-deal ready. Covering everything from increasing visibility with brands to navig…"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nike gains despite China slump as investors eye turnaround progress - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUk2aWRtYXRXLXJOOUhHOEdOS1Z0WVpoYXB1XzliUXAzcy1kU1c0aEE2TFhHbjBTQ0tlcnVYSThsZTRjdEFJUmU0RzdYTGwwR3VUbVVQeUFOZFVBMnNRRkZ4M0ZkdmJ1dVVhTUxYbnNKbXZWT2lwUVJoR0RFU0ZGRjItTi1ISml0d0QzNUpzM2NDLTJXYmtLQnIySDdqeGVoUVhVUWpsUWJZZmFlM3NWT2pWQjVzR1B4NnlUVktDd24yRGpf?oc=5",
+    "date": "2026-07-01T18:16:50.000Z",
+    "summary": "Nike gains despite China slump as investors eye turnaround progress  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US LNG exports to Europe decline as Asia prices surge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE1yejZ1NTZncUo4X1Y4Q0RJWFE1Z3V6dzNULXliVWw4U1hMaDRVQXU5SDdWQlFobTNwR1RzbWN6M1ozRkJmc2dRX2x3VWdRRDdiYkVHT2pwNzZqZUNFV1otNWF6NjR0Y01NWHV6ajNMUlczaGpIZUpvWXRGZUpVZTVPZ1ppZi1iWHl0QkZ4dHc0dHFMQ0dxengtRUgwYktH?oc=5",
+    "date": "2026-07-01T17:50:09.000Z",
+    "summary": "US LNG exports to Europe decline as Asia prices surge  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Gas plants for US data centers to be major source of climate change-linked emissions, report says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcms1YkpNaFdrbmJyMFpDTXc3Szc5MmxjRng3enQ1Z1Z0Uks0SVZKZjktV1VMaWJwWUpUUDFSWU1MeFYzZTNlVmVvTjJMMkVSemFQUEVodVhUb251MzJBMGdvVzY0amhzY3YyT3hFNzFlUkxuSDFUM1htdTFkRTJacnhBYWtaN294Y0RleFVLRW1ENWMwU20yUldSbWhiNkZ6aFlIR1FHMXBPWml1YUVnZWE2M0EydGczTU0yY0djV0dfTTVn?oc=5",
+    "date": "2026-07-01T17:41:02.000Z",
+    "summary": "Gas plants for US data centers to be major source of climate change-linked emissions, report says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Warsh says some task force staffing to be revealed next week - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajdPVm8yUzFneVNQZGNGOEFIbk5DRW4yMWIzcXhLb3Z3WjgwT3pRTjFZdmZQLTNFbm5mTE1EajlLcGQtOFdDNHdIaGdTaE9ERHdPc2p3UkFBekQ0Ny1IUFBHWGIxNUtSdURJbUNtblNTMWVxTkM1djdZRzRQOUllQzRsR3o2NE1XVjZpV1BCTFJVZ3AtRHBiUXQtZ3o5NlRRTW4yNVVDWnZuNzE4UFpScTc0LUF5UQ?oc=5",
+    "date": "2026-07-01T17:40:17.000Z",
+    "summary": "Fed's Warsh says some task force staffing to be revealed next week  Reuters"
   },
   {
     "source": "Forrester",
@@ -26,6 +103,27 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5",
     "date": "2026-07-01T17:00:09.000Z",
     "summary": "US factory activity eases off four-year high; input prices remain elevated  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russia warns Apple of $52 million fine over alleged bias against local apps - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVYzQTVLMENIVGZsTTRWbC0tU2dZaDdmTURRbldORzNkR0hhaTI4emFGTDdKS0pRbFlrV3g4elctalBUQ2ZmdTR0cEZWeE9UNVhIZkdTbVphWDNLOXY4aHdBdmI3MWJ5eWtSb0o3c0RmZTB1ZUhrLURZSnc1NjA3RWU0aFhQLU41UmxFQUhUb3oyaXJnaVBjOU5VR19VRkZtUkgxT3NFajg3SDVUZTNrLUhNYUI4cE0?oc=5",
+    "date": "2026-07-01T16:51:20.000Z",
+    "summary": "Russia warns Apple of $52 million fine over alleged bias against local apps  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta names Alex Schultz first chief data officer - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG9VZzY5eENGSnhJMzB3V3N1Tm03OHl0a3dBMVozWk8yV0FaVG1CaVRrdGEwYzdWS3JQNnpLY0x2anpNMFVXYmZxOURxOEx0c2djMGF1RUE0THd3NzRocjdUcUh2QnhRdVRKREVxV1ZoM2dkVW84NTI1N3JEMzdaVU9DcW5vcnh2QU5SY2VpR3B3TVpVUWM4VA?oc=5",
+    "date": "2026-07-01T16:32:42.000Z",
+    "summary": "Meta names Alex Schultz first chief data officer  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Together AI raises $800 million at $8.3 billion valuation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2FDQXdtMjduaGlBRWV1ZksxRDdWWk1kT2s5cHY2OS0xSkkwU2VCbjdHQXdsZGZqWTlYdXE0ZUE1anZLWFpQLXhmYjFZaS1RcmpGTWw4WnlSeVZfUEVDMVpQNE5qdXFfc1pVNGs5UmI2WUFSNG1hRnJUeUhLN0dBZEprcm5Bbkl5RGhjMVhvN0hPYXFSdEIzaWx1dGl6N2lTbVRtLUdLOFhMUnc?oc=5",
+    "date": "2026-07-01T16:05:44.000Z",
+    "summary": "Together AI raises $800 million at $8.3 billion valuation  Reuters"
   },
   {
     "source": "Forrester",
@@ -231,6 +329,20 @@
     "summary": "UK manufacturing activity cools despite stockpiling boost to output, PMI shows  Reuters"
   },
   {
+    "source": "Gartner",
+    "title": "Lead Qualification Specialist in London, London, United Kingdom - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmSnM0MGVZUHYzOXNURGhjcWJOZFhVak1TQ3QxMXVqbGJKQmJuUHgxY0VxUmFOTVFONmtLV3YtWWN5N3M3bUFFWUk3aUVYU0hjeE1ESWJ6MWNTd1lPaFZVSkdvOXhtZE5pbXBYY1RDX0hra3FzQVZ5aWJKQQ?oc=5",
+    "date": "2026-07-01T10:12:28.000Z",
+    "summary": "Lead Qualification Specialist in London, London, United Kingdom  Gartner Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dassault confirms fresh rift with Airbus over Eurodrone - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlVCcXRaY0hSSmxxRGYxNDNmSDZiS3pLc2NMYlI3aEV1YURDRTBYem1fYkxGLVA3amFSZUhNOGhrSnhoTWZuLTUzb0RfRUJCVFNoeWs2NEN1MHQ4aFZWY2FLTXRIV00xZXRmSmpxekx5VDlGd04xb2R4M3dYbzgtcEp2RTZSZ0tjd0t0b1Q4bWtQdUJOUmNMYXJ0VU12ZGRHR3FoNzFGczRkM2ZDX3lfWldXTHdQSGh5YXc?oc=5",
+    "date": "2026-07-01T10:00:25.000Z",
+    "summary": "Dassault confirms fresh rift with Airbus over Eurodrone  Reuters"
+  },
+  {
     "source": "Kantar",
     "title": "Ecover, The Ordinary and Adidas top Kantar’s inaugural ranking of world-leading sustainable brands - Kantar",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzh4cnhabzFQUG1QdHBJeUUxaG41VTVJdy1DLXY4MEZkSkJZdWZ0YmlnUjlqYlFRZ2t2TDN4RzI0RU5RZkxTWlBxY3JiTktrQkNZMUNRNTE4X3NKRFdjZ09mRXVmdU5NVW53LW4tdFYwN045dG5XRF9VMV9MaEpiM1NuallXMm5kbjlCMGtBRWtnWFViN21WTXhWRFB1UQ?oc=5",
@@ -320,6 +432,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekFDbS16ZThDdWF1dEc5MmtoellGbTRxRno5UnBZYWlWRkxWZm9QVjhSNERDTmhiYmtMVTEzeU9adG9ZYWZMQy1BejMxa01IUWVvYmlwaFp1aHoxM0FRMU13dGkwN0V6NndZR0RjMGRTYlBjMDJQRERNRVdfYk9rNW1jbV9WUkRUYVVldU5HX2pPSTdpTkRVUDk1MW53cnFYT0hCNXNhWFJVTzkzcUNoZDhKMEN3WHFm?oc=5",
     "date": "2026-07-01T06:23:00.000Z",
     "summary": "Top LANCOM Systems Competitors & Alternatives 2026 | Gartner Peer Insights - Enterprise Wired and Wireless LAN  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Hewlett Packard Enterprise (HPE) Alternatives - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnNkeEtXZzhkcG5LLXcwRF8wU3hWMkdGTC04a1h5b1JhTkNEVVJrbEp4WDZHMzRxYzlsX0l2LUYyZ0RrX1lQVjdibUlER1lMQkxMb2FZYnJVcEJRbVBNZnQtTlFpMmIyN0Y4SXVZZERMRGlNNzNrN0NBbV81R0JxckNpakFKRFVBckh5RUtGMGZETkctTkQxWXlWOGFpaGV6aFRMbWFHMXUxVWVXNnVlZ0JSUjIzNHNQZkFr?oc=5",
+    "date": "2026-07-01T06:22:59.000Z",
+    "summary": "Hewlett Packard Enterprise (HPE) Alternatives  Gartner"
   },
   {
     "source": "Gartner",
@@ -1251,6 +1370,13 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGhHQkNxTnQ4Q0NKZ0VoelRfZjlHY3dYWU5uelFlcXctWmFFdWZMbmd3dkNtT0pScm5nMzZLTXJabU1VSEcyM25jWnl6SkpHajVFRU8tYlRObjZHeWtYblB1OXNFZTV5MlFRQ1ZBMEhyQV9yVlB1MjVLQXkwWTFFalZIWDhtM2hzZ2FwUGVSR3Rfa05DY1Fz?oc=5",
     "date": "2026-06-30T17:56:56.000Z",
     "summary": "Huawei vs Pica8 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Odoo Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RM2tqZk04R3FHa085TWdnREtYMlprUEpVTXVCdDZLV3FmNjh1REwtelllNEJfZTRNU3JDbFRCcjRDY0tkVVM2Ulg0STBnTFRzdThkM2ppV2Z6dmtRdUVLdmw1M3psZw?oc=5",
+    "date": "2026-06-30T17:56:23.000Z",
+    "summary": "Odoo Reviews & Ratings 2026  Gartner"
   },
   {
     "source": "Reuters",
@@ -3071,6 +3197,13 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSksxMGZSd3p4LUpYNVVrSm11bk5qUHY4dEtmdll3V184a1RGSlVDVVA0ODZHZnBDV2dkMnFqYlFDNEJLc28wMlZDUFI2WHZXTHMtX2x2LTh2d1E4X3diTC11b0M2Sy1wY1h3ZF9wS0dfSWhxbmx6SzhtSlRzX19BdFBBT3FWamFUZ2pEOXY3NEZTVV9Gd2FkNE1YMGo?oc=5",
     "date": "2026-06-29T07:49:43.000Z",
     "summary": "China vows support for Belarus' national sovereignty  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "「スキル・フィットネス」戦略でAI対応IT人材を育成 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlM1V5Nm9pZFBwVUFwSDhTWU02X0RVRFNFVVk0SDZkOFI5aU11ZVE0dDM3T0g5WXQ0blRmbUhOX2pSX0thcGZRTERMZ3BSNlJCNFhKa001OA?oc=5",
+    "date": "2026-06-29T07:00:00.000Z",
+    "summary": "「スキル・フィットネス」戦略でAI対応IT人材を育成  Gartner"
   },
   {
     "source": "EY",
