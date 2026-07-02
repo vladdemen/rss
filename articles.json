@@ -1,5 +1,19 @@
 [
   {
+    "source": "Forrester",
+    "title": "My takeaway from Money 20/20 for your GTM team",
+    "link": "https://www.forrester.com/blogs/my-takeaway-from-money-20-20-for-your-gtm-team/",
+    "date": "2026-07-02T08:24:04.000Z",
+    "summary": "Three packed days at Money20/20 in Amsterdam, and the halls were buzzing about two things: trust and agentic commerce. Behind the buzzwords, Trust is really three concrete demands from banks: whether they can rely on AI they didn’t build; whether customers’ money, identity and da"
+  },
+  {
+    "source": "Reuters",
+    "title": "Kyrgyzstan asks neighbours for help with fuel supplies as Russian shortages bite - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1FoWkFJdzB6dzNHUm5BN05zY2RGeHhMYmRyakxUbEJBVzBuM3hsWHVtcWpQcWRSaE03WExTaDVkWks5c1c2Vmlic3pDVUtGZjN4d2U3Y3VYM2l6OFJmd1FRZEV0R24yd3paS2ZUWldua2JBSWFWbUNPbWY0Tkg4TXhSSUxTYTRzcDg2U0tQZVl0OHV6c0p6VmxwajFhRjlfVzQxMF9oVjJmNWZiM29sVE11ZnJaUXd3XzBpMVRTdV9Ncm8?oc=5",
+    "date": "2026-07-02T08:00:06.000Z",
+    "summary": "Kyrgyzstan asks neighbours for help with fuel supplies as Russian shortages bite  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "Russian frustration rises as fuel crisis bites - Reuters",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BtdF9lMUpDZWVzUlVreWJuaE43ZHZkMVdSTWVKMU1VbTZKN1IwcnRNc0tiNnV0Y1BNLWtyQ3ktcl8zdUNjMkJkV3A2dXhPc0YyOE1URzEyVGk2MDFyMGpjRnBlSjhmeTJSb3Y0TzlfS2x4Y0NiZ2lYbmJfbzBmX0tyN1JaVHBoMU5sVGtGOFU3MlpNblctMVpkTQ?oc=5",
@@ -15,10 +29,31 @@
   },
   {
     "source": "Reuters",
+    "title": "US job growth likely cooled in June after recent string of big gains - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2FkOHpkemV2WnBXNFUxaGJfaXRzVDQ4Wlg5QUZacG1JODNORDBaTTNYSTFxdnUtYUVRc21oeVpVRTQzTGpWbWxiNWVGV0JqT3ktM2FlOV9hYUN0RGdoMkNzaFE1Y25fU28xNmZrTVBfUDJsTzh2bFZ1dGdOSlQwV0JEMjdSQTN4M09tUFNsdUpLOTZhSkVZY2ZvcFdSSE9XZFBhTlhWc19zUVU?oc=5",
+    "date": "2026-07-02T04:01:00.000Z",
+    "summary": "US job growth likely cooled in June after recent string of big gains  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "SoftBank's LY, Bain raise Kakaku bid again with $4.1 bln valuation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmZIajRWc3QtTENPdzVZOXN1YmVLZkxVMDZFeWF6MURGQ1ZpRHJGaU8tQk01QVdrOUFEazBSN0E0TzRjaVZqUUlYTnZGdlg1Vk9EZDdfRWxMc05WcnZQZ3ZvTElwX1ZRcHd6V3U3eGc3UjFFdWFxdG1haTVFUVZPS3oweE4zaVRqVXlWSlJLX1djbWxxeDh2NjYtY2NTWW8tNG1EM3NvWE9PazRlbnl3MGNvZ2lYM0F6M29KcnNKYWRwdjg?oc=5",
+    "date": "2026-07-02T03:31:00.000Z",
+    "summary": "SoftBank's LY, Bain raise Kakaku bid again with $4.1 bln valuation  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Oil falls for a third straight day after US, Iran talks conclude in Doha - Reuters",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
     "date": "2026-07-02T01:11:00.000Z",
     "summary": "Oil falls for a third straight day after US, Iran talks conclude in Doha  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+    "date": "2026-07-02T00:20:32.000Z",
+    "summary": "World Bank approves Morocco clean energy project after ending climate lending target  Reuters"
   },
   {
     "source": "Reuters",
@@ -47,6 +82,13 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHVWYld3M0pYTHJqQ21id1NzbFNyNmhvaGdYMUFWYnZVdjUzV1o5bTE1NllSVTNSUG5LVEU5Zjh6eWNsd0tyYUIzLXJKZFFxZVNlWnQtQndZa1lXYjZTcUk4YjQxQ09sT242Z2R4dUUyUUpza2YtODB6RmpsYkJsUlg3VzVSZXJnWUo0VDdhSTQxWER2dUtzZnprM1hSSDdabVhidEl6T1JaQ09FcnlN?oc=5",
     "date": "2026-07-01T22:28:22.000Z",
     "summary": "Largest US power grid details price spikes, warns on record demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tankmaker KNDS puts off IPO citing tough defence market conditions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWF5NzNIeWJFYlFHS2wyam45M0ZFWnZ5bGhHcWFIaXRyTm94OGJjOU1XdGlXSl84c3A1aUxOTkJmQk1TQU45Smc5a19MZjB2cHo1bTJFaWkzTE1qUXlxbzZjYWZ0RUhpcllKR1VaMDcwY214cFhBUHB6X3RjS1BKVFlYQUFyTVJXVzlTLWxJSDFwdmRLYWhpOXI3ZEZuRjA?oc=5",
+    "date": "2026-07-01T22:03:48.000Z",
+    "summary": "Tankmaker KNDS puts off IPO citing tough defence market conditions  Reuters"
   },
   {
     "source": "Reuters",
@@ -117,6 +159,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbTFOVHY3UWxaZ2ExVXJPSzFHRmdnNFlvSnh5ZUo5UVlYVDltQUNFalFoVndjOFd6VWs0UDNud2E3b3dad1FaZkhVZl9Ia2pnYjFaV2dDemJOZEpYbXZvRjAtQmVqUXlSNnRkLTFEUWM0UWlPRXE4c0dIVHFqNDJ0OWtyNXljd0xDTDZDWjdKLWdMbGNLX2lDbkx3NTFXTjYxZEFjajY5MDY3THJyOFFZTVpsZXlHS0V4?oc=5",
     "date": "2026-07-01T20:01:23.000Z",
     "summary": "Ukraine urges swift publication of Irish investigation into alumina exports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "BlueCrest loses £200 million battle against UK tax authority - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkxmUkFfNS0xY0ZqVHM3b25JRzJacVRma3ExXy1OX0ozbXdzeWpKN180Vk4wVGkybTYzUWtjMnlycnJMVWRPdEx6cG5yQkl0bVJaUU5LeG9vejMybkxZWGQwM3F5TTdOa25FLWVhb2VHNFdOdTJBNHJkREFuYVVYSWREb3VhcVB1SllTRmdyanlFV0Z6US1lRk1iS0dCbTRWd0RIWkFDSQ?oc=5",
+    "date": "2026-07-01T19:45:32.000Z",
+    "summary": "BlueCrest loses £200 million battle against UK tax authority  Reuters"
   },
   {
     "source": "Reuters",
@@ -343,6 +392,13 @@
     "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "Application Architect - Mainframe - Associate Architect - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjdVM25JUmllTFR3LXFXMU82S25KQ2Nyak1NRDlfSmNqdTRzLXBKOWlnZ3dBcm92Y3lqZXNVbFBLTlpnOFRHdnY1WDgtRkNiWFJFX25QQVJ2NWRsRHJIbm1uUmdDZkRweHRXOHVEdWFfUW1BTE5PbjVoZkV0TTdMT094aVd1NjZ0OFpPZFFRZVVEUFFZZ1FjUlpyUFJ6VjhsR2hjOTB2QlZpa0pfVjJCeE1nOUprcGdxNFQ0eUtCMXRVX0NNb0IyelpSRzdoZ3pOc2c4eERXNDBNX0ZCYmRZNFl1RnFjRXgy?oc=5",
+    "date": "2026-07-01T13:09:42.000Z",
+    "summary": "Application Architect - Mainframe - Associate Architect  Deloitte"
+  },
+  {
     "source": "Forrester",
     "title": "Build Bridges To Customers With Digital Product Passports",
     "link": "https://www.forrester.com/blogs/build-bridges-to-customers-with-digital-product-passports/",
@@ -404,6 +460,13 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWFxZkhGTUxWdmJPLUFjSTdmakJNdTRjcm41cVZSbGJpWmlscWUxTjZUVDNzaVBUNjlOd1V5REpDUTVkUTBSWXBvUTJkYUVlR0JhVDkwRG9EV3QwaGZSYXlMY0dDQm5aZjBIZjdqYUtqeVMwRVVWVnRDLXBTV19CakZRTE1TZ0ZZZmQ3ZW91OTBSSGhmMFJOelZB?oc=5",
     "date": "2026-07-01T11:50:09.000Z",
     "summary": "Saudi Aramco and Sonatrach cut LPG prices for July  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "SAP BTP Analyst - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblJPaGVtRS1iendxZDZpa05xNTc1bU55YU4yM2R6SjBDTGY3Mkxmc3ZfdG5ib0k5WGE3bVZOek9yRGdicDRCV3pYaThTWUNVTEFKT2o4bEZ3dUxjOFNTSVdqNUJLRzVXbEhRX1FxUUpJUUhuUTVrek9jQlYtMHEzeHhRMkxOLUdqWWJTRjd1RTZ2RFNxLTdncHpOYU81RVVLclFz?oc=5",
+    "date": "2026-07-01T11:47:26.000Z",
+    "summary": "SAP BTP Analyst  Deloitte"
   },
   {
     "source": "Semrush",
