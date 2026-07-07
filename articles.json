@@ -1,5 +1,33 @@
 [
   {
+    "source": "Gartner",
+    "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOUJzWWxtblRNc0dmVS1QS3hWSlNlR00xTUJPd2pwNlZtWERETHVobmI1M010OERxV0JCRzRKaEFLaTZRNVoyVmxsN2ptNGp1d0JOcmdhdGFTQS16R2d6UjJhU0R0ZDlnZTVLc3V6Si1IVkpqb1lST3hKNFJPSWpWaGVUUlVNOVVnOHlEMXh6VHBWelpkLUVNSUtNZWl5OTRCaDdaVEVqcUJwNTdTUnh1elpiU3JmRTdHUndRaUozZmtOWU5VeGk5ZFNld3V6aFRYRGtiSmc3NkwwMU82UGh5dS1WRUJIZkc1NWtkX0NKNGZDdw?oc=5",
+    "date": "2026-07-07T07:29:08.000Z",
+    "summary": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Google, RWE back Proxima Fusion in €411 million financing round - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1FsQTdBbkwwMzkxNmpmT3NpaDBOS0MyMUl3WkRpOEJuOFBuTV9HOVFWa2JldGRONTFUX3pvbjAzQWl5ekdnSXU2X3Z6VzNaSjd2SDNrOHZvQ1JVWGw4cnZBNWhoeHNrS296dHNncno2MkFLRVVfNnJBY256aUhBcmNGWGxfdUlheUZKYkFmd3BZbDdqVENreFc3bVg1ZzBIMVVJMWh3?oc=5",
+    "date": "2026-07-07T06:44:00.000Z",
+    "summary": "Google, RWE back Proxima Fusion in €411 million financing round  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China smartphone sales drop 13% during 618 festival as memory costs limit discounts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1Q2WTJXaWxLUGpQTWdJNExINGZHek00LWJzUFFjdzlCWkpXamFZZTFORVI5VE9aLVhQTUoxM2p4WE8wU2NNY3lFNWdMVEN6SUxmRHl2d3doWm1ZbUJ1VTRYcllDcU5pbTFoYWIwQ21HbFBiRTRhc0VVellSNnNqc0c2RFlRWXQ4SjBtY2wxOHB1bVc0NFBhRnFZYmxxS3BzcE9DQUJWVlJVbE42MUhRTjF3cEZDR1REb0V0ZkQ5WnliclFZbzRoM0dIZ1ZyY1FhS3FjSw?oc=5",
+    "date": "2026-07-07T03:45:00.000Z",
+    "summary": "China smartphone sales drop 13% during 618 festival as memory costs limit discounts  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1lScjFMNFhZdU5wUmpZZzJ3QmppVTg5RWVUOG02OU8wVmhCUW1WTDNvWTZJTlZfYkRqb3dsQUNjMUZJMWxQZXhHNkg2cHBLOUtWZlJUQTZaZnFSZjZlMUVVN3ZtNlRBVHJIT3RLSk5ub3pBRlVOQXZ4Q3I5SFNYTjc4amZ0Z1Zvc1FybXE5WUtpdmFPZVhCU0xqNlZ1dnVDOV95dnZhOVZTV2tMU0k4aUNRSmk2UThwSVpLNjUwclZRZw?oc=5",
+    "date": "2026-07-07T03:38:00.000Z",
+    "summary": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "NEWSLETTER: Indian shares open higher on positive first-quarter updates, foreign inflows - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjRnYW1zV3Z5d211SjM4MUdyVGMycG9waFdDbHJYeVd3RmV0S2JRczdEU0hRaGNjNDMwUml1bXBNc2h1VzZ2TC1abVBHZURWRWxrdEMwVUlPR3c0b2o2U1g0SlNqbXlJdWM2UXd1M1h5ZEFPdmROZGJzQmdZMENfaXNxUng2N3JTeU9WZUgxODBWMTlaSTk5YThFcVh1WnFfY0Yxb1BXMWxVb1MxdktqRklfR2I?oc=5",
@@ -12,6 +40,13 @@
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVNKb1pWcEFqemw1Z1M4ZmlwaWRHUTRkWmNrS0oyb3hrUWJGMFhMZDBTZWJBLVVTN0plZEYxdm5kZzFxcUh3OGpwSTlXYzFISXdRU0tqRWg0V29KNk9UaTlFaU15NWVmSFFXUWFoS2dyb1JmMFhjdmJfZmNyQThteVhVM2Rqd3VIV3F0WHhaUTBfMDZ5OWhzWlZnWkxPVUV3aS1tOG9BZ0hQMkpJZU9GbnRYd2d3N0hyNHpieWg4SVBkc3drSTRWV0JENm40NXhaRGc?oc=5",
     "date": "2026-07-07T02:02:24.000Z",
     "summary": "PAR Alternatives  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australian shares little changed as gold miners, consumer stocks drag - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhFdWhiVjFCNVhIY1JCYWI0MUozR2oyUFFtdnl2dGxsMC15ck5BN1k2VVB6MlZTS0QwZUgxNXc1Y0FyZ1hneUZERUk0LXNSTkE5NVhualgya3lRUHh1cC1ZMzNaUUFvOGhPeXVYNVNFcmVtNkVuTmpjQ0prT2dTeDJuZGlWalRtOUJVX3JORFF6d05ab2ZBUC1GOTU1aG1Od0RVUHk0d2N2dm9PRXFKc0libDVWSW5ZNUE?oc=5",
+    "date": "2026-07-07T01:20:00.000Z",
+    "summary": "Australian shares little changed as gold miners, consumer stocks drag  Reuters"
   },
   {
     "source": "Reuters",
@@ -33,6 +68,13 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjZCV2V0UjBnQVQwWi1tTUNISGRvT3JTRGJodTlLNHVGcWQ4YkU5ZXRsMlBNb2lCSHJtUFAtUWx2c2hkZzVadmgxSVFncmRObHVQMGZITVNncS1nNXRDcEdfYkd4Wl9kT0ZINDFDUUU2cWV6eVdjcVdLUkJoRDlnR2FhSjdMYWRoM3N0bUw0aVJHRVgzcWlVNUpkWTdFUHVMbHlaMS1R?oc=5",
     "date": "2026-07-07T00:53:00.000Z",
     "summary": "Oil prices gain as focus shifts to supply recovery and demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Global LNG trade hit record in 2025, but Middle East conflict clouds outlook, IGU says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3hGcDFzUkRpMWJqd25jS2xFOW1WdjZ3b3ZWRXl0eGJOWEhfekJKeHZpMFJ0blNmUFY4Z3IzOGx1S2hab3RqeEFWSzJidDJDRzN0NG1RV2QyNmh2R3o4dkw5RkVzUjlacW94dkptRW5LT2JHRV9qOEIyVFVwcWQ3OV9CcGdFUzI3X3UxX2hWeDN4aDVsRlNBa0dkXzR6YXFQT1c0V0R4My01dktyVjdyTlhXREpFMmQxNDk0QlJRN0FhX3hOdnlLZA?oc=5",
+    "date": "2026-07-07T00:07:00.000Z",
+    "summary": "Global LNG trade hit record in 2025, but Middle East conflict clouds outlook, IGU says  Reuters"
   },
   {
     "source": "Reuters",
@@ -61,6 +103,13 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXZHYVVRQ3N3dDJiYmwzWXlNLVZDa2pnNkdVQVFGR2REVURMR1FRczFvNGUxVmJ4N2ZNX0lpQ2l6OWpRRmZkQmhFbDFEN2gxSjlHQkRxYkticWllMGJLcFd3Y2EwVXRpd0I0OWlFdUo4WWV1NHlVcEY3SVMxRzJBbnFYTlQ2UDJEU1JnUkpOeDNVcVVxem5kcG0weXotSlpJa2g0UnB2ejdKUGFWbWM3SlRRUkVOZnFWT09aS2hITVNVb0liVzJIcWJ3?oc=5",
     "date": "2026-07-06T23:06:19.000Z",
     "summary": "China's booming gig economy masks job market pain, strains welfare system  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObmNxbFlBOWJuUjBGZTQ4UGhqMENYZDdmZGYtcURfVG1qWkVQcUJ0c3JfNHpqNi1pM1F1dDVUMEYzdE1JOWI1WGZZMnF3eVNtampuZ0g1VTlOY1p6WDJNRmFoS21wUDhGb1hSbml2ZUdRb1pqXzZGdGFCd01XTm1jNXBHWFRYLU9oSHlJWW0tSDdoZlR4cmk4MFV2QThqZGdjUFh6SjcwY1ViZXNzbEx4WTNqZUY0S2tiZWtQc3Fn?oc=5",
+    "date": "2026-07-06T23:06:00.000Z",
+    "summary": "Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed  Reuters"
   },
   {
     "source": "Reuters",
@@ -98,6 +147,13 @@
     "summary": "Vertex to buy Crinetics for $10 billion to expand rare-disease business  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Vista Equity, Quinti Capital offer to buy French adtech firm Criteo, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDhrWUJMenFqM2gtN2VvX0hCa3hGZS0ydEQyVWVGekVsNDh5ZHdBVGtzcmJlQWNWa2xVanBRUTFfUjJJU0xBeUNnc2QxQUhRWktBRHI0T2IwZk9SS3h2UzVYV2tFdHRGb3dvTkp0LVRwdGEyNnZGSTVvRFFMX0MtM213WnZpbVA1b0Zzdmp3Nm5qcUM1M09ZUDhEbXpnYVlsejl6TnFlTmxMVW1mTXVOZUlLODR4Tmt0emM0ZjJmTDAycWxCQmVTUm02aw?oc=5",
+    "date": "2026-07-06T21:18:34.000Z",
+    "summary": "Vista Equity, Quinti Capital offer to buy French adtech firm Criteo, sources say  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Top Descope Alternatives & Competitors 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FdTl6d080c0hjRzFORG5IYkRyR3ZneVdPNmpCU3lZbmdiLWxnWFdEZXZjSWJwM2IyeEdjY01MalNQbXlpSWgtaWdkQTc3XzNqTUR2aExZaVFTTkR0eVpFU2FDaDdsU3JiNWIwTQ?oc=5",
@@ -124,6 +180,13 @@
     "link": "https://www.forrester.com/blogs/your-guide-to-austin-for-technology-innovation-forum-central/",
     "date": "2026-07-06T19:20:40.000Z",
     "summary": "The IT singularity has arrived, and there’s no better place to explore what that means for your organization than Technology & Innovation Forum Central in Austin. Hosted at the JW Marriott Austin, the Forum brings together technology leaders ready to take control of AI, modernize"
+  },
+  {
+    "source": "Deloitte",
+    "title": "USI-EH27-UKMF-RHUB-Data Engineer-Specialist-Analytics and Insights - USI Careers - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDI5QXJWUmR3NW40VnY5NU1iZGt4eXliODB5cFY0TkpOWUNqdUd2OTl3T1R2WExhWTdTb09QQ3BRakh3YzFzY25mT21RZ1RtSzRDdll1SlZSLWVBNTluSEpSRmk2RzlnZzVTVWFWZXp5ZU9aMTlQNVdISWtDQ1Q3SkhTRQ?oc=5",
+    "date": "2026-07-06T19:06:04.000Z",
+    "summary": "USI-EH27-UKMF-RHUB-Data Engineer-Specialist-Analytics and Insights - USI Careers  Deloitte"
   },
   {
     "source": "Deloitte",
@@ -201,6 +264,13 @@
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnNEaEFqMlQ3dnl6LXAtNzFpQTlRMU9qbWQ4YjJrRFZ0NDRzejlhbjRvYU0zVkdBeHFtRWhIWUhKemVZMTdZX0pLT0ZsLTZQT1Vlc0dKeG92N3JvYWhIVUp1XzVTYTFud1RpbC1WM0pWTEVfSWRhWkl2UjFadzVBcUlWTTdFQlEwUjljTFhIVmFMRlpKZndEVDc1Z3U2eXV0UjlIOFZrT0ZMc3J4Q3JoaXE1NzdRbkdVOFpMMEh1MWZMbFJTWTNtcjRfWWdLMW9aWXZoUg?oc=5",
     "date": "2026-07-06T16:52:59.000Z",
     "summary": "Top PAR Likes & Dislikes 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "F1 could bring back refuelling and independent V8 supplier, says FIA head - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEZ0Qjd4OHN2QjU3OGIxdmFfQ2dPemFncURBZWNtWFFHRzltLUxESmZzd0NMVFg5VWFRSGE0N3cxTUExNDUtZzFlQWtFU2wxY0xzOENfWHNfT3EtZFlGTVFyX2pQOXB2Z0NlVnpHSVpkWVRoN0djM3dFUDhGZ2UwZi1mQ2JYMzlBeFdEWUxtLWdsY09oVzZkcEEyN1ZvQmVJeExkN1JaSTFzQ2htSmYxZkJxTQ?oc=5",
+    "date": "2026-07-06T16:47:43.000Z",
+    "summary": "F1 could bring back refuelling and independent V8 supplier, says FIA head  Reuters"
   },
   {
     "source": "Reuters",
@@ -316,6 +386,13 @@
   },
   {
     "source": "Reuters",
+    "title": "EXCLUSIVE: Pakistan mediating Libya unity push as rival camps seek deal, Pakistani sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnlTa0hwUEs2VURIWXRZVkozRUFTOTAybGdOMTc2eHBfSDFZREx4cmRXQkJFYmVIY3B2WlZ2QUdQbGhYRURILTFuU1N3alVRU3ZZVnNWLWRQZWxxOXNmUGE5RHFGcXd0V2NxXzBFSTFDZy1YM2lFTU85allHRDE5Y1JUdkt1dTlzVFBqVzFnS3g4WlRteVJNN0lzV3lmQ2UyT3JNMnFaY2VxTVNXWmMteE84XzB1MGNmUGJPZzBZSTNGOE5vMy00VWtUejdwQ0U?oc=5",
+    "date": "2026-07-06T14:01:51.000Z",
+    "summary": "EXCLUSIVE: Pakistan mediating Libya unity push as rival camps seek deal, Pakistani sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
     "date": "2026-07-06T13:45:43.000Z",
@@ -390,6 +467,13 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXVNRE1rSF93MTRLT0hrWDFhaGZvV2RvekM0ak1uVnpQMUNyWmF2a1cyaGxMZWdFcXFYUXB2bVlzYi12ZUd6TzZVUmZ2aGZrTWpIS2szTTZkMU5WVldHcjZ4OFAxbWlwOVZ0cmRYQnB4aUZlVTBoaWk3eTZhZnl6RFhGbmJSMFR3T1JGTnVQUnROdlNPSkkyaHdVUHQyUEIyd1dMYXg0N3lMSWJrWC1MQndTVEFIRms?oc=5",
     "date": "2026-07-06T12:43:36.000Z",
     "summary": "Belgians blast Trump's intervention with FIFA ahead of World Cup clash  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Manager - Quality Assurance & Risk Management - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDdzOVBkYmdBb25fU3NoWVF4OUZ6T1JfalpqejVQS3dnWHlzdjlGbUI5UHJMTGEzbUhjQWkwNVpOQ0Y0emlDMFk3NUFuTHlDdEFHRk9iSVQ3VjN4THJKV1VRZjdhUmpTNzRwdHYtdHZCb280ZGYyVG9BUXlXZmdPaV9zMzNoc011enpCelRxV1VLakRqcDJ6SWkyWDI5UmpuMTNUdElFNFZUWlRvMV9FY3ZjN1dlSEVMelZOTFI2NENpTEhXbU9RWU9UQQ?oc=5",
+    "date": "2026-07-06T12:30:21.000Z",
+    "summary": "Manager - Quality Assurance & Risk Management - Hyderabad  Deloitte"
   },
   {
     "source": "Reuters",
