@@ -1,5 +1,40 @@
 [
   {
+    "source": "HubSpot",
+    "title": "Growth experimentation: A guide for growing marketing teams",
+    "link": "https://blog.hubspot.com/marketing/growth-experimentation",
+    "date": "2026-07-09T17:00:01.000Z",
+    "summary": "Growth experimentation is a structured approach to testing ideas across the full customer journey to discover what drives measurable business growth. Experiments improve channel-by-channel optimization as marketing teams push for measurable, repeatable growth under tight budgets."
+  },
+  {
+    "source": "Reuters",
+    "title": "Strategic oil reserve buying set to support crude demand through 2028 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTThDZktfZ3RwZ3M2NmVnMlhmNFdrZkxOYlZrd2RhdGtuUHJmMnA2bm1nVDhBV2JtcjZZZTA4SUNXLXV6TWtYdl9JeFlmVzBZbXl1Tlc4MGlCaEZ6WjlTRjFDT21PM3l4YXBGSENuNjdLSjQ3NGI0ZDdvLTMwMGc5b2xKT3o5MkozbnY1YXdDUUw2WUVvQjdzZ0tsamdCcnVPemM1LWNscHpQcjd4WXV1d256TG5KV0RaTGc?oc=5",
+    "date": "2026-07-09T16:05:21.000Z",
+    "summary": "Strategic oil reserve buying set to support crude demand through 2028  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russia eyes mid-July start for commercial logistics hub at Syrian port, officials say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmV6WmlDZXZ3aXZhR2dQaFBKRVdHak4zLWViaDRyQlVoWmlKajZnellSZmZLUGNJNjlFcEpXU2hqTFR3SlBHeUpMQkFrb0sxSDRvY21MMXdrYkxUZE1oRVgzdFhJMHRPdUxIV3lYSTlaVXBlTmd2bTMzd3A4Yi13ZklJMDlMNHpDd1k5dHluVERhVkJGMFFIdHh3bDE4WWVSb0YzRHVoci0?oc=5",
+    "date": "2026-07-09T14:52:13.000Z",
+    "summary": "Russia eyes mid-July start for commercial logistics hub at Syrian port, officials say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjJ3MFQwQ3VucnA5X2wzVVA4S2M2dm54OExheU41WFVMQWZXd2hKNzQzaktCUGFGTWdFNS02WEttdlhaU1R2WHY3ZDBBbE9zdW9CeVlhWEx2OUtOVkU2cnRqZkVPMWMzUE5ZbW1nSDVqb2hrd0M0aHdFRVE2SFpfVlY4OFZ2cWV0TWhCcWE1NVRxQVRZRkJxaWVCR005ZkRnRU9xdjV1Ty01NlIyZEZKbUVmN3pLdXc5bDFZcDRTUXZFdC1zM3c?oc=5",
+    "date": "2026-07-09T14:37:44.000Z",
+    "summary": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "What Enterprise Brands Can Learn From the World’s Strongest Brands",
+    "link": "https://influencermarketinghub.com/what-enterprise-brands-can-learn-from-the-worlds-strongest-brands/",
+    "date": "2026-07-09T14:21:23.000Z",
+    "summary": "Influencer Marketing Hub\nWhat Enterprise Brands Can Learn From the World’s Strongest Brands\n\nWhy do we want certain things so badly? Why are some brands irresistible — while others we couldn't...\nWhat Enterprise Brands Can Learn From the World’s Strongest Brands\nNadica Naceva"
+  },
+  {
     "source": "Forrester",
     "title": "European Marketers Are Playing It Safe With AI — That’s The Problem",
     "link": "https://www.forrester.com/blogs/european-marketers-are-playing-it-safe-with-ai-thats-the-problem/",
@@ -40,6 +75,13 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMVI2WFhVUHUtMUY3bzlxOHBNUEJVU3BCU3Jua1FrWDdfU2VaXzhSZGFGLW9ENEhnMU9HSG1leDZkczlVU3hJc2ZjMDRLdVpVOGdUSFVVZ0huSXBIYlJNdEVjeGkwRURKWXBuV2JUME5UbHY1MWM2OWhXSXQ3UHN2MVpzeW1GUEd2OF9MRk5zZmxSbU1wdnBTQlR0T2lrYlNYN1h3T2lEUjZST0FpSU5MdTJLSWpENnpoMXdXRkdVZkVzRlRxeU9WSA?oc=5",
     "date": "2026-07-09T12:04:13.000Z",
     "summary": "Gartner Announces Gartner IT Symposium/Xpo, October 19-22, in Orlando  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indonesia says B50 biodiesel plan to boost palm oil use, cut fuel imports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhRcmd6ZXhyYkhVcEFDOG5yb3BEZ2pXMks2d1Z5WWt3XzEzVE1qVmhyckI4dVFZRGNianp0MnVpZE9IN0R3TXhtUUtIT0d6MnZZU2cwMGJmemtGOW1pVEZVeHpic2lRWmd0X0huQlp0TjZWTDctTkUzZTR6LVBvMF8zVXRSd0RZWFlTUTFhQ0FwT2JBWTFoVm1OeVJIdEJpMnpvQmlfWF9DWXJ6Sk5neTlVM0tOZnRKRW9ZdjRB?oc=5",
+    "date": "2026-07-09T11:51:43.000Z",
+    "summary": "Indonesia says B50 biodiesel plan to boost palm oil use, cut fuel imports  Reuters"
   },
   {
     "source": "EY",
@@ -201,6 +243,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmNMazF2Q1ZPVDZscFVBajQyazJvOVEyMWE0WUxBeFBKU2NpUTFraVFta056dFd4ZjV6U25rT1k4TUtHVk92NWdmNkl5VnFWd3dRQXJGZE1OS0NMdWRzckFBVzRrbVNTMnQzekxGN1ROcjIyWEU3ZGU4Y1NQZDh4X0pWckg4YnNtT2t5OXk5czFHX1VXRGl5dGZPYkw2UUVmTENwU1EtbkNFZV9EeG9UcVZaTGVZUQ?oc=5",
     "date": "2026-07-09T05:25:40.000Z",
     "summary": "Supply Risk Solutions Alternatives  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Blackstone, TPG seek over $4 billion for Hologic's surgical unit, FT says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVDJ0ZWlEVndxQnBnd2pDM3RlZXlqQ09lLTNwZHRsQ0tjWVA4UHBRbnUtTXVoTGlvUkdmb1VNVlFIeU4yeTRvcWU3QlJPX2tuaUpyeDB0UnJfM1lmb3lqaVdFc2dSREM3VGR3TkRNRmtudnVzUzVPaWFkODBzelFwX1FFVUNWOGhFMUdIWWFGTHlZSnZTNFNrby14cGkxcmtqMHFmSzZhdE90WlNFWmF1MTlXN0RaYzdoSWJYcF9R?oc=5",
+    "date": "2026-07-09T05:22:00.000Z",
+    "summary": "Blackstone, TPG seek over $4 billion for Hologic's surgical unit, FT says  Reuters"
   },
   {
     "source": "Reuters",
