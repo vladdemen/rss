@@ -1,5 +1,33 @@
 [
   {
+    "source": "Forrester",
+    "title": "Human Risk Management MythBusters: What’s True, What’s False, And What’s Evolving",
+    "link": "https://www.forrester.com/blogs/human-risk-management-mythbusters-whats-true-whats-false-and-whats-evolving/",
+    "date": "2026-07-10T00:46:40.000Z",
+    "summary": "In less than 12 months, wars escalated and re-escalated, markets swung wildly, trade tensions intensified, and even rice prices elevated, causing chaos. The pace of change has been relentless, and that’s before considering the volatility facing security leaders from AI or cyberse"
+  },
+  {
+    "source": "Forrester",
+    "title": "Marketing Matters More To Growth Momentum Than Ever",
+    "link": "https://www.forrester.com/blogs/marketing-matters-more-to-growth-momentum-than-ever/",
+    "date": "2026-07-09T23:44:58.000Z",
+    "summary": "Growth momentum is one of the most sought-after objectives in business. When it builds, buying groups move with greater confidence, internal teams align almost effortlessly around common priorities, and individual successes compound into larger business outcomes. Many B2B organiz"
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
+    "date": "2026-07-09T23:23:00.000Z",
+    "summary": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Software firm CCC exploring sale, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtYbjRKbkVlVU9POTZhTWt3TnIwc1FFSlljVE1icm5vNk1ncFJEZXVLSE1WQjZpYnFlUnMzZTZNZWhYT05vOVcwQkFkbEJSMlIxbE1pREFMaTJMZDhBUDREa1ZLTTEyajBIZVRGVUdQYXcyaENlNFgyb3pEb2JHMVFyd18zeHhKelNYUFNR?oc=5",
+    "date": "2026-07-09T22:35:57.000Z",
+    "summary": "EXCLUSIVE: Software firm CCC exploring sale, sources say  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "USDA lowers beef export sales by 90% amid growing doubts over data - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblB6c1hlajB5LWRCLUZSRWh2ZFprb2FhRzhtLWo0ajdVMVctclNsbzJnc2tKX2dUX01uUHRValJYWGpwWmVjbjZScG13WHZMZWNyQlVobDREZGV4XzZqaVhkMUo1Y202WUJrY1VNbVBXZG5ONDdzVm9uRFppblJmNDcwSGN5Nk1Gd21La3gwdUV0NW1KZDQ2eFFMSHFWVkg2aFk2VGdpYWhyU3JrWV9F?oc=5",
@@ -12,6 +40,13 @@
     "link": "https://www.forrester.com/blogs/which-ai-consulting-service-provider-is-best-for-you/",
     "date": "2026-07-09T21:17:02.000Z",
     "summary": "We wrapped up a multimonth evaluation of 10 AI consulting service providers: Accenture, Bain & Company, Boston Consulting Group, Capgemini, Deloitte, EY, IBM, KPMG, McKinsey & Company, and PwC. It’s available to Forrester clients as The Forrester Wave™: AI Consulting Services, Q2"
+  },
+  {
+    "source": "Reuters",
+    "title": "US ends probe into imported airplanes, parts without seeking new tariffs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFRGTXA2S05hd0NFajB5ZkFrMl82dzV3dnhEa0p3OHVkYzFwWWRJcjN5dkFpQzhYMzdCa1h2V0xxeFBieWM3RHg2NDZJWGpQNFlRVjlfcjBncGRrSjlZbmdWb2tWY3NQYlczYXpqamJyd0VRTk8wbXZLWXhqYk16WkJzSmwxT3E4NTlFZnZfanZhbDV1LWh5bXU0QXQyVmt2TVc4VkxCNEpTTDNuNGVaWmN4Z1NXS3JPZ2ptX1BWS0R0MG9JWDlDM2pvY0FEc0U?oc=5",
+    "date": "2026-07-09T21:15:18.000Z",
+    "summary": "US ends probe into imported airplanes, parts without seeking new tariffs  Reuters"
   },
   {
     "source": "Forrester",
@@ -49,11 +84,25 @@
     "summary": "Airbus workers in Spain strike over working conditions  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Fed's Perli reiterates flexible path of reserve management buying - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3JMUlV0YUlhYlpJbnR3d1hHYy05cUVjUWYtWVNEZ1YwTTM1M042YWRFZ29XY3EtVnIwZEppeTBJby05UkNNT0ppZ3F6SFctaFgwTHBmTWZEVUtacmM1d3JWTGdQNWVNTlBSY0trZUdpZjExS0RNNk5QRlFndzk0cjdvUnphcmExcjI0bndJV1JFRmRWVlpvVVZtMUVHQTN0Ym4xTHY2bFJvYzExU2MxcUJIUkQ?oc=5",
+    "date": "2026-07-09T17:44:41.000Z",
+    "summary": "Fed's Perli reiterates flexible path of reserve management buying  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "Growth experimentation: A guide for growing marketing teams",
     "link": "https://blog.hubspot.com/marketing/growth-experimentation",
     "date": "2026-07-09T17:00:01.000Z",
     "summary": "Growth experimentation is a structured approach to testing ideas across the full customer journey to discover what drives measurable business growth. Experiments improve channel-by-channel optimization as marketing teams push for measurable, repeatable growth under tight budgets."
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Williams expects energy prices to abate even as Iran war flares - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHJKaC12UWdzSzFSRjJWZFYwZ1RQMENmbENTV0dHcW1ablp1d3lEU0FKbThLOExCWnlRVWQ3OVM1OUtJZmtTQjlXRzV5c2I1U2NvcHFwT2dGT25zQ0NMNjJzQUJ4NFhKak1Nc1JNSWlwNUVOSVJiZ0JlVUlGMjVzN2JDRjVNLXJkR0YzMGI4bllUOEN4YmR6T0VjWHlMZU5rajFTaVlUZlg4U3ZlWkE?oc=5",
+    "date": "2026-07-09T16:51:45.000Z",
+    "summary": "Fed's Williams expects energy prices to abate even as Iran war flares  Reuters"
   },
   {
     "source": "Reuters",
@@ -350,6 +399,13 @@
     "summary": "TotalEnergies divests its distributed solar generation activities in Europe  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Novo Nordisk launches weekly insulin shot Awiqli in India - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmlLM1N2RC1HcVRscG1xcXlHN1V3bjJzTXVJVkl5eS03My0wUHdJUWdKTVVzUUJjdkhMOU1IS3ZBeDNFMVFkY0VGOHdUZExHX1docExWZ3BhTGtFMnhzRWtKOXJRckIwaXg0V1JPT1BHQzJJOXlXUWdnV2V6V1Q1eHlKX2VrcU95djFOdXRFOUFDVXVVbDhUbTNqQjRlMFhubnpWLVlWWFpTREpGa2dNV3RGU3VCY2VXVmFvMU5MaVBXR1dTQVBiUHlaSXhrbFJuU0QyUldSUVphcFk?oc=5",
+    "date": "2026-07-09T06:23:00.000Z",
+    "summary": "Novo Nordisk launches weekly insulin shot Awiqli in India  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Supply Risk Solutions Alternatives - Gartner",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmNMazF2Q1ZPVDZscFVBajQyazJvOVEyMWE0WUxBeFBKU2NpUTFraVFta056dFd4ZjV6U25rT1k4TUtHVk92NWdmNkl5VnFWd3dRQXJGZE1OS0NMdWRzckFBVzRrbVNTMnQzekxGN1ROcjIyWEU3ZGU4Y1NQZDh4X0pWckg4YnNtT2t5OXk5czFHX1VXRGl5dGZPYkw2UUVmTENwU1EtbkNFZV9EeG9UcVZaTGVZUQ?oc=5",
@@ -369,6 +425,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzBzaFJXdW94QmxuRllSMTJEdmpCTUhmb3F0QzJLSEx4M2U1RWlGLUhPRG52TExjZVQtMmI5SEpPVURtTXlwSTBnajN3UVk2TEtQUVVLMmFueXhSVm5tN3BMMkFUcWt3b1BEY0tqZUNSenRBOVl3bWlMWDNGUVJQQmd5QlZPM2tPM3k3ZldrU0JIZU1ZUjFlNENJbXFxWE5FU0ZoNU9lMGxoTEt5YnJUQ19YTUZxQnFGN0N5WXJR?oc=5",
     "date": "2026-07-09T05:05:00.000Z",
     "summary": "Volkswagen faces showdown to decide future of creaking auto giant  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's Dr Reddy's says semaglutide shipping disruption to last until at least late October - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFczcjJNbnlUcWoybjFNang3bFVuYTU4TUxvZnhOV2lnOGNxdFJQZW9NeVZLN1hVdEJVM04zRHNzOTg5bVpzaEZVM2NHRGdqUXJEWUdnRkZPTV9Qd0xicWVBU2k1X0ppSG5zV3lRZmRlcjdNc0c1bUlLeHNTU2xHZlBXeDJibDFqN1V6ajdpR0Y3S1lFb09vQ0xrTmJKSmY4T3l1UEc4dDRCZ0dSaVp6MjhtRktsWUFZNC1Ib3gwZWRONDBaWjJ6a29nM2hHNU1j?oc=5",
+    "date": "2026-07-09T04:54:00.000Z",
+    "summary": "India's Dr Reddy's says semaglutide shipping disruption to last until at least late October  Reuters"
   },
   {
     "source": "Reuters",
@@ -712,6 +775,13 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXhLdUtTYW15ZmlSekkyY3FCaXFmTUxNbktmSlZMMHp4eTlGTUhsQTlWMF9faWc4LWNmMExKUGhEUjVDUGV6Ry14SGVaVm94YTY0WXc1NW5jWk85UWYzR3NmSlR2TDh6SWN5eXVOeS1kcEFqemxKSkg2NVQ2NzEwb19hSnZoRHJpb3ppRjBIOHVUYUVSNHNxOVVJY1ZQbUlzeFljTFZZMVYtaUU?oc=5",
     "date": "2026-07-08T21:43:11.000Z",
     "summary": "BofA cuts 2026 average gold forecast, sees long-term upside  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EDF, UK government agree to extend life of Sizewell B nuclear plant by 20 years - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjZfcVdIX2ExWU0tcmFwX2pMZWlHUmkwNmp5dmV3UWRyNGMtQ09pUHRiZHJEd3ZxbnRibGNwdlhLaFZ1Z04zazBlQUcybnZTenFFQ0NJVUZMNDhydy10YVZLRDIxSzRLdHZHR3FQUGFMdXh6aHlmeXdGWWV5WHphVndzUHAtNVdZbnUtSTVzUFJiM1hUcVZORlluRUhIVWVqcXlYS1FDc1FlUktyNXFVZUF6blhfcUVXSl9ER1NSLWNiUQ?oc=5",
+    "date": "2026-07-08T21:33:43.000Z",
+    "summary": "EDF, UK government agree to extend life of Sizewell B nuclear plant by 20 years  Reuters"
   },
   {
     "source": "Reuters",
@@ -2259,6 +2329,27 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnhMendWdXpKVmRtRkFfMFdGUFl1Vm5BYzlWTXhHdEtzTVEySXQtb0tsSFpLc3VjVjRucWpkZ1JXVm1zdkE0bEI2d1B3aW5vWE1fM3pRMnJkam9nYkUtM3dRbnlSaWs0Tm1uZW5DNUJXNGNCMEJlMVEwLW1zQjRSQThseTI2clRlQVZWckRTdnBzSkFCV0xfYUlrSHk?oc=5",
     "date": "2026-07-07T07:05:40.000Z",
     "summary": "Conflicts Management-Associate Analyst Job Details  EY careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Emerging Market Quadrant for AI Agents for Marketing — Startup Vendors - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MaThlVi1FV2ZMUTIzR1BnaEs5UHNPSTRtOUI3TkRxdktNTmJ2b3JDclozQWtlUmFCblc2Z216ampUdEhxSHBkY0VvYkg5REpvdFVRX0l1NA?oc=5",
+    "date": "2026-07-07T07:00:00.000Z",
+    "summary": "Emerging Market Quadrant for AI Agents for Marketing — Startup Vendors  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Engineering Trust: The New Hard Skill Essential for Leading AI - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKWWRiYnZ0NWlSNUl3YzFpWUdBNGk1YWFMeF91ampoa0ZNaW1MeEt2eU1kTnBoRk1kZGlmdjNTTjFzalEtTGlCTHdhQTh5dkRrN3g4XzJHcw?oc=5",
+    "date": "2026-07-07T07:00:00.000Z",
+    "summary": "Engineering Trust: The New Hard Skill Essential for Leading AI  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Tech Buying Spotlight: Meet the New AI Buying Influencers That Can Make or Break Market Success - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxZkN2XzNoY3k1c1hSODZoVGhGRElvQTZVRjg5ZEdQa00wNmE1NVZnZk5oeFNLU2FZTjdsRHdTRW1neGFRUkJpb0U2emJVS0hjQWN4RnE3UQ?oc=5",
+    "date": "2026-07-07T07:00:00.000Z",
+    "summary": "Tech Buying Spotlight: Meet the New AI Buying Influencers That Can Make or Break Market Success  Gartner"
   },
   {
     "source": "Gartner",
