@@ -1,5 +1,61 @@
 [
   {
+    "source": "Forrester",
+    "title": "Sovereign AI Is About  Control, Not Localization",
+    "link": "https://www.forrester.com/blogs/sovereign-ai-is-about-control-not-localization/",
+    "date": "2026-07-29T15:43:22.000Z",
+    "summary": "As artificial intelligence moves from experimentation to enterprise-wide deployment, sovereignty concerns now touch every layer of the  of the AI stack. Organizations are no longer evaluating AI based solely on model performance, innovation speed, or cost. They are increasingly a"
+  },
+  {
+    "source": "Forrester",
+    "title": "How To Maximize Value – And Minimize Risks – Of AI Assistants In Commerce Software",
+    "link": "https://www.forrester.com/blogs/how-to-maximize-value-and-minimize-risks-of-ai-assistants-in-commerce-software/",
+    "date": "2026-07-29T15:39:35.000Z",
+    "summary": "As commerce vendors embed genAI assistants into their platforms, digital leaders must balance productivity gains against growing governance risks to ensure AI-generated work remains visible, auditable, explainable, and aligned with organizational policies."
+  },
+  {
+    "source": "Reuters",
+    "title": "NextEra, Brookfield plan $100 billion data center at US uranium site in Kentucky - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2FOb2YxUGRraFUwbk5LU3hWVFVoRkVEQWI0VlVDenhGak1wWnA4RjBUSlpzQml5bEhEdFFTWGYtWWRkb2h6VGN6LS1DcktNRm02aTliZ2ZhX2tqUVowcmdDb3hnX2E5V05rQlNCbHYyLWxNX3h3UEloMUI0LU9KNDlxUnFhZ3JBb3ktdDNhZG5nZHVrb1d0aUVCdzBXZEJBLVJtLVdLYnZVM2xJSzE0ZWJGcENWNjlVdnRYclpBbFBjclhpYWVNN21R?oc=5",
+    "date": "2026-07-29T15:28:46.000Z",
+    "summary": "NextEra, Brookfield plan $100 billion data center at US uranium site in Kentucky  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Germany's financial watchdog to monitor AI use at banks and insurers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR293SVpUX3cybmVITjdEQi1VT1IwQlVpcEpFT2VrZ21CSHBWLTdJY1djUHFUU2VWcUJVaDcyT2s3eEl6X1JpUzExaF9COXJBNUJOR1dnUWNRM2dPT0t5UnFtcVVzY2kwekFXd3hURlhHV2pjZFBYLVVDMDl2SmxjZGpOeFZya0dKRzZxOE95WVpJWEFBREZGdUgwSTNsWG1jMTNFcEVjc3N4b2hSRVRr?oc=5",
+    "date": "2026-07-29T15:12:19.000Z",
+    "summary": "Germany's financial watchdog to monitor AI use at banks and insurers  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Kia to invest $649 million to bring electric car production to Mexico - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWxQY2ZYX1ktbkVTZUk4MXpobWVNZ0gyQWdkWVV1NUZpUmNMTk4xZXBTS3pyVkFoMTNqN0paUm1VbjdoYVdsN09DMkpFNU9iZldPcEtkQWRBSWl5dEgya1U0UkR1SnNGbXRreVZUMVltWlF2S3VZV1h2RnlaTVFVQ1BPV0dFOENSUGRLajRPM2lNMTdSQmthX2h1WTdQY2QtakRwZmQ0aDJmSXVaZVYwbUVGN0xYLWhadkF1MThKOEw1dEU?oc=5",
+    "date": "2026-07-29T14:38:39.000Z",
+    "summary": "Kia to invest $649 million to bring electric car production to Mexico  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "The Quiet Fix For Silos – Frontline Marketing’s Biggest Self-Inflicted Problem",
+    "link": "https://www.forrester.com/blogs/the-quiet-fix-for-silos-frontline-marketings-biggest-self-inflicted-problem/",
+    "date": "2026-07-29T14:33:00.000Z",
+    "summary": "When every marketing team plans independently, buyers experience the consequences: overlapping communications, competing priorities, and inconsistent journeys. The solution isn't a new org chart. It's a new approach to planning."
+  },
+  {
+    "source": "Reuters",
+    "title": "P&G forecasts slower annual sales growth as costs weigh - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVlabFc3V21RS1FwOF9VeGZBVURYZDBUT2xtYVl6REljNEhMQ1VnVVZ2ZzBuWkUzcGJTaEJuZ0luNEh5bHp2MWFaMDFGSlljcGZsb2xGMGZQYU1JaHRWMlgzWXdSZjh3eDUtSnBzdS12Y0RVMkxfejR2UU5PRlRMREI1UXBGczJnNk9LbE1nMGFNem5XMzM0T1FacEo5M2JORGZXY3NhZm5STWl0N0tldDRhRHZFeTdZOXNIbFFjdw?oc=5",
+    "date": "2026-07-29T13:56:11.000Z",
+    "summary": "P&G forecasts slower annual sales growth as costs weigh  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Architect For Evolution, Not Perfection In Agentic AI",
+    "link": "https://www.forrester.com/blogs/architect-for-evolution-not-perfection-in-agentic-ai/",
+    "date": "2026-07-29T13:51:52.000Z",
+    "summary": "Enterprise teams are moving agentic AI projects toward production faster than they are developing the architectural disciplines needed to build, govern, secure, and operate them. At the same time, many organizations are searching for a target-state agentic architecture that will "
+  },
+  {
     "source": "Reuters",
     "title": "S&P 500, Nasdaq set for subdued open ahead of Fed decision; chip stocks wobble - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
@@ -19,6 +75,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFBMbE1fV0tqTDdRT1ktZV8wdGs1QV9CUTV4enlvX1VrYUZHNVkwVHpSVXpZVWlhdkdTQ2Z3TU1sMWNaWFpTeXg1RWF2ZHliS2wtNkE4R1IyaXc0YzVQWkFza05wTU5pQUNsSU9mWnVzMHlYQzllbkRmcnlaa05yZXFwRTRTT1laV2Z1OEdXUjUyd3FTcHRfbzVqNm1GZFdEZldvdENMUHJfUlE2NVdvZ2Y4d1lVdw?oc=5",
     "date": "2026-07-29T12:42:32.000Z",
     "summary": "Grant Thornton Advisors to buy CBIZ in $5 billion deal, expand U.S. accounting reach  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India says sustained oil price spike could strain fiscal deficit, current account balances - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkg0anFFZ0l3YjY2SlM5WjdlWXdzS0tOd045bmJCQ2VNcy1YVHdoR2cydkdVdjg4alZBcVAtN3dzNTF5V0ZjM0ZBSGhmOERsemwwdGhMblh3cG1QUzJIOHhPQURCcm56c2VTTEZDRXRGX1F0cWlXYXI0VlpldHV2cUpVWXFubjRNTEd4dTFxMGh0SEo0bElGN0xUZGVINk1tR3Z1Nl9CWW1RbmkxenZ6enpHTV9oUmM3QTBBalViRElLVjAtT0NWVTdCNlY?oc=5",
+    "date": "2026-07-29T12:31:32.000Z",
+    "summary": "India says sustained oil price spike could strain fiscal deficit, current account balances  Reuters"
   },
   {
     "source": "Influencer Marketing Hub",
@@ -56,6 +119,13 @@
     "summary": "1 AI Solutions Architect - Lead Analytics and Insights Engineer II Job in District Of Columbia  Deloitte"
   },
   {
+    "source": "Reuters",
+    "title": "Cognizant forecasts weak quarterly revenue amid cautious client spending - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMF85azhuNDJienVwclBWWHZMdEVXSFNsdW1faC1kVFBzdUlKNVVyOFFBazlPSzFCUGNBY0JGRjVoemlnaVAyQU5sMmF2ekRFbDJ0SWUtVVNUSHU0SlNPc0M5SmJCeU9fUlpveVpSZDlRWVFEYURlV0lQVnlmSVJWMlRaTms1RUVSNEc1M2IwNERXeUNjeTlzZ1JmT1E2UWREbVpXMVZBUEdWWVgzSlQtdDJfV3BOQlUw?oc=5",
+    "date": "2026-07-29T11:20:59.000Z",
+    "summary": "Cognizant forecasts weak quarterly revenue amid cautious client spending  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "Snapchat Makes Lens Creators the Foundation of Its AR Strategy",
     "link": "https://influencermarketinghub.com/snapchat-makes-lens-creators-the-foundation-of-its-ar-strategy/",
@@ -89,6 +159,20 @@
     "link": "https://influencermarketinghub.com/verbatim-brianna-doe-rethink-virality-content-marketing-world/",
     "date": "2026-07-29T10:27:31.000Z",
     "summary": "Influencer Marketing Hub\nVerbatim’s Brianna Doe to Rethink Virality at Content Marketing World 2026\n\nA viral moment once carried a familiar shape. One piece of content reached a massive audience, entered the...\nVerbatim’s Brianna Doe to Rethink Virality at Content Marketing World"
+  },
+  {
+    "source": "Reuters",
+    "title": "Magnificent 7 results set to test broadening US stock market - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemNkZTJ3bTBNZXJZTXoyUm0yai0xOXA2dTh3VG9MemI4V0hzeHN0UU8wY205SHR1LUVnaGdoU1hDRmZFZWhpZ00xeFJRUWljR004bVcxVnJCR09fYUdxZFU3RU9BQ3I0T1FjXy1xTGZscmRTWlZBUEI2RkZDeEVsY3ZZQnYwZ2hBQ1VDTklXZVV2OHBhT0VvRFVwbk5zWXI2OUFrWA?oc=5",
+    "date": "2026-07-29T10:26:04.000Z",
+    "summary": "Magnificent 7 results set to test broadening US stock market  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmdTdm5hbGdYQlREcmpoNTJ6SjZjTHotOGlpUWpZOG5FY2lEWHBkRU9odFM1WTZUTUk2Q09uZXFrb25rRHJ2R3RyOHcyeUJZNUJtQ0s2aGlWYUNJOUJYX2VxUy0tN1VsOUFjSVNQdDZWVmFTNUxpbG9LSmRKQXNaeVBuWXZ1WXFxSUlaSXppZzZUemtBUGFoSUR3Y2txclRWekVDaHl2MWozZkFvUEE3bDlJemRaSFYyMEwxR3hlanhEQWpETU1Z?oc=5",
+    "date": "2026-07-29T10:25:29.000Z",
+    "summary": "Microsoft set for $190 billion market value swing after earnings results, options indicate  Reuters"
   },
   {
     "source": "Influencer Marketing Hub",
@@ -204,6 +288,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Fire crews keep blazes near Bordeaux under control as heatwave picks up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUlUNHZyMXhKMFZlSlA5Zm4zeTktNTFyLVhVSWRDMmt6RWxkeE11N1FyX2NHbC0wOGRtZk9MbUJmVi1EMFJGSUw4YVRrUDZ2SkZaZW1CRHZncFZkTTdTcDZuSzduLXROcWZ0Umtxdk92dXM3Tnh1a3hOTVNXRXRpQmhMTHhyZENrMDZ0VnRiNG9KLXRDaFRFY1REaDdqV1dGUG5VaEZSa2dhQVhjZFFOMHVtTzV4VjJVWkp3WmZ4dWc5UVE?oc=5",
+    "date": "2026-07-29T06:30:00.000Z",
+    "summary": "Fire crews keep blazes near Bordeaux under control as heatwave picks up  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "StanChart lifts income target after wealth boom powers earnings beat; shares jump - Reuters",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3BSWG1jTThtWnVycHhtLWw1MTFxZnRCNExZd1hvTHNnQjFWRkNoTHk4Q2ExaVpaZ3VkNnc3U0xzZkNhbEpLUlhyUGo2aDRfYW9DYXVNVDVXbVBKOVd0THRyeHFCMG9UUWZPMVFXdXhUZWF5R1Fpd0oxT3ZfU2NVaG04bHA5bVBRbjRYeXBQRTBRUQ?oc=5",
     "date": "2026-07-29T06:25:30.000Z",
@@ -264,6 +355,13 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQV9YOF9iTzZPSmltalFUTzk3Z043SDBZSmFDNGtBSG9JRXF2ZjEzWnRzRXRFZWFzQjRHWjhpV1RuX0x2SlB6Q3FIWUluTlVDZ1lOWWdRWlo1Mm1DRzU5bGYwRTJocU1PUXVlZjhDUFA1N3dBNTlYNnhjVnZ3SFdkdXhVUmNYVjR3UV9CNUdPMVJ1MHg1dzRJR0hR?oc=5",
     "date": "2026-07-29T05:37:00.000Z",
     "summary": "Aston Martin keeps forecast, bets on Valhalla after wider-than-expected loss  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Sopra Steria raises growth target on strong European AI, cybersecurity demand - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV051b1ZEMmFqZnJVUEsxMk9vUko3X2h6TkNVZnNGclZiS3lzdGJTYndMVDBrdmpFdWdDTGFPaHFqZ0VuSjFkZVhkdjB6cFlkOW5sMG1NLXZISmJtTU13YV9kUHNfMS14cTJUYWhFQmVDYkpMMURXZ001dVVqTlBWR21XdDc0d2s1ZldSY3I3eUtod01na2JpLTYwb1VZQ0l1QzZ3NjlR?oc=5",
+    "date": "2026-07-29T05:26:00.000Z",
+    "summary": "Sopra Steria raises growth target on strong European AI, cybersecurity demand  Reuters"
   },
   {
     "source": "Reuters",
@@ -1190,6 +1288,13 @@
     "summary": "USTR's Greer says Trump's latest tariffs won't have an economic impact  Reuters"
   },
   {
+    "source": "YouTube Blog",
+    "title": "Hank Green has the freedom of old age (and he’s using it)",
+    "link": "https://blog.youtube/creator-and-artist-stories/hank-green-interview-vlogbrothers-youtube/",
+    "date": "2026-07-27T22:15:00.000Z",
+    "summary": "At nearly 20 years old, Vlogbrothers has proven its longevity. Hank Green is using it to take risks and keep things weird."
+  },
+  {
     "source": "Reuters",
     "title": "Boston Scientific unveils new restructuring plan, expects job cuts - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT05CR1VPcFFGOVRidWVBcnpSdTV2SExiNWs5QmJCYTR4TEJudGxYT3UzTnVVbHlvdlhBWmY2Z2hYMkJBaV9uZ3J1cDV1dmV2dkZEcVV0cEhTZHFaRmg0V3NZTVQ2Vk05Z3pGb09rMVREYXhDZjRyV1VOeHIzM2QtcFU1aHZ6OXYteW5uN0MxOUVjanU1NVRNVnVkbV9Jd0RmSjRxbVp1VkpjQ2FVVUtVRlprU2Jtajl4VExzdUgwdm9pdmpIZmR0Ry1idVpRNWlGRXFR?oc=5",
@@ -1916,6 +2021,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2wzZDNUUzM0eUl3N1VOb0tFVl9UTWZXSWtxSGdUdncwalhRNFdpTFBTNG1lUFRzTjlhdDM0S3BMc0ZsWHB6ZG1sREV6c2NwVlBiMHBKZW1KUGowVWlTdldlYm03QlVadHhPZ3Q2SmJmWk9TNURrZlo1NWQxamxuNWxIZjVIRmVwVl9XdzJuMkRBdVVBMXdJZm9PZV9lZlV4TUt3clNHWHVjU3RBQ2hRbFJJOHRtYWtpN1QybHpWazM5UQ?oc=5",
     "date": "2026-07-27T05:12:00.000Z",
     "summary": "Germany's sick-note crackdown may be treating the symptoms, not the disease  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "BCG’s Intelligent Cities Index 2026 - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4b1c0U3pQczBJdGdid21HLWN2R01GUERkcmtmM3FrYVNiVDdWeWhjY0J0VGdWUmo5MXVlZXBuZGlWYmJSZExNTFdnVENrN3lWM1pFbDVfNldkTjhHSEVQZS1iQXhMY1ItdkN4VlZnalJ0RVJIcmRTUUFLbC1JREk?oc=5",
+    "date": "2026-07-27T04:48:58.000Z",
+    "summary": "BCG’s Intelligent Cities Index 2026  Boston Consulting Group"
   },
   {
     "source": "Reuters",
