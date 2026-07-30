@@ -1,5 +1,61 @@
 [
   {
+    "source": "HubSpot",
+    "title": "HubSpot AEO vs. Otterly: Platform or standalone tool?",
+    "link": "https://blog.hubspot.com/marketing/hubspot-vs-otterly",
+    "date": "2026-07-30T11:00:02.000Z",
+    "summary": "Here’s the question most teams are actually trying to answer: do you need a standalone tool to monitor how your brand shows up in AI search, or do you need something that connects that monitoring to the content and CRM workflows that let you act on it?"
+  },
+  {
+    "source": "Forrester",
+    "title": "AI Agents Are Driving Measurable Value To CRM Operations",
+    "link": "https://www.forrester.com/blogs/ai-agents-are-driving-measurable-value-to-crm-operations/",
+    "date": "2026-07-30T10:55:16.000Z",
+    "summary": "AI agents are delivering measurable business value to CRM operations by closing the gap between data, decision, execution, and results. In interviews with dozens of consultancies and customers, we found that AI agents in CRM: Increase productivity and lower the cost to serve. A p"
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEZfOHgyQlRiaG9ucmM3YnBvSnZZaVgxWlA2TU5rWHFBdzBzSTF0MWtjVThYeXBadEtxekF1Q2dRLVNtanFrZko4cVV4czhOVFRhdU9UVld1aS1vc1pwWlFLcnc4Q2wwc2VhUWtuWEhBVXU1MkRLWWo2YXdadG1VaHlGUEJPNlROeXRHN3M1MDlqQU9zeGMteGRHWllNQ3dfQUZwNkVvOEptTDdERGpteEpLZ09JWGt5ZEx6VFo3YWdUdC1r?oc=5",
+    "date": "2026-07-30T10:51:35.000Z",
+    "summary": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says  Reuters"
+  },
+  {
+    "source": "Semrush",
+    "title": "Digital PR for AI visibility: 5 tactics + how to measure",
+    "link": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
+    "date": "2026-07-30T10:42:00.000Z",
+    "summary": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility."
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta's AI splurge lays bare its compute conundrum - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5",
+    "date": "2026-07-30T10:41:44.000Z",
+    "summary": "Meta's AI splurge lays bare its compute conundrum  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Why Americans are leasing fewer cars - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2dCZi11WUIzU0lKMV9zYV9OeHpuNVpXTzZMN0UxdlR0VzhMOUlwY0p3anhfNTMyV3k0VkNxUEVhdUNYSVlMRHpZZk9JTDR2RXV0RHRkZjhNYm9kVlhSanZJeHBCSWFESjVVa0dZVlNaYU11c2p3aEhTVzZ1bVA1bEZlbXdGYXVs?oc=5",
+    "date": "2026-07-30T10:21:14.000Z",
+    "summary": "Why Americans are leasing fewer cars  Reuters"
+  },
+  {
+    "source": "Semrush",
+    "title": "What is schema markup? And how to add it to your site",
+    "link": "https://www.semrush.com/blog/schema-markup/",
+    "date": "2026-07-30T10:21:00.000Z",
+    "summary": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages."
+  },
+  {
+    "source": "Forrester",
+    "title": "What Large Enterprises Can Learn From The Department Of War’s $7 Billion Oracle Agreement",
+    "link": "https://www.forrester.com/blogs/what-large-enterprises-can-learn-from-the-department-of-wars-7-billion-oracle-agreement/",
+    "date": "2026-07-30T10:18:05.000Z",
+    "summary": "For years, enterprise software leaders focused on application transformation. Today, many are discovering that technology procurement may be the bigger obstacle to modernization. As organizations accelerate investments in AI, cloud platforms, enterprise applications, and cybersec"
+  },
+  {
     "source": "Semrush",
     "title": "Content optimization: 20 tactics to boost SEO & AI visibility",
     "link": "https://www.semrush.com/blog/content-optimization/",
@@ -7,11 +63,25 @@
     "summary": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions."
   },
   {
+    "source": "Gartner",
+    "title": "Account Executive (Mid-Size Enterprise), Gartner for Assurance Leaders in London, London, United Kingdom - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNE9tRUtnU1RGYm5NakF1Vk1VUElseC1RUUhGNk9tcnZoR2NETl9QamF0RnBmVUVVNVlUSldDVHI1eERES0F2R09ILXZ0enhzOVl5RWJuSm5LMGRPbksxRHU4Wm85aW9yOTE2b2prdmRGZ2FVakNLaFZMbU5PVGZvTXJKbEJCX1BDeXM3NHZoQXN4OU10cXZ4WUhEUW9pckpoRXVnUExnclcxYmk4SEE?oc=5",
+    "date": "2026-07-30T08:51:39.000Z",
+    "summary": "Account Executive (Mid-Size Enterprise), Gartner for Assurance Leaders in London, London, United Kingdom  Gartner Careers"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "Revmade’s Andrew Hanelly to Tackle Algorithmic Trust at Content Marketing World 2026",
     "link": "https://influencermarketinghub.com/revmade-andrew-hanelly-tackle-algorithmic-trust-content-marketing-world/",
     "date": "2026-07-30T08:51:26.000Z",
     "summary": "Influencer Marketing Hub\nRevmade’s Andrew Hanelly to Tackle Algorithmic Trust at Content Marketing World 2026\n\nAlgorithms influence much of what audiences encounter online. They determine which videos enter recommendation feeds, which articles surface...\nRevmade’s Andrew Hanelly "
+  },
+  {
+    "source": "Reuters",
+    "title": "China generates less than half of its electricity from coal for the first time - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORngzNkRDREpKV2tDUWxzR2VGaHdBQlZIRGFvZWFlT0xzNWhMampFZXhqLU8zWGdqTWw0eTlNS0ppYU1aX0hpUnMxV0NuNGY5TnZ5WjR6aFE4R1hEWXA2U0htSjhVY2kxcVZuVm9wbHc5TEhIZFBuSzhLRGYwOWptSnZ5Tmt0OW1nOGV4ZkhMZ01pa2xZZ2ZRN0QyWnAzWDBhakRXRVFhclQ5dDdNaWdzbVJzZVM?oc=5",
+    "date": "2026-07-30T08:01:50.000Z",
+    "summary": "China generates less than half of its electricity from coal for the first time  Reuters"
   },
   {
     "source": "Gartner",
@@ -50,10 +120,24 @@
   },
   {
     "source": "Reuters",
+    "title": "J.P.Morgan brings forward Fed rate hike call to December after July hold - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1huNkdMWklnOTRWdU5kZjZiOFZpQ1lENXh4RHk0WTBZUnU3UUc4aDB2TmN1b0lCdGJ2aVlPQ3JoeFdUd2IzQzRmVlJGTm5zRlpkc1FZMC1CU2Z1OHNBUzJyQXN0ek5VN0trM3FrWUM1NkdINmc4VEMzcmN1M2dUNzZFdWIzZkRUQWthYnp3eTZ3Q0UtVmhsZjRrOXltN21ncnZMLTdKd1Jkc1JDNFdPdzV3?oc=5",
+    "date": "2026-07-30T05:45:46.000Z",
+    "summary": "J.P.Morgan brings forward Fed rate hike call to December after July hold  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "BMW to review practices once deemed 'untouchable' as profit slumps - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHJrUEJCd0VQQm1ERTZHb1l4a0RGRml0WEVVWVJIWFRyaFN4T25PR1g4U0dlUkZXXzJXV09GU29HVUlqNUlEWWlCdmNMNEx1TG0ycjYtY2Q2RzlWWVRSR216eHNWWWNBRG1La1BaYjF0b04xdzRwaERTZDJvTXJFc2hLdWJOT2Y4ZHBPa29CVXU0bnVWZi1WZHpLZjZtNzZxSWREZS1TYUJGdjdhWFc3RE5MRlNkcFVyTzFvMg?oc=5",
     "date": "2026-07-30T05:34:00.000Z",
     "summary": "BMW to review practices once deemed 'untouchable' as profit slumps  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Toyota's first-half global output, sales fall for first time in two years on China weakness - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY2tqc2R5SThKZkktUDJXVENvUW1tQ3ViRW1Oc1FHYkZqcVFya3FLYjIxS3AyR3l2VlNhdjBzVzBrakpxcVA1N0R0eDZxMGdMTjVpV2ZwX0MxSVZIT21yMFgxNW5IcVhZX0lXc01Kcmg4c0xxeWxNSEtSNzBnRmJBUU1MSjhUdVQtclh0WXo2NnJYLXd5ZXhXWmhYZU1HMDhZUFNtZUZvcnFkM1liWFMySjFmc2kxdHR6MnhQN19XVlRWMWw1c1JMazRFbzNURHBTNTYtZUYxUUVFcXg0QUE?oc=5",
+    "date": "2026-07-30T04:35:49.000Z",
+    "summary": "Toyota's first-half global output, sales fall for first time in two years on China weakness  Reuters"
   },
   {
     "source": "Reuters",
@@ -75,6 +159,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
     "date": "2026-07-30T00:35:00.000Z",
     "summary": "Oil prices slip as tankers continue to ply Middle East conflict zones  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Mainframe Developer-Senior Product Specialist - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRDNzOGgzbXZsallSYllmSkNOMWFPNlFzM2ZwejI1MDljVmpHVDlqaHpxRksxVDRqZFozeHFjY1cyazRkYUtTYk8xUnk1aTUwQUJwRUpMNml3TmFvcy1kWTMtSUR6TWdYMEVMdjhjRmNPaHkwMTU5ZGFQRXV2aW5ZbkljZ0JQUlFVRUs2dFNDQUZUblBwRF90V2Vvby1QZkY4NGxaUm9HeGpWalNHbTlnLTk0ZnpQdTQ3R3lNbXRRYnJXTDMwTTNXTWhaclZOUnJYcS12SkIydzFiWHdGRzJYaS1sY1ZFS0VLelVsTzc5b3pjakk4NDMw?oc=5",
+    "date": "2026-07-30T00:26:15.000Z",
+    "summary": "Mainframe Developer-Senior Product Specialist  Deloitte"
   },
   {
     "source": "HubSpot",
@@ -582,6 +673,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Discounts narrow on Russian Urals crude in India, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVRBNmIzcjJTTkxBd3lnYXVyRi1xQzNwcm1pNnkzQW5ENW5NU3RudUk0U2pmbVpJS1J5RWljUkM5S0lGMGtRellKTE5PSUtvU2ZKMXo4VXh1M1BrTnRiY0g5WTlmaTBfdVB5Sm9QX2ZHbFpHcXhmVWRVd0xDT0x0TXB0OWZTWFRhRnpZLTlXTDlOd2xHN2hiOGtkd2V5UHVjRV8xVDJXUXoyQQ?oc=5",
+    "date": "2026-07-29T11:18:09.000Z",
+    "summary": "Discounts narrow on Russian Urals crude in India, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Rheinmetall Q2 profit beats forecasts as revenue jumps nearly 70% - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3ZVcEJRa09qZ01rTnhzRmlHbTc0d3RQcThibEJJb1NQVk0xRG5NR3UzdEh0VDVCMnRaRGZXQ1pENHM5Vm9RaUZ3amYwOEhBVzlTOG5tTXctdnlFcnlmc3Mzd0JWN3VpM1hkOU5QLWVRTkswaFFPYXZuRmFFaGVQTFp4aDl5cVFxUVg2VFlzSnROUUlDNmIyN0xpRi11QlA0YmFxQ2tFVjNoY3F4UlF3cm5IdEFjbkVJYVpJeWlCaGs5enJTZHhXVEhrTQ?oc=5",
     "date": "2026-07-29T11:02:08.000Z",
@@ -722,6 +820,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Lamborghini's operating profit falls as geopolitical turmoil shakes luxury car sector - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYkJxQnh5RFVPMk5tOEtvMmNiel8zWEludFhnTzAzeWhkb01IZGY1Tm9VbTBsSHBpY1JTcngtMHh5Z2VBX2RxdzZKR1pQZWQ1M3NWX0d6dTBBRjhzdDg1YUVTb2tTRUhjZENCdTJuYk1Hb2V1bkdVR1Y1OEF6amVMV0k1V1FSdEpPbERvSVhYTHpoU29fdTRwaXJ2TkdyVlkzak4zaGUzcGpYTGQ0UEF2aWNNQzJoV2phQ19xWm5LTy11aEV6T3ZLOF9CY0YySmgzX3JTQXE4dw?oc=5",
+    "date": "2026-07-29T09:16:32.000Z",
+    "summary": "Lamborghini's operating profit falls as geopolitical turmoil shakes luxury car sector  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "IPL's business value soars above $20 billion, says report - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb213ZTYyaTJSdkdaVXBiZ1RlTThnQXdwaWttc1dTMkE0WFhXOVNRUUZnLXNIdUQyTkxVSE9YZnlYZEd3c3RmUGc0Vl9taTJpUTk5SnZCZTlZNkJJek5vdkw4SGdNclBwb2EtZ2JpQkRGWnVTYUdJZ2h5SHRycmJfeWc4QUhwa1hFUko1cWtOZWwtRzhlMzI4YUlGQmRrOEp2NkZ2Wg?oc=5",
     "date": "2026-07-29T09:13:04.000Z",
@@ -754,6 +859,13 @@
     "link": "https://influencermarketinghub.com/ariana-grandes-linktree-shows-album-marketing-becoming-more-interactive/",
     "date": "2026-07-29T08:33:28.000Z",
     "summary": "Influencer Marketing Hub\nAriana Grande’s Linktree Shows How Album Marketing Is Becoming More Interactive\n\nAlbum launches have traditionally followed a familiar playbook. Artists build anticipation through social media teasers, release singles, publish...\nAriana Grande’s Linktree "
+  },
+  {
+    "source": "Gartner",
+    "title": "Director, Conferences Strategy in Stamford, Connecticut, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjWDV0QzhoaWxINVNPNTFWd1pjSXhzNzNpaThOQ25haTdYbTVJU3ZfTUM0MFk0QnVGWkltOXJtNTZTemlfMHVOSDJ6ZURZTFJheGxXZ2hQWERRX3pUb2ZCcUJpNW9aYjRaa2g1aUlhWVFRcDBFNS0zSGRDbw?oc=5",
+    "date": "2026-07-29T08:32:17.000Z",
+    "summary": "Director, Conferences Strategy in Stamford, Connecticut, United States of America  Gartner Careers"
   },
   {
     "source": "Reuters",
