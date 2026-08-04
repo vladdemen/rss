@@ -1,10 +1,73 @@
 [
   {
     "source": "Reuters",
+    "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
+    "date": "2026-08-04T18:51:10.000Z",
+    "summary": "Chipotle pulls jalapenos from some restaurants amid salmonella probe  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTdhU2NMYVVDcFJtV0pXczNXR3NpODBkVjFOMjI2OXJ5NUJsMEd4RVpHUHhsdF9WTl9VRUY1MExPNzdTa3dLYVZ3MDMxeDc5dkFreVJQZ3hEaXRQVTN4WDJvRlc5clJYazBWUnVSYkItaUZ6QjdvVmFZU3B5YWZ5RnlTMXQ5UU5xdTFPdTBGUWdlSkhyRTEwNE5VUHpadGV2b2l2ZjB4NmhCcVFFcUFTa2ZUc2hZZFpHZ1QyRQ?oc=5",
+    "date": "2026-08-04T18:25:32.000Z",
+    "summary": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US job openings fall as healthcare vacancies post largest drop in 11 months - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVRqNTQwX0d3cmUtT3BtY19iRndYWk5EdXN5OFBrUGFTOXJHNkJGdHhObXgwd3NXSjh3YnZwYzlRUDcyNFBrVldNbnR4VnI4emFKRU5ZNkdBSDJPY3ZDRXpJMnhUY0owYU16cDFaQXd1SG13SjE2UGwxemhIN2hLei1Oa3ZqcDhSSWRrSXhXWGREcEV2SDE4ag?oc=5",
+    "date": "2026-08-04T18:01:12.000Z",
+    "summary": "US job openings fall as healthcare vacancies post largest drop in 11 months  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "HubSpot AEO Grader vs. Peec AI: Features, pricing, and use cases",
+    "link": "https://blog.hubspot.com/marketing/hubspot-vs-peec-ai",
+    "date": "2026-08-04T18:00:03.000Z",
+    "summary": "If your buyers are asking ChatGPT for vendor recommendations instead of scrolling through Google results, your brand’s visibility in AI search engines matters as much as your organic rankings … maybe more. That shift is what’s driving the rapid adoption of answer engine optimizat"
+  },
+  {
+    "source": "HubSpot",
+    "title": "5 Semrush AI visibility alternatives worth testing",
+    "link": "https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives",
+    "date": "2026-08-04T18:00:02.000Z",
+    "summary": "For many, Semrush is the gold standard for tracking traditional SERP rankings, and the tool has recently added AI visibility features to its suite. However, there are plenty of Semrush AI visibility alternatives on the market worth exploring."
+  },
+  {
+    "source": "Forrester",
+    "title": "AMD’s AI Strategy Is Shifting From Chips To Systems",
+    "link": "https://www.forrester.com/blogs/amds-ai-strategy-is-shifting-from-chips-to-systems/",
+    "date": "2026-08-04T17:46:57.000Z",
+    "summary": "At AMD’s Advancing AI event in San Francisco, I expected to hear about faster GPUs, next-generation CPUs, AI PCs, and the company’s latest AI infrastructure roadmap. Those announcements certainly happened. AMD introduced new AI infrastructure, processors, software, and AI PC capa"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
+    "date": "2026-08-04T17:23:30.000Z",
+    "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI data-centre race builds $1 trillion lease burden for Big Tech - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5xTHh1OXJqckd3YzNTeU5GTm9rQ1pxQlRIQVVOazlGQ2tKaGlzQjUzcFpNaDlUNWZpMFJ1VWxYNFc4NXpzNUFEVWRpTVAxOGliWnNJZXBIbW1iVVlPV3Y3aF8zZ0NvMU96eUlNcGczQnM2QmI0bloyVHF1U29TQW9sQ19ncmpnYWVuWFFVTW9yb1k4T3p0aWxOa1ZRQ0NpSjZUZFNIT25jXzJHRElLY2VrSUNqcGxJWDltNQ?oc=5",
+    "date": "2026-08-04T17:22:20.000Z",
+    "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "New Jersey sues Amazon alleging poor pay and conditions for drivers​ - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVVLbUk4WV9mTWQ0V1F4a1d0aEhWVUx6T0RNNWJLQmdOS1pDTzBLOXF5Q2xxTGFjcFg0TXpSQVVxYUNSdkZ0eFlTV3JENXdtcUdGQ2hMcVJwdTZLU01DaE9nLWhpaDZHUm5IanZQR3VKYmI1cl9LQmtQbWFvNTYyOVFlcEZleVZ0M0dvX2RiVTBrYWppRVlYTUFB?oc=5",
     "date": "2026-08-04T16:31:08.000Z",
     "summary": "New Jersey sues Amazon alleging poor pay and conditions for drivers​  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Lockheed seeks U.S. mineral supplies after Trump supply-chain push, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcWdxeHVtSUtGSHBXaXg3REFKWWpBSEh0c2doMmRQRlV6eHBxa0JhNkJWMDJhMnBBdnF1QXhaWVdBZWhJdHBSUHB6Uk9FdWpEZ2h4cVkxR09kNVo1YWJSeEJvR1RmU2poaVh3dV9kelZYOVZQRnZjcGFCVWFWZlk4MU92QVhDdFdtUksyRGtsTFVYSlQzWVRpaDlwOWNRZjczQmdxN054YTBKOW8yNzNWNDVESVYzYkZmQl9kWFEwUzZkY3hKOW9QeEhBcDFXNFp6eDE1TF9B?oc=5",
+    "date": "2026-08-04T16:28:39.000Z",
+    "summary": "EXCLUSIVE: Lockheed seeks U.S. mineral supplies after Trump supply-chain push, sources say  Reuters"
   },
   {
     "source": "Nielsen",
@@ -15,10 +78,24 @@
   },
   {
     "source": "Reuters",
+    "title": "ADM lifts 2026 profit forecast on strong margins, favorable biofuels outlook - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWNNclJBRG1LdXhBRUxqeFRkeXhZc1YtRjVTai1wV2VpTlI2R3dOVXhPeUlKX2l4MWpfcmtSTnJDNmYzcldGXzJ4c1c2RnljR2EtejgzUDhmbUkyTHpMMk4wa0tOS0lRS3QyRW1YZzkyR2lFMktadkhtUU54THdQWjlqSzdpVl9tVmtscVNpNFB2X28xcnBSUUUtaXpkZ3NuV3hiSG9BcS0xNWJlZ2x3NEFhd2FQVzFVbUpOdi1IN0x3RVlMNUk4bS1R?oc=5",
+    "date": "2026-08-04T15:22:58.000Z",
+    "summary": "ADM lifts 2026 profit forecast on strong margins, favorable biofuels outlook  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUpseTBiVk8zUzYtaks3RkJCeTlJYURDTllpNy0yZGJjRXg2MnJGWkxiLXhHRW84YXByOG1zZXlsdk16c3Bkdmd4VUl6QVZTSHktX3dnZkctUnZvX01BT2NNSTM4UkZlaHlxbVlmRzE0SHY0NnZjTXVQN1U2U3lfV1h1djNXYmkyaXZNS2Z0UjFmMUNNY25ZRk5fcGhEOUVEYXhVNFcyR1g0alpSZE9xSWdKZk1DRnJsSjZWWm5oZ2JELXhoNkVVTA?oc=5",
     "date": "2026-08-04T15:13:50.000Z",
     "summary": "Moderna begins first human trial of Bundibugyo Ebola vaccine  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5",
+    "date": "2026-08-04T14:43:12.000Z",
+    "summary": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership  Reuters"
   },
   {
     "source": "Forrester",
@@ -40,6 +117,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1JSZThSQXJtM2VFb3RwSGp4dTY2ampYVVBlUk1LR3hGMTRiRHQtYjhRS1BHVnZ6TU12M1A5SVBTUkZfSm1feW1ROXpIUXdKR0kwUFNQNlN1UlpXTTB4cTM1QmN2V2dlUnp2dUw5N1RsbzdIdFV1MS1kR01IVWdHQVFLXzhtdFAyY3BxOWh2NVJVblVuV2F4aUY3Q2trYldNTjQxYnE1MjhQbFVWc0NJMHAtd1o1N1N3dERkcnhwWU96dw?oc=5",
     "date": "2026-08-04T14:25:43.000Z",
     "summary": "Guatemala's Fuego volcano intensifies, prompts preventive evacuations  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "US job openings drop in June, hiring increases - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb21CR3BpSWE0ekVrWHlBdE1OeWxXaS1GUEtPT2lQZ3huRGptQWZpS0swUFpkVnhVVHplUjFlX1E2YzYycGtiWVBub0VXYVZobGNMakdVdVRBdWxWT3dybGFQSmdYTTFma0MyVkNGamZ1VkpUNXQtQ19ORzBxX0ZPd0Zvd05Zb3NEUUlZTWh3M1E?oc=5",
+    "date": "2026-08-04T14:23:45.000Z",
+    "summary": "US job openings drop in June, hiring increases  Reuters"
   },
   {
     "source": "Reuters",
@@ -75,6 +159,13 @@
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk5wUk1YV05FRWlxX1JTZjN0OHZGcWVaRXpwa2trOTU1T1dEVUw1SG5Za241SU9ia0o2R0Q2a2V6N3JvLTQ5aTVGVEJXcTRpNGFXNEFLLUNWamd2ekpYQ3oyRE1XM05DWndoOEt3QW5pVmNqUnJQWFk0SnZtRTBRLWtaTmk?oc=5",
     "date": "2026-08-04T13:48:50.000Z",
     "summary": "Gartner  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "0000749251-26-000245 | 10-Q - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGJrazd3UkM2RG4zSk55OFhYcTlKc3VCRERjdjBoT1hMRnNfTXAwZVl0UnNFQV81SjFaTkpUQXUzMXY3cGpFZUNkRXhZc0VqSTFEcXF5d1lVSE80M2h5aEpsOG1XUmoxOW9MS1NJMDJud292MzZuV3FYVUpSdzRXSmNDRQ?oc=5",
+    "date": "2026-08-04T13:48:47.000Z",
+    "summary": "0000749251-26-000245 | 10-Q  Gartner"
   },
   {
     "source": "Gartner",
@@ -183,6 +274,13 @@
   },
   {
     "source": "Reuters",
+    "title": "India's Nykaa posts profit jump as fashion business ramps up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY3ZCZy0tODBQMF9RWmJtS19rcnp5WFJqMW15RkxCMkViVTE4eEt0b21TSzVzcVpQQVZZcHktd1ZyeVY5a3RFM25CQVpVYVJoY2VmMUtlbTh6aHp2and2MnVSNGZMbTVOVzJvdWlSSnZOVE1id1VkYkRYVl9QaE9vODlKV0pGT1oyR3BSOXFMUnl6MXJjTmY0ZlpoLXQ1YXN1SGFiMmpDRENnR0p4UjJCaUZHQkJXbmtxSWhSX29PbFkzQkJx?oc=5",
+    "date": "2026-08-04T11:31:34.000Z",
+    "summary": "India's Nykaa posts profit jump as fashion business ramps up  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "UK's Segro agrees $19 billion Prologis takeover after investor pressure - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjBmT0NULWYyRjl3UDhpem9RRnBPVTdNcFJGN2RmOUtiNTJMU2Fud3dqQ1c0eFZubWdIdFVreFZPVWZmaG12Y3l5blhGWHBSUjc1U3I4WmZ4ckkyUjRfOVBEd2U0N3doekxINjJtT0NOaHg3ZU1wajUtVGxrMmdZa1kxeUFNc0t5QnhEQThlZXpSeXM?oc=5",
     "date": "2026-08-04T11:19:18.000Z",
@@ -211,10 +309,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Hedge funds' 2026 gains dented by tech trades in July, JPMorgan says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmtxTHBQNDRMZHRyeUNlNjZVSXJsY2NhQmFVc0Q3ZUw2TWs2WDh5a1NDTEpNdWk4NnVWOFZKU0FkRlRpbVJaOVVqMGFrOVpCOUo0YVoxYWVKWVp2anZ4MzlyTzZadFg3cVRvNHhpVmE4MWxrdF94MzY2eC00aENIZmZhaUttSWlyQU5kUGFKcjVFcDhMZ3pZOUg3RmN3eW8xalNHUGpHOU53WE1Wa3lxMEl5ZTBaSU0?oc=5",
+    "date": "2026-08-04T10:56:09.000Z",
+    "summary": "Hedge funds' 2026 gains dented by tech trades in July, JPMorgan says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
     "date": "2026-08-04T10:50:06.000Z",
     "summary": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trading card games are 'extremely strong' and here to last, Asmodee CEO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjE3dlZZVmJIMjBaNVVnUXlmWEZzeW5xWDI5SjJYd3B3bTYwckRJeGlpTkViQmJLTEZXMWZqMUJBZXlUOHZ3SHV5S205SlVuWnhRUHdHeHpmVzYyREU4d2ZlNFptNDlYWGg3clR1dWRNa1JNUjV5dEgxclRZOHY5ZTlDUXVrQ01Jdmo5aUFNN2szZ2h3OF9sLTl0SmVtb1FnSGlpSHBxalo1dEZ5Yk8xZDN6cF9pamJnNTY4R1ZGclplUTh5QVE?oc=5",
+    "date": "2026-08-04T10:49:43.000Z",
+    "summary": "Trading card games are 'extremely strong' and here to last, Asmodee CEO says  Reuters"
   },
   {
     "source": "Reuters",
