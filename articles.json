@@ -1,10 +1,45 @@
 [
   {
+    "source": "Forrester",
+    "title": "Streaming’s Next Battle Is For Customer Relationships",
+    "link": "https://www.forrester.com/blogs/streamings-next-battle-is-for-customer-relationships/",
+    "date": "2026-08-05T20:07:15.000Z",
+    "summary": "The SVOD (streaming video on demand) industry is abuzz about Netflix’s engagement trends and declining viewership between first and second seasons. Why? Because it points to a bigger market question: What keeps streaming consumers engaged when their hit show isn’t on? While origi"
+  },
+  {
+    "source": "Forrester",
+    "title": "Don’t Let Apple’s Siri AI Push Your Bank Behind The Glass",
+    "link": "https://www.forrester.com/blogs/dont-let-apples-siri-ai-push-your-bank-behind-the-glass/",
+    "date": "2026-08-05T20:00:03.000Z",
+    "summary": "Apple’s new Siri AI is one of the biggest threats to the bank-customer relationship since mobile banking, and most banks are about to underestimate it. Siri AI inserts itself not into the payment, as Apple Pay did, but into the relationship, where trust, growth, and primacy are w"
+  },
+  {
+    "source": "Forrester",
+    "title": "Agentic ERP Won’t Scale Until CIOs Control The Proof, The Price, And The Portability",
+    "link": "https://www.forrester.com/blogs/agentic-erp-wont-scale-until-cios-control-the-proof-the-price-and-the-portability/",
+    "date": "2026-08-05T19:25:55.000Z",
+    "summary": "Enterprise resource planning (ERP) vendors are rapidly packaging autonomous operations as the next “platform” mandate, but the real constraint on the rollout of autonomous operations will be enterprise control — whether technology leaders can verify agent actions, govern consumpt"
+  },
+  {
     "source": "Reuters",
     "title": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1c5cDdsaENzVWRTM3JoaUFicGFuczBDdm5GY2tkLWJhN0pSVk81MTlYMm1CQlNmQ1c5ZHZJUUFnLUhFd29CZmRjaEhkR0k3aEZRQW1JR3BKbVZiLVQ5UFJrSFZCTEFIMHpSakZ3TW5IZDctci1sT1piR2VzcGhNU21fN3FDd3ZLaEJ3dFBXdjY2Wjd4aEtwblhlTHJETENxWG5lRDNlWEpCM2ZS?oc=5",
     "date": "2026-08-05T18:25:22.000Z",
     "summary": "Gulf oil exports steady in July, still 40% below pre-war mark  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US Justice Department raises antitrust concerns over proxy advisers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFJPb0JONG9Cbnd6Vjk5SUxMTWp5Z2dtZE1qd2NGQ0dPdzlnbWgyYkF0XzlzTXBnc1JaOHRVakNLRWF4U2JkMEkza0hldk5scEhBT0l0WEYtZHR5dDNLYkJRYjkydEZGNHVFNmtEaUQxeWZiVUFKcVpvaU40OUJuV1RNaG5SLUphOVhua0V6TEhQX2E0cUt3ZDY3a2dEOVY2ZTBQQVJLQVZwM0pGX2c4?oc=5",
+    "date": "2026-08-05T18:21:45.000Z",
+    "summary": "US Justice Department raises antitrust concerns over proxy advisers  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US services activity stays strong in July, input costs rise - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdYYVhsa01nR042T0FHMFlaV081VkFtcTU3MExTM0RING00OTV3dUZVQWJ0eU5QcUtHNVkzS05oV2doR0xQUC1ZajdWd0NnbV9MV25VeGc4Rkh6UTNBRi01T1BJM0EtdWtTSHR0bHQ0RWJBcGMzRnpfZ0VHTWFjMjBGeHpqT2JQMjlmV3d1bk5tRktZVm5qbWw3X05ka1E?oc=5",
+    "date": "2026-08-05T17:50:26.000Z",
+    "summary": "US services activity stays strong in July, input costs rise  Reuters"
   },
   {
     "source": "Gartner",
@@ -110,6 +145,13 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oxM2ZIMHFhQmM0WU5DTjhDblM3aXF0OUFNRzZKX1lHdDd5UXhtUnNiSGFJWGNmRVQ0dTRDVS1UWURqcGNjcThlSEJkS01Sb3YtMU5HV25KT1Z2WGFrMFItVmFvZE84Y2FIanNNREVkakZidGpTMzdOeHhScDkzVUxoQS1wcnZFUU5MRHN6MmtxRHhvZGYtRElfRHRON2ptaml1eEZSRQ?oc=5",
     "date": "2026-08-05T15:24:06.000Z",
     "summary": "Shopify shares soar as forecast shows AI is boosting business, not disrupting  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon's Zoox to start paid robotaxi rides in Vegas next week - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDFDVHdZTjdQQVlOaEd2b1ZVU2ZEYW1lQzJNb0ZwTTBhREp5Y25jSkROQ3AxSlhRN0d3MzlobnYzNHpTMGhwUHBieVNPdDZzYkNVM3FjdHFDZDBuZVdjcDdNdDVSV1pKN09jSllrUWxXQl9ZZk15WThkSXpDUllHWEtGQXpldXdXMFdfbDZBNExGTGkyczVaX1FFeC1yb2d2aVFQVkpXU3dFNEwyY1BrV3dGdVh6eC0ySU1UQg?oc=5",
+    "date": "2026-08-05T15:09:21.000Z",
+    "summary": "Amazon's Zoox to start paid robotaxi rides in Vegas next week  Reuters"
   },
   {
     "source": "Forrester",
@@ -222,6 +264,13 @@
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDBIak80Z3lUMnRXT2JvajlNdW83X2NGdTZFU0ZQNk5vb095NTE1Qm9sTjlxSTFFcUJhd1BxN2lENHZVMlBSa2tyczd4aWwxdGdYQldzenplR2tjRXlqZ0Q3ck1jdUxfVHY1dFZZWjhJamxpeG1XTzQyRTNiWUlrYmswNzZWa29IXzJxazgzMDJQU1ZFNlMteVZmYm9kck5oME40NFp0NG5Pbnhwd1pqMUo5NFRSeXg2czVzSVI2RDdQM2o0X0puUHZBTXlkcXlJelNlV3FCb2kxWm1QbjF6VE40c0QwRDl4MG04?oc=5",
     "date": "2026-08-05T13:06:15.000Z",
     "summary": "Gartner Survey Finds Majority of Chief Supply Chain Officers Unclear on AI Investment Returns  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHhpSGlESVJCQlFvN3kxZXlKcFVVdk1nV05nallYenVpVS1sc0hGcDJzV183RHFQampGM3FIUzlCVl9NYU9Yb1N4WkhZcGZGYjhaZU5fV0dORjVPRWJuWEFaZTBBWUZRdW1pV0NZOVY3Z3NNdWE5V3V2cHZPYlhPazV0c2p3emlhelNnQnBocFF2dTFpRTQtaHNNcmtCaGVmdjRITXJIYTBocG1QTl9qdm5aam1mcklXeFE?oc=5",
+    "date": "2026-08-05T13:04:53.000Z",
+    "summary": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses  Reuters"
   },
   {
     "source": "YouTube Blog",
@@ -434,11 +483,25 @@
     "summary": "UK services sector returns to growth, optimism picks up, PMI shows  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Russia says it struck 7 Ukrainian warehouses storing drone components - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVk3LUFja3RyMG9wSW1WdU9qSlFyT3QzNVpPdUZqeXN0YmxqRnlvSkgwNzMyVzNoNkV5NzJnaUdjV1FuaWtKT3YyMGExU3l3X0p4bkNEUHVnUzNnVTBrblk0QjNLQlhpNk1EWU5XNUJEazlHc1hfN2oxS0l0Nm9HT2dLU1JGSUhrVFZfT2ViUkoxMExTb1hDUVZvdXo5V0FNU2gxSE5RMjI3WnNheEJvQ1lpa1c1OTVsVlNzUXhFWWFxdi1tQ01NTjF4bWY?oc=5",
+    "date": "2026-08-05T09:00:49.000Z",
+    "summary": "Russia says it struck 7 Ukrainian warehouses storing drone components  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Announces the Inaugural Gartner Enterprise Risk, Audit & Compliance Conference 2026 in London - Gartner",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb05adTNSWlZwNDloS3FkUkxWb0xhN0N1ZV9GN003eU5MV0xuLWp1eDRXc3o1UFptaGtPem82UmJhNTVGZ1R4TUxFQ01JUmp6TUhDMUdOcXNuTHNrZnVDTkZNNWljeV9jWlF3aVY1QzBuaDNVMC1EN2pxZDBOV0RuSEpoZ2NBb183cVJaNnhDYk1pY3lyVlVRVWF3VTQ1ek5mUW1takF5NzQ1dTJmeGd4eVhYX05vdHRFRWRLckRid0h6d1pTQW82cjNGVmZqa3lzNHFzN2s1WGZ1ZzFWSDFMcjZNRXFlNExvQ0hiVXJrVG1kV0VKRHNz?oc=5",
     "date": "2026-08-05T08:31:14.000Z",
     "summary": "Gartner Announces the Inaugural Gartner Enterprise Risk, Audit & Compliance Conference 2026 in London  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indian refiners buy Middle East and West African crude, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXB4OWNHemNBNWozSm5fZnh4dDBlY21lYk5tdkZEVE90dUt0VXVKandrbkZSSU5DRUllS2JSS1hFNFpXTE0xRjRGNl9QNlpxM2hkVUpEcDRSbW9mdkJxZ292OHlhY0gxVHF0V2RFWnRDWDdVV3RmWGJuazQ5NmhDelJkX3BxdnF0OUkwaklFNl91UlR6M3k2cWxzbllMc19SQ3Y4NmpKdmtqXzVWeUFtZk9WdEw?oc=5",
+    "date": "2026-08-05T08:24:10.000Z",
+    "summary": "Indian refiners buy Middle East and West African crude, sources say  Reuters"
   },
   {
     "source": "Deloitte",
@@ -1307,6 +1370,13 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVZRdTNOTzRfYVlvOTdBM3I5WDJSNndyTk44TkMtaTVOR0t3cVpraHE2SEMtYnNmeU91WnAyWlRSZUl6dXB0Yk8xa291WGg4RU9GUGQ0aEc4VHhGMkNNdzRJLVY2NHU2dG5lOXdtRGtieXRJODFNVHRxRndDcm5BUTZaNV91NVJvc1NpOUZOOEZLRDZCblJjSXhYY212NmxIZGhkNmdRVlZXQ2RCQWNwLVRPaHR3cTJoTUxXWVRwcHp2cDFJM0JjNEtR?oc=5",
     "date": "2026-08-04T08:40:58.000Z",
     "summary": "Prestige beauty outpaces high-end bags as China's luxury spending evolves  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Conversight Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raGdXOWxaUEVvcVJCazgzUlNVek9LVTFHYktqdXhSa1YyaDFqM3JqbVhreHhodDk5VVdlY0VpZ05MZHgxVGtoVldIS3ZVeXFWUHE3RnpwMlZZSFJqYm5tSF81dzhVX0plNERicUNoeFR6NVY5ZktiSW1qbjQwWms?oc=5",
+    "date": "2026-08-04T08:22:34.000Z",
+    "summary": "Top Conversight Alternatives & Competitors 2026  Gartner"
   },
   {
     "source": "Reuters",
