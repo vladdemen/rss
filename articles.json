@@ -1,5 +1,47 @@
 [
   {
+    "source": "Reuters",
+    "title": "Shopify shares soar as forecast shows AI is boosting business, not disrupting - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oxM2ZIMHFhQmM0WU5DTjhDblM3aXF0OUFNRzZKX1lHdDd5UXhtUnNiSGFJWGNmRVQ0dTRDVS1UWURqcGNjcThlSEJkS01Sb3YtMU5HV25KT1Z2WGFrMFItVmFvZE84Y2FIanNNREVkakZidGpTMzdOeHhScDkzVUxoQS1wcnZFUU5MRHN6MmtxRHhvZGYtRElfRHRON2ptaml1eEZSRQ?oc=5",
+    "date": "2026-08-05T15:24:06.000Z",
+    "summary": "Shopify shares soar as forecast shows AI is boosting business, not disrupting  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "How A Government CIO Shifted From Cost Cutting To Value",
+    "link": "https://www.forrester.com/blogs/how-a-government-cio-shifted-from-cost-cutting-to-value/",
+    "date": "2026-08-05T15:04:34.000Z",
+    "summary": "Cost mandates usually trigger cuts. Our new case study describes how Patrick Newbold, CIO at the Centers for Medicare & Medicaid Services (CMS), spun a 2025 cost reduction mandate into a modernization opportunity. In doing so, he created a playbook that both public and private CI"
+  },
+  {
+    "source": "Forrester",
+    "title": "B2B Marketing Is Moving Faster Than Its Foundations Can Handle",
+    "link": "https://www.forrester.com/blogs/b2b-marketing-is-moving-faster-than-its-foundations-can-handle/",
+    "date": "2026-08-05T14:27:14.000Z",
+    "summary": "Eighty-eight percent of B2B marketing organizations have adopted AI tools or developed their own, yet marketing leaders continue to report unclear AI strategy, difficulty measuring impact, data infrastructure challenges, and uncertainty about where AI should be applied. In other "
+  },
+  {
+    "source": "Reuters",
+    "title": "Prudential shares tumble on report China will tax offshore insurance returns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX25HTklwWF9LQXhQcmZQekd3bXR0Vkg3UjktSVVyRE1HOTBJd3Atb2tTS00tMlVSdmVEN1FqeGFRQUtsalNyeHdpZjRxNS12X1NxYWE3QnQ4QzlySlNBNm1mNlF6LVNTZHpIQ19RZUZDRmRvdnVId082WHh6c19BSV9oS3hUM3lqcy1MSW9wVTdaOVBXX0hBNE9VMVRwZmwyb19nMkRtYmpzTGkydlhmY2x3?oc=5",
+    "date": "2026-08-05T14:24:00.000Z",
+    "summary": "Prudential shares tumble on report China will tax offshore insurance returns  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
+    "date": "2026-08-05T14:15:43.000Z",
+    "summary": "Anthropic to build in-house chip design team for Claude, hire engineers  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Associate Director | Generative AI | Across Locations | Artificial Intelligence & Data | AI Insights - Deloitte South Asia Careers",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXR5aG1Ha01rWVhmdi05bmJkV1hOM29DVExnaDlFb2IyTU1EUThmcXRZQ3d5ZXhrb0tOODBuemlVdlZ2ZFN3N1Y3bENxV25ocVRsQ0VkYUFLdWRyUmpBNktoTnVpcWtHNG9fOHAyREhZbHZjUWhieFVQeGhGcldxTkRWNDRUUWt4eVlUTG05LTZKYUhqTXNWT0pSVGRWYTBQaTFhcDRMSlFobjNXcmFWeEhPMTNRQ2xmVmVwekxTZjdFY18wbldsd0NmVE0xQmFSeVlSSFAyN3AwaDVUREVqTlZ6czlVbGVIWWc?oc=5",
+    "date": "2026-08-05T13:46:41.000Z",
+    "summary": "Associate Director | Generative AI | Across Locations | Artificial Intelligence & Data | AI Insights  Deloitte South Asia Careers"
+  },
+  {
     "source": "Nielsen",
     "title": "DAZN and Samsung have reached an impressive conclusion thanks to Nielsen measurement - Nielsen",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUE1JSXBuWldXd0Q4bGd0djctaF93OUhreHJOWWt5bkVDOXlTS1kxOGFJRnRNelJfMGdTVXNlMUgwYW9YV0QwWTlVT3ZVNGotTWNHaDJvaU5jTExsYnFRQmFtLTBIbldOWUQ1SzhuZjFnSUlhRFpwNzNacy1qTGVCX2w0eHlhMlp5U2EzbnJJT01DX1lzb2VmMg?oc=5",
@@ -8,10 +50,31 @@
   },
   {
     "source": "Forrester",
+    "title": "Takeaways From The Forrester Wave™: Data Lakehouses, Q3 2026",
+    "link": "https://www.forrester.com/blogs/takeaways-from-the-forrester-wave-data-lakehouses-q3-2026/",
+    "date": "2026-08-05T13:22:30.000Z",
+    "summary": "The enterprise data lakehouse is evolving. Once designed primarily to consolidate data for analytics, today’s lakehouse has become the operational foundation for agentic AI, delivering the trusted, governed, and real-time data that intelligent agents require to reason and act. As"
+  },
+  {
+    "source": "Forrester",
     "title": "Takeaways From Forrester’s 2026 Data Lakehouse Wave",
     "link": "https://www.forrester.com/blogs/takeaways-from-forresters-2026-data-lakehouse-wave/",
     "date": "2026-08-05T13:22:30.000Z",
     "summary": "The enterprise data lakehouse is evolving. Once designed primarily to consolidate data for analytics, today’s lakehouse has become the operational foundation for agentic AI, delivering the trusted, governed, and real-time data that intelligent agents require to reason and act. As"
+  },
+  {
+    "source": "Reuters",
+    "title": "Gasoline, diesel exports from Belarus to Russia hit new record high in July, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmVnS1JKM2JHV09BWEVCeUxYZnQxd2VoRUFLY2RaSG9seFFCMXV2ZUxzQkREVlRyMG5FLXpJYzA5TVlyUXFJRVptcWFvaFRNOTRNWHpaOVlQZGxEbVJKcU1ZbnZuSERhOFRhYW5SRkhxS2dkUWlpdGY3dm5SY3dsYThtbDFYZTI2eEp3RnNWNTFnQ2QxR0s5b3JRTmViR1d1em5ZSTRtOGNkaGFCYVpxTkpPY1lXcFllWm1kWUo5WUcwWXBkSWc?oc=5",
+    "date": "2026-08-05T13:08:56.000Z",
+    "summary": "Gasoline, diesel exports from Belarus to Russia hit new record high in July, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Thomson Reuters lifts full-year revenue forecast with focus on AI rollout - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUlvOXhISm5FclhHU3VsSXl2S0FBWThrQVdmdEROLWhJYy14Rm5ldWc1VUlqbXE4b1NwVG5HRENGZDV1VHBpM2NXM3NTZlVHbTQ4MDBpeGxIU0dFQ3Jqc3UybExPc1Nwd1NSWnRzQU94WXk3WTl0RlFlZ3dnMDVVMFFTOWNXWUtnMXlfQ0FEb0pabVQyYWRVRzIzT2lSaWc?oc=5",
+    "date": "2026-08-05T13:08:00.000Z",
+    "summary": "Thomson Reuters lifts full-year revenue forecast with focus on AI rollout  Reuters"
   },
   {
     "source": "Reuters",
@@ -36,6 +99,20 @@
   },
   {
     "source": "Reuters",
+    "title": "CPC oil loadings falter over safety issues and tanker shortages - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlJsX2plTUVpQ2xuZ2V4Q3hycl8zLU90c2J3MjJYNTRNeHNLM3VqQnM2WmJyREE0N0VFSFloNmUwb1AxaE1uSkN1UDF2ZVhkUWJ5WE1ZMWdIdXBCRGFJelhEMi1lUml0RlQyR3RmLWVsVHhRVVVHVkd0a2pLWmVhSFJnUnpRb0JHQ1VYQm1MMDMzd3RYSmpKR2c2c09WemYtaTJkRDlwaXJLRzg2cmd0UA?oc=5",
+    "date": "2026-08-05T12:33:44.000Z",
+    "summary": "CPC oil loadings falter over safety issues and tanker shortages  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "France's drone production shifts from policy ambition to factory floor - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXlqbkNzSTlPNDZUU2VTOWc4czNCM2ZvN0s4WnBDTTlCcGZsX1p1VlRrYUg2VEJIMW1LZS1xclhvbXpQN29sUFFrVlFFcG5pa2VzM2VWa1Q2d0dTMHVmYVdJc201NE9wWi1iVXQwMFdpOHZYR3FvNlZFckU1V2w5ZTFZUFJQeFR2WXhFSHhhUlY1TnhBV2VsWHkyM19NTE1RYnBlUlN6dlJPVG1KODdkUHhlOUY4TmNpSERSMW03SUhZdw?oc=5",
+    "date": "2026-08-05T12:25:44.000Z",
+    "summary": "France's drone production shifts from policy ambition to factory floor  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Eli Lilly raises annual revenue forecast as GLP-1 drugs fuel growth - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
     "date": "2026-08-05T12:01:28.000Z",
@@ -43,10 +120,24 @@
   },
   {
     "source": "Reuters",
+    "title": "The box office is on pace for its best year since the pandemic. But fewer people are going to the movies. - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0dNLTBvc0hvdmxqZ1pJdDIydHRvYUVHYWUzV21ETFhFVXU1U1ZZRTFXTVRka2J1WGRIN3hRN2RPTXFacXpoYWMwSHBLV3kzOGtFVGhNU1pITmpldFlaalEyQ2dOMVVubWp4Z09VUmRLOVZsSGlnMlRQdDFJVFg2RHdnd1Rmc0d0bEVxMWJMaFItY0F6QXpidHZqc0xydzRHZm1OSDVuOG83cTNud0l5azJUTQ?oc=5",
+    "date": "2026-08-05T11:55:02.000Z",
+    "summary": "The box office is on pace for its best year since the pandemic. But fewer people are going to the movies.  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "New York Times posts slower digital subscriber growth, shares slump - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGV4TlY0SXFLSmhlNkdKNkREd0MyZEhPT0xTRXEzWmI1TC1mbmlUWUZfNjVSMXMtMW1vNFFnbHNXQXN2TEczbXoxZ3hqb3ZzREpTc29FQndlZHFRbVZYeDFqYWo2dXVacjVhWHBpZ01JX19wcVBmbG9GVEg5TGxDMG91dWZHSVRhRVB6YTVoODE5OFg5MHRQNUhtYWFGU0R2aVpOZ0RxclNJN011ZUlaTzdJb0hjdEZITDRZ?oc=5",
     "date": "2026-08-05T11:48:56.000Z",
     "summary": "New York Times posts slower digital subscriber growth, shares slump  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Disney's 'Toy Story 5' fuels streaming business and merchandise sales for June quarter - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlg2dEVMRUtKSmV1UWlYeHFRNHlDcV9LNVdIcTVpVmNwc2czRjhuOGFUNEdTMkE4WEdFejhNV0pPcHdvNnljZlVNNUozYWV2cHh3WldORF81RF96TlBXSzNqeTVDcEhXSVF5NTlJd2xpTUVfdXFJc0xzYTBPYncwc1ZPVWF5RHlza1ZTLVQ5TEswNjhPZEQzVHc1MzRhQUpobENZcXR4bEpQczBNTUZNYWRtY3dEX3BnLThtYWNYUjU0T1ZtS3lVMmVLOA?oc=5",
+    "date": "2026-08-05T11:23:47.000Z",
+    "summary": "Disney's 'Toy Story 5' fuels streaming business and merchandise sales for June quarter  Reuters"
   },
   {
     "source": "Influencer Marketing Hub",
@@ -89,6 +180,13 @@
     "link": "https://blog.hubspot.com/marketing/crm-change-management",
     "date": "2026-08-05T11:00:02.000Z",
     "summary": "CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after go-live. The result is a CRM that costs money to maintain but doesn’t deliver the pipel"
+  },
+  {
+    "source": "Kantar",
+    "title": "Job Description - Kantar",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EdW9oZWI2QmRuQm5yS0tXTDBtaXhpWTA4ZmlvX25yTnlsb2lwRUxwU0VWWEZPTm82WnN6aDFSOEVNdUpsM2F1T0E3ZEV0d2k2NVJmdGxENUl6UVhrX2xQc2RyWkMyLUFYcjdObkdQZnAycjBNR0ZEVzc3WG9MeWc?oc=5",
+    "date": "2026-08-05T10:58:48.000Z",
+    "summary": "Job Description  Kantar"
   },
   {
     "source": "Reuters",
@@ -294,6 +392,20 @@
     "summary": "1 MI&A - Insights Product Senior Consultant - C_MAT Job in Austin, TX  Deloitte"
   },
   {
+    "source": "Deloitte",
+    "title": "MI&A - Insights Product Senior Consultant - C_MAT - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU01TFF2a3c3bFdRdzE1YTFxZ1dIbWthQ0gxQ0hoQVM2Snl2TTRPZ05TRXhDdEV2dl9Kd1o5S280bkpBY2YyU1g1djRIM19qcW9jU3gyV2RjdHlveVBXdzdFUjhUOWdibjJZUzhvQVlKcHFKZzM3VXpRTzZZVWROUGdDbklkUUpEeTRCRkxqMFNYU3J4c196NWp4R2lEN3dhd3NVWUh3bTdiOXFGUW44NE1UWEFBNDdyZzYzS3VnNUVVdw?oc=5",
+    "date": "2026-08-05T00:30:40.000Z",
+    "summary": "MI&A - Insights Product Senior Consultant - C_MAT  Deloitte"
+  },
+  {
+    "source": "McKinsey",
+    "title": "How do we reach universal prosperity by 2100?",
+    "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100",
+    "date": "2026-08-05T00:00:00.000Z",
+    "summary": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?"
+  },
+  {
     "source": "McKinsey",
     "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
     "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
@@ -308,11 +420,25 @@
     "summary": "Global Product Senior Specialist in London, United Kingdom | Expertise and Insights at BCG  Boston Consulting Group"
   },
   {
+    "source": "Deloitte",
+    "title": "33 MI&A - Insights Product Senior Consultant - C_MAT Jobs - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFd6UHdtNHZuOFR2WU56S3dvNDY2enI3SUxYVVk2N1Bxd1g3VnhpOW9PbzN1b2tScW5KWHRpVXZrcGFrbjE5ZHJzZVljaHZSSkwzaGg1akJVM0FZRV85TldQRjd6MGd0dkdCblFuOFhWRERQNHV2QzMzQXRYSTZCUkc3czZTM0RqdDJHNzJCaVR0c00?oc=5",
+    "date": "2026-08-04T23:46:17.000Z",
+    "summary": "33 MI&A - Insights Product Senior Consultant - C_MAT Jobs  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Trump's EPA was wrong to terminate billions in climate grants, US appeals court rules - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
     "date": "2026-08-04T23:14:31.000Z",
     "summary": "Trump's EPA was wrong to terminate billions in climate grants, US appeals court rules  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Booking profit beats estimates; Middle East worries weigh on forecast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPblNUR180Ri13NVUtUlY4ZUhkX2VFTm1ZRUhiN2FDdHczUEpCTkNjZWNkeGFMYUxTM25ZRlg3WFRwbjdnRlpWRGJuN1A1bEhQTUJZNzhtT29fUjlXVzNTT3NrRWptdGVZOV81bGtRcmt1S1BSUkExV01TQUo2SC14aEpBeHZScEJzZFgzUGFIeC1QR0RvV0Y0Z0llcEF1aTc4NHhHRGlR?oc=5",
+    "date": "2026-08-04T23:14:06.000Z",
+    "summary": "Booking profit beats estimates; Middle East worries weigh on forecast  Reuters"
   },
   {
     "source": "Reuters",
