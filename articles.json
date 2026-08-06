@@ -1,10 +1,52 @@
 [
   {
+    "source": "Meta Newsroom",
+    "title": "Why Meta Builds Its Own AI Data Centers",
+    "link": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
+    "date": "2026-08-06T15:00:23.000Z",
+    "summary": "Developer and creator Tom Shaw sits down with Meta’s VP of Data Centers Rachel Peterson to discuss how Meta is building some of the world's largest computing facilities.\nThe post Why Meta Builds Its Own AI Data Centers appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Similarweb",
+    "title": "Similarweb Wins Web Analytics Solution of the Year 🏆",
+    "link": "https://www.similarweb.com/blog/updates/announcements/similarweb-wins-web-analytics-award/",
+    "date": "2026-08-06T14:56:21.000Z",
+    "summary": "Big news: Similarweb has been named “Web Analytics Solution of the Year” in the 2026 MarTech Breakthrough Awards. It’s been a big year of change for consumers and brands, and we’re so proud that we are named the solution to help businesses navigate these changing times in the dig"
+  },
+  {
+    "source": "Reuters",
+    "title": "Sandisk, Western Digital weigh on chip sector as high expectations eclipse strong earnings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanUtdEozZmZGZVoxTGJtbG4xOTJ0Y21LY1luYmxjMjBaRlBiY2xzV2d6ZVdwM3YwYUVsNGgtUHljR2tUbEhyNjZtNHBrYkJ1VVN6enVweS1peHZ0TVg5a3dpVkVrSjE5QjJaQi1vbGRyaThjbFdjNWNNaG1ZdzFoSmt4Y1pTQ1FiWjNQNDJnX3lBamdYbXpUcnFXbndxdmMtcDRIZElUNDNQMml2REt2OERLWmlkUm1sank0?oc=5",
+    "date": "2026-08-06T13:53:01.000Z",
+    "summary": "Sandisk, Western Digital weigh on chip sector as high expectations eclipse strong earnings  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Burger King's US strength helps Restaurant Brands top quarterly same-store sales estimates - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFhwNXdsdkFVb0g1aS14T1pUdm01UFZMSXRIRjRTUDFEaDBmbjlGODlybURMODJYYkxXOG91VWhvam1PTExrN0cxUERzcWdjU1hmZXZ4bU93bTJVZmY4RjF4VjhtOGRvM2VPT2RUUUMzcFdaV0d6cVY5S3ZRSVIwekJyZWJRUl80ZEx5V2wxdi1vdjVJNmV5aHNzYnByZGpRZjFuampYdnJXWVlFWGRDZXRaUXJWSk1URVlzejQ5cUw?oc=5",
+    "date": "2026-08-06T13:34:54.000Z",
+    "summary": "Burger King's US strength helps Restaurant Brands top quarterly same-store sales estimates  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ford's new EV truck Fathom to be priced starting at about $28,000 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXpzWXQwOWdjTW5oOVdVSW9ZZ2laU19FWUtJVERKRnlKd3NDdzl5dEJDSzlaS25kSkVpaWVHSXRsbEsxd3JpUy1lNEcxbFliMkpUaThKMjF0QWFXMmtqMHpMVDllempPNkNKdEdMX29YY0RCMnQwTHdNMjRyNmNyT1p3RFc5UnJidFNYd1AwU3RHMEhvc0lOZFp3U2xsdDFPS1FDc0VsOUItRk5xY3B4TTBCbFkxMlpORThYMEkxSQ?oc=5",
+    "date": "2026-08-06T13:03:43.000Z",
+    "summary": "Ford's new EV truck Fathom to be priced starting at about $28,000  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Your Processes Are The Weakest Part Of Your AEO Strategy",
     "link": "https://www.forrester.com/blogs/your-processes-are-the-weakest-part-of-your-aeo-strategy/",
     "date": "2026-08-06T12:36:03.000Z",
     "summary": "Many marketers now know the best practices they must implement to get mentioned and cited by ChatGPT, Google, and Claude but still struggle to implement answer engine optimization (AEO). Marketers sync with web developers about the technical prerequisites of visibility: server-si"
+  },
+  {
+    "source": "Reuters",
+    "title": "Honeywell Aerospace shares tank as sales forecast cut, profit miss disappoint - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNblJpM0pYY0NrYnduWUNBY0xfNDBSSFhSY2tzX3c1WFBzM29KN0FxTzVycS13WWdyUUFXUHBnY0EtTEp3TVRfY0MwVGgtYmZMcXpZX2c1RUhoanc1UUxkUHJQVXA5alpibTRBcTFuRjdFd1NIbHBmS1RfbFRMZnhwdVJINUpEZk41LXkyeDFhY3ZzOTNtem0xRmRIWDBkS1RXU2NaV1FRRUdMZEVHM1lmZXlGYUJ5QllWUjZZRE8ydVpfUTZ0Y2lmSVFkU1hVTnlBY2c?oc=5",
+    "date": "2026-08-06T12:27:44.000Z",
+    "summary": "Honeywell Aerospace shares tank as sales forecast cut, profit miss disappoint  Reuters"
   },
   {
     "source": "HubSpot",
@@ -19,6 +61,20 @@
     "link": "https://blog.hubspot.com/marketing/crm-deployment",
     "date": "2026-08-06T11:00:02.000Z",
     "summary": "There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges, not the software, and most of those failures are preventable with the right plan."
+  },
+  {
+    "source": "Deloitte",
+    "title": "SAP PLM Analyst - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWk00b1pVblV6RTZBRVRhYWRJZWNHaHQ4Z3Vxd2xCNTVnMlEwRXJCMlVmZHM3d1FCdzhycjV4NGNka0pPX0F5dkgxRWlfZUdXTXYwVlhLdTh6dVBUZEJhZ2VEYk5tVWkydXFyM3VWMUwzNTdfR2NQZndJQS01N1E1TGxoalp3R0xmY3RGUHFUS1hCLVJDWW8xNkstQll6RTQ1TWNfa1I1T2ZvMlBBM2pmNHp5RQ?oc=5",
+    "date": "2026-08-06T10:46:11.000Z",
+    "summary": "SAP PLM Analyst  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "South African clothing factories struggle after migrant workers flee - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3BLR002bk9UTHRJcUQyTGNiOXpQUXJ6c296a2kyVDNMWGRoMlVDUF9XcU1KelJPbm1BcDhON2ZFR2NfRFpCWGl0UF9CS3lCZUFxalNyZHdwaVI2YUYzeEs0LVBPeVZLc3U2MFMtUzZjeWRZVk82QmR3M3JpRHgzVHZ0dXN6X3A1Mm04RjB5ZEpBQUFnU05faHhxNnlCMFNTcmRjc1ZCRVJUQkkyRE1EMnpnX05mNkhQU1FHX0c3RTRpaWJSNXc?oc=5",
+    "date": "2026-08-06T10:28:24.000Z",
+    "summary": "South African clothing factories struggle after migrant workers flee  Reuters"
   },
   {
     "source": "Reuters",
@@ -77,6 +133,13 @@
     "summary": "Rheinmetall scales down 2026 sales outlook on scrapped frigate programme  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Nigeria targets up to $50 billion of offshore oil and gas investment by 2030, regulator says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUVjVjRTR1hoWEY3bjNhcnl5SjdSTWZvUEdWUmc5Mlh5VlZPRVFqUUJUWXE0MTlVVEh3aXpEN1B2dDB6elB2MkVQa05nQ0IwaDQtYlgybk1Lc2NpVnNYMm5NSmhkY1k1cHp6LU0xR2RGZWhHNHZoaWQzNzNLcnlLeFdQcHlGQzRlanY4T3U0MXUyZVVtT0tIWW5uYWs1c0NtZFFhVEV0V0lscU50QlpvQVVCT0Q3SWZIdUpZY2ZFc2E1UTBVNjkxSlZmeGU?oc=5",
+    "date": "2026-08-06T08:00:46.000Z",
+    "summary": "Nigeria targets up to $50 billion of offshore oil and gas investment by 2030, regulator says  Reuters"
+  },
+  {
     "source": "PwC",
     "title": "Doing Business in the Netherlands 2022 - Insights and publications - Services and industries - Tax - PwC",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWsxYkNvYjdJQjJ1UW1xVlRWRlRKMFBUNWFvbVFLSWZuWllEeHhLSmRFMkNDVTJTbTRpd3ZGOGJXU0kyZkMwSDI3SW1CWGRGbVFPRm5lWGwtUElLQk9hVXBidWpUckF3Y3RmX2hmeHIyTkJUU0tTZXVFYWFiN2lneUY4NTkwZWRiOGN5aXdybzhxYm1tcGlCOXFfbE83WE9iV1NXUmxuSWJONTRIRGNhNFg4bml4dkxoUjBuLWNKcktnaWpUNl9lSFVvZzhwTUk?oc=5",
@@ -103,6 +166,13 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRXN1dla1VaLU1TU3FKSzRDdW9qUkRHNUNaRzJqSW9hNllTdEhlS25GVHBhdkRib1VKVzJvWlRteXBRSUhKSTEtOGRic0FjNkdXcVJqZEtlLU56ZjJHV2E5cHpySEtjSWxxSFE0VEVOSVcwSUtaMDYzS1JsNEFwNmgzT1FTYmxXTnhNbTlUVm1PcTIzZ0tEOEtEdXFmWjUzb2wwdmhWUVhORXZvQzBJNUpBdGpYOEJyYnRYYnpDU0dfMUh0Zzhn?oc=5",
     "date": "2026-08-06T06:55:00.000Z",
     "summary": "China's CMRG tells some steel mills to halt talks with Rio Tinto, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bain Capital-backed Dhoot Transmission bets on India EV shift to drive growth - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFJKcFlfTlNFdkxsZ1N4QzA2OVVFZEZscDlIXzdXQTlQRi13bWtuN0tTaDZiRDZjZmZvRzU3Qlh4eXE4YnVTVnFTWmFVNGJ1MVJNSG4tclhJQlFVMTMzTG4wNVdPZ0FLV3QtcjhkbzdhVmYyV0pXVmxveGk2Wm1CVjR5bVo2VzlUMEFNZnJsYjlrZ0prU0p0YUd0b3VhRXpUdWVFcERhVFJVbER5UVlnN3d1TVhISm1mUWpv?oc=5",
+    "date": "2026-08-06T06:30:06.000Z",
+    "summary": "Bain Capital-backed Dhoot Transmission bets on India EV shift to drive growth  Reuters"
   },
   {
     "source": "Reuters",
@@ -189,6 +259,13 @@
     "summary": "'COP15 puts new emphasis on importance of monitoring' - Sustainability - Themes - Insights and Publications  PwC"
   },
   {
+    "source": "Deloitte",
+    "title": "C-Suite Research Design Lead - Deloitte Greenhouse - Market Research & Insights Jobs in California - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3NMLVpZSnhNRXZpRUdWWmdkTzdWRVdrOUoxX01HOTdBMkhUZ0ZNcW5sWUMxYWJkZjNoSzA1RlU0NjZlamo1aTNPbGVVSDhsYUNyWkpNWjQ4eFNYcWFMVmc2MU5UMWYzTWEwdlJzNFBlZHc0Wm5HRXkzQzg0ZllRVmJ1NVhJWnZWVGVDUGQxUzJMY0FYOTE0LTJEWWlJTGtfN2tFaXMzaE9YRXpINGZfRFZDM0hBRVdTMHQzaldlZVN0QnRZUmFFS3Q0MThWU3dmMFdqbXEzS1FPeEtK?oc=5",
+    "date": "2026-08-06T01:51:18.000Z",
+    "summary": "C-Suite Research Design Lead - Deloitte Greenhouse - Market Research & Insights Jobs in California  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Fed's Daly says central bank was right to hold rates steady at July policy meeting - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjE5TDg2cVg0SncyZzdfUXVndHYzYlltdVJ2ZldwcEVfOHZmeWM2WXlXeWk0RDB0T2JYZmhtWXgtWUpHWUE3aklHWk8ySXVfaDlMYV9ZRnQ1RHNSVjFCY1YwSjh4ZEFwS2l6eEZ2QlZrVmxLdUUzbmlkN3hRU2FxTmpVektub0xCTFhRcTkxNG9KRFYxMmhMWk5PVW9GRUMwTzN1MDZmSlBkMXNoV1B5Wi1JYWFocE9KZ1AyZA?oc=5",
@@ -217,6 +294,27 @@
     "summary": "Senior Analyst - BCG Vantage, Financial Institutions - Wealth Management  Boston Consulting Group"
   },
   {
+    "source": "McKinsey",
+    "title": "Growth favors the bold: AI as force multiplier",
+    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/growth-favors-the-bold-ai-as-force-multiplier",
+    "date": "2026-08-06T00:00:00.000Z",
+    "summary": "Seven myths hamper growth in the new world of AI-driven growth. Overcoming them requires leaders to focus on redesigning how commercial decisions are made."
+  },
+  {
+    "source": "McKinsey",
+    "title": "How AI-enabled execution became Reckitt’s ‘tenfold game changer’",
+    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-ai-enabled-execution-became-reckitts-tenfold-game-changer",
+    "date": "2026-08-06T00:00:00.000Z",
+    "summary": "RGMx helped Reckitt improve pricing, promotions, and assortment. Smart Execution helps those choices land at the point of sale by using AI and data to strengthen product availability and retailer partnerships."
+  },
+  {
+    "source": "Forrester",
+    "title": "AI Agents Can’t Read Your Pricing, And It’s Becoming A Revenue Problem",
+    "link": "https://www.forrester.com/blogs/ai-agents-cant-read-your-pricing-and-its-becoming-a-revenue-problem/",
+    "date": "2026-08-05T23:40:48.000Z",
+    "summary": "For years, B2B software companies obsessed over discoverability. Could buyers find their website? Could they rank in search? Could analysts, review sites, and influencers tell the right story? But a new challenge is emerging: Can AI buying agents find and understand your pricing?"
+  },
+  {
     "source": "Forrester",
     "title": "AI Agents Can’t Read Your Pricing. That’s Becoming A Revenue Problem.",
     "link": "https://www.forrester.com/blogs/ai-agents-cant-read-your-pricing-thats-becoming-a-revenue-problem/",
@@ -229,6 +327,13 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFRkMnJTWlZLT19MaVcydlhlQ3NkUklRS1UxMjJwTzY0dWVRbkoyeFc0ejF5QmVfcmItUDNkMjJsQXJMbUlWdFRXNEppcnk4bkswTFNGd3JydDhEd0VDRlVELWI2TzJldWx6ellLbHdnNnJGT0s4TjlZLW9ZeERlMlhfX0s1dFhia0FHbEdBYzlxbmQ1X0txU1pCMGFEZUxDTXVjNVFfUFFSdlBXZ2x3azNELTFvRTg?oc=5",
     "date": "2026-08-05T23:23:47.000Z",
     "summary": "MercadoLibre profit beats forecasts, but third straight decline dents shares  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "UK seeks to bring in more scientists by expanding research visa route - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXU2bktnNWdTcER6Z3dUbE1sekZ5ZHlPWm1jSC1OT3hTaG1FRmpaSHUxdFIzLTgtZDVhcENueGo2dE1nT1JFbXNwUk8xcmdQT0ZJaXhHMkNFYWlxMmVLdWVqbDEtUmJRUXFHN2pGMU5oSjhSRXJkTGU5TE9UT3BfWVF5emV5cEZmUmF4QmdUZDJqTGNxSkQtSXJyVm1aVEpWZkUtS3pHdHVhTTVP?oc=5",
+    "date": "2026-08-05T23:16:13.000Z",
+    "summary": "UK seeks to bring in more scientists by expanding research visa route  Reuters"
   },
   {
     "source": "Reuters",
@@ -383,6 +488,13 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDd0Vlp2NlhIcHd6bEhrdmVCeU9GSzdZM01JeXJ4MElkaG83Z0Nva0dLbzNya1pPUjlSQTJyS3pqRnoxWlY1c0lnSUlFVjJGcHEtSlZ1VXc4REhNODBFMzZ6eko5MmZWdVNSY25ERUM2X3VwZFNHaFE3WHlfRlF1X3hHYUhZR2VWcE5kSmNlbEtNTC1uRTBxZDBNLUtUOGROWTZ3cHlSLWRtdmN1N2FZ?oc=5",
     "date": "2026-08-05T20:55:01.000Z",
     "summary": "Fed's Cook ready to raise rates if inflation doesn't start easing  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "C-Suite Research Design Lead - Deloitte Greenhouse - Market Research & Insights Job in Connecticut - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT3RmOHZ1MEx2RGowNE01WWNRTWQ2My1zbGZGd0pWdkM3YXk3TzBxbEFBTXM5Zlg3bW9TSlVxeHZKYlBlcnJ4Tlc0SVIwVUdsY3B5cUpvUUpCaHh1VGJKN3BvUXBZc0M0WHU2aWhpOHgtMkV3TW4tb3UxR191R19aYnVrWEp1R0V6X1pXUWpMRkZvRFFkU2lFSmJTU2VUcWItV0dUdHVrUmJTLWYtR0VkM1lCQUE2c3BTZjVTalFHWXJpeG1LNFRsRUlsdzJJVWJQb004WEhpNWpxVnptLVE?oc=5",
+    "date": "2026-08-05T20:48:23.000Z",
+    "summary": "C-Suite Research Design Lead - Deloitte Greenhouse - Market Research & Insights Job in Connecticut  Deloitte"
   },
   {
     "source": "Reuters",
@@ -623,6 +735,13 @@
     "summary": "Kraft Heinz raises forecasts, but turnaround efforts struggle to excite investors  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "1 Global Cybersecurity Analytics & Insights Leader, Global Deloitte Technology Job in Ontario - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ05IUjd5c3B4QnA1S2JMM0dxSHNVQjN2Zkl6b2x2dFdGNE92NXNCVFR0U193U0g0XzhPaDBkTlA0MU00TGtQd1dWOVlmX3MtRWd0UGFVd1c1c2VITlZhN0YzVlh2Vk5wbW5EOVp1b3BnRHl6WWRjX2R1VTdoWVdXd2V0Wk0zRmVZUmI3U19ScUtXTlk2eHFxenBGUmhnam9nZHRmVUktUXJyRzgtd3lqSmM5c3QyT1p2eXNEZTRNenJFN213eHViUW1rdzlVSDBGdThqRlVSU1lXVHRFUVB1bDRmd1ZPM3RIVDdOYUxZOG1EaTA4OW0yLU9R?oc=5",
+    "date": "2026-08-05T17:27:25.000Z",
+    "summary": "1 Global Cybersecurity Analytics & Insights Leader, Global Deloitte Technology Job in Ontario  Deloitte"
+  },
+  {
     "source": "EY",
     "title": "Senior-Tech-Consultant-GDSF04 Job Details - EY careers",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWG92SkJhUXU4MWZ4QWNGb3p4NlhoN2VpQk1RY1o5UDNvNEZMNWprWlFWRDV4U3VIRWZGdHNHVTFOQkJobnAwVl9rbzZEeUo2NXgza05lREM1ZXdfRlo4T3JBdDRnM2d2OHNaeDFaZzBOVXktVXBvanRpN0tZczdQSVpwNDVUTHcwbGNSc1J0WXg?oc=5",
@@ -719,6 +838,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
     "date": "2026-08-05T16:03:43.000Z",
     "summary": "Google shakes up AI leadership as DeepMind chief shifts role  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Italy to handle Monte Paschi stake without interfering with M&A moves - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0dDbWlIMjJoeWdkV1lDcGc4M2M4WXlzZWhQQUtRMW5hbHM1UUI4V2JJcFBxNGhVLUh6aF9RWDJYM2x2SHk3Q1B1ejhHRU1fN1RESGtDeDU4dHRFTXpRSHYzV2k2d2ZDdUlkQzhEUTQtdXg3VGNGWExtQUFKZ1JVQS1NZk1IS01rUkM0Zk1WbjRYbFlkRmZyTDdlOUR2UER6Q29KUWJ1NXhjbHRxQVNBQ1ZMUF9GcFZxVFE?oc=5",
+    "date": "2026-08-05T15:59:32.000Z",
+    "summary": "Italy to handle Monte Paschi stake without interfering with M&A moves  Reuters"
   },
   {
     "source": "Deloitte",
@@ -1092,6 +1218,13 @@
     "summary": "C-Suite Research Producer - Deloitte Greenhouse - Market Research & Insights Job in Kansas City, MO  Deloitte"
   },
   {
+    "source": "Gartner",
+    "title": "AI Case Study Library for Logistics - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhdGlnbFZSeVpHaU9ob0lvQnRfQ1RGTlNjSE0xc1l2R1JkSE5INmlwMVJGaUt4TnJrOW1PMTZFc3hHVlNybXhkcnNON2xHeF9EVDFpbnhobw?oc=5",
+    "date": "2026-08-05T10:03:31.000Z",
+    "summary": "AI Case Study Library for Logistics  Gartner"
+  },
+  {
     "source": "Reuters",
     "title": "China targets US firms and drone exports after FCC, Xinjiang actions - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0xzQm1HdUpWMUNGMFVwa2pXTVhkTlV1T3hWbTQ3bVRReU1kcnlsTjNRRkZmcmI0WmlQYkFOdmRPeGJoa1lBT3htNW51OXhZcDVUM0FOQVFTSnRNYWF0bGVfc202cF9DSnFkRjhCdjhyXzR3YlNCMzYxbFVtNEFwN0JFTFJ0bHpiY3NCNnVLcHlTY2VzdzNDOC1icXVQcXdYc2NwY3ZuNXBFUWVZb1duM0xMY2V2bVNaRmc?oc=5",
@@ -1132,6 +1265,27 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSlVSMGJPMXhRZ1ROUmNJMl9xMUJtbTZ3SGMxeWlnWUVfVXgtZ2N5RmZ0dFdfSjJMdUJiVnd3Um5uQWo3aGtUWGg3YTdDOUZuQ1YxTkhBTmVCNFg0ZVB0MWR1ZW9aS19DeDQ0QXI3RjduLWkyblNXdUFRU2EzQnc?oc=5",
     "date": "2026-08-05T09:32:23.000Z",
     "summary": "Job Description  Kantar"
+  },
+  {
+    "source": "Gartner",
+    "title": "Analyst Take: AI Talent Development Channels That Scale Engagement - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52bk9hSmh1ajFLaDZpbVJXREstalVFTS1qX2JNdC1nWGRBV2FUOHpnRUF6blpFMEZpOWhuV0FLYkQ4VHkyOFVTTzRWaF9ka2k5QW5FUkdJWQ?oc=5",
+    "date": "2026-08-05T09:29:46.000Z",
+    "summary": "Analyst Take: AI Talent Development Channels That Scale Engagement  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Infographic: Create High-Impact Analyst Events With Proven Analyst Insights - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnU3U3V2JuMWZSclJ0c09mUElRcDlzeTI0N252bmhFa2hWUmRpYnlBMlB0OVktWm8xbk1hOFNZSUtQR0l6STFWV21xUlZWSzZEcE5sTlJFdw?oc=5",
+    "date": "2026-08-05T09:14:13.000Z",
+    "summary": "Infographic: Create High-Impact Analyst Events With Proven Analyst Insights  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "ISO 27001 Certification Does Not Guarantee Cybersecurity Maturity: Top Four Common Control Gaps - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jd3RMSVE3YzlYQVYtdVEwc00xSjRNLW5VNHluazZEUHZpWWgyYTF6RENoODhVcUlYS3hGNFFuV0tzaExaSU1waFRwQjhHdVR6UFN5RkhESQ?oc=5",
+    "date": "2026-08-05T09:09:01.000Z",
+    "summary": "ISO 27001 Certification Does Not Guarantee Cybersecurity Maturity: Top Four Common Control Gaps  Gartner"
   },
   {
     "source": "Reuters",
@@ -1237,6 +1391,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnF3dzZzNndHNHROUlJnZU1ERFNTUy1tOGJJeHVqQ01GeVN5MU1FZWVMb2pZWTNTRU5XMXN6ZURRNHNfMWdsM3dzcW5NZ0haTnI1SjBWcTBWYUxQc2dNWHA1aDY3N0xoTzhTdUhHSy1JeFlpZFJtdVUzQ185NUJKOGFwRnpnT1lPOHRNQzBicEZDd0NfTjY0UGxHdXZiRlhUVHZXTG1pMmFIa25uV0xJazdhbzN4RTZK?oc=5",
     "date": "2026-08-05T07:29:28.000Z",
     "summary": "Heineken's profit beats forecast after 3,000 job cuts  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "ハイブリッド・マルチクラウド、AI、サイバーレジリエンスの秘訣 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51U25qb0pOVHQ5QzA3MTQ4Z193SkpFaWliNzRMMDZydDR3eTA0SnFPbzF3WUxOT3lsNGxFZDc2bUFGdmFIbnNiNHlhRU9XZ0M0VGtfTWdCQQ?oc=5",
+    "date": "2026-08-05T07:15:28.000Z",
+    "summary": "ハイブリッド・マルチクラウド、AI、サイバーレジリエンスの秘訣  Gartner"
   },
   {
     "source": "Deloitte",
@@ -1475,6 +1636,13 @@
     "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
     "date": "2026-08-05T00:00:00.000Z",
     "summary": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding economic opportunity in a changing nation."
+  },
+  {
+    "source": "Gartner",
+    "title": "4 IT Procurement Decisions That Determine Supply Chain AI Value Realization - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CaHlFR19DSGxGWWtoQUJkUTh4eGZ2MW80U2w5bUluTEpCMndHOVE5MzJ3SjJLYkNrTl9BTjRrUTJCaGg4UEZtOGpZTmRkSUFpR0VuLU5IMA?oc=5",
+    "date": "2026-08-04T23:55:37.000Z",
+    "summary": "4 IT Procurement Decisions That Determine Supply Chain AI Value Realization  Gartner"
   },
   {
     "source": "BCG",
