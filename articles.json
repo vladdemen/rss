@@ -1,5 +1,68 @@
 [
   {
+    "source": "Forrester",
+    "title": "Four AI Escapes Just Redefined “Responsible AI”",
+    "link": "https://www.forrester.com/blogs/four-ai-escapes-just-redefined-responsible-ai/",
+    "date": "2026-08-07T19:35:52.000Z",
+    "summary": "In nine days this month, OpenAI and Anthropic disclosed that their own models escaped safety evaluations and reached production systems at four other companies. No model malfunctioned. The governance did. Responsible AI now has to govern what agents do, not only what models decid"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top CGX (Legacy) Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnX1ZuQzIxeTRycjdrUDBtc185QVVmQkhFR3FCWlU4ZkFEdm93SUZKVl9BRkR2aVNHYXlHMjdDOHh3enROclgxT05Gb0h3NWoyaFczSXBFS2lpQTd1ZEV5NGI0NHFqdGZtOE5UQlFPblA?oc=5",
+    "date": "2026-08-07T19:17:38.000Z",
+    "summary": "Top CGX (Legacy) Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Mews Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TclBld0ZZajRLei0xb2RPN0YwN2dzNENnQjAwUTcyY2NoSldzNnJDUXY1Sm11RFo3NzJ0aDlOalR0OVFGSmIxWkg1VmNDSm5RTkNMZHBlTkNHVFQ2emZ3UDNwSVpqaExoejNtVVJyVW5XREpwbDhz?oc=5",
+    "date": "2026-08-07T19:17:37.000Z",
+    "summary": "Top Mews Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Deel Managed Services Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVUpLY1JpV3dQSW1seThPbWc4SzN1dWs4WGp6QXFraTdXVVVqMEJSd3VsUUdzbFNDUDFGQjhZeVJNNWtfSTRxSUJSanlFN2xGUGt5SlFNbEVzS1Nhbkx4em94Q0c2RTBUUVljSld4TjE4WDA0c2RyazFwVm5RX0U?oc=5",
+    "date": "2026-08-07T19:17:31.000Z",
+    "summary": "Top Deel Managed Services Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top CLEAR1 Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tMy10QmxEYU9ld01LMGNncHRWZlotT1NIWms5RkU4dWZRT3NNNjctcTA5UlVYaXV2TWN4dWVQVFdzR1Q1RmJHekVtZTg1dEhIU011YmdLUkUyTWExYU9zY2ZlQWdheFRSTVZF?oc=5",
+    "date": "2026-08-07T19:15:48.000Z",
+    "summary": "Top CLEAR1 Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Prisma Browser Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nTE5ycGRoTkloVjZTdHllcXBTa2ViTEFkcDI4MkJhSU5Td0NhZG10YkJDZ05BR09nS2pySFZ0X3RvYXFWLTZqWWJiZUVEVlFMTC00NEVXVF9jM2ItRWRMZDkyMmFocy1CYVBWQTdhLUJqd0k2ekE?oc=5",
+    "date": "2026-08-07T19:15:34.000Z",
+    "summary": "Top Prisma Browser Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top NH360 Portfolio Management Software Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODJZQlg2eVRQbEZoLVBYYlR5eGozY2xIdzRrSVJUeXBrWVlxMHdSRWl2dFhPeFpGYVdwbEdXNzB2TGx2bThGZHJzMnJNRFRJMUFPNEpxeTE4XzhDOXlyV2NsblFNSF9ibWJnZzFWbWphbnRLMU9hajhpTm5uZVdPc2JPOW8xeVdyOHR3d1dqM1VjZw?oc=5",
+    "date": "2026-08-07T19:15:25.000Z",
+    "summary": "Top NH360 Portfolio Management Software Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Trump administration to back three mineral projects with $58 million in financing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVZodXZtRWQ1dzdvLWxpTi1jTFNKUlF4RnYxc2JSTnZDdXE3S0gtQ1R5MENuMFlUU1M2S1pMX3pMVFBqZGh6NjhlOUNybmd3MU5WR2RVOG91Wml5WGFNS0w1OVhSWDFiWmJsRzBoRzlJZHNnUG5LeEN3M3RaNW9mNkVvMkYzazRRZF85ek5aYk5kOExBNERwTlN5dGNVdjl4MnZGRXRCZnB0NGNJaHRVWERQU2gzd3pqRVpr?oc=5",
+    "date": "2026-08-07T19:02:23.000Z",
+    "summary": "EXCLUSIVE: Trump administration to back three mineral projects with $58 million in financing  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Meet Kate Winick: Forrester’s New Principal Analyst Covering Social Media",
+    "link": "https://www.forrester.com/blogs/meet-kate-winick-forresters-new-principal-analyst-covering-social-media/",
+    "date": "2026-08-07T19:01:57.000Z",
+    "summary": "In 2015, I wrote an op-ed for Ad Age declaring the end of social media … as it was originally framed around community building. Back then, I asserted, “Social media marketing is now advertising. It’s largely a media planning and buying exercise.” For most brands, that statement p"
+  },
+  {
     "source": "Reuters",
     "title": "Europe's would-be water bombers in race to tackle future wildfires - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5",
@@ -19,6 +82,13 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3c2bmh5aUpYb1U2LWFUaFdROEZZRmhsZFJGd2ZKeld0bzc3TVFETVg1ejBEQm5rMnVEZy1GTVNOeHBhbVJnVFdiMTFQcXV5RmhIU0lQX3pDY0FXOUJaQUlpd3JxQi1nNE5Xd3piNUhqVmF0UV9oNWo5YTZJUUwzOWkwdDJLV1I1cnQ4NDY3LThSUDJwLWNvQlF0ZV9tSzNkRHIxV1VfTmVyUGxGMWNFaS1lVElaTGJyc1E?oc=5",
     "date": "2026-08-07T14:58:11.000Z",
     "summary": "Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookings target  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meat packer JBS agrees joint venture with Indonesian wealth fund arm - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1pfMURrc0Z2R2FwS21aYTZuT3NrX005bUJaWWRFZVozaXNOT2gxZkZOendqV2E1eGJ2SlJVT212a3NIYVpiczkxekplcVJQN1AzVDl5ZGw5RzlsSEhqUmdkQ2I2R2tiSWg1U2NDaXZDVG52T1lsdGttajlXUFJOQ3Npak5acnVrOVFNalh5T28xdVotZHdSZ2RvbVZDNi1jMUtSdDJEdnVyQXRSbW9fZ295OWxvWHk1SVpaYS0tR19yb1k?oc=5",
+    "date": "2026-08-07T14:50:25.000Z",
+    "summary": "Meat packer JBS agrees joint venture with Indonesian wealth fund arm  Reuters"
   },
   {
     "source": "Reuters",
@@ -148,6 +218,13 @@
   },
   {
     "source": "Gartner",
+    "title": "Top EdgeWorkers Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVU9fSk53VUYzVkZjanZBQ1RjV0hqX1pCQ1l2dnJveUFRUGRZVFlCS1FaZDdKSjlrblNZNDBoMUdSaVlSU2V1a2hIM3FoZ1hTS211bmNUU2N1TUF2NHVKTFJWRnlWdGRhaEdHdVYxTDIxZw?oc=5",
+    "date": "2026-08-07T09:25:38.000Z",
+    "summary": "Top EdgeWorkers Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
     "title": "Deel Managed Services Reviews & Ratings 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SUkdUanRROVVxMWI3NWNWTldEMXRib1NJUUtZenhhLU5KU3Q4MWNwUDFodnpTeXk0WkdvTURHcnh4dkVyWksza3puNlBNdVphdjZXOVVYNG5FamwzNktnME5KWGJfcHl4akxVNmV3?oc=5",
     "date": "2026-08-07T09:23:31.000Z",
@@ -229,6 +306,13 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHdtaWNMZW9kRmFKMEs3M0s5eUkxTUVGQmVOVDR3eE5LRWdiTklSdUJaQ0lGYnFvc3VJX01BSzFZOEF2X1h2VHY1M1dnU2J6cDZMRjV2Z0VWQnlsY3dDbkFjaWNvSXk3YnZZaUNJdTBsRDhSWUlVMU93YzZLLU9rUzZ4NnpuM2dlSjdxVFlSWE9BWUNNQkFDYy1URFFYTi1WS0g3Z3hIZw?oc=5",
     "date": "2026-08-07T06:51:12.000Z",
     "summary": "Top Validity (Litmus Software) Likes & Dislikes 2026  Gartner"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Agentic AI Platform- Consultant, Technical Transformation - Sales and Services - Customer - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNmlrb0tXOGJjc3ZBLTA5TDBtSGNKU00xSnRqYWVIVHBuR0NEOVAtdkc3cEJQTTljWDV3MTl0c2hXcDJhalRGX21yQlZzWXVGRzFwellCZUZDbmRfM0tFUkg5VzFmbDFjV29Va2NXZVptYWlDTmhfZUhyR3dEcGphb3JFSTZKakN1ZVQ2dWlsb003RzM0Z0JKWWFwdkZKajhKdnlUSnN4Y1h4TUVJMW5lejMydjh5dTlSUERGYUxoYWJ2ZTYyc0JqM0YxaDBzRzItdERJS2lMUQ?oc=5",
+    "date": "2026-08-07T06:33:18.000Z",
+    "summary": "Agentic AI Platform- Consultant, Technical Transformation - Sales and Services - Customer  Deloitte"
   },
   {
     "source": "Gartner",
