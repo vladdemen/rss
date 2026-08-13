@@ -1,5 +1,26 @@
 [
   {
+    "source": "Forrester",
+    "title": "AI is Cool, But What If You Are Still Relying on Access Databases?",
+    "link": "https://www.forrester.com/blogs/ai-is-cool-but-what-if-you-are-still-relying-on-access-databases/",
+    "date": "2026-08-13T17:46:06.000Z",
+    "summary": "If you are one of those tech leaders in a company that already has an agentic architecture with swarms of agents delivering some value and your challenge is how to optimize the cost and/or stitch these agents together across complex workflows, this blog may not be for you. But do"
+  },
+  {
+    "source": "Forrester",
+    "title": "Outcome‑Based Pricing in IT Sustainability Services: What Buyers Need to Know",
+    "link": "https://www.forrester.com/blogs/outcome-based-pricing-in-it-sustainability-services-what-buyers-need-to-know/",
+    "date": "2026-08-13T17:13:32.000Z",
+    "summary": "Outcome‑based pricing links a portion of provider fees to clearly defined measurable results rather than effort or time spent. For IT sustainability services, those outcomes are typically financial (cost reduction, efficiency gains) or environmental (carbon reduction, energy savi"
+  },
+  {
+    "source": "Reuters",
+    "title": "Heron Power plans $100 million factory for advanced electric grid equipment - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREJGWW1QTUt6aXM0U2FYWlF3cjU2a0RCWWxGV185a0ttSXdVZjdzX1pCSjNrX0xHX19wd2hIcG1xTVhSY01DY2R0dE5WcnptRjN0T0lJVkFjWDlKc2pQVmZYSkZvVlNBeDN1VXhmaHNCT2xSTy1fYjJkUkhSbW5CVEdDVkV3UWJyXzRwZ2ZFdjRJVE95N2ZBTHVETmVBcnVFdHhyWk9mODRtRjlfa2ViUTBmOWxrVzFHTDFqeEFHOA?oc=5",
+    "date": "2026-08-13T17:05:36.000Z",
+    "summary": "Heron Power plans $100 million factory for advanced electric grid equipment  Reuters"
+  },
+  {
     "source": "YouTube Blog",
     "title": "5 design principles we use to put creators center stage",
     "link": "https://blog.youtube/inside-youtube/design-principles-use-put-creators-center-stage/",
@@ -7,11 +28,25 @@
     "summary": "See the five design principles behind YouTube's latest interface updates, built to reduce visual clutter and keep creator videos front and center."
   },
   {
+    "source": "Reuters",
+    "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3pWLU5zdW1mSmdKQ3F0M0FrVG5OMFE4NFFUZURiWTUtQ29wZUJHcG9CN2Q0SUxVcjNra1ZzMmNaenpiSEZTSGFtZ21kbU9BZjRMR0xMRDIyT0hGSmlZeXlsQlNMaFRCMzJrWjQwRWxFQnNPei1SR3RSaGZyckg4S2hkWGVxSkdQczNfVV9ZNWsxb3lpeDN5NnZYYnBfeC01cHhhay1PelVSZ2FhZkZVRVFod25xaXpuTllQNFJobWpJZzNyLXJZ?oc=5",
+    "date": "2026-08-13T15:34:03.000Z",
+    "summary": "SK Hynix's Korean workers launch unified union amid stalled wage talks  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "Check out this job at Deloitte, Analytics and Insights Engineer II, Data Science and Model Development - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHFnZHB0MDNydGJTMy1rc2Nib1pOVUE5UGpoMVdCOFlJNUFxd1lTcnF2eXZBMlJUajI1S0ZkazBGcmhuVlZGMGhHaG5SN1FrdGdyMmowTjdFa0VHeWNSOWhBZmNjbFZnZlNlOTVSaXpuX1pNRXlHTEdOTWdXYm9ueVZoa1VVRmhnZmxJM0RlSC13Y2ZqOUY3OFF1dzRidjRTdnIwMXgxd2RHOFBvYk9hVE5nV2JveGZCM1RmUjFjclR6aE8tVlE?oc=5",
     "date": "2026-08-13T15:26:13.000Z",
     "summary": "Check out this job at Deloitte, Analytics and Insights Engineer II, Data Science and Model Development  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tapestry forecasts weak annual sales as Kate Spade struggles, shares tumble - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVpJVE9zanVqUEJIZkY4czZZV1Q5ejUtZnVjdWk1RXNBSjNfR1d0ajlVUXY2d0E0amppRlJHWW9ZbHhSbVA5bmZvWDJfOTVrY1FGOXllUE0xUjV5YXYxLW5YSDFWdEVuTUcyNVYwUzM4aU5NQTllbVJMaGs1d2gwWEdVTnhMOFI4Tm00X0hlTWVtZzdrNE9QdS1RTjZuRzNTR1BvUXFBNjdmYjl1QWhCdFM3SkVXNzYyYlJKUVNfM0s0aXd4R3c?oc=5",
+    "date": "2026-08-13T15:25:14.000Z",
+    "summary": "Tapestry forecasts weak annual sales as Kate Spade struggles, shares tumble  Reuters"
   },
   {
     "source": "Reuters",
@@ -26,6 +61,13 @@
     "link": "https://www.semrush.com/blog/claude-ai-watermarks/",
     "date": "2026-08-13T14:56:00.000Z",
     "summary": "Anthropic now marks content that Claude generates or edits. Here’s how the watermarks work, what they can‘t prove, and what content teams should do."
+  },
+  {
+    "source": "Reuters",
+    "title": "Ackman unveils six new investments including Netflix, Visa, Mastercard in portfolio overhaul - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZU9WMTB4MXdfdmM4Q0FKZURKUjVac0JERWZyTEZtOEZQa0FqNDBtY0JnQ1BMQnp1Q2JRZWY1Qko1V1B2OFBEdjkzTVdOSlFoWkZ4bnVocTE0aUlRbENkTldwbDVfcEhHUEhyYU9OZFVXdExuT0JnbU9qcnZGWnI1UWRNSzZFVlVSS0VYcDFxdHRwMHVFNUhyMGlnUEg2R3IyTUlhU3VTRnFyZ0F2TldyOTVFbmZpMDIweGlXOFNsaVRsenNrODdDUV9rdzNPbVJj?oc=5",
+    "date": "2026-08-13T14:37:53.000Z",
+    "summary": "Ackman unveils six new investments including Netflix, Visa, Mastercard in portfolio overhaul  Reuters"
   },
   {
     "source": "Reuters",
@@ -54,6 +96,13 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEFlUkxOc1hIUlhhdE9IR0daZC1MT0k0YndpdURFTk4yMExCQlEyWDJvUFRiVnhJQWx3X2xOcWxWWFBfeHZpWDUyMjk4WWtpc0g5OGZSNGxrcTJKM1pZZWIzb08xMGc0NWM4YTBVN015clAxd1dGUHQwT3lGeDA2SFQyZTlHRDNBdm5tZ191SnZGWTBuRUtvcmMyTHFhQXZINFhMdmNrbFB2dEU?oc=5",
     "date": "2026-08-13T13:47:40.000Z",
     "summary": "JD.com expects second-half electronics sales to improve after quarterly revenue falls  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Cybersecurity Leadership Insights: mastering complexity - EY",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjMwczNjNnlDVXh3YzJUREFUUHRKZXloSEtvRGdlRmd1aWhxUDVWVko2SFRlaFBKLWpaNVZlbzlhQnhQNkw2OEUzS0kyZVhxRkg2TGdJNk13aTZ1cHpuUXRHSXU5UTROQS1WTGc4TnFyOFV4X3lwSEpxWDNkMzNWUFo2X1UzdF9FMzhWdEdsZmI1OHUxSm9CWUtBRjhEVUlkcUxJaWNXcw?oc=5",
+    "date": "2026-08-13T13:46:15.000Z",
+    "summary": "Cybersecurity Leadership Insights: mastering complexity  EY"
   },
   {
     "source": "Similarweb",
@@ -113,6 +162,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Saudi Aramco handles September Asia crude allocations on ad hoc basis, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1d2NXF4dTdfT3V0Qi0tQ3pxWlJTMkl2bWZUaUpWRm9nMDAtRVJhWExEX21HZ0pXTnF2VGdMWkpvRE5WemRSbHZTcFV5eTMzVWZ2WW9BZUdEeGt0aEd6Sk85SUMyV08yVTZTT0VSaGFVcG5vWWJDQnFlRXd2U09FU3N2dUN1bVVLaFdRWXR1YndHcFk2Um42S0haUjBDRHA1RXZfUjY3dm5pWGhGQmdkRFdoYVM5a182M1lQcjd1S1ctNFJpUE4wT0lR?oc=5",
+    "date": "2026-08-13T11:45:44.000Z",
+    "summary": "Saudi Aramco handles September Asia crude allocations on ad hoc basis, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Record-low Danube exposes climate risk to Hungary's and Romania's nuclear power - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUllUTkZfTHpWZWJ1b3hzZkt3RGdLbFFnTGZqMGJ1bFRUUFMxRXZnRDh4LWZiSEwzYmNWbXRudjk2NWVtNlpRVDVBbzFuRE4xNG04emw2cHNTcF9UcENnVlY0MDJKYm9XOEozRjJPZC1oN255S1ZNaC1lOHJGWXNYdmVKUlBnLUZHbW1fOXVFazBKTEoyZjVmVTVZTTdsc1hQV3FNMEFvUUFDT0J2VlFOY3FMd04ydW9NUTJURVVqaw?oc=5",
     "date": "2026-08-13T11:27:17.000Z",
@@ -159,6 +215,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFV0RzFSVnk2SmEwODlqV05OZS1TSVFoLWtxczdiM1lTYkRwYU1hcE1VYk9mcmRacTZzbjBMZ1lWeUlDblJfNmJZQ3E3LXFaZlo2S0FCVUhaVkFUM2NuSjJzc1RyaTBHRVZaQW9heTBLWEJFX1dBSk5BM2JDaHlPcVFXMmpZMUxDbnVsZm5HZ0ROUi1GNEpJTFc5THdOcDNoOXJudjdINndoVEd4ZlFkelh4U2lUUi1OZnVNYTVrZmY?oc=5",
     "date": "2026-08-13T10:57:03.000Z",
     "summary": "In record US wildfire season, firefighter entrapments hit 20-year high  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "TotalEnergies' Totsa offers Iraqi crude outside Strait of Hormuz, traders say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGRQZ1R1bVVDbUFHeGNFZE44SjhrbWIwdmdJY2xrdklqaElpa1RZQ0lLVkJUNlJuUWp2NFZJYndtNDdtSHpNN3ltZE1GNTNkZU9lQ0tTWi1tSEVZVUpmeUQtTWRGY2RCNHg3cWtPTzFxLXU5WUdGX0NhblhPTWRNODlzR0lhbkZrRTQ5bjhDbTRhUl94SEVQMnBSS1h5LWFfbk1oZ290QXJ3aU1Wb21jOV91cE1IT0E1cnAxd2NlVG9mZw?oc=5",
+    "date": "2026-08-13T10:32:23.000Z",
+    "summary": "TotalEnergies' Totsa offers Iraqi crude outside Strait of Hormuz, traders say  Reuters"
   },
   {
     "source": "Deloitte",
@@ -250,6 +313,13 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5",
     "date": "2026-08-13T04:31:00.000Z",
     "summary": "Morning Bid: Fed bets cool, BOJ wagers heat up  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Deloitte Becomes First Global System Integrator to Deliver a Salesforce Forward Deployed Engineering Engagement - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWJiMnVJUTlDWUVFemZudjhEUXdoTVVudmFrbnViaGtiTVIyYlJMWjZFekNNbXc4bEVPYkx1bHlheUF3WVZYX3dXM0tobVhvRk9MOHFKWFlyclJFbWZkN1N3N0tfaHk2cV9QMjRCQy1FdEg2OHUtWkpCWV9JRXEzbG12ZTFjaHRlN2RvamxJTU1hVVlPdDY4c1JDSFJSQVFkb1k0UEFPS20yRUxXLWhUSHNuNVJNeTg?oc=5",
+    "date": "2026-08-13T03:44:56.000Z",
+    "summary": "Deloitte Becomes First Global System Integrator to Deliver a Salesforce Forward Deployed Engineering Engagement  Deloitte"
   },
   {
     "source": "Reuters",
