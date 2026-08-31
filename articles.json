@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "title": "North Korea says hostile US policy unchanged, nuclear arms to keep growing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0F3OEVRMm9EclRnQjJYYUtMcWU3b0VkNnVOV1BFZFc3Y2hFakhtdFlQX0pkOHRyUF9ZdVExclFmNmY3d21mMWJGSG1HRmxMV2V3M25iX3B0OW9vV1pFTk9FLU1TMWRxX2YzR0lhcEl3eHN1S1QySzViZV9sRll1SFZFSmhUVVhHM0FBeW5NQmlGb0p3a0FzbXo3RDhVRXhCYWNtekNua3duOTZ2OHd6dVBlem5WR0J1TUdwZlZjeUs4SURnT3dUZlNKelB6Zw?oc=5",
+    "date": "2026-08-31T05:18:00.000Z",
+    "summary": "North Korea says hostile US policy unchanged, nuclear arms to keep growing  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Chinese factory slump eases, but weak services signal uneven recovery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dkZTlRc3A3VUNWUTlzRDhhdmpZVkJuWnhWT2htcUxTd0tqbnF6cnFhR1UxbWV2MWpMTXk2ZE50eE85MzhFNGNzd1k0ZlRaVFM0TDdDdDRRRnBrT1I4Z0NqWlVMRmd3V0w1Q3RiM3BWSlA0Z09wblNIeXY2UWZwVmdEQk80WGZ4WEJ4UEVKNFk3TWRUa3FfTmppRTVERnZKZjNiQlVvb3lEMkpOQW5XX193?oc=5",
+    "date": "2026-08-31T04:58:47.000Z",
+    "summary": "Chinese factory slump eases, but weak services signal uneven recovery  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb09rNTJxd0V5ZWpoWGVfZERRQjAzS0N4Rm01NE5uaUpFTWw4d3VodVh2Nnp6dHdWY3VHRi00R1pCbUdXa2dMTXZGT3IzaXdlR2NvSy1saUNYeURRamZCVWdFY2VMb3JmWmxXd2NSa2N6UVR4SV8wUnJmX3FPd3UwZjVIaU9IY211OUI0WFVjUU8wRWt5YWhObkNEcWR2NjJFNTBYZlYtZ3B0YmstWTNiOVJWa09DUnZNZnJkYWlxWDF1QQ?oc=5",
+    "date": "2026-08-31T03:49:00.000Z",
+    "summary": "Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Stripe Is Acquiring OpenRouter To Control The AI Consumption Layer",
+    "link": "https://www.forrester.com/blogs/stripe-is-acquiring-openrouter-to-control-the-ai-consumption-layer/",
+    "date": "2026-08-31T02:32:52.000Z",
+    "summary": "On August 19th 2026, Stripe agreed to acquire OpenRouter in a deal valued at more than $7 billion. OpenRouter gives enterprise buyers access to more than 400 AI models through a single interface, so they can compare, select, and switch models without building separate integration"
+  },
+  {
+    "source": "Forrester",
+    "title": "Enterprise Architects Must Choose: Agentic Runtime Architecture Or Agent Sprawl",
+    "link": "https://www.forrester.com/blogs/enterprise-architects-must-choose-agentic-runtime-architecture-or-agent-sprawl/",
+    "date": "2026-08-31T01:21:11.000Z",
+    "summary": "Every era of enterprise technology has added a defining layer to the stack. Mainframes gave us the system of record. Client/server gave us applications. The web gave us services and APIs. Cloud gave us elastic infrastructure. Now agentic AI is adding the next layer. Where the app"
+  },
+  {
+    "source": "Reuters",
+    "title": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmk4SG1MMEZIeXUxQlVKYnk0T1o0UEpJYW5OOXJYWUR1M09wTWNmWHY3RXNzbWFVTUFYcnduNDZGX0t1M1VqUEFycTlQRkQ2VVNrNEpjb2VCQkFyX3hLR3k0bVBpYm5OQnFKUWhJYW4tM2tvR1F2V1NHVnEwcmFMN2U5b09iWWwzcnZaclpaX21xUE9zMTh3WjVUaUhwdzZ4aDI2UmdpbUFQVENyME1lNFVmUzE1dVgyZUhQUWJuV1IxSjlhWDJFd0ZqbEkySkhsZXhsVV9Mc3VXSG5T?oc=5",
+    "date": "2026-08-31T00:43:00.000Z",
+    "summary": "GM's Canadian workers approve deal adding truck to Ontario plant amid US trade war  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5",
+    "date": "2026-08-30T23:52:00.000Z",
+    "summary": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oil jumps more than 2% after US attack on Iran's Larak Island - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
+    "date": "2026-08-30T22:12:00.000Z",
+    "summary": "Oil jumps more than 2% after US attack on Iran's Larak Island  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "NHC says 50% chance of cyclone formation in next 48 hours off Louisiana coast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFdDQ2JxbmhYSk5IdTBKTXdTeE4xYXlndzFPa21ZMEVmVzJFeW1qQi1PbVJGU3hFWDdBV29TcmtFTUJHMWx6Rm02V3RSaV9zd19ocnQ2Ymg3MTFTc1JmX1ZGRDFhYlhraWtVOWFiVEJQWEpQbTgyM3VUREh6VnJwS2xxRnJXQ1ZYWUJmd0VuNVNkVC1vYTZCMGUyc2I0bEV3dkU0T1pmM0R4Sm1DUzM3X19FT2lKeEo4TGxrNkp4UWRQd3BfMHc?oc=5",
+    "date": "2026-08-30T18:34:00.000Z",
+    "summary": "NHC says 50% chance of cyclone formation in next 48 hours off Louisiana coast  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5",
     "date": "2026-08-30T17:41:21.000Z",
@@ -64,6 +127,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Bear encounters are on the rise. Here's what to do if you meet one - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk4yckpUNGlpM2tzUUNmVWxQV2hBZk1WZWpaVV9HYkU0a2tWLXdVZGFhUnNPVnNSSldVaEhaOFdBWmJqN1ZvRHNma0owUVBwcmJsa1BxejBmeTJqMjdubmRRMXZSaUxtOVN6bFRKQzE1VlJXZkVvZ0NOSi11ZERaYzBvRlRKQ3Y2THNWZjN5YTRoWFV6MDhNajNVQmtVb25JQzFnU0dGcXlwYkQ0RFNFRg?oc=5",
+    "date": "2026-08-29T17:48:01.000Z",
+    "summary": "Bear encounters are on the rise. Here's what to do if you meet one  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Bessent says disorderly yen moves can destabilize global markets - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
     "date": "2026-08-29T16:47:43.000Z",
@@ -103,6 +173,13 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaHc1MkhJejRuaHp5QmJkWFN4MTRYWWRLLWxTSlp3RkdUTGVHaHFnTWh2aS1wQm1HXzFhdGwzZjJ0UVNmb3NmMVRDZFluSTVhbFlZTTg1TWFXOXBfQ3R0V0oteFMyNTJUdndJRnFHTjFIVEFsQ2xlaHVmVkd0OHFZdU01cWlJdU1qd0ZHQ0ppRHZ5elpMU1RrVnRqQ3c0LTN3MEFnLVR4Mmt5SW9BSzVoQm1HWnpTVzFPa0xLbHpVdm52ZnJqOHU3YmFCTXRXdw?oc=5",
     "date": "2026-08-29T08:26:03.000Z",
     "summary": "Lower Saxony premier urges agreement on VW restructuring before board meeting  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5",
+    "date": "2026-08-29T04:38:00.000Z",
+    "summary": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild  Reuters"
   },
   {
     "source": "Gartner",
@@ -152,6 +229,13 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjdvUDdhMzh1TFphU1hNRUdCWk1jcjA3TmFnN2lJRmN3c1N4eHZlZk8xaER2UHZudjNjdmhCQTZpTk1ERnA2MUVMQS1WdERqbTFkb1h2NWR5VWUwR2lEWk9NZUtDZnd1ZzNhSWljZ2JLdmxnZHJaRUZIWHpqMUJkV1RpVkVfRDhQRkw5TU05UXROWUxoNjZqOFVERHV0dndBRFRB?oc=5",
     "date": "2026-08-28T21:10:16.000Z",
     "summary": "Warsh's 'quieter Fed' now includes a smidgen of guidance  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trans Mountain CEO says US trade rift adds urgency to Canada's oil pipeline plan - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWlySzdlNDN6LXNpWWFoUnZONlRxLVltTnF5bDVvMXItRGVCSjJNdi1TUEtmU2dPcmhvcEFqUmh0bk0wdnpiMmNCRWN0anRPMFVXRTk2WDRrRDYzWHozX1RNMld6NWM3T0JvZFlySDJraTdoeEZ5NTNraUR0b0M0Rm9VVE1aQWtWZ2d2cUhockpwQlgtaEgyUUQ0bUtXS3VsSXpLRlowd2dzWlZqV25IRUpCWVJoZjdjNm1KVVhwOTdZUTZjR3A0?oc=5",
+    "date": "2026-08-28T19:33:45.000Z",
+    "summary": "Trans Mountain CEO says US trade rift adds urgency to Canada's oil pipeline plan  Reuters"
   },
   {
     "source": "Reuters",
@@ -271,6 +355,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1NHVVBWRS1MdWpSVFVzLTA2SkdJS2tGUG1DZE51dDZTVVo2UUJMd1ZlOWNUSW5GR2pQdkxXeXJJMHJGdnVPYjdfWU10cXc0TjU5Y2pFM1lPQm96cWNqV2h1VldXLW1ubmlZMnVhZjJ2dXA3a3NCVFFXYlcybVM0blktWDV0dlhocnRUZ3VJR1hCZlZmdlI5eTU4ZGljTmkyLVFkbQ?oc=5",
     "date": "2026-08-28T17:09:47.000Z",
     "summary": "Prediction markets take a swing at hedging for US small businesses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw?oc=5",
+    "date": "2026-08-28T17:09:42.000Z",
+    "summary": "Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output  Reuters"
   },
   {
     "source": "Reuters",
@@ -516,6 +607,13 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVBKYkU2UlJVN0RXMkdKUTd2YkVfSzdjR2h4bm1lN3VTTUpDbm5lNTlPM1dsUXVKeDBOUEhXTU51X0FTT0VoVTYxV2toVm96Z1pQUlRoRkw1ajYyR25RMlAtYnVzNV9iUzlFZlhTWmdHMzRFVmw0Qm9rSDBpTmFnS0tDUGJENlpJOWxOeURSZDJLUnItWldubG9PQ2I0TkJfc28wRXAzdzVpc21hWUtrWE1MYnQyMENWSTgtRg?oc=5",
     "date": "2026-08-28T09:42:09.000Z",
     "summary": "Kenya police fire tear gas to disperse traders protesting import duty hike  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China's Tencent releases new open-source AI model for coding, research tasks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVplU1pYVzl4dkJPUmVQZi1XZ01xY29YNWV2WDZyb2VJb1V2ZjZLZU5EVFFhR3dvbWZOc3BCbUNPb3MyNncwTGVOY3pCdl96VUU1WVFYdnRJSnJvcDJrYzg0OE82emlmZGplWjhKSlcweWdnUkRUMDYwci05X2NleXlrTm44LXZ0bmdTeU9jNWkzRkx6NmFWMzYyYkFWcUpabDgxLXQzTTc0UEdwNy16WTB3RE5EUkZlN0taWGRmYzhfZDA?oc=5",
+    "date": "2026-08-28T09:37:43.000Z",
+    "summary": "China's Tencent releases new open-source AI model for coding, research tasks  Reuters"
   },
   {
     "source": "Reuters",
