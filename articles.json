@@ -1,5 +1,390 @@
 [
   {
+    "source": "Nielsen",
+    "title": "Why the U.S. Open Plays in the Best Tennis Fandom Market in America - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVJJODZTcXpmQ0swWmY2VkJMZFJBMGhEbVdNR3h3RWFib2dLUk55VEh5cnJUd2pYVDdPOTBPVWZfcFpKZTNPUG9pRWV5SXZ1dldjSklvdEx6N01SOGtDR3hUeVhQbHBQeHhsMXJjQkdtd0JLRVV0a0pZZ3Bzb0NHeHVyV042cl81REJiNDZ3OExJRUJnYjN2eVRxdXNyeW9mLVdESExpbFM?oc=5",
+    "date": "2026-09-01T15:16:30.000Z",
+    "summary": "Why the U.S. Open Plays in the Best Tennis Fandom Market in America  Nielsen"
+  },
+  {
+    "source": "Gartner",
+    "title": "Autonomous SASE Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DSC1VVnJHYkw3YmNPbjN4YTZEcWhqdmRRbDU4Zks3RHdiQmw5WnhRTHktSWs1LTdCYV9tSnMzQUlmdUdGWXBUbmJ4Mm4teHJhaEdTbTBWVFZJRm9Ydm4zWW1valc1UQ?oc=5",
+    "date": "2026-09-01T14:26:45.000Z",
+    "summary": "Autonomous SASE Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "US manufacturing activity slows in August; input prices still elevated - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5",
+    "date": "2026-09-01T14:23:33.000Z",
+    "summary": "US manufacturing activity slows in August; input prices still elevated  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Texas' halt on powering data centers reflects US reckoning over 'ghost' demand - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0JFMjBfWUxIY3p0OFNoc09iVWtIcXJOWkI4M2tkVFVFdkZ6bHZMeTJJLWc1UDZCVXNhbWc3MDF4QVBmaEREeWpoOHRJZTlad19NcGxBRFlVRmVpTFdSNDdnOEszUG43dW1VSUhSb0g0ekxOcUZadzY5dEdxM2ZhRHdPbTdzRnVHdWNXZHVvX25RN0c4WDJnSDN0eGNlTXR0Rl9HZllhU0RzUzdyaXZ5dWVCVk9oQk9v?oc=5",
+    "date": "2026-09-01T14:23:19.000Z",
+    "summary": "Texas' halt on powering data centers reflects US reckoning over 'ghost' demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bessent says U.S. likely to announce Iran bank sanctions this week - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEY5Z1hsMHdwMm1tT1QxU0JvSllPd1V0eFVXWTlTYlRHMHphTDFnbENycVpzeWcxUmFHZ3I3ZUhEdDNaYkJueWotd2h0ZUFySE9GUGthYzlfcFJxVzZiMlhGbXZSSDAwTlJiRlZEQXVCYks4UUUyVFdWSHItUDN0MDZLU1pKZzFFZ2l3X2dBVmVCNVpFRFFKS2lmNUxVeGdIcDBrbk90SDY1ZWNOM1E?oc=5",
+    "date": "2026-09-01T14:22:42.000Z",
+    "summary": "Bessent says U.S. likely to announce Iran bank sanctions this week  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Searchlight Threat – Investigate Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zUl9XQ3BHaG1jaEg4d3RFQ0RBWFgxUF9aRFY4VDVmMW1iMEEwekgyY3pmUEIxZnNCT1pnSzBVXzRLRmhKdXJHNXFjaXQ4V0R5RHlrMmVvWk90TVRoLWlqRGdwcVhZZUtNd080am1zeldkY00yVGFESmln?oc=5",
+    "date": "2026-09-01T14:06:59.000Z",
+    "summary": "Searchlight Threat – Investigate Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Putin envoy warns of Russian economy going 'berserk' on war footing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUNUYWRsV3FBcnZsLVk1ZVltRW9wZGxhV2wxcGJfRWNoS18tby1ZSDBya19Oci12aEdNOEMwRDJYNjN1TGxXR1JQM0d1OUJ6cWU3aDBMZmxXeFNmUE1sOWxRb05oUGpmQTZ4dGJRanNkM3hnZ2RPYkprMmFvNTNTaWM5VkFWY2psRUh5RHZFQ25wN3loVW5VZ2tmQjlmaXFISXZJekI4WQ?oc=5",
+    "date": "2026-09-01T14:05:27.000Z",
+    "summary": "Putin envoy warns of Russian economy going 'berserk' on war footing  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Ivanti Autonomous Endpoint Management Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3lJR1BiTHhfeV9meHhwZHZHVk9kRG5EbVNkZlNsRHhJQUQxUVZITTF0N0R1c0RUVDdxblB3TzFXaDlCMm5qS0NzLXI0LVlrRExWTGE2blBEMVZISlA2X19YTVhkUWlMeXpxMU1uVmlIUjRSd0pYLTBJbFNUMldsdVFGdw?oc=5",
+    "date": "2026-09-01T14:05:01.000Z",
+    "summary": "Ivanti Autonomous Endpoint Management Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "ManageEngine vs Sophos 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmZQR0s5UWdIamFBVFRBTVN6WmR6Q3lFdzJNMnViaVJHWlAxcWdpNWNLVVloVFhZYWJXS3VOWHc5WHVlQzVadDBNQVVra2N6M0h1SjJQLXgyYkprZjdETlZvT21lRUVwTklDdUlmODBWN0d6Vng0V3BmRnFoTUlTbDB2TUhRTHAtd29XZmpHQlpKZWRJd01QNm5ZQldIQk5q?oc=5",
+    "date": "2026-09-01T14:04:46.000Z",
+    "summary": "ManageEngine vs Sophos 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Dell Technologies vs ManageEngine 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUtjUGF1TGVtLWNLQTFQS0J2cHZiVTFSVUdJLU0zZDdUdFZ6TnAxVDF6aHJHMXZKTXVsNGtIcUl4T3k0cUIxem9tbllHRHdGZEE4QU9DY0tHOGxBTWRIUC1rcEdONnpWQXo4Yjlyd18zMGgyY3NTV05NUi05Wl8yQld3cUotT3BkTmhRNHY0Y0h1YjZ3clNvV0VBZlBkcnB6RlU4Ujc2R3lhTjNmdzl3?oc=5",
+    "date": "2026-09-01T14:02:45.000Z",
+    "summary": "Dell Technologies vs ManageEngine 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "LexisNexis Risk Solutions vs Thales 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFhOU2V1VEQ2dXRSemwycUhsRHp5SUt3ejFfQ0ZOOUZvb0VTQXVlX1k5NW1tS3lkNnZPT2hEMHV2eGRuRGtPZEFUNmZyUG5XSWpGZ2VjQ3V6aXgyeG1Wd3dqYmx2Y0FUSUFzNEp0MGhaOEd6ZS1UWWVULTFidjJpTGpWSDByTFRlMDZhSWVGQ3VqWl9OdFZOcm8zdk9ZbWowYmpCMWd1cw?oc=5",
+    "date": "2026-09-01T14:02:45.000Z",
+    "summary": "LexisNexis Risk Solutions vs Thales 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Check Point Software Technologies vs ManageEngine 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTg4UnVEUkJlQmZ2dFM4RzBGWUJqVV9pNDV0eFZMc2YwdDBwZUpudV8tZFVJSHpWOXpMcDhkUGdUNXF5U0dlSEU4TmM3ZlNFT3NvUmRGd3EwUE0ybWZSTUdReTdoaHpKeHgwYlVqVWtLdm9LSURoMUJZZkpBdld6UDM1TWJVYWhteTZDWW5PWTVIVEJHNkhManVTVjhVakF5YTYyS2J4dkRNd094aHhGWnJVRThhcVBER1E?oc=5",
+    "date": "2026-09-01T14:02:44.000Z",
+    "summary": "Check Point Software Technologies vs ManageEngine 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Google vs Microsoft 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjRzNXZmSnNUTTJRSHJNMUhxOHhld3lIanROMEk1Mml3bnFIMjNvaXpTbTRwV21xZ0Y5QkxRcmNYb2xkZFdvUEhpTlJRZ1d5NVZ6WkVPZERlbG8xZmhhWnV3VkJCbHNYVnBSY2hid3JzNTB3VlpPWnotMmlZdFY4SHRsTDJxVVpQQVU2a0Y0ZC1DUmh4YXZuZW1xYWs?oc=5",
+    "date": "2026-09-01T14:02:43.000Z",
+    "summary": "Google vs Microsoft 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Broadcom vs ManageEngine 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjU3SklHYmJfM244V2tOQlNvM2pTSWw4QkI0Y1l3Z1VDcXVCX19lWFBGc2o1ajN6UU9KMkp3akdkV2NibWc2eG9zRVZDblppU1d6dmQxQ0tUTDEwa2dSdzdjeWNINnlORzBKRVdGVGJ5NExhdVlJRGJkVjNTQlhwaHRNMEl5c1R2UnBHQy1fQm5nb3hPbWV1MXpVRU41aE9kMEN3?oc=5",
+    "date": "2026-09-01T14:01:48.000Z",
+    "summary": "Broadcom vs ManageEngine 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top TestTrick Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdjRrdmRCZk0wci15RUJ5b0pRckQyNmJORGtqdVk0LXJkWC1UM0F2cUUyUHZycktwOUIwdENoVXpyZ0o4QmJHTzl5ZTRYVjZ5d3ViOGpIVV9FcVY5XzVYXy1WTlJfVVJIOUNGWDlDNA?oc=5",
+    "date": "2026-09-01T13:56:54.000Z",
+    "summary": "Top TestTrick Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top QuotaPath Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NUplYUphN2IxcDBtSHJEYklvOTBoNmxSd1RCTXh1UW92ZnZQcVVxYkM5RzM1bEFkYkFxQ0lwZnpPNC1ud0ktN3lSTHlhd2I1Qkp6V0w0d0xhOUs5WDdXZTVGRjNUVURWR2FVQmRER1Z0bVVfam1MaFgwWV8?oc=5",
+    "date": "2026-09-01T13:56:54.000Z",
+    "summary": "Top QuotaPath Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top SymphonyAI Apex Aspen Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XN19kV2IxdzFoWjV5eklzNmtBbnBXa0VDQjdUTU9oUnRqRmhYNGtlOUVpMXRqalk0SkN5S25odzk4MHdNalFEbl9NdHhQaGxXUTVFRGllejg0alkzYzE0YkRHSUpTR0dTMTc0REhRVXBZTFluVHdMX18ycE1OZlk?oc=5",
+    "date": "2026-09-01T13:56:54.000Z",
+    "summary": "Top SymphonyAI Apex Aspen Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Copyleaks Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oVUxMclN0MWViYkwtbW43b0tRMFAwWHg4X2toaEFuVUhwTHVWTjhXRTg4OUJtb1k4M0h5MmR1NVc2MU4wbmhiQTd4ZnowR3AtS1NCejJUQndfYm5RQk4yZ0ZHWHhCZnpsNEVxQTJLMGhTc00tTWlBQy00c0Q?oc=5",
+    "date": "2026-09-01T13:56:53.000Z",
+    "summary": "Top Copyleaks Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Searchlight Threat – Investigate Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWJnWnJfb3czWUdiWGFHT0pyRWE0bmVsai1aQUFlZ0tPY3dwYVhKZGR0UU0zbjA0UkhRbWRpbERMa3JNZHZyZlcwdFEtY05TUHlzMmdVLUJZUUtlV0phRnNzVUpVbUZOLXVaOEIyVDJ6M1FVSjhUbnc3Z0ZHMDZPdVNBbzVVUWpybHBz?oc=5",
+    "date": "2026-09-01T13:56:52.000Z",
+    "summary": "Top Searchlight Threat – Investigate Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Oobeya Software Engineering Intelligence Platform Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXpTY2xNUFZ4LTY1S09VdWdkN3NBZjYzZFBiZmNfQWZ2Z3VYLVhpb0tNVGloajQzRGxXejdBLWp4R3R5WEpZNG5BVjBQaGZrbkQ4RU9ZYmFCS0x1RDIyX0xUVy12SU5oMWlNVlZ1QkhsbUwyWXh1SjdTNmlPVzBuMmthNnA3ZEhRREtmamxmcDFjRW52MlVtX2pvaXVyel9MdDRNOQ?oc=5",
+    "date": "2026-09-01T13:56:47.000Z",
+    "summary": "Top Oobeya Software Engineering Intelligence Platform Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Google Antigravity Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hV1NjSmZHWW1LT1JlM2VkYzBSQ095SE5RcVEwbVkxRUM1TjJDOFhPZG5wcU1tX2RJX3ZVLUNzTUF0X1k0VkduSjBjakxWRDBtVl96TmNBeUkyaW4wbFU1QnFMT3hVVFBjYU15TmRadzVrZ05uUnRCVG5VYw?oc=5",
+    "date": "2026-09-01T13:56:46.000Z",
+    "summary": "Top Google Antigravity Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top CVE Scan Vulnerability Monitoring Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmZIVGpMUG1sSXFnM3R6N2V2X2pkdGlGTGFpSHRycXBhb3cwQUllTUZaRjJIOGJ4Z2g2VHhTV0p5aXR4N2JUblR1djRnbmk3cWw3Q1BVaXN1VGRKdTI5a3ZTdXdLS09MaFFGOFFsRk43a0lXRXR1Yy1YdXZvSFFNUENwb3pLVlJjd0RNb2pNMA?oc=5",
+    "date": "2026-09-01T13:56:46.000Z",
+    "summary": "Top CVE Scan Vulnerability Monitoring Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Vendure Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzTENHM0ZOWUwwTDI0QWRjbEhoSS1jeHQtWEZfaGtOYTlGNU1pZGhhVFZqT0pLNENFQXItaHF6TzdyTF9zWENrWEs1T2NHNW8xRXNKS1pHUVctQzZqSUh1bDhmOUswQzlMTXlJYThfNjVSalZlZ1RIUmNLbw?oc=5",
+    "date": "2026-09-01T13:56:46.000Z",
+    "summary": "Top Vendure Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Anuta ATOM Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMXR4cFpRc0N4WXVGWWNIWXFXa0NGMUxBcVZacmdIV1VJYmdZX2Q2UmV6RTE4d3BHZFRBSTdQd2lKOGpfU29BZ0ZjejM4VGFTRUk4QklVbGVwVjJXdDdWZmxydTE2cF9zVXhrczJWVC0?oc=5",
+    "date": "2026-09-01T13:56:46.000Z",
+    "summary": "Top Anuta ATOM Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Verity Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCQ0FFWDViZ3JmSnNqWHFJcTNFajQzRU5obWVfUWlVakVJN1NXVWxiVmVmNDA5LUgtNG5TaDdnTzFkMl9nYU1UaG9EcGJzX1dHWkZ1dm03SXlRS1BwdDcxT1lFRy01a0swc0pZ?oc=5",
+    "date": "2026-09-01T13:56:46.000Z",
+    "summary": "Top Verity Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Career Agents Outplacement Services Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkJlMkx0a0FreUhfLXc5U09JaERwY1FWcUROWVIwakRnZkY2Zzg0VDljcWlrV1RxMFhsRlR3aFpLcW9LVEgwc2xlZ3FNS2Y3S01ibjBUWjRoU0FkS1hVQTVYZEVjMUpqMUllVEJmRkRWWmk1eG1pVlhIVTFzTGxmRjNTcFFrMUlLSkdQa3Iwd3N2QQ?oc=5",
+    "date": "2026-09-01T13:56:45.000Z",
+    "summary": "Top Career Agents Outplacement Services Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top 7AI Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sWi1XMC1lZGdsQzQ0S0Z3RllPTy0wNDJxc2M4VmFrZ0FqMll2ZDJzNUptQVdyZE1OMTZrRnBqY1AtMHRKOWdDVWZzNXBpSUNZSWpCWTQ0MHBObWIzQnJFY0NhdjUzQmNhTjRzZWtpN1Y5WlR1?oc=5",
+    "date": "2026-09-01T13:56:45.000Z",
+    "summary": "Top 7AI Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Infiniti HR Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PNm93U2VzWU82TVZxSlN4eWlqeWFNUEpCRVZQWi04Qnp3UldtMzZqTW9PVGVjQzFOUmotZUpmbDh2Mm5UeFY1TFNXV25URVBPR25qOWxnSzNfbVhjUjBXZWdQellVLThWbklTSXhUYl9KUQ?oc=5",
+    "date": "2026-09-01T13:56:45.000Z",
+    "summary": "Top Infiniti HR Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Kaara.Code Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSmUwWmtkWDdZLWIxQVRlMmdIUERkbXlOSzVPY2huWEhCSHQ2QzFLYmlQLW9Ka21DVHVCY2kwbWtKSHllSjB6LUQ0OGlNVlhaX2YzYVFYblFRMGtsZFIzU1FDSDlkNXJDVjlFeTNRcko?oc=5",
+    "date": "2026-09-01T13:56:45.000Z",
+    "summary": "Top Kaara.Code Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Supply Wisdom Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMS0tOVJodzVsNWtBWmpkcFdtZk1mQ0syUDJveWYyUEQyZHhfZkFwcE5pV1dMQVBpSVU4VW1oNlAzWU14S1M4emJhTmMxS0tURUZXVVNOVV84dGlGQmMwUk1yX2tXLWZ5VkktMUVJbFVjOWd0T2VXbnNDOXBtcVVaTE5aZw?oc=5",
+    "date": "2026-09-01T13:56:45.000Z",
+    "summary": "Top Supply Wisdom Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Thales ID Verification Suite Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDJzT0xJT0xhUG1kNVotZXBIQU54OEliM3d2NE4yQzM3OGtENndiaERva0ZFQVlIYVI2Njhydng2cmgzZFI0T0ZzWTc3TzJxeVRkR3JpUEFGcnN0MVFmNTVSd0tKanhrTHJkTVJySm5Fb0J2aDI0X0dFWkh3M1k3X1VFc3VTQWox?oc=5",
+    "date": "2026-09-01T13:56:44.000Z",
+    "summary": "Top Thales ID Verification Suite Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Codease Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLUNCRmNxS0tPODFSTTlFTldxTjdKVnBIa19pR0xrdkV2V2FVbi11dllzSEl1dDBRTUV4WkNUc2tMSmgyMk9OQVc1TDNDd3lTOER2NTl0UEJKbm9KdTY4aktQMDBrSlFkZkN3TQ?oc=5",
+    "date": "2026-09-01T13:56:44.000Z",
+    "summary": "Top Codease Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Kindite Platform Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JNkhxTTI5NlE3Y2tzUFNWVUJsel9feUpMT3RWb2c3XzFuTW91REc5bXdyTkNneHRPdGt2bGhfUVA0amFtSnhSX20xRk9NMVVZRzNFX3JqU2ZPamJsZ0txOW0tR01lYi1XNy02eGV5MTRuNENfQjQ2Xw?oc=5",
+    "date": "2026-09-01T13:56:44.000Z",
+    "summary": "Top Kindite Platform Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Matrix42 Service Management Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHdPVDhLb3hmTjFSQnpyaVl1YWJ2RC1LWFptTFMzSHg5dmlJMlpCX3RQUkxTbFpjZE1OT1lpUzdHRDZOQ0ZYNDZRaDVJMmQxckJxX2p5RmtMUm9PbXY3MUliODZUTTdUUGNKUFBBZDE0c05kdG8wRGNVbTcxTTZVS05DcWdaZ1NkMWswS2JKOUpSTGxF?oc=5",
+    "date": "2026-09-01T13:56:43.000Z",
+    "summary": "Top Matrix42 Service Management Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top SoftwareOne Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bXJYTWszVXo5UUIzSXhKUFlsaTBlN05MLUhTZ05fTFNaVjN6dmljQ3YtdXRQdGpvRm9LTndnd2FmX0o3NjJKRUIzc09oYWNnbGh0b2Z3d2ZsaUVpTkNrYWkzREkydUFyZ1NOS1ltLWRpdjRNQmhoVmd5eWgycTA?oc=5",
+    "date": "2026-09-01T13:56:43.000Z",
+    "summary": "Top SoftwareOne Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Serviceaide AISM Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJMVZtaUlWZWQ1RjVBa3oyQjV6cWxhdFM2TTZkUlU1eTF1Qk9Rb2pxX0JtcmZlTnBZNlVwOW5yOGNGbkZjQVd2SmhXeTh5cEhpaDZLQk45dXc1WFozYzBHNTdadWRHU1BGaVV5RUREVkwxOG9CSzNOeg?oc=5",
+    "date": "2026-09-01T13:56:43.000Z",
+    "summary": "Top Serviceaide AISM Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top UTMStack Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VRXNvWjMtbnVRdDFtR1o3alB2TVNEOGZMYmktSE55d2hZY3hGQ1k4RktoWmFnRzNCWWpFcnpUcFp0NGZSUWc2elktT2FjakhlM1Y0bXdpd2g1Z1pISkpDTHZFcHV3T0g1VEoxNUJR?oc=5",
+    "date": "2026-09-01T13:56:43.000Z",
+    "summary": "Top UTMStack Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Computacenter Managed Network Services Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2ctdXZNU19hcjlRdjBZYlRHX0lEVkxRZU9XLXZibHNwSXhDVXk2cUN6bnpCUDhEODBkVzdjWDcwZVgwX01sOGhvQ2ZjRHc0ZDdIMzFEOXBNNjZVM3Z0ampOUXZwUzhtWVBLakVYRjFfSlBHTVM5eVl6VjNSWW5UbnpCN3BROVAzWGJaenNvcEJvZUJlbGc?oc=5",
+    "date": "2026-09-01T13:56:43.000Z",
+    "summary": "Top Computacenter Managed Network Services Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Sievo Initiative Management Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0J6RWM1WThnNEUzeW4zT3ZzTVVnZjR3blFHR185a2lMdXlmNDV3aEx4TmNzeWFNY2ZMMnBfXzVEODBfdzZSUkhQZWFqbERyaXBWbXN0Zi1TVDFGOWhSZnJZYjNDVUlXQ1ZVa0VCZlVLRnZWYlNyZzloUE9XRkt1cFd1b00xQms?oc=5",
+    "date": "2026-09-01T13:56:42.000Z",
+    "summary": "Top Sievo Initiative Management Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Aiimi Insight Engine Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iaU10a2MtZlZGQlFEMkxhUm1paXRrVlVaRjIwbTJBU2prN3YyTldXN2dqRkhidlI2TnNuZU9mMmdKaUgxMFZ3cXEwYzdhWGQzZTlKTEtIVXY3eUdRa1dPTk40NWNuMXlTZjRDU25QbGp6dmpwdWZEcUZCNWYtZw?oc=5",
+    "date": "2026-09-01T13:56:42.000Z",
+    "summary": "Top Aiimi Insight Engine Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Symantec DLP Cloud Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GNjJhbE5qSWJEeTVPcDhHN3A3ajV0S3pWbXpqbGlycl91aDNrTEFaZGMyWlVWMG5lam90LW5oUS1ObGY4aXdVM1lidmxmNGcwLVhhQ2pacVNQUEZUSTZsRTF5OGljLVNuMUNrcEprTEh1OENMbGxHV3VxVQ?oc=5",
+    "date": "2026-09-01T13:56:42.000Z",
+    "summary": "Top Symantec DLP Cloud Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Warden AI Platform Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41a0JBaXVSZldSaHF5dnRSenR3UW02ZXlpMk93N1Q1dkZNSDFadV9OaW5HTDJsaFhneDZXczlja3phZGJzc0JQSzlNamxncjVjRmdhSDluMExTTnZoS1VpWkUzT3VLYXJCWTR1MmhiNWpua3dIRUhnbjloOA?oc=5",
+    "date": "2026-09-01T13:54:50.000Z",
+    "summary": "Top Warden AI Platform Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "Bain",
+    "title": "AI in Energy: From Pilots to Payoff - bain.com",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5keGV3SDN5RndudXJNcUlhbDNyUlduZ0pKSGJrbXE5N1NmV1VOWmpWVFBZMUxpdkY2M01mZG53UURHOTFsY2pIN0tpemhNYzZPXzNFZ18yQ0t2Yl9UcWkzbWIwU0hGUU9mMk5EQlhNY1htdFU?oc=5",
+    "date": "2026-09-01T13:10:46.000Z",
+    "summary": "AI in Energy: From Pilots to Payoff  bain.com"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Gracenote study: 85% of sports fans want TV home screens to show when and where to watch favorite teams - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjRNaThtOG03STExYlhqbU5SanZYbjNfcnN2WHV4S2ZUdWVNeE9ZbHZGaGtFdEh6dkZQMUNyV19NYy1razNMcmpKWlpzUGNvLWp2V2VLdmx0SEhwelJwMU5TbVlmbW9KRl9ZdmxKN2FRYUVia0thV0F4UUd1M2tfWldwZEFqamdQbmtwMmR5NFJFQms0ZTZwSVJLNWNNZlY0VVlLdmVHMFhVVEIxTGxPS2lSVzgxUGZlTkdFbENjWGpSOWkzOHR2MEZ1NEJpclFIaE0zUlNCbXEtU1k?oc=5",
+    "date": "2026-09-01T13:06:42.000Z",
+    "summary": "Gracenote study: 85% of sports fans want TV home screens to show when and where to watch favorite teams  Nielsen"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top Anrok Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZEpQOUF2V0NOaHI1bTZpMk1GMm85VURFTi1xeG1ReEFoV3NleFdiQVAwZE44SFBselNFMmVITDBTSlV0UWNnRTB4OWU0OTJVcldOcmo1OGJEOXBlY1VzR3lyRjRyMzhYTGU0MVJGMmJTTmItMmtR?oc=5",
+    "date": "2026-09-01T12:04:15.000Z",
+    "summary": "Top Anrok Alternatives & Competitors 2026  Gartner"
+  },
+  {
+    "source": "HubSpot",
+    "title": "How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead",
+    "link": "https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel",
+    "date": "2026-09-01T12:00:06.000Z",
+    "summary": "For years, we ran data studies at Semrush the way most similar companies did: whenever someone had a good idea and whenever there was time to spare. Mostly, though, our efforts were limited to one or two major reports a year."
+  },
+  {
+    "source": "Reuters",
+    "title": "EU to suspend Brazilian meat imports from September 3, citing antimicrobial rules - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHROZENUNFVjS2FKbFdEa3NmQkV0QU9YbFlfYnh1MFJTTVdiSURLc3BvcmR5ZFhxbDJMWXQtb1dvaURLMkh4dHFDMDlpdmxrUmdjQkppdmpycUxOOUtsVktTSkhLWUF6QTFCT3NFa09jYXdTd1lBWE9fT0k4a1lBTDExWnItNW5WcDlxX0s4bC1BZFdUYXVFTzBvZ2RhX0xFbHFfWHBUS05ieXhkZVJSVTZlTmVSNk5IOGdPZDZjWlRhMU03ZnlvTnRuWDM3bTRpQW9LRmpObW5PVFhZ?oc=5",
+    "date": "2026-09-01T11:59:43.000Z",
+    "summary": "EU to suspend Brazilian meat imports from September 3, citing antimicrobial rules  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "ID Document Verification Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZGZzajRJOTdMbzVuVDRDdWVlQjBZR2dmNVd3R3NCRzFmVU02eWJ4Sm1zMjVpM0FZcmpxWHlQMXNiUEVmaVFTQ2hjeGFPX191TEpvOFV6dmhRT1NwYzJQbk9YdmVPd1ZEWEtkZ2F1R2Nxdw?oc=5",
+    "date": "2026-09-01T11:42:28.000Z",
+    "summary": "ID Document Verification Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Aiimi Insight Engine Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZenNYQTJRTXQwVGhsMzFScVhWWVBTdlBWdmszc2RabVdjcUxtT3duVVVCNE92bDJMYnEtRUNRcHRwYm85ZE1HWG13Zm44ZTVVVTBvck5IX1dpR0dmTXlpMzZIOGpLVHJUNjJ2TA?oc=5",
+    "date": "2026-09-01T11:42:28.000Z",
+    "summary": "Aiimi Insight Engine Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Dastra Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3dDAtSGxLak82ODgzcEtjNzdscUJicTFremZkZWtmSTNkczFKbXRZeno3SmMxc3d0VVZrbTYxUU1MbjRpZGI0VDVzWUVGWkc1dFRaNVRhNVQwekdRUl9LdE5YUmVhbkhV?oc=5",
+    "date": "2026-09-01T11:42:27.000Z",
+    "summary": "Dastra Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "QuotaPath Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54cnE2SEs1amdodzFHeTNEbWp3T2V6ZF9uVWczUEd1M0JweHZsdmx1UTZNUkp2Y0ludzg5dXFVeWdZMG0xdW9qeTEwWEhxNDBRTy0tYTF3bmlGT09paDVxUW1SRXBxUmdRUWo4?oc=5",
+    "date": "2026-09-01T11:42:26.000Z",
+    "summary": "QuotaPath Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Stellantis halts again Fiat 500 factory due to supply shortages - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFZETFVXbVJFMU42QWVxU0JPb3hMaVZxelZOSHVnN296djRVd29oeURHYnZlNF9IZk5pa0M0YzJGUm80SEtBeXlQRlEtZEVTQThrclRGOVpobU9HaGVhTTVudTg3WDI4Q2RfTUdOR0FDeFVVMllDX2hUbGRKcGtjRzFwYy1icjBHNmZfaXRqQ1NESlU2VlppcmRUVHlmWkl5NGdad3ZHZGs?oc=5",
+    "date": "2026-09-01T11:33:44.000Z",
+    "summary": "Stellantis halts again Fiat 500 factory due to supply shortages  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "How Soltech Used Plant Creators to Turn Grow Lights Into Home Décor",
+    "link": "https://influencermarketinghub.com/how-soltech-plant-creators-turn-grow-lights-into-home-decor/",
+    "date": "2026-09-01T10:58:07.000Z",
+    "summary": "Influencer Marketing Hub\nHow Soltech Used Plant Creators to Turn Grow Lights Into Home Décor\n\nHow Soltech Used Plant Creators to Turn Grow Lights Into Home Décor\nKalin Anastasov"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Associate | MECCAT Client Acceptance Team | Sharjah - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEljakNkOVNndHA0X1FRYm5hMEpvM1pYQVlUdXFNMmJnTjRXUzlYejYxRnB1emduLXZZVGRtczdEbG8tc1dmOUxIeTF4VmxrT3JTblRPaEQxbXMtaXFfNGNUYmprb0xiczZBWVg0NXdRR0I5T2txbGVXcHNrVEs3UzhFbTBtNWVqd1ltdllrQkFPdFZiWHRLQ1pfRzMyRV9Qb2NGUVpqZGNiWW5vbEFFWllGcnc3UQ?oc=5",
+    "date": "2026-09-01T10:54:59.000Z",
+    "summary": "Associate | MECCAT Client Acceptance Team | Sharjah  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Russia cuts expected 2026 oil output to 17-year low on war fallout, draft forecasts show - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BORThkOUNCU1FHVFhzTVl3eTJzSFlkUjdOY1lqaUREeHprbm1GV1hpUG01NEdaTTBtUnRuMmUtTjdoY1hmNzYwTVhnWTM5YjJ1QUFYdWwyQVB6eGZNaS1zR191WnhzZ0dtMzZ5Wm5MN2hFM0N1cExoZk5FUzIxcTRKWURtYVlKdnQ1VjA0c2w3U2VsM3d4SGFMdy16cUlkVDdEdVJIQjVFLVlGUmRCa2MyY0FRMldpenVWQTljUmJ4blhndmI4?oc=5",
+    "date": "2026-09-01T10:53:52.000Z",
+    "summary": "EXCLUSIVE: Russia cuts expected 2026 oil output to 17-year low on war fallout, draft forecasts show  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "Micron's Taiwan unions threaten strike over bonus dispute - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHQ0UTZhQl9va1UzRENhNW8zVElKLW1jRV9fa08wdmp3U0tudnczWEtMSDlWdTJQMlI0djUwVjBBZ011RkdPNzVLMC16UFd5bVlEb1g2YVNSQ2RjZXBObXpWVUFHT1FKZnluQ0Q0MHE5MGxWcWI0a2R0b1J0TEVZWDFlMEZQMktqbjUtVjE4dndGMXNKbHZsdHJuaWZINDNBX09LMUxtRHBNVDZfZUQ4U18tMEhtZw?oc=5",
@@ -12,6 +397,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
     "date": "2026-09-01T09:31:54.000Z",
     "summary": "Wall St futures kick off September under pressure as yields, oil prices rise  Reuters"
+  },
+  {
+    "source": "Bain",
+    "title": "Where AI Is (and Isn’t) Creating Value - bain.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3OFR1VUpnY2lVVzNMTWUzMTVPYzdYLVNTcS1xeGxlNjVqQ0hCd0R3REh5N3BDMnZuNzY1M0dERkR6ZndEVV9KYU8tYUJCYnJEbDZVcU82VkpYOHNFQngzQnpVenhiQjluYi1VZnV2VVI5cVVKR2NwQUpScXpDbTQ?oc=5",
+    "date": "2026-09-01T09:17:43.000Z",
+    "summary": "Where AI Is (and Isn’t) Creating Value  bain.com"
   },
   {
     "source": "Gartner",
@@ -42,6 +434,13 @@
     "summary": "CIO牵头的共创实践：提升企业高管人工智能素养，理性应对代理型AI炒作  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "Russia slams Japanese drills with US and Australia, says US Typhon missile systems pose threat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVjFhWHdFUUUzYVRjWmpnVzNra0MyVzFoRS1qSWk5TkNDbnpqUFFMaF8xT0dTV2l2dkw1X1lTNll1Q1hDbjNLUnpET0RIOTdaT2pCSnlxVEZwTG0zQ0VOdWNoLVM0eG42aVZMZ2ZoVllxMWRicWppQ18xaE9DcWozcTlvdl9JU0tienJISEhSbDhYVEM1anU0T1BHZWhUaFRSS25TZXZHME1Nbm1Tc2k0dXpqSGIwWUNzVy1hWXY5YVJmSTFDN0NISFdTZlQtRGVyNHBBeXpCNA?oc=5",
+    "date": "2026-09-01T08:39:40.000Z",
+    "summary": "Russia slams Japanese drills with US and Australia, says US Typhon missile systems pose threat  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Announcing the inaugural Risk Consulting Services Landscape Q3 2026",
     "link": "https://www.forrester.com/blogs/announcing-the-inaugural-risk-consulting-services-landscape-q3-2026/",
@@ -54,6 +453,13 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3BwaElVSU1mSmM2RFgzVGZBNXhpYW5jQk1vaGNWYWZUaUNuMlJkQ2tabkpQanNZRDZRRHZBdWd4bWR0N2ZNcnpTN2VnYVBkelA3bW51Vks1UHhzNmxoR0hQYnU4dEhINjdxd091ZlVwWV9RUzFsWFd1cDBXMTI2VXo4cDJXb3pKSXhzektrNG5MNlNFcEl1dWM3Mm84RkllNnN2TjJYU3pFNVN4V0Zz?oc=5",
     "date": "2026-09-01T08:05:48.000Z",
     "summary": "France targets Shein and Temu with fast fashion fines  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Britain's Gamma Communications agrees to $1.5 billion takeover by Epiris - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0s3Z1JJX0JyZklmX3p2YWJTWWtEdV9rZmRGOTRSem9FYTVIQzhvQlZLZWFtUGpORnpGeGs5SC1NZDhSZ0ZYN3RzaGpkMjNrU05CR1dSSDVVTFM3Wmg1amdVUDRWdjhHMDRDYWpGUEpUaGZmSnN4emo1aDNXR1BlQ2dRMlNlQzhIV0tfZklDUFE4ZjJrSk1CczhuRVkxNy1kSjl3WnMxTlJJcGVMbUg5T2F3RDRNWXQ5RnNReFZDSQ?oc=5",
+    "date": "2026-09-01T07:58:43.000Z",
+    "summary": "Britain's Gamma Communications agrees to $1.5 billion takeover by Epiris  Reuters"
   },
   {
     "source": "Semrush",
@@ -119,6 +525,13 @@
     "summary": "India's Tribhovandas Bhimji Zaveri soars to record high on growth optimism after GRT Jewellers deal  Reuters"
   },
   {
+    "source": "Gartner",
+    "title": "Top DCMS (Datacenter Control and Monitoring Software) Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOME40VnRrVjFEOWxaQTMwLXBnUWtsUk9BeVlvd1RkTW5nUC05SUZsblJhc3Z4Nzc0Q2VoYU9abjV3SkdQa3lQTXZ5X3VPa1dZblpnb0hwbTcwZU9aLU90ZkJHQkZxMWMxa1F4Szc3bGVaUWdoalhST3ZMSnRvaHlHZW40QnBxejdyMjladmlXcmlma1pGRHo5eHJxLWF0VWFsUHc?oc=5",
+    "date": "2026-09-01T05:10:18.000Z",
+    "summary": "Top DCMS (Datacenter Control and Monitoring Software) Alternatives & Competitors 2026  Gartner"
+  },
+  {
     "source": "Reuters",
     "title": "Poland pivots to home-grown defence production as it builds Europe's biggest army - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVc1MjN6ZXVSNjFLOFk1Q1M0TlVodG11WW5aMnZrNDBrRmhRekhMTFlROXo2djRrSlZGZmo5enVtYXR5WkIxZG9tOEkzRi1oY0JtV3BpS3ZIOTRFSC1NUmRKSGFHcWNsU0ZCMThONVBSUVJ5Rk9WbHk3YkZiZktMZ1I0TzNPOXJKVGRHcUZnRWd4Z2hnUUY3Tm5PckpUYnpobU1VYUZnLWI3LXNoZXI0T3YxUEZWT0NWNUpaUUcxdHFTZXFNU3pWMmUzRy1vNmNhNm1R?oc=5",
@@ -133,6 +546,13 @@
     "summary": "Novartis pauses trials of experimental cell therapy after three deaths  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "WPP cutting up to 1,000 more jobs by year-end, FT reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2dKUDVJdHRGQ2RJYzE2aFY5WGVDSW9Gb1RjSDUxS1NsU1kyUFdCY3pQeEs3SWg3R09QNTRXMm9HV19tOUdDVDlXMko1WkFNUTZEQU84dThvU2dhTVd0eFRqTUV2Wl8wX2lPQTNqYnZRTC12eWQxS1lJU3VoR2lLZnBHV3l6RGZTRFpMSGhrRzEyX0lkNHRiS2FPWDVySThRRWxMbWRWUU5mMHpkYXhZQw?oc=5",
+    "date": "2026-09-01T04:14:00.000Z",
+    "summary": "WPP cutting up to 1,000 more jobs by year-end, FT reports  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "Choose any option to start the application process for PROJECT - Lead Analytics and Insights Engineer II - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RbXNySVVnaENJZnJzeDB1bTllcUh5T0VrZGJhbkF0TTRYbWpzRkRCU1F3cmtvWDVySVpnSE15RTUtaUFROXJwTFdXU29aeElfZnNRNlNVT3NVQlhYdTc2U1ZmOGQ3Uy1KVnBSeWRaRWdzWUlSRmJPQXhFR1I?oc=5",
@@ -140,11 +560,25 @@
     "summary": "Choose any option to start the application process for PROJECT - Lead Analytics and Insights Engineer II  Deloitte"
   },
   {
+    "source": "Reuters",
+    "title": "Europe adds 8.8 GW wind capacity in first half, WindEurope says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1l3aTBiUFVMYlQxWHdmNjhsOUlnb0xyYkc5RlJaMWJnYVJxaEdiOGhlaTdmWTZ2OGdYQzFQS29RQ00tbkZuZ3Z3UXNvZWRMNV9VS3J5VEdSZUVIdlFRU3J5aUdTVEZGOWRsU1g4bGNyM1dUY293b1ZmYlEzaEFEeHEyQjBYdXNWUEtTUXhSZ2RlRmJLek95ZGZWY0Y0TklIRnYwNzR1cFB1UTBvdm40?oc=5",
+    "date": "2026-09-01T03:06:09.000Z",
+    "summary": "Europe adds 8.8 GW wind capacity in first half, WindEurope says  Reuters"
+  },
+  {
     "source": "Bain",
     "title": "AI Transformation: The Fears Are New. The Answer Isn't. - Bain & Company",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWtBUG5CUzJDallIQlFqY0NHY2RGV20xRG9SQjhXdW1YTkZsNURVcW1scTVkc2VlNVJxVlVjVVRuLVBybGhtVFUzOW1TdGJ6X2dmRmdrcHRDbVl6dWpfYnJmUEgwazk3Z0tJY2hXNDRFZ0k0WjNGSFBqSGRqSjhYSTZfWkdlZHJzWlE?oc=5",
     "date": "2026-09-01T02:15:00.000Z",
     "summary": "AI Transformation: The Fears Are New. The Answer Isn't.  Bain & Company"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Choose any option to start the application process for Analytics and Insights Engineer III - AI Functional Support - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHX0RfRF9Rakw4eWt5QkpZUXVsbW5URnA5SThMSEpWWGpQb2VyV2xHcTZrSmduYnhoYkszSUpWSTNpR09xT2t2Z3o0aTlvcHBKNGZ5VFhjZ2hkZjctb1RXRmdwM2J5dTFhLXcwd180NnZwY29WR0dHWVZ3STQ?oc=5",
+    "date": "2026-09-01T01:49:38.000Z",
+    "summary": "Choose any option to start the application process for Analytics and Insights Engineer III - AI Functional Support  Deloitte"
   },
   {
     "source": "Reuters",
@@ -176,6 +610,13 @@
   },
   {
     "source": "McKinsey",
+    "title": "Investing in the energy transition: Time to look at whole-system value",
+    "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+    "date": "2026-09-01T00:00:00.000Z",
+    "summary": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience."
+  },
+  {
+    "source": "McKinsey",
     "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
     "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
     "date": "2026-09-01T00:00:00.000Z",
@@ -201,6 +642,13 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmZZejFyUVYyYWdFVTlNN1RnQVBaeElfQVZoeEFYekFKQVJVZ1M0SXMwZUdXaFM3NWVXd1BXMzB3MDJQNENsNV9DRWZ1ekIzV0pSdktiSUpDTU9pdmd0TndXaFA2R3N0VjZOOGMwUHJTNTJ0TG41Y3ZVblV1V0xqN1d4S2RkRlRyTXlkb3lDWFlWUllITTNqQmkxVWw4N3pfNGJmVkZSMmpGOHhnQlE3NHFocFVOMnFucjFmcmJGcWI3QlhOMkFBWQ?oc=5",
     "date": "2026-08-31T23:33:43.000Z",
     "summary": "Colombian oil service firms move into Venezuela amid deal announcements, trade group says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Shareholder opposition to executive pay eases globally - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkxrbXp6dGplRUJYbnJUb1g4cWpuemtvRXNnSkctUTU3SUdvMGlQcVJ4LVltbXJrOE9vWU5tTW8zN1JsVXRHbk5hM1lsX0pTNVA5Y2QySXcxVzZ6QzJtdWN2c3dVVGlFZmwxaFFPRVZQdG9yaG1kQkhWNk8tb1VtdG44VW9Fc18wSHlKSDdPMFBYM2wtY3ZEY3M4bkhjdlFrZVdPaGx3Zw?oc=5",
+    "date": "2026-08-31T23:08:00.000Z",
+    "summary": "Shareholder opposition to executive pay eases globally  Reuters"
   },
   {
     "source": "Reuters",
@@ -238,11 +686,25 @@
     "summary": "Applying to PROJECT - Lead Analytics and Insights Engineer II - Tableau Developer  Deloitte"
   },
   {
+    "source": "Deloitte",
+    "title": "Choose any option to start the application process for Analytics and Insights Engineer III - Tableau Developer - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4Y0RjSjJDcWprNkpWc3d3eXBBRnAzQ01yV2UxVkRybzJDUGVfOWpXV3R1QjR3SHhkb3R6N2VLempuSlJZVUxpVl9JNHo4VDRFWENhVExjemNBdm1vdURaVGN6RV9LSkNCdXVnSzhoUXdiRHVHbDNudGo3SXk?oc=5",
+    "date": "2026-08-31T22:17:16.000Z",
+    "summary": "Choose any option to start the application process for Analytics and Insights Engineer III - Tableau Developer  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Activist investor Elliott builds Air Liquide stake, pushes for changes, sources say - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0QyUnpaUHlibkpvTDdXamlURVpJR2hCczhfWkhSRFMtNm1TZGNGN1VqVWRIakdPSVZYRlMwQ0U1SnU5NUpiR3Jxam5BM2kydlpvYXFaUGFHUG9IcEhXeVpBTkFJd2p1MXVIdmZoZHhZQXNtN0FXNExRQTNNSVFndlZZQ3RYZi00dDFPVmUxOEppSzN6eHN5TUFjZ01GY3d4YUI1aG1qWHVGX09FNHdpaUFsaXhOSzZfaWFj?oc=5",
     "date": "2026-08-31T22:15:45.000Z",
     "summary": "Activist investor Elliott builds Air Liquide stake, pushes for changes, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Shein makes lacklustre Hong Kong debut as investors fret about growth and regulatory risks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRDlSNjZyYzhjeU5aVms1VkM0MG9CS2Jxam9hNkN2YVBxd09BQTRab2U0WkpTSFV3LUpJR2pOWXdnUl9HOW5uY2ROWHJhNTNVNlVIaUlBOEZRcHpuS3hMUlB5MG5OWUZNVzBqTTM1RTBGRFVsdTBEREFDU2N5dkZyamJUZUt5UkdjZjduR0pldnFyaDRtazVNLW9nVmEtTjJ3em9pdy10V1ZuamxjMGhYMVFHSnBaUnRxU3RMVVpsNlY?oc=5",
+    "date": "2026-08-31T22:03:00.000Z",
+    "summary": "Shein makes lacklustre Hong Kong debut as investors fret about growth and regulatory risks  Reuters"
   },
   {
     "source": "Reuters",
@@ -355,6 +817,13 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0x0VENLNzlWd3V4ZEVJR0tkUjdyamJoeDhXMktwVHk4ckN2WWZPOHBRTnRMbEFsSDZVVTZwbWEzRnJvYVlKRHA4dTQwM0xrRXVTdXVXRWVQSVlnQnVWUmE5c25xamxrSHltZ1A0WnFlT0t3dkdha083d0JxZG43NmJPOEZQXzRVSWMyZThVbUFnWVFsTG1IaVpB?oc=5",
     "date": "2026-08-31T18:01:21.000Z",
     "summary": "Nielsen Announces New Local Methodology Enhancements  Nielsen"
+  },
+  {
+    "source": "EY",
+    "title": "EY US invests $100 million to reward employees leading the firm into the future - EY",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHNWenBhRVd2cXJsanJaNmVfbW9EUnZXRTg4QTdraTI1NldNT0NCYmZSQnozSkpaTXhmNy1QNDQ4RUpIVlhJZVBqTDNYUWFuYnYxYzQ1TmZvZjZaTFJFUXNmRzhSVGs0aTZCUkliNWNMcTNLa2tzUk92b05HUWZiSlZVWGY0c0FGMU9NNkt5eWt4NElPelZJ?oc=5",
+    "date": "2026-08-31T17:49:33.000Z",
+    "summary": "EY US invests $100 million to reward employees leading the firm into the future  EY"
   },
   {
     "source": "Deloitte",
@@ -572,6 +1041,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVFQxanpQLVRKY2RUYmZXdWZQbDhXQ2VHWlRicGRUUFBBQUJHTEhJWkpJNEdXdGhJMmpxT0s5Z1dKb3A4TnNfWDcyUklaRklhN2VvZ3BmdENuSFEyT3FRMTg2VExkMllKSHRYUTFWWU9MbHg2MGFsVkpLWDVqTE90SUZza19zMU5mWkcybEdIOGtrN3ZYano3TkZLM0VvM25Bd0VUcnZlaTJsaFNyX1l0azBFR1BPUEVndnJQTlVYOHdVSHJ5RklRQkNqNFB4aDNObzJSajFGSTNYczQ?oc=5",
     "date": "2026-08-31T13:14:38.000Z",
     "summary": "More than 6,000 people infected with Ebola in Congo, government figures show  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Top SYMESTIC Manufacturing Platform Alternatives & Competitors 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXJnNy0wY2NSR1FjeW9ZemFfVU05UWFJYjZ0YjE4NENhMmhUUEtXVUxGSlB1VjFaaXN6WXlHSmN2QmY1bWNVOG1od3hLaUUzMEx2WGF1aHdtTUs2TWVlNm9XWHFLcTR1VEJCS0xWeVc2UHZBaEFXOUpaWlNmWXN5TU9nTmpwNy1aakNLXw?oc=5",
+    "date": "2026-08-31T13:13:56.000Z",
+    "summary": "Top SYMESTIC Manufacturing Platform Alternatives & Competitors 2026  Gartner"
   },
   {
     "source": "Influencer Marketing Hub",
