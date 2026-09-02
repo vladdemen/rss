@@ -1,10 +1,220 @@
 [
   {
+    "source": "Forrester",
+    "title": "AI Can Rewrite Code But It Cannot Recover Intent",
+    "link": "https://www.forrester.com/blogs/ai-can-rewrite-code-but-it-cannot-recover-intent/",
+    "date": "2026-09-02T14:42:14.000Z",
+    "summary": "For decades, critical applications have accumulated business rules, integrations, workarounds, and dependencies faster than organizations could document them. Documentation is incomplete, original developers have moved on, and application specialists are retiring with critical in"
+  },
+  {
+    "source": "Reuters",
+    "title": "Uber to lay off 10% of staff in biggest cuts since COVID - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5",
+    "date": "2026-09-02T13:57:28.000Z",
+    "summary": "Uber to lay off 10% of staff in biggest cuts since COVID  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nvidia CEO urges G20 to avoid AI rules on 'theoretical' harms - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+    "date": "2026-09-02T13:51:43.000Z",
+    "summary": "Nvidia CEO urges G20 to avoid AI rules on 'theoretical' harms  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dell shares gain after strong AI server demand boosts annual forecast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5",
+    "date": "2026-09-02T13:51:24.000Z",
+    "summary": "Dell shares gain after strong AI server demand boosts annual forecast  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Chevron expands Venezuela presence with $7 billion plan to double output in five years - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
+    "date": "2026-09-02T13:45:03.000Z",
+    "summary": "Chevron expands Venezuela presence with $7 billion plan to double output in five years  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "PG&E launches review, defers $2 billion in spending after wildfire bill setback - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZy0xX2s5ZURkbVFDSklncTVtQXBGQTAzWXZQaDAwbzZ0aFp5dXZDNGlpYjJ1cTQ1Nkgxc2I2QVYxeDVHaTM5SVJ6WDItU2NzVG4xVWZDMllYU21OVk5FMDMxVmoyTXVheVg4VHhMRFhZUUFLSWhxZnB1b2ZPQ1RjVmxIZnlyWUg2NjkySmlLVzZRZThQV0UyamtPejg3OTZPbHNQMlJnbWl3SjFKcUhkS0Z3?oc=5",
+    "date": "2026-09-02T13:41:13.000Z",
+    "summary": "PG&E launches review, defers $2 billion in spending after wildfire bill setback  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "From street names to supply chains, Canadians pull away from US as rift grows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
+    "date": "2026-09-02T13:23:58.000Z",
+    "summary": "From street names to supply chains, Canadians pull away from US as rift grows  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US private payroll growth slows in August as manufacturing sheds jobs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmZUU2czdEdrYnpvU0I4OHNuOEVCekFKY0lmWVNYaGhhSTg0c0llcUIyNFE2bVRGSGxNS2wwcWsxTW1TeTlGby0xODVONXFURU9QZVB5MG9qQm42eDJJWVNIRTZGRld0YXJ3bXJEek9sRWZOUUlURkkxRi1nYTVlZGV2c05uOWNLWXNicU14WjZWeHhldk9FTQ?oc=5",
+    "date": "2026-09-02T13:23:02.000Z",
+    "summary": "US private payroll growth slows in August as manufacturing sheds jobs  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Berkshire CEO Abel says AI to help power growth - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUhNVlk0cFV2aWlLZS05RGdXb09LX2E3V01uSzBlc0tqY3R5S2NDblgyNk10QW05Z3FFSXBGVkhVTUJkSVU5TGxvZ0VqelU0eVdjV1gyWXBHWFZnMnQ5VW1sRnQyRXhkR1BYSlplWnF1OG4wYWFvWEJCQThFa2ljMFdvRFpVZk45eGFaNHdrSzZMVWNCSjNxcHVSNy1CdFZUNWxIWjBHSmFxXzhvZm1r?oc=5",
+    "date": "2026-09-02T13:22:53.000Z",
+    "summary": "Berkshire CEO Abel says AI to help power growth  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Climate shocks hit EU maize heartland in Hungary and Romania - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVhWZGYySm9Zd0tLMnY2NnQ5LWF3S2VpdGZFRzBLRzFNVFZHNFkyVXQyWS1PeFJ6ZjBETjN3b1REUFExVk1KOGN5Tm1qU2drVkFPdWQzOFFfYTQzOFAtS0F4UkUzV0ltMGRQYjJ2ckhTS1lYc2xBN0lMT1R0bHV3MWZrOU42d2JaUG9iVmJLeVZpeG03X1pTV0NpMHhNb185Wnd6cUE3TVhZY2xMUHNj?oc=5",
+    "date": "2026-09-02T12:04:21.000Z",
+    "summary": "Climate shocks hit EU maize heartland in Hungary and Romania  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "What high-citation brands do differently in AI search: The 2026 AEO playbook",
+    "link": "https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations",
+    "date": "2026-09-02T12:00:02.000Z",
+    "summary": "Answer engine optimization is disrupting search as we know it. What once was predictable — add a keyword, focus on high-quality backlinks, increase your domain rating — has become a new game that doesn’t play by the same rules."
+  },
+  {
+    "source": "HubSpot",
+    "title": "Using LinkedIn for AEO: How marketers can use social media to improve their AI visibility [experiment]",
+    "link": "https://blog.hubspot.com/marketing/linkedin-aeo-experiment",
+    "date": "2026-09-02T12:00:02.000Z",
+    "summary": "Over the past few months, I noticed a pattern while researching for clients. When I searched Perplexity for B2B reports or insights that I could cite for a project, the source list would look like this: Gartner, McKinsey, peer-reviewed paper, then … John Smith on LinkedIn?"
+  },
+  {
+    "source": "Edelman",
+    "title": "AI Agents Are Coming to Work. Here’s What That Actually Means — And Why It Matters - Edelman",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGRjlsaXUtcDRsMU5FZnFvRFY3YjQ2WG9ET1U3U2JaZkxObndIZi1VWnVSbXpFT2JIVUluenE3aUs0dG9TRlQxMFF6aUVlYl91UFJGNEVSZWtUYmJaOHdpenNrb1p1WGIteE5OcUZR?oc=5",
+    "date": "2026-09-02T12:00:00.000Z",
+    "summary": "AI Agents Are Coming to Work. Here’s What That Actually Means — And Why It Matters  Edelman"
+  },
+  {
+    "source": "Gartner",
+    "title": "One Identity vs Palo Alto Networks 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHFQN1RTMFVsV19PSGdzeG9UcV94S3NLM2JLclJwcVNPVDZoekZaSTdSYWhycnN2dUhkWFYwd1VBZ2RQQURpQkZ1a3BrMWIyTHhrZFR2SGpLdW5mNWhPWXoycE80SFpkUEttUGxvWmtTOGhfOE9ZZ2N2Q0Jmdjd0LTlZSXZPd1p6OGF0di0tVWVtZWFXSW42ZV9vaWkxUndIb3U5dm1HRUxKNEgxMDBJ?oc=5",
+    "date": "2026-09-02T11:56:57.000Z",
+    "summary": "One Identity vs Palo Alto Networks 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Devolutions vs Palo Alto Networks 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVpFUDAzN090Rm1VbXcxcFlqbWozSjQ3M29qdV90OHNQNjhINENjRGh0N3Q1UGk0SE4tRUVWampPLW9ZVUhDWHc2dFcwdDBUZkJ4a3Vlbk9FMWIyLVVsb1JpRF8zLTNpemFEeHM5YVZGZWhTeWVTM2UwZC1iV0IzUnVPRkVJdUlqWEhuRVdMYVdhMVYwNG44SUNEWlB1Sm85UlNGZlZMOFdNRUN4N2c?oc=5",
+    "date": "2026-09-02T11:56:56.000Z",
+    "summary": "Devolutions vs Palo Alto Networks 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Palo Alto Networks vs Saviynt 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3BXNzlKY040RHJTZnBUQjFsejM1dTJ2UHR0LUpFYmM0WjNIN2h4VnE2Z2dEWGFzTFRuWlMxbjBfSEJrZ0RGbGRnVkFTOWdGd1hFZ0VteUEtZmo1cEtsQVA5SFRVbDFVbXNuWHBHV0xCMGtqMHZHdzBhZFJWY3pxYXBhYWlSMThZU0F1TUNKWDRVWWVxQjRJa011LXdXR1NZUVh2V0R1aHo?oc=5",
+    "date": "2026-09-02T11:56:56.000Z",
+    "summary": "Palo Alto Networks vs Saviynt 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Imprivata vs Palo Alto Networks 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVdLMnlDc2dmOUIza0RLaFIxc3h5ZjNVVGE4bGRtQl9OR1FqSEdfQWtwVmhwQmVLNWdSa2w5ZUI5T0R4MktxTWc2SEFvbS1HdGt2eGhtRGFad0V5NWRZTWhHaDdUZjRacHdvU2l1ajVvenlRaUpjSnBlWWlOa19KLTRpQ0Y4ajRsbWdka2VuU2ZGOG1xZ2ZLY2IyQ0p6Y3E0OHU3NklEX21WNlE?oc=5",
+    "date": "2026-09-02T11:56:56.000Z",
+    "summary": "Imprivata vs Palo Alto Networks 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Idira Identity Security Platform Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ha0RHNDNad3NrMjlieDYtWjBSM1I4X2F3ZXB3MmZKUHNJbkgtTmRHMTAwb2pjdWR2QW90em4zZnRMMllZWEp3bXFvTWpMMTdYZ01TNVI2eTZiaENfQjlHbUo5U2hwSF9EZmVfMi1sOXRUVTF4Q2lkeUd6WWI?oc=5",
+    "date": "2026-09-02T11:54:55.000Z",
+    "summary": "Idira Identity Security Platform Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Zania Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sSGFFZjZBUHVHMHFnU1NjcGNaQ2h1c2UteXFLYjlndFV2UWN5OGpjNVpkeEFXX0tNaTZNelFXVW42R3VtYkpVYlJCckFhWjFVXzlEVGZMcWx0Y0g2eFJUUF96UFBGWXM?oc=5",
+    "date": "2026-09-02T11:54:55.000Z",
+    "summary": "Zania Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Idira Privileged Access Manager Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RTFg1dEpYOEdOdTNnMzlGNEpaMGRieG9wQTRQc002bVJVSWhMQ09oRmVPSWVfQ0hCTXpXUXZmTzhSRjBOU2p0aDJULVNPVEpxbmV5WGdLVVdyaVdlU3g5d2F0S0hxZS1NZEV4OWhGVmZFMDd5eElobnJHMA?oc=5",
+    "date": "2026-09-02T11:54:55.000Z",
+    "summary": "Idira Privileged Access Manager Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Idira Endpoint Privilege Manager Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNk13S1ozTExidFlMR3FFLVNmTTZWN1ZGdm9neDgwOWMzem9ESGlOX3FoVVhEUmNJUDVRUV9rV2d6a2pPLVNMVTFXVzloeUJsRU5lblVMS2Jvdy1GdkVjS0k3eXpwQVRDVENRQlQwUlZaakhoY0o3Vllua0E?oc=5",
+    "date": "2026-09-02T11:54:55.000Z",
+    "summary": "Idira Endpoint Privilege Manager Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Idira Certificate Manager Reviews & Ratings 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02M0tvTlZad0tUby16ZUlVQS1WNmpnLThfV0hvTG1fVmtjYmlVMmhYakFIZVZHQjYySldiLUZkZ1NXTlNJbEZoUHVWUllEYlNoeGJOMEFUM0l3QXpDd29Fa3Q0UXUwS0dsS3IwS2VHdWtVTjA?oc=5",
+    "date": "2026-09-02T11:54:54.000Z",
+    "summary": "Idira Certificate Manager Reviews & Ratings 2026  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "BeyondTrust vs Palo Alto Networks 2026 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNktTb3dGbWxXczNCT3A1UUpaU1NZVzg2SkduTXNBbUl2Z3gzQjF3UkVBQ3k0ZUY2UDVSVlRvbDRjUzZHS3JzdXZ0dUVuSlgwY1Ayd2N0VTA1NUt0b2l0b21UR3FJZlJ3TGdlaHJ4ZTVIdlRWYXhHck02M3BBUjRNMGZwb09MbHlhTlMtV2FkMU1iYnRQcUR3SXhIa3BVX3V4MmREV0tOOU1vT0psd2c?oc=5",
+    "date": "2026-09-02T11:04:28.000Z",
+    "summary": "BeyondTrust vs Palo Alto Networks 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tesla set to hold Cybercab event in Austin, Texas - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1pQS3g1R3dlOGlLUExWWTNISGVWc3pyR3c3ZnE1R2tQVktZT3I1N3JhMWpTSVBNRzNzQXhuN3dwUFp3cmgzZmp1WlNCUHZRWkpGb1B1bXVGV2c2RXV3YV9STTVZVUs1eFU3T3JFWlNTTHN3LUo2bUViQmZMWUw0MzNmb3g5bWd5MFNPTGJMYTNsYXhWRnlRdFlWSVAxblFhNVJ1WUkzU1hiZVFE?oc=5",
+    "date": "2026-09-02T10:55:34.000Z",
+    "summary": "Tesla set to hold Cybercab event in Austin, Texas  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "First Take: Anthropic Hands AI Keys to the Physical World - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52N2ZQWnQzRUJLVVd1ZERWZUl0YVA1em0yWmdxTU0ySnBVeXdNUEFuelVxbFBkaURYRlJ4blpUcE9pSUlNdXptY0Ixcko3d29qTmVhVmtEZw?oc=5",
+    "date": "2026-09-02T10:52:54.000Z",
+    "summary": "First Take: Anthropic Hands AI Keys to the Physical World  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "How AI Enables the Continuous Accounting Close - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BdmNXeFZYM2Myc1dJZlFCdW40WERnWVJRdnhhd1I2RHRodTBicXA5aEMwQmJPNU85Q2JsYlA1aF9sMHJzSHFaSmpJbndvT0g3M0NkQ0tZSQ?oc=5",
+    "date": "2026-09-02T10:52:49.000Z",
+    "summary": "How AI Enables the Continuous Accounting Close  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Chile copper thieves are thwarting security measures on mine trains - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlE5Q0VsaDJKS2N6d0RUeWktQ0FPOE1naGFvZndLd1RUMTItd19wVkRnVDNNaHQxX0dTdFZINEhlU2ZUVUFPUDZoVmhBcXpmTVI4SzZCQk1OcXhsX1FiR2pmY01LWVBTNmloNVFrT2dTaUZaUWxxb1haaXNHSUhTREZoWlZraTlDVGlDdGhJdzlZVWgwbFRYVWhrTF9ySExXY21LZTFIVHEzZUNJaWJNc2p6OXZfdkU?oc=5",
+    "date": "2026-09-02T10:43:46.000Z",
+    "summary": "Chile copper thieves are thwarting security measures on mine trains  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Sinopec extends bumper Russian oil buys, squeezing teapots, traders say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWg1bTNoVVFlMTdadHp1Ny1neHJqNWtFZ3YyUFlrOWl6S3BBNkVlTkRXODREVG1Qd21jbl95MFdpbGxFYUFWTGU5YTg2NTVmYUlaSW1pZ09zWVRKNHBsMDNfMG9BVk1xckRlNVZGVmpRWGVXZlpXUS1OZEJwS3Nsc3pNM3hxV0E2bW5jR0Zmb0tmR0hxTS0teHpVYjRRR3lUejMwX2g1MEtEaTJBLXRfcFJfd2dpclZfbzVXR3V3?oc=5",
+    "date": "2026-09-02T10:39:44.000Z",
+    "summary": "Sinopec extends bumper Russian oil buys, squeezing teapots, traders say  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Automation Selenium-SDET I - usijobs.deloitte.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjhyTG1MWWhwcVZtaWdxUDZWN3B5V0F2Y2duNnJ1UzBFcW1jdUFLYnZCcEo5S3FSQTg4ejd3ei1Mem1pcXRTWE0tNlNSSmZNS0pGSUE5UmlsR1ozODBBWGM5WEtlRHN0QldXeHg3WVI3NXE1a1o5eWFUSnZxTkZoTUFVdWxXZTY1RTFSR3gxSkZUUUxBdEd2d0tjOW9oNVRZXzVkWW9RdXUxUnQzV2pTbjEzMmdPLTZBS1dqY1RpVnNXLXVCZXc0?oc=5",
+    "date": "2026-09-02T10:03:25.000Z",
+    "summary": "Automation Selenium-SDET I  usijobs.deloitte.com"
+  },
+  {
     "source": "Semrush",
     "title": "Create an AI Brand Visibility Report [+ Template]",
     "link": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
     "date": "2026-09-02T09:33:00.000Z",
     "summary": "Pair AI share of voice, citations, and sentiment with GA4 conversions in one report leadership can act on. Free template and Semrush steps included."
+  },
+  {
+    "source": "BCG",
+    "title": "Analyst - BCG Vantage, Center for Consumer Insight in São Paulo, São Paulo, Brazil | 専門知識と洞察力 at BCG - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjZMUlp6WWRFS0F0Z2FKNUJLTnRKNG1XT3RTQjdiLThDRURBdXZqTWVoSEQ1VFRCdUFwVEZsakJ2b3kzbnR3YW5zT1RISWlFbzdsRHd2dWs2Y1UzTkZjUXhoOTg2cVRwRTJaUXhqOG1OVWlnQ05VZ1Nhc2VTSG8xa1hCU2RPcm03Uk1HX3FDUGU?oc=5",
+    "date": "2026-09-02T09:30:33.000Z",
+    "summary": "Analyst - BCG Vantage, Center for Consumer Insight in São Paulo, São Paulo, Brazil | 専門知識と洞察力 at BCG  Boston Consulting Group"
   },
   {
     "source": "Semrush",
@@ -19,6 +229,27 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRnWDZHRUN1YmY3ZFhyTVJRcmhCOVJIXzkxVHV0RnpRM0VKUFMxUU83WC1wUm1uX3g3NHN3YjBaT0JjcUpUcGE4Wi1ST1gtdDMzby0wMXhSeEJzaXdTSDhVdk1YRWtUMHJjcXFJOHhpcUc3TnM4bW9vSTl4dEZtWWlscFNsS2Y2anNYSVhuSWNkbjZhZUtmd1BnZTZsNGRydmVSd2pwSkRZVE1rTDdpQ0dmeTFaZFpCTUxv?oc=5",
     "date": "2026-09-02T08:45:36.000Z",
     "summary": "Too weak, too strict: India's food warning labels draw fire from all sides  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Associate Marketing - usijobs.deloitte.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdE1jVzVQSUFJVURjVnpKRWZGVjJ6SkdwX3dkTDdGUHYxcnpxNzFkdTUtbGNFZmZrb19OZnpxYWtXMlVhSHJNTlNRQkdWWERMQmg4MGtxcW5KZ3RFQjU4dTVYUWJTblctY2IwNjJfOTBBRG5FbElsSGw0QTlqaWNoREFjLTFHRHBYNFVjcl8zR0ZwcTFJOVI4NmhDT2tWUVFSUUlZSV81SXNUblFqbEdqaFRrQjF2M2Z6MzQ0QjBEaFZYb2dUcXJJN3BB?oc=5",
+    "date": "2026-09-02T08:32:22.000Z",
+    "summary": "Associate Marketing  usijobs.deloitte.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "How Japan's bond rout is turning the tide of global capital - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXo3bnhiY3VkSFJ2TDZLUVBrS1lYakxJQ1FXel9HS3hJQmFmN3d4c1ljaHlBd3RvelZyekRzV2w2UU9SWDJVYnpydXQ1cHplOXFWQmd4R2lwUEZSMDV4SHR2V25FUHBWWUpaSTM2SkpsdGNHRC1VSUZOeURDY1dQeERiUVJIQlZqTl9idjlBUGU5QklHOXlsRlp3MklYaHNKYzV5MUlpbmJwZw?oc=5",
+    "date": "2026-09-02T08:18:08.000Z",
+    "summary": "How Japan's bond rout is turning the tide of global capital  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Specialist - Brand, Marketing & Communication- Graphic Design - usijobs.deloitte.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZoa1RDSHdiNGlxTkFyUEV6UHBxV2w4Vlh3Vi1ib0ozalMwVmNPcmx1ZTlHX21tdnkydDlZc1YwVmc2cXVTaWstbVF4am1HUnBXaklnZUNtY3NXN2tvTkRwVjlKOTUtUDFkcDhJbVJubjJMVmhGVFdLT0oxeXAxRVVZUURVWjlzZF9yZkp0SnJwMUI3V2RRVjVSZm9WR1dNUzZBZ2FfU216V01PWHltemN3RQ?oc=5",
+    "date": "2026-09-02T07:41:17.000Z",
+    "summary": "Specialist - Brand, Marketing & Communication- Graphic Design  usijobs.deloitte.com"
   },
   {
     "source": "Gartner",
@@ -40,6 +271,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUhDUlNBV3Y5UDh4c1RYT2xySXNGLVZFb2w0d0NKcUZqSnJOcWVzNUl1VktaUUl0QXhaZlJyZXdYQjdRelpBN2hLSFhUTGg5blVlMVBYYWcycTZPNndJTzJJdXh2Tko4emJ0QkdvRG9nTXdrdUJtYm0zeFFMYVhZQUUtdEVHVERndGhPQzhVa0JVczY1cVM4bGYyTGxVaGRqODVfclJ5TTVmeklYd1UwX1AtZUhsX1VhbTF0aUpqR3FZT0xsTXhJQi1oUGNQOC1xZ2ctbi00OE1HUQ?oc=5",
     "date": "2026-09-02T04:54:23.000Z",
     "summary": "EXCLUSIVE: Honda tells suppliers to cut costs in $9 billion push to fend off China, documents show  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Risk Analytics - Manager - Databricks Job Details - EY careers",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVPODdodnNOdkFFTjZ4VF9tLU1OVmo2blFzM0pzWFVCUnpKZ1FhYXlLWmRReGRkNURZSWlma0ZHbVUySHVjOGpPSDFzcnN3NXllQ1M3U281Uml2Y2k0UTlrVW03NEtPQjgzV1ZmbGNjSXRCUXhna3dMWjlVM0V6R2hWa2phbkVOa3R1amlKOE9GMVRhSWc?oc=5",
+    "date": "2026-09-02T04:30:38.000Z",
+    "summary": "Risk Analytics - Manager - Databricks Job Details  EY careers"
   },
   {
     "source": "Reuters",
@@ -77,6 +315,13 @@
     "summary": "Why the best customer experiences win both the heart and mind  Kantar"
   },
   {
+    "source": "McKinsey",
+    "title": "Climbing higher: Securing Switzerland’s competitiveness in a changing landscape",
+    "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/climbing-higher-securing-switzerlands-competitiveness-in-a-changing-landscape",
+    "date": "2026-09-02T00:00:00.000Z",
+    "summary": "Switzerland remains one of Europe’s most attractive locations for multinationals—but attractiveness is no longer self-sustaining. The question is not whether it stays attractive, but whether it actively fosters the conditions that sustain it."
+  },
+  {
     "source": "Reuters",
     "title": "Tyson disputes claim by USDA's Rollins, says shuttered beef plants can go to any buyer - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFJMQUdIc2M5dzNmSThuSm5PdnhGQjRNb2Y2V05scndxbDROcnRYVk10d2RLZHJFbEhlczhPbFVuQ29QZW5IM0pfSl9iUVZfOWZ5di1kTVN4dlZYVVNEc1Njd2VsSUc0U3BCaXpxY3FweGFweTJOekk2Nzc1VWNiOV8zUVk1MWNwVDlkQ3Q3NWNjUkNkSWVBUHdoOHM3UHJnTHFHazMxZzlYVHl2Uk9xcWJ3UTIwc1ZHakNIS2ZIX2lBejJ3RUxQbzRGT2dscVc5eWc?oc=5",
@@ -110,6 +355,13 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamJMNVI1ZThlMnNnbFl2Tl81SXd2ckc1eGF1aS1uOU11RHFSTjh1a29pOUV6cV9VR2QtS0liSlU4YlBBbWxVQ0ZTMDlLRnlad0p0cGtXY0ozWkl2MURsM0lOdktDSFRMN1pDLUh6TEplLWtJSFY1T3hmRVVMeG1jNGc1bFVhZ2V3YTdLZ0VKRlZQWks4SXVyb09uRmJ5YllpNTdKVVFfZXk5VEg4Mmw1UTFja0hFYjZDZjFfXzhFd3pBWmxvcnljT055Zl8?oc=5",
     "date": "2026-09-01T23:03:00.000Z",
     "summary": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Novartis MS pill beats older drug in trials, boosts pipeline hopes - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXR3MVBBdGtxMGJRSVQ0NHRoOENMQUdlYWpYWndIazBDb2docE50TkRPd25ENkRqckRmVGs4ZUs4dm01R0RKUFU5dnBOdlJHYWxMa2ZSUmE5bksyYTNpRFdGQkVsRkNxSE15c0RIMF85Y0VkMExPaUJfb1hjZ2t6T18tTWpZTUYta2JMSjZDZjZHeWoyODQ2N1lQN3RWQ0lpLXlRNTlQc01qTUxBRjcwVFNDaXRMVWVtNURkUGNVSlk2bnJrd2ZhNTRLTFlZVFRWZEZ0QnNOOHk3UFdF?oc=5",
+    "date": "2026-09-01T22:44:02.000Z",
+    "summary": "Novartis MS pill beats older drug in trials, boosts pipeline hopes  Reuters"
   },
   {
     "source": "Reuters",
@@ -175,6 +427,13 @@
     "summary": "Shell deepens US convenience retail push with Tri Star Energy deal  Reuters"
   },
   {
+    "source": "Gartner",
+    "title": "First Take: Lessons From Australia on Building Domestic AI Without Buy-Local Mandates - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pMkg3eVhCT0YyM19QRGczOVM1alhJeWRTaWx5Z0c2N2UtYWN2b3hRMDhyN1FKMWJSUGdRLTdidnhrY055Rldfd0VBZXFQTGdPekFLdjY5aw?oc=5",
+    "date": "2026-09-01T19:01:19.000Z",
+    "summary": "First Take: Lessons From Australia on Building Domestic AI Without Buy-Local Mandates  Gartner"
+  },
+  {
     "source": "Reuters",
     "title": "Venezuela's assembly backs oil deal announced with U.S. - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXc4ZG9uTDdFNmdTRW00bHY3VDlpdVpOQXRtT09lQ1FmRlpZcDFJX1dKcmpxYWsxc2xCZ08wLXZWUEZsQjlmcF9vVk1zUVpnNGtHOElmdjBHOERQck1tOW5PUE9Ka0pyX2dXaDBzZ1lLT1liNVJOVFM3MHlXMmd1REtqUkhQQ0U3VHFyeW9JalY2dk5QUjd1TFJvQ2ZYbjlNY2JFV1NJdw?oc=5",
@@ -187,6 +446,13 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZi1rTnMySGRUUVM5NHpSeURYazdyX3ZkQnlQc2VfdEpxYmtZNnlqOVZNTVVUajgteWZNNjRFbmhTdVNYQ3RPZkJhWHBFMUpXZndMd0RnSXBTa2gzb2ZVUWxQWXp5aWYyRldIMXBEc0dPRlhtbmNTZ1kyci1nSy1Pdm44bkVnREtONWZybDN6VGVvb0pSOWVEdmV0bXFhOVVRaXNDWl9DYW1WT3g4aTBfanRha2taUG01c0tSMWRJZjlhSy1Ec0hFMXFnY2E?oc=5",
     "date": "2026-09-01T18:57:43.000Z",
     "summary": "Brazil eucalyptus industry faces uncertainty over delayed curbs on native wood fuel use  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Keurig Dr Pepper to sell back Chobani stake, manufacturing site for $925 million - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm?oc=5",
+    "date": "2026-09-01T18:55:03.000Z",
+    "summary": "Keurig Dr Pepper to sell back Chobani stake, manufacturing site for $925 million  Reuters"
   },
   {
     "source": "Reuters",
@@ -236,6 +502,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFhwTFNqbzdjMGpkSTQtVjVZMlk4ckE0VUlsZE9JVWJkTHZidWl6b3RzaXIxcXpZTUJQVXZkVWY0bjlaQWRYdE5WSGE4cXFvclYtLUdDaVJacnpPWTlRejdkVTBobk04QkVHQmZxQjF1bzlDeFBuVmJYYWNXM1RLZ0pBZXJ3c081cnNSODllMjlxUlU5TzlxNzRER2VwZFM4c0hGUnZtTzJtNlJ5NkNpSks3dG1ndw?oc=5",
     "date": "2026-09-01T17:52:42.000Z",
     "summary": "EY selects CrowdStrike to power the trust layer of EY.ai Value Blueprints | EY - US  EY"
+  },
+  {
+    "source": "Gartner",
+    "title": "First Take: OpenAI’s Cursor Withdrawal Signals a Shift Toward Vertically Integrated AI Coding Agents - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HVGROa3l6cmZjYmRNdFhPXzVnMVFXZkVoTEhpNTB1NVhIeUI1TWdoWjFNY0Y0RWNBNkF2UXRTeGwtYUdEdkNhSnpTX1FGRWdid25TQk1ESQ?oc=5",
+    "date": "2026-09-01T17:52:27.000Z",
+    "summary": "First Take: OpenAI’s Cursor Withdrawal Signals a Shift Toward Vertically Integrated AI Coding Agents  Gartner"
   },
   {
     "source": "Reuters",
@@ -756,6 +1029,13 @@
     "summary": "Two tankers carrying Saudi oil attacked in Strait of Hormuz  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Heat blamed for 2,149 deaths in Spain last month, data shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFZCdkRBNWZHWFBIWC0ydmU0QkRBendhRmU0NkVqNGNnbUpfNFpwbHAyc1p5cUMxWGdWb1ZiWlNjZkFhbnlndVN2bXdsNWZhdWhzTkliQ1d3OUxnR1V2S0hVN3pkZU5PcmI0eTdHSDJ4T2d3akpFTUFRUEpmekUxcjFfRVdKV0FPd2ItR2lSYU9NcnpHRW1zMldncWJodGRTMTNHaDZGSnNfOTk3?oc=5",
+    "date": "2026-09-01T12:29:13.000Z",
+    "summary": "Heat blamed for 2,149 deaths in Spain last month, data shows  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Top Anrok Alternatives & Competitors 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZEpQOUF2V0NOaHI1bTZpMk1GMm85VURFTi1xeG1ReEFoV3NleFdiQVAwZE44SFBselNFMmVITDBTSlV0UWNnRTB4OWU0OTJVcldOcmo1OGJEOXBlY1VzR3lyRjRyMzhYTGU0MVJGMmJTTmItMmtR?oc=5",
@@ -988,6 +1268,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Britain's Octopus Energy acquires Danish automated power trader BD Energy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUxEejZ6YmpqQ1VSS2FOYW03UVFUbldMLUoySFB4ZGhVWTVFak4tcXBqTk9xVDJHSUNOWVpGUklFc0pXTlNlYk45MFZ5M2xjQkJyVG1rUktseHdMcU1oc1V2NjczdFZwM3pWbHUyU3oweU9HTWpuT3VVQlJfWnFnbV80OWF4b1V6bHl1a2s2ZWFyTkt4QzRQTU9qWEZ0ZFBfcXJqUmFEOWhyV1NGWEVIcmFmWG1kWXpV?oc=5",
+    "date": "2026-09-01T06:31:06.000Z",
+    "summary": "Britain's Octopus Energy acquires Danish automated power trader BD Energy  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "India's factory growth at five-year low in August on weakening demand, PMI shows - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQld2MUc0R01oUktjSzV0bUZpS1lwYzZiZF9SZWRHdzFRQ1dFb2FnMVZXd09FS2Nyamt0azd4eHBKVFU1c016b1Z5V2swdXlmR29NV0M4ZFZTX3BjWl94bjhlYVdzd0g5OXd5UGJ5cGVtODdHOGY1Rk1naFljd2RDS2tkSkNWT3d6b0Q0T3BPa0RlYy05VEhPbjlSQUttNFZ2UVJULUpVY1lkVUFnZmRfQkpPaWhvcHl3?oc=5",
     "date": "2026-09-01T06:09:12.000Z",
@@ -1076,6 +1363,13 @@
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHX0RfRF9Rakw4eWt5QkpZUXVsbW5URnA5SThMSEpWWGpQb2VyV2xHcTZrSmduYnhoYkszSUpWSTNpR09xT2t2Z3o0aTlvcHBKNGZ5VFhjZ2hkZjctb1RXRmdwM2J5dTFhLXcwd180NnZwY29WR0dHWVZ3STQ?oc=5",
     "date": "2026-09-01T01:49:38.000Z",
     "summary": "Choose any option to start the application process for Analytics and Insights Engineer III - AI Functional Support  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Singapore's Keppel DC REIT, Keppel to buy two Tokyo data centres for $1.2 billion - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQm9kVXM3S1hYRnJKcTNTSDByejBQVzV5Nnc5TjhJQ1hTREk1aXkxWGFmbUtzeER4S0N0Y1ZveHltOE9ENXpPR1hRN1FRbVAyNVBEb0pSSGFWQmkzT2dITGFIMll6ZzVXa1dZOEE2aXBMRnpwZXRzOUM1V0V1aHp2RlZjbGhCZGJfVDIwNklxT3JKcURtYmh1SWxMU1dZa0tIcUhHOTBnUm1aNGJZcTlYMjVmaw?oc=5",
+    "date": "2026-09-01T00:57:00.000Z",
+    "summary": "Singapore's Keppel DC REIT, Keppel to buy two Tokyo data centres for $1.2 billion  Reuters"
   },
   {
     "source": "Reuters",
