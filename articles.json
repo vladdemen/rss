@@ -1,5 +1,47 @@
 [
   {
+    "source": "Forrester",
+    "title": "The Boring Truth About AI",
+    "link": "https://www.forrester.com/blogs/the-boring-truth-about-ai/",
+    "date": "2026-09-04T17:55:44.000Z",
+    "summary": "The Boring Truth About AI Everyone and their grandmother is talking about AI, and it’s just not interesting anymore. Let’s face it, once a technology topic becomes kitchen table conversation fodder, tech pros grow weary of discussing it. Yet, every vendor has a “game-changing” so"
+  },
+  {
+    "source": "Reuters",
+    "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+    "date": "2026-09-04T17:12:33.000Z",
+    "summary": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+    "date": "2026-09-04T16:44:45.000Z",
+    "summary": "Strong job gains signal Fed hike as Trump levels new rate-cut demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+    "date": "2026-09-04T16:25:46.000Z",
+    "summary": "Wall St slides after strong jobs report bolsters hawkish Fed bets  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Nigeria's Dangote seeks around $1.5 billion with refinery IPO, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
+    "date": "2026-09-04T15:15:45.000Z",
+    "summary": "EXCLUSIVE: Nigeria's Dangote seeks around $1.5 billion with refinery IPO, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: China's Xi to bring large CEO delegation on US visit, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFEycUQtWHlNWVlNdHl2S2JKX2pmMDRUYmp5V1dVN2xnWkdnOVQ2QW1VM2ZRSEdCdElaRTQ1cGlGMDkxV25PYWRfVEJJWllCRjBIVzYwZ1JjMGotd2t0YzRQQ1huRG9CNnpraXVsakw1clltekpVU1czZm9VQUhVQ3R3N2NSdEc1LTJqYWlsa3p2UGh3dWZHU0F0ek5CbEdQTUhUdGc4dVplVG5YYUxKV0xoQU9UdU9GUEZOS0dJTFZKUzg1RHRR?oc=5",
+    "date": "2026-09-04T15:15:29.000Z",
+    "summary": "EXCLUSIVE: China's Xi to bring large CEO delegation on US visit, sources say  Reuters"
+  },
+  {
     "source": "BCG",
     "title": "Foodservice Distribution Industry - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lbzRPVHEtWlZVM0pOVExrVGFJc2s3WnlJLXdyY21pSHRxU2VUbVNRd0NFNWdtdDFjOG5sZGgyNEs3ZHVsWUcyUWx3Zzg5Q1ozUkFWakhmTDVzN2N0SzBiOWFMeTFmOUJBTFdzWlFrLV9hMmFqR0NrWUxEMA?oc=5",
@@ -43,6 +85,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Malaysia declares emergency in Serian district in Sarawak state due to haze - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd182SnFNM0YycldXZWRxV2xJdGN0Q0ZQUGNjTmw2a2FqRkVVbmhvUExhdVNpcGI0UVMweW1KX1pTck56LWZOY3c0OUhKdVhZck42VHJJU3d6MFhrWS1uY0l1R1B0eGllaGNUYUVPb05Tcjk2d0VYZW1mWnZfcnF1TEV2ZXpOS2RFWmg4UVExVXZwbi1SVTJxNU4yV005LW1jcjhuNEwtNEIwR1VUUzZOR2tsa01KYWczeUE?oc=5",
+    "date": "2026-09-04T09:27:18.000Z",
+    "summary": "Malaysia declares emergency in Serian district in Sarawak state due to haze  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "European shares dip ahead of US jobs data; Volkswagen jumps - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnlFME1zSGhsaFFhNmZrMTdVMkFDaVV0RTZVSnBqdlhZOFQ2MXhpMGx0WWVFdkVOeG1KUkJJRHdLendoeVR4alo5ZHJzWVVOaGotUDl6MzBGTGplNXpaUDBjbEUxZWFuZk1ZUmVPdXAxZkpCX3NXYlMwbWZjQVZ0R0xsUWZrZTloUU1lV3NaTXYxYzVtd0hCNVJLaWVJT3ZtNUZ2UzZna3ZDSWhMWTNoRlhtRURFVE5DQWJCeGJpV2R5aF9HZ2ZpekM4aw?oc=5",
     "date": "2026-09-04T09:14:32.000Z",
@@ -78,10 +127,24 @@
   },
   {
     "source": "Reuters",
+    "title": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEh1RmFhQk5Kci13U0RvVktiWEhUdDNpOTNtVDNNRTg3WlpoMzlZaHBZOGJMcXdMNFlpRnRUeThkaWNScVBpclJWT0RnRUFxQ2xDY1NTNTNTVzBHcWhTMG5wQklVUTVLSmF4OFdKZzRPZFhfdVRvV1N3VDQ2b1l4Sl95RWhVa05sdTBPS09qck1BQk5uOGpyNTdrWnJrV3RsOVdraXhUdTRXZUxVWmZXU3RObXhndlVkM1E?oc=5",
+    "date": "2026-09-04T06:23:00.000Z",
+    "summary": "J.P. Morgan, BNP Paribas forecast December ECB rate hike as energy risks linger  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "One year after its founder's death, Armani faces challenge of 'inevitable evolution' - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXFINE9rUk9ucXlERjRKanNZdGdZcUI0aVVkTDRrMXpqUDdtcUpfNS1PYUJOWG5Yb0hBUVZBd2hBMXZFX3k1ZjZGR1cwX3FUZzh1T1BtdWdqRjF3d2hGUFRjd1U1NVdRanpPLXJKZ0k3S0xOc3ZEMS15eHdRVVpRWlhqeks1VlVhUTdBOU5sWllfTG5BWkFlRExSN2ppcXlpWVBPQUxMb053T0dWeHZBVG1lOWxkT3VMeEZsQzRmbTdCRzBZOGhkQk9MNzlFTENnVjQ5Qg?oc=5",
     "date": "2026-09-04T06:02:00.000Z",
     "summary": "One year after its founder's death, Armani faces challenge of 'inevitable evolution'  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Germany warming to UniCredit on Commerzbank seen bolstering way for European bank deals - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNktVZEh2WU9UZk5KWnJCY2hkVXE2TXdWd0tZdFRpNDh2OUh3T2lrZ1B4V091QldHWFBldXVhczJJVVVzbFFwcWhGb25YUmlOWkREQ2NvRnBGeW0wOFRpOWNtcDlKNHZ6cGhrMXZwcUZBZElTOHdQSzRxS1BTUHFJTUhYdjVDaFlMQ1dvOE1lRmJLMzBwSUNsa3ZNUTI0MldSb3ZzSTN3RENNX1AybF9BdnMzVS15Z21CN01zV2JqckxiVkVsaWVMNUln?oc=5",
+    "date": "2026-09-04T05:01:00.000Z",
+    "summary": "Germany warming to UniCredit on Commerzbank seen bolstering way for European bank deals  Reuters"
   },
   {
     "source": "Deloitte",
@@ -89,6 +152,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWVtLXh1Y1R0eDUzem1idkZTR050aHo1T1FKMGxoQVBBN3hKZ2J2dnJQY2tuUTdtQ3ZVdG1aeG1kcldoYWRzc2pTcFMzMlRMbnhVOXBIVkJ1VVNMcTNLV1ZKcnl2TktmWVhnakJJRlhLZ0ZsMzVEVDJYaWhFcU9UZDliTU9vYlY5bXBiaVRkRGtRaktpc253NzEyUElTZkR6U1hhQ0ZTaVpES0tISGhnQ3dCNHg4VjI0dHpwSHhOcw?oc=5",
     "date": "2026-09-04T04:13:47.000Z",
     "summary": "When cyber capability becomes abundant: Rethinking government cyber resilience  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "US directs Fannie Mae, Freddie Mac to approve VantageScore for all lenders - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSW9KUzFXU2JjbkROMW9DcU9Zanl0UXpOY3RYVF9DQ3pGRUNscDg5S1JYSHBoVWRYOFpVZkZVZzl1ZGVwWjkzQW5EN1RKXy0zZWx0emhNY0ZnOWM3TGlrREVnRWd4N19KaTY0dmpZWDZPZkdNRFVTQlpaa2cxWHgyX29XRGhaUzA4azhSYmNrenlKU1JCeU9wdU1OTHRUeW9BSG5pTU85cmtIWkNQdUxLbi1VdWJIR292ZjVSSQ?oc=5",
+    "date": "2026-09-04T02:42:00.000Z",
+    "summary": "US directs Fannie Mae, Freddie Mac to approve VantageScore for all lenders  Reuters"
   },
   {
     "source": "Reuters",
@@ -600,6 +670,13 @@
     "link": "https://influencermarketinghub.com/how-gimme-beauty-built-creator-strategy-product-proof/",
     "date": "2026-09-03T10:11:03.000Z",
     "summary": "Influencer Marketing Hub\nHow GIMME Beauty Built Its Creator Strategy Around Product Proof\n\nHow GIMME Beauty Built Its Creator Strategy Around Product Proof\nNadica Naceva"
+  },
+  {
+    "source": "Reuters",
+    "title": "In El Nino-hit Sri Lanka, wells run dry and farmer incomes shrink as drought deepens - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1RtTE5JRTB6Ty16SUpPVjJTYVAyWWQwbm1xcExrN3ZZQlZWLXdDUXQ5QV9ValJ4czZ1VDE4M0UteEs5dUFScUxXNWhqM3JXZU9Wc2NVczZvRHZVR0FNck9EUlRoYXVOQXM2S284TDBzbGRfUjRTTEIyTGtrRkJ4OGExcEE0ZzJZQk83Y3lxQW50N3hXQTBVbFZuNXZTMVRBSkhSQVl5eVpNRDFMR2F2OXh0bVl1T0FVam1Eb0pLSUE4eTlJWGwtODVR?oc=5",
+    "date": "2026-09-03T09:20:54.000Z",
+    "summary": "In El Nino-hit Sri Lanka, wells run dry and farmer incomes shrink as drought deepens  Reuters"
   },
   {
     "source": "Reuters",
