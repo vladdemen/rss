@@ -1,10 +1,108 @@
 [
   {
     "source": "Forrester",
+    "title": "Social Media: How 5 CPG Brands Are Winning",
+    "link": "https://www.forrester.com/blogs/social-media-how-5-cpg-brands-are-winning/",
+    "date": "2026-09-09T18:14:30.000Z",
+    "summary": "We analyzed 24 CPG brands across the digital attributes that matter most. Social media is a critical part of the consumer discovery journey, particularly as younger consumers use social platforms not only for inspiration and research but also to buy products."
+  },
+  {
+    "source": "Reuters",
+    "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+    "date": "2026-09-09T17:45:32.000Z",
+    "summary": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Apple shows off iPhone 18 Pro at start of event expected to debut folding phone - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
+    "date": "2026-09-09T17:34:21.000Z",
+    "summary": "Apple shows off iPhone 18 Pro at start of event expected to debut folding phone  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bombardier says it wants to fill 500 open US jobs despite Trump's threats - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTnRHY1gxZkhka1BzbWxvZjBMUGItUHVfT2h4OTNKQ3ExaEhTaEdJUmJfVjFnMFZGc1hkVVVKdDhXVk0yUjZXaHFaWTBMQ0hhUjRpVWF1OW5Kc1hxT0oyMS10UUEwTHJMMWREQVVtcEh0X0F4UEVTLVEwNGpXOVdWcWZuUkp3WFBzSGxyX29kSEY2SVlxcEY5TmkzaUpqSGlQMzBuWDRGYlcxRzdBOFlzb2hBRXRnc2Etd3FlbDN6ekRWRFMtY2RxZA?oc=5",
+    "date": "2026-09-09T16:33:09.000Z",
+    "summary": "Bombardier says it wants to fill 500 open US jobs despite Trump's threats  Reuters"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "YouTube Music launches Avenues 2.0 series",
+    "link": "https://blog.youtube/news-and-events/youtube-music-avenues-2-video-series/",
+    "date": "2026-09-09T16:00:00.000Z",
+    "summary": "YouTube Avenues 2.0 is a new video series hosted by Wallo267 that empowers emerging artists in underrepresented communities. Watch all four episodes now to learn how to …"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Internal Audit Insights - deloitte.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45OWIzT0Itckw0QnFYSENDMUF2bVdWRDhMNG9yUXBpaUkwNklGTEZVdVR5dmpHaExUVGlxV3RjUHN0Zm9RY2FDbk52U1RIWDg0R0RfdjA3SDhhTGo5ZU5kdGdfdXhOLVVhTHNEYVVRc3ZVZGxBYUtXbW5GMU9SQQ?oc=5",
+    "date": "2026-09-09T15:41:29.000Z",
+    "summary": "Internal Audit Insights  deloitte.com"
+  },
+  {
+    "source": "Semrush",
+    "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
+    "link": "https://www.semrush.com/blog/seoquake-relaunch/",
+    "date": "2026-09-09T15:37:00.000Z",
+    "summary": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser."
+  },
+  {
+    "source": "Reuters",
+    "title": "EU's Russian energy exit faltering, auditors say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm5Ic1I5N1Y4RHE1Q2hiZFJWcXJDcEh1aG45NTBheU56c2ZCWko0aEl5cE1qeE1KYkNhbmh1OW9zbllzY2F1VXN0eHQ1YjRqVnJ3TWxjbDRReVVMZGUteTBHaldqd0NRa0lqNzNESTctdk5ibHhVM1h5bnBxRTNtT0JGN2hxSk1EWkpjREsxd21hZjVBdXJQajBYc29PZG8?oc=5",
+    "date": "2026-09-09T15:05:43.000Z",
+    "summary": "EU's Russian energy exit faltering, auditors say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+    "date": "2026-09-09T15:03:04.000Z",
+    "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland  Reuters"
+  },
+  {
+    "source": "Forrester",
     "title": "Trustworthy AI Won’t Scale Without A New Quality Playbook: Forrester Offers One",
     "link": "https://www.forrester.com/blogs/trustworthy-ai-wont-scale-without-a-new-quality-playbook-forrester-offers-one/",
     "date": "2026-09-09T14:46:22.000Z",
     "summary": "AI Trust Starts Before Production AI-infused applications are moving into production faster than most enterprises can prove that they are safe, reliable, explainable, and even useful. That gap is now one of the biggest barriers to scaling AI. Our Forrester report, Trustworthy AI "
+  },
+  {
+    "source": "Reuters",
+    "title": "As Apple prepares to make a splash, a brief history of foldable phones - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5",
+    "date": "2026-09-09T13:59:38.000Z",
+    "summary": "As Apple prepares to make a splash, a brief history of foldable phones  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+    "date": "2026-09-09T13:56:11.000Z",
+    "summary": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "HSBC to wind down German business for transaction services, over 300 jobs to be phased out - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkVwd0NlX1ZGYTlGVXE1SnFlWG1mc3c5MGNpSzNQMzVwS2Z1a3pNNTZpaHRIelZfQnZSWGZiSWp0X3VTak5pMjdqejJudEd4SWRxSS1VbncwUkUzTnlYUDl6RGdYbzhWbUM5eHQ1Tm56ZmV4OE8waURfVTlyeURFd3JBN1RBcTRfQldOamFmdVVNcVUzQXdCakdBSk42OW5oTXJXNEc5U3lHaUkzeW9kX2UwenFaQVFaMWtMN0hnbGg3U0JMb3FDM0tFMWN3Nng3Y2MxNQ?oc=5",
+    "date": "2026-09-09T13:51:14.000Z",
+    "summary": "HSBC to wind down German business for transaction services, over 300 jobs to be phased out  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US startup Covenant to launch cruise missile production in Germany next year - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRjJfRzhHMV9oM3c1Njd6RU5lUXRYVGtkcDZQTWNaWHR5MndaejZaUGtxUl9UYWVGaW1XUHd5RF90bl9DeFZtSDBWV2hYLTVjQWtrRjlCUXVFU2RTcTJ2YnMzMjFFSmlfMU1sdnM1bWNmUXJ5WWlqa3hJWlZLYnE5Z3dCekNzQldKYm90c240T0U5d3pfZGE0U01ldFNVODM3Um13UTdXSmhkbkpHeW45Rlhrd3hoSW9SbHlTNVUyanJqMEk1YWZNR0JJSFNZZw?oc=5",
+    "date": "2026-09-09T13:37:43.000Z",
+    "summary": "US startup Covenant to launch cruise missile production in Germany next year  Reuters"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Gracenote Expands AI Product Roadmap with Sports MCP Server, Entertainment SLM and Agents - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVUNWWFpUUkJ0S2Joa2E0eDVsS21VWU10MnJ1Z0xJejNvSjVFZHJZUXZwTU5fbllJM2dBbXAxUGV3RXRMZFc2Qm9sck9STGw2TmFBQlM2a3RYcjJNSFVoS2VxT1pMSGFTMTZoZWxCWlR0OEk1NTRQZ092dk03RUNjVkR6YTZCd0lWbUlsMjdfdzRuM3JFM2VOMFRYVE1uWEJPOFJFczBfNV9tZ19mOU1nX19nUTQ5TktYYzhBNXV0aTBpdndNUVpVOElB?oc=5",
+    "date": "2026-09-09T13:31:56.000Z",
+    "summary": "Gracenote Expands AI Product Roadmap with Sports MCP Server, Entertainment SLM and Agents  Nielsen"
   },
   {
     "source": "HubSpot",
@@ -14,11 +112,53 @@
     "summary": "Learning how to optimize your website for AI search is one of the hottest skills for marketers right now, because the audience for these tools is growing fast. Monthly unique visitors to the major answer engines climbed from 634 million in Q1 2025 to 904 million in Q1 2026, up mo"
   },
   {
+    "source": "Reuters",
+    "title": "Italian lobby group calls for 80% EU tariff on Chinese cars and parts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlZ2MktQbjhiWXRadENxOHR4TWdsTUlDRE53ZTd3NEtqbkhBTURLUjRia0Y0N3RfUEZNcFJPbnoycmFfMkpnNFJ6cE82bTdjaTI2bEU1YnVlRXRjWVNYbzJReWNOTTFWNTRBcGdDdWF0c0NZdzhUcjYzdnJ6bjNXZVVlamQtMmtjcTNuMDZKM3Z3ck12Q2dPaEF6WUhFdlVQZXJMbGw5OXdOUkIyckF3ZFVRMVlKNXU4M3c?oc=5",
+    "date": "2026-09-09T11:42:21.000Z",
+    "summary": "Italian lobby group calls for 80% EU tariff on Chinese cars and parts  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Angola's ANPG, ExxonMobil and Block 15 partners announce new offshore discovery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdk9FWjRyUUFZX0xxSTdFS2tpZ2JnUHYwMkFwQ3VwVFVGZzduV3VYb2ZrU2hCYjQ2YTZmaEh6SDU3T1RNODJNN21BX29Ldk1zUlA1MzVkZjVhQnd0SExTWklsaU5TN1ZiaVJxWW14U0JkSmhOTkFjeVJGRjBtUVNFVm1MNkd6T3NLdkYxdGxUUGI3WTRRRnpncmJPQy1jbXBTdnB6Ry1FMzIzSUk3SDJIYXdmdkpsZG1xVlFFUmFaZ3EyUjQ?oc=5",
+    "date": "2026-09-09T11:29:48.000Z",
+    "summary": "Angola's ANPG, ExxonMobil and Block 15 partners announce new offshore discovery  Reuters"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Nielsen launches CTV Ad spend data into its Italian Ad Intel product - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1ZzWXlEbm9kY0lDTXJjT2wydE1CNGhwRHo1SjdnMUY3Z1ZTWDZiaV9yeEhYWGU4NEdmSGNSWDVDSmFxa2JMeUxDWHozTkdHRE5rQzFEMm4wMDJJamJuUGJtbk5zaVNkcFNBMmp6YWJMalhBQVltSnZMd1E2V3pZZ2lQM2NFY2IwMy01blVqNmZqT0ZMY1pTenJqRDF0SEI0RWgycUxmN3NIemliWTlj?oc=5",
+    "date": "2026-09-09T11:16:23.000Z",
+    "summary": "Nielsen launches CTV Ad spend data into its Italian Ad Intel product  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "One dies in wildfire as Turkey continues containment effort - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnNObk9ndDhzNE5NSjVJQ3RpY1Fzd0FibmhuaTNhS0l5UmVlenUzUC1rX3F5SGdTa0s1aF9fZmlXMHhtVVVqcU1tNE43Ynotb2psdGdURWZxN2pqTUdONDNrWldOR2xvcGljLXEtZ21HNU5GTmRxZVhCVUZ4VERJVDFPdERCVmYzbmxyOElLeEhmd3N5endDLUhacWpEY09qUXQyMkN1ZzVYZnVnQ0U4?oc=5",
+    "date": "2026-09-09T10:37:20.000Z",
+    "summary": "One dies in wildfire as Turkey continues containment effort  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Specialist Assistant Manager - Talent Acquisition - Business Recruiting Coordination - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdGRLRTJEcHlTeDVycXVZamxSa3lQcHVvNzFvU0pWdGhzNmtzSkxzVS1yd29yc0JCUUVFYUtmVWJKQ3dfT2l5RkFmcGRKLXBXdDRobnZkQ2JBV1hxMVZIYm94WWRsWGM2NGJHYUtLeXh2dWpWZjh0aENZeHp2NTV1X3VNZ05tQlhCSEowRmMwd3ZGY0dEZjlWNEFYcmJwcVZOTVFBVmI2aDhyeDBrVERlSHA0SlEyeVA5Y09kRDEzbmNNRDg2QVlRV2ZOM2tYYTFzTjk2amFXOHNDaVotSkVPMmJhZFNDNDdCNm9DZFNxXzhlRzRM?oc=5",
+    "date": "2026-09-09T10:35:12.000Z",
+    "summary": "Specialist Assistant Manager - Talent Acquisition - Business Recruiting Coordination - Hyderabad  Deloitte"
+  },
+  {
     "source": "Forrester",
     "title": "Banks Are Building Private Foundation Models, But The Model Is Not The Moat",
     "link": "https://www.forrester.com/blogs/banks-are-building-private-foundation-models-but-the-model-is-not-the-moat/",
     "date": "2026-09-09T10:06:30.000Z",
     "summary": "Discover why financial institutions are using transaction foundation models and proprietary data to build a lasting AI advantage."
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
+    "date": "2026-09-09T10:00:09.000Z",
+    "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country  Reuters"
   },
   {
     "source": "Semrush",
@@ -40,6 +180,27 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZE5kcjA3d1MxbDhjSmJWd3U4N25rQ1dOMWZYVTl3T1BVZ3BIY2hLX1N4YkZpWmYtTS1Nc3BqUWxZOUlRaGVIRDRTancxU0hMMldsYURpRlQ3RF83R2hBODk2Nk03WG5HYUxTNE9zVHhTZ0FhQXpqeEk4N0d1dHFudXlRVkJ1b1hONnJmY2lKcHNHcG42a1RubllfZXZhOUdMUFgtUTFpY29FYm94RGNIeDIteUhZX1Z2VlJPWmptV1dwSnRfZ2xOdVpnM0JVS2xOQnhKZmNaYU0?oc=5",
     "date": "2026-09-09T09:12:41.000Z",
     "summary": "Silicon Valley-backed Covenant unveils low-cost, mass-producible cruise missile  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Senior Services Support Associate - Talent Acquisition - Business Recruiting Coordination - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQnh3eUNERkxXNmQzam82TXdsbVdsbU03REZaWTY1dm9ZZXRkcTl5eDlIalB4RzlGUE9Pd3RHY2ZVYzdubHF3TmdScGdtMGtLN091c1dCV3pPQ2taWlBfWm4tT0REX0ZheWRnbTRtR1ZjeE9GdmFnb1NjaU9ocVlSZ3lldnpfMEdxbW1WeE9QRzlBZjMwS0k4ZS1ISXZzLVZSa29SdE9RVXFTaWRQY2NucVl6VjdZa3QxcXpESVZfeHVBWkZQV2tjTFE4emVlc194NXR6akJkdjJyaGI1eWcyQ2ZiaG02VGQ0MnF6VGkxWmtUUGotTGg3RExFZw?oc=5",
+    "date": "2026-09-09T08:42:39.000Z",
+    "summary": "Senior Services Support Associate - Talent Acquisition - Business Recruiting Coordination - Hyderabad  Deloitte"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Services Support Associate II - Talent Acquisition - Business Recruiting Coordination - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2V4dWdHRndNS25HSWx5T01rRG1QWktqTW1EdFdBUko5UTB4Mlg1RUVSTkQxRG1JWlFlM2pqX1NQSWNHaG1xempFaFhLMkhobTFnRldOTGNZZ3BiTkNyRElPdW93SGd1Y0RNYm1GbndtSkZ0aUwyUXVJUDdGYm1SMjdZOXF6WmozbElPY3FObG9EN2thVmtTZnBlUUlwcXVpUjB5d3BpUnoyTlNNYktRN05HY2s4TVBpbjZfbDRScl9yLUF6ZlhYYU4xQUUxMGRHVU4tTmFvZi1GTi0zRndVZjY2aC12aGdlbFhNN01tT1lGTmtheEE?oc=5",
+    "date": "2026-09-09T08:40:39.000Z",
+    "summary": "Services Support Associate II - Talent Acquisition - Business Recruiting Coordination - Hyderabad  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nagoya mayor rules out Asian Games disruption after flood forces evacuation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjBibmdoMHl0U1kwN1BGbl95eTJkNUtuY0tTaHl4ay1MYVVEYVN6QjhCTjNXYkRXTjRoaVB2eUlGbXlVa3JsQnBna1ZwUW85M0NfenMxN09DOXBNdnBkcFBmbE91UVNENUtoblNZRnAzZGFvTkFyQXVUdGVlTWNMaGRDeHUzOTJkaHpBMUNET1Q5UjdrcW5Md25CdWdQT25QOW0waGo1YTluYVJwcWdldzlNRDI4Y0pEYkd0S2h6QWZjdFpkdXB3RFVPSVo?oc=5",
+    "date": "2026-09-09T08:00:44.000Z",
+    "summary": "Nagoya mayor rules out Asian Games disruption after flood forces evacuation  Reuters"
   },
   {
     "source": "Gartner",
@@ -92,6 +253,20 @@
   },
   {
     "source": "Reuters",
+    "title": "Morning Bid: $100 Brent in sight, yen defies gravity - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZExCdjRUZTV3SXBlS3pmdE81QndXdmxLbGpXVDdKOEVVNVJfUF9xTDB2T3pWMlFDR3hsMi1TaGJaN1FUMXhWZkExbEd2Q19jdmNiLS0wR3RzSzg5MHNmRURCNVZpLVhsd0FQQjFwUjRRc0ZTbER0THlSY2tnYVU?oc=5",
+    "date": "2026-09-09T04:32:00.000Z",
+    "summary": "Morning Bid: $100 Brent in sight, yen defies gravity  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Petrovietnam, KEPCO step up talks on nuclear power project - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGplMjFnTjdPazdFSDcxQW5MMWwtOUZ1LUVxd0diUTdINkFGMzVCaW9IVEx3MlV3YVB3MXJRTWFFT1E2S3hyencyWVYxYy00WlBVRHRpSkM0TGVrWGJ0SC0wQkFENS02ODMxZmUzc1c0ZUhhQkF0YkttM05sZ19jQktJRUV6aDR0UUFzVFNZNG94eGpHREdvMHhYMG1Qb2xzbWhVLUJGWDdLUQ?oc=5",
+    "date": "2026-09-09T02:56:00.000Z",
+    "summary": "Petrovietnam, KEPCO step up talks on nuclear power project  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
     "date": "2026-09-09T02:28:22.000Z",
@@ -141,6 +316,13 @@
   },
   {
     "source": "Deloitte",
+    "title": "Global Human Capital Trends archive - deloitte.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGlSZk9qUUVHV1dwZDVILWF4WGNXUzF6b1FGdklnOVR4RUZ3d01OdHNwZ2Y1NmVRTEpUM3hubU9OV1hqWXBBRnViTWo1N3RCSmlOdW1ZZncyNS02V0xyakwyQ3U4VElMeldYTlZaazZNMElYZVpURDQtd25vSHl4Wkd5eFNaN25OVHZWUWJTX0FVYS1TSFZPRTl4OEI5RFpzYndUUTBDSl9vRFlxMU5sTEJ3?oc=5",
+    "date": "2026-09-09T00:57:20.000Z",
+    "summary": "Global Human Capital Trends archive  deloitte.com"
+  },
+  {
+    "source": "Deloitte",
     "title": "Staying relevant in a world that won’t sit still - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGxfaFFhQ0F4MEE5dTBOVGxNSE9OVjZ6R3A5a3hqVE1wNWh5d3BubW9MdU9SYm5rWVJBN09CbFl1U3UtblNRZC1kcFo2akJrUzhyemk4VkhVelZWRVlzMUFwZ0h6aUdaVjhmdUdlOHVQME11bU9TWlRRT3hoek8yZXlRWHI2N2N6dGk4ODJLdGdKcTlSZE11QmtTczkyTzRiNmM0LXBvMy1QTmhLcXJTY0YzbGhXUm9jc0xVLQ?oc=5",
     "date": "2026-09-09T00:55:45.000Z",
@@ -152,6 +334,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5",
     "date": "2026-09-09T00:43:57.000Z",
     "summary": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Building profitable EVs: Ten structural design moves to cut material costs",
+    "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs",
+    "date": "2026-09-09T00:00:00.000Z",
+    "summary": "With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance."
   },
   {
     "source": "McKinsey",
@@ -229,6 +418,13 @@
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc3RSMXdaTmxxTDNCdXFhd2RWRzhaV1o4OVhfZS1tYXhPY3djeGNWbDlXREVIVVpteXJHTEJBakk1aHFqMFNZUDRHUkN6WERUSmc2RHo3NVFTb25HS3NKOElhRVhaUHJmQWUtekxzdTc5dGRNaGVKeWZJanlwbi1zNnBSTkR3WmEyQXlxQUN1N3ZpN0xtVUdLejZfcDNPUmRJQTU2RzdOTkxNbGRNcGlqT05OV19vaHlZSzk4alpvOGVDSUY3dDVPZU9BNlJ0cDVXUDlfM3V1bkdZYzZvLXAyYUctdFBpRUNVaEZuWTYwTjJxZw?oc=5",
     "date": "2026-09-08T21:17:47.000Z",
     "summary": "ConvergeSPORTS - Technical Product Manager - Analytics & Insights - Innovation_Delivery_Transformation  apply.deloitte.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defence chief says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbl9tbUR6b3BGWjVMaGtvUGtLeFVKNmpQckk0VDE2djhfTV8wNVREU2VKYUY3MEtHaUVLRlNwQUxrYzkxRjJRVmFNa0hJdHRzZ0tNa2pqUFo4endxQWpFR3REVG1pNTF2VE1KQW1kdkRzX054dmdZS3BpdW4xakJ6ejY0LWE2YzdJVm53WVFBVGRCcm5VeUowTFpoNVVzWFRBMWlOWmEzT1JwYzlNRHdEcVN3V3J2eTJjcGdsY3N3aXNESk02Q2NmRFlhMm9BLVgtMnR3?oc=5",
+    "date": "2026-09-08T20:59:00.000Z",
+    "summary": "Ukraine contracting around 1,000 Patriot missiles from allies, defence chief says  Reuters"
   },
   {
     "source": "Reuters",
@@ -371,6 +567,13 @@
     "summary": "Check out this job at Deloitte, Consultative Offerings - Senior Consultant - Functional & Operations Strategy  Deloitte"
   },
   {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Agentic AI Engineer - Anthropic/Claude - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnA5Y1hiYXRReVNjZlRVcVdKemIzMEJXY015WjFUMzNldlZhZkxxRm93QlVLd0dUVGtobnlHYjRPNEk0VDJqNjdTTW9Bd09rQmFqOG1VNXdVcFozSHRTUDlXd0N0Y09ocHlPZk5IYkRMMGtyUFg0MEdBVHNiOC1UeUtHUk9vNXZQMFl2ZWRaUXE2OWYzb0xsYTBn?oc=5",
+    "date": "2026-09-08T17:17:20.000Z",
+    "summary": "Check out this job at Deloitte, Agentic AI Engineer - Anthropic/Claude  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Consumers more worried about personal finances and jobs, New York Fed report shows - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMTJHeXY1WWRiVXhNYkFVY01lNmZFR2FWZy1LbVZkczdzZzB4Z2NKRVlabHZmR2tQT3l1b2YyWXpLYWZfX0h3Ynl6Sm4tNGVtWUY2V0JHSGJJVHVEbVdyc1NRSl9IS3FHWGpaTmZBNU5kZTFYM2ZUczk0MWpjRUhtckZ6UVR6UURpVEk5QzNFc3pGYVNxOGZjcE9zVEMyQkw4YWh4VXhyVDV3NWMwYloyRTFGT05GRkxrUDlIV00yaw?oc=5",
@@ -411,6 +614,13 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHNubDc4UW1FRnNvVkh2WFF0U1lEM09uNmlraEtqMWxubHlJcEVqa2twTEE1VHpfdzJINkdMWjB0MFlzZk5oQ0txZ01OWS1BTGtOV2w0dnBJRGlaSXFkZjE5eEVMLTJWZEszSUZTOTdVaVQtaTBIZk1KbmVOOUVOWUNibUtHV044d3I4SEs4UEZtRmFmQnNKbjBRUkExcmNPMTNuYTZn?oc=5",
     "date": "2026-09-08T16:20:45.000Z",
     "summary": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Czech billionaire PM Babis under scrutiny again as EU halts payments - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1BHV3J3Ym1QdGhoNFloamV4ZzlXWmZPYi1zaGNSaUJEZFprcmJPMVdXRjVMZzNDNUFSbVptMU1hVWdYcnNaLUlKeVRoNm9WREVaQXA1bHZTTDAwbDlpNTVkSnFJWHJtT0VBVEV2WWVqc2dfRGNUVGFxTzlVWnlhU0pJWU9RQ0hTVnF6aHZfXzd2NGROWnZrTGYyc2RSZUpnNEktZDlPWXhZNS1yeUx3?oc=5",
+    "date": "2026-09-08T16:19:56.000Z",
+    "summary": "Czech billionaire PM Babis under scrutiny again as EU halts payments  Reuters"
   },
   {
     "source": "Reuters",
@@ -572,6 +782,13 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkQyZERqYnVfdnBjajUtTFJ6OE1YT3dZbkhfRHU0MHdRb003eFVnQjJpWHYwekJaR0NSLUdGWDVKZ0pVRzJZLXpXdjRmM2V2SVNpeVByQ3RsOHN6SEUxaV80WHFxZHp2bEJfS3hLUHFvbl9ENkFTWjZnWktvTzktOVk5enBfWkdMVFJldTJn?oc=5",
     "date": "2026-09-08T12:48:12.000Z",
     "summary": "Five spots to watch as the bond market creeps up on 5%  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Security Analyst Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3Q2al9sb2h6cEpNTDUxamJmbERUT2k3RDhQejdZTHZxV05sZ3UxOVo1RWRHM3Fvdmd5OUx1VmphQW9NOXE4WDRnR1FFTFNlR1Z6YWRubk16OVo5bkFWVHFCR1c2ajg4eHpFVURYMHhjaVJka1FadlNIR21ZalJ3aGQwMWo?oc=5",
+    "date": "2026-09-08T12:42:57.000Z",
+    "summary": "Security Analyst Job Details  EY Careers"
   },
   {
     "source": "Reuters",
