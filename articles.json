@@ -1,5 +1,33 @@
 [
   {
+    "source": "Reuters",
+    "title": "Oracle rises as AI-fueled backlog growth deflects spending worries - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJSSTdqOGtkTkZWLU1xNDNtZEtldTd2QnU0Vy1iR0w1dGl1bVJEdXBDbWNxeWVZR1ZnemZRSEFVT1B0UVhqVEF1dEl4cUN1MkQ1U1N2SFFSRUpKeW5FT2pNUXF6ZUgtRmFBTDExR0MzVW85S1k1OWpzYmNhNHM3d2pwREVQOGVMWlAwZXFPcW1HOERNZzIydFhseWEyUFNWUUthSXdHaWlReVMtbU1LMDJB?oc=5",
+    "date": "2026-09-11T14:00:26.000Z",
+    "summary": "Oracle rises as AI-fueled backlog growth deflects spending worries  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "AI Is Reshaping How Consumers Seek Financial Guidance",
+    "link": "https://www.forrester.com/blogs/ai-is-reshaping-how-consumers-seek-financial-guidance/",
+    "date": "2026-09-11T13:01:53.000Z",
+    "summary": "As consumers turn to AI for personal finance, trust becomes the key differentiator of financial guidance."
+  },
+  {
+    "source": "Bain",
+    "title": "Make Better. Sell Better. Protect Better: How Sustainable AI Creates Value - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3g4bkhCbzFIUTZjMTFialVROUVhc0l4TldFaXVXeWdtaklZSFdMeEVKUW9RUVktVHl6LVlpSU9DUW1qVU9JZjd3Q2t3MmhTR1dUejA5R1Y2OHcxNzdCZHZGaGUtQzVMZzM5QzA4akJmUmpDcXJDM2NTZHFodm11WW15ZzlwYVNJa010bjNUWDI3SkltYTBOQ1ZmaDREWFNOZm4tQWdtYUVDR2dlTndQbWxhcUktMC1wTTZoM0VhWUs1S1RaRC11aEFJVzd1UQ?oc=5",
+    "date": "2026-09-11T12:55:55.000Z",
+    "summary": "Make Better. Sell Better. Protect Better: How Sustainable AI Creates Value  Bain & Company"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Microservices JAVA with AWS-Software Engineer II - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd3Z1ZnNUdjR4ZzJtZHJwMnh5b3I5R0ltcEE0enRsTWJ5ZmdEX2VEdE9YSkg0WG5XQzV6cW52cHlOcTJ6N1BCNUFNUWFXbGJxSUdLaGR3dDVOZTVxNG0tY2M4emdHckpuMjlZN1FIRFlCazYtSTF3YW16ZlhQRFY1X1lJWWdCQ2p3Zy01Q2oxQ3NBRUNEVEhnVDNwTlhLLURZbnR1Y0JDRzFISHoyYm8zbnRINE0xaGNJaVN6eDA1UXVJbnVrdUV3aGwwS3JLdlplWDFjcUo1aWhKU3d4SXNPWmVTMTlFS1VVbmc?oc=5",
+    "date": "2026-09-11T10:13:09.000Z",
+    "summary": "Microservices JAVA with AWS-Software Engineer II  Deloitte"
+  },
+  {
     "source": "Semrush",
     "title": "What is zero-click marketing? How to execute and measure it",
     "link": "https://www.semrush.com/blog/zero-click-marketing/",
@@ -12,6 +40,27 @@
     "link": "https://www.forrester.com/blogs/how-leading-organizations-are-rethinking-b2b-event-strategy/",
     "date": "2026-09-11T09:59:41.000Z",
     "summary": "B2B event teams are operating under increasing pressure. Budgets remain constrained. Audience expectations continue to rise. CMOs want clearer evidence that events contribute to business impact. Yet not all event programs respond in the same way. Our analysis of Forrester’s 2026 "
+  },
+  {
+    "source": "EY",
+    "title": "What’s next for physical AI: insights, macro trends and projections - EY",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWJ2cmlRaGhNajVHVWx4QkFCZmtZU24weF81RUtXTHZ3UVdYa0RlRjhfaE1KY3ptQlNOOWxSSkE5SnRQS1Bfc1hwd1d3Y0ZkczRpZ0p0WThyWkd3NTlMbDF1VlRUZlF2Y3p1aDB5N2FpNE01dmo4R0FaSmQtTm9DYUQzTldRMmNCTmZrY2lmR1M2MGFNa25iMWNTYWYta3ROZnVRckFQQzU3STZPNU56UWd3?oc=5",
+    "date": "2026-09-11T09:38:41.000Z",
+    "summary": "What’s next for physical AI: insights, macro trends and projections  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australian shares slump to two-month low as miners fall - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjB6ZloweGtOSkxrQ1dna2U1YXlpMWkwcDI2b003VHFVODMtd3RVQnJYcWVxUGhqRThyUkxHc2VXOXJfZ0VzbnJWNnZ2QnQtcVNENnJEMXlreUNkeGh0dmw3N2hqcWhMQWc3eFV4UnVhTWlFTVBZUEZtQ0IyUGVhOFFPR1FWbFF5Y0NpMjkxMTJ6VGRCdFR0dDU5cWJWd2pabGhOSQ?oc=5",
+    "date": "2026-09-11T07:49:43.000Z",
+    "summary": "Australian shares slump to two-month low as miners fall  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Zara owner Inditex looks to US for next phase of growth - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0NPcWJpT2N3UmZwdnYtVlNKSkVFT0Q3U2VHbzdhU1Z6a3lpbjB4M0MxX00wUjljd3AwR1dRVEFHX091NkRQcHNEQ3cyYkFfWnZpdDdQcGhjZ3psZG5YYzlKSnNiZmhhbEhlcmRQQ0M5NFVEWUdFS3VRQkM5VzhYNDdOUUNFMmRIQXEyNHNtSUZXcFNPN2F2Zm9wM25NYWQ0cUhnOEU5cExTUQ?oc=5",
+    "date": "2026-09-11T06:38:00.000Z",
+    "summary": "Zara owner Inditex looks to US for next phase of growth  Reuters"
   },
   {
     "source": "Reuters",
@@ -35,6 +84,13 @@
     "summary": "Next 9/11 shock might be being planned where we're not looking, UK's MI5 chief says  Reuters"
   },
   {
+    "source": "BCG",
+    "title": "LAB Performance Insights Manager in London, United Kingdom | 人事 at BCG - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IbmtUdW1WNXRjd0djeVNqaHk1bHR2LWEzVW5qN0l2R2o2NGhBdU02Z0JDM3BoXzJFV1hfYXlBNFNGOVBmQ1gySmVLTXV4S2E0U1NkZWhlQjVrQXlkWXlMM3RsbGxfNldYbUQ1dWFlM0RoM3gyM0lDM2p5bno?oc=5",
+    "date": "2026-09-11T02:44:43.000Z",
+    "summary": "LAB Performance Insights Manager in London, United Kingdom | 人事 at BCG  Boston Consulting Group"
+  },
+  {
     "source": "Reuters",
     "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5",
@@ -54,6 +110,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3lYbi1PU1ZWSkRsT3B5ZXRnRlpEejB6SFJMbC1Pb0xBaHBzVGRvTDRWQXVwdWFXelRkZGlSbURfdkl3NTNQdXFfZEhLSzRTOGZoaUd3dVFwaTQwanNleHczQi01RTRJejJGZ2ZnZWlSQVBkbk1PMlNjb3FfdHloclZxNUczLWl5U0Z2R294RjBGaTNEenVfaTFnaFFFVmZuRm9Jbg?oc=5",
     "date": "2026-09-11T00:45:00.000Z",
     "summary": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce  Bain & Company"
+  },
+  {
+    "source": "McKinsey",
+    "title": "The future of US manufacturing",
+    "link": "https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-us-manufacturing",
+    "date": "2026-09-11T00:00:00.000Z",
+    "summary": "A quarter of America’s manufactured imports face critical trade dependencies. Strengthening US manufacturing will depend not only on capital but also on talent, energy, and resilient supplier networks."
   },
   {
     "source": "McKinsey",
@@ -210,6 +273,13 @@
     "summary": "Discover Our Roles  Edelman"
   },
   {
+    "source": "Reuters",
+    "title": "US FAA head meets with airline CEOS on plan to cut flight delays - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlF5T2J1MzFxY0JLZzdyV0lHWTRZUzBVOWN4QjI1by1yWWFMX3BWV0V5eUlWYjNjMDhCa1ptUG1QanJmN3JqaHM2MWtHQWdaZE40Sngwa1U3RFNjODFmdkgyUFdmMDVsV2I3N0U2a3h2VU1ydHpBRFVDbTN5Tmd2ZHdzaDBVWlRUbjlqYldXVGdwR2Q0SDFPNlBRZHJfTGczZ1Vwckln?oc=5",
+    "date": "2026-09-10T18:45:31.000Z",
+    "summary": "US FAA head meets with airline CEOS on plan to cut flight delays  Reuters"
+  },
+  {
     "source": "Nielsen",
     "title": "78th Primetime Emmy Awards: Most-Watched Nominated Titles - nielsen.com",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FTEFGa09LR0dCLTBQTUlVRGV4c1ZpOTFSSEU1WHlYbnc3b1c5WThjbldSU24wY3B6ZDBvbnBUWjhZWDBMeDQ3OXMzN0VMT3NyQUZzV2J6WW56UXZhbFdSUXN3Rkg0MnJp?oc=5",
@@ -229,6 +299,13 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3VkT2E1dEJFUUo5OW9VQlU1SjlaeGhleXNuQmlyUkZKQnp2VFBsNlQxNkdWdWI2dHc0VUwtbGFlMHZzU3VJOXpUbmVFeWlITjlxN2Q0ZHllTTlWbThlSDZRZXB0cHNHaGRzanJlSjB2Q0RBNVVXQkpmTG5ZOThYQ0pGM3g5QTJDUEl6R05NeE0xMGJQbE1KRVRiWG9DajE2YkNnR1IwSmo4Y3VkLS1v?oc=5",
     "date": "2026-09-10T18:15:36.000Z",
     "summary": "UAE to invest €40 billion in Germany amid slew of business deals  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ghana is drafting wage, tender floors for mining contractors, official says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTRjUFotRmNBTTRLZjZMMjBQc2c4dFp6b0pwcHZ0X0xYcEN2NjdwNG1hMDVsUU9EMk56cDEtZDlNM3B1djdNejl6MVY3QlZiRGtXX1ZLYno0ZlZnSWpyQXNYOTV5aWxRQzJWNHEwSzlmbUJkMXdhdExfTzBtT1JibG5OX2c3NEdlZmlpMFJvdDNWMlh3UkRQX2hCNFU5cnVqVUpVby1Pd0duVS1rR29rLWhQVXBfR3RQMHR5dUt4YXZpbjI5eUcw?oc=5",
+    "date": "2026-09-10T18:10:37.000Z",
+    "summary": "Ghana is drafting wage, tender floors for mining contractors, official says  Reuters"
   },
   {
     "source": "Reuters",
@@ -544,6 +621,13 @@
     "link": "https://influencermarketinghub.com/how-murphys-naturals-built-influencer-strategy-outdoor-life/",
     "date": "2026-09-10T10:56:05.000Z",
     "summary": "Influencer Marketing Hub\nHow Murphy’s Naturals Built Its Influencer Strategy Around Outdoor Life\n\nHow Murphy’s Naturals Built Its Influencer Strategy Around Outdoor Life\nNadica Naceva"
+  },
+  {
+    "source": "Reuters",
+    "title": "Sterling holds steady against euro ahead of ECB decision - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzZzbkd0UGFfejJRWDk1Q0s5UEJNWk5sc09IenJTd183YkhoWWJEMWNnM3VHWS1ITlVPSUI0TDhIc3c5MkUzODJpY1JtbU5objNjV3dCRXVvZWZrT0Z0UHVxWE40WEMxblp2TTB2T2RNU2lUX3h1V0lrOHVyUTRCSHg0TzNnd3ZGb2oxNUpTS3E3RkJFMEdvMmdiTzdnLXc?oc=5",
+    "date": "2026-09-10T10:50:15.000Z",
+    "summary": "Sterling holds steady against euro ahead of ECB decision  Reuters"
   },
   {
     "source": "Reuters",
