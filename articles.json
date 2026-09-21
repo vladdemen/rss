@@ -1,10 +1,73 @@
 [
   {
+    "source": "Semrush",
+    "title": "AI citation outreach: a Semrush & Claude workflow",
+    "link": "https://www.semrush.com/blog/ai-citation-outreach/",
+    "date": "2026-09-21T09:49:00.000Z",
+    "summary": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages."
+  },
+  {
+    "source": "Reuters",
+    "title": "German auto workers stage protests as Volkswagen profit warning rocks sector - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbERrR3paS0tzd3Q2LWVEendteThyV0dSeF9qQk9rbUZUY3EzMFE1WjhNV2E5b1JCNjBBaU4wNEx5WWtrS2NtRjJQTGNQT2ZKWm1Pd3NVbWtKMEZaR195Rjl3cGZJRkNXY0hZZ1BJR081anZDSmpFazJvQzA0cU1TRmpBS19EVjZpWWdqQWRIOFFUREtTMnZ3Y3lRelYwbTN6WGJFMGxjUlBsWTJWSHc?oc=5",
+    "date": "2026-09-21T09:47:53.000Z",
+    "summary": "German auto workers stage protests as Volkswagen profit warning rocks sector  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VXY2VHUTI3azdKbTBoSlhXcmFJZjhmMzVpVnVReEFwdlpUTlZFSElhSVNURlpSRFcyZVczOTRZaWFSRS11NDhwZXVhdVZFSXBTckpxc3JjclBkRTl1T1VEQXQ1R09mZGpWRFNGdnRmM1BJcmMwOHhBbHhCeklTY0ZKZ1o5Ni1ucWdFekhHYUVRa0JpbUxqWGxnQlJ6ZVdqbnNqNFhFTklrYzRKNktNWk9jU2lVc2NKYjdnUGdNS19iZkZDQ2tsalJ3VQ?oc=5",
+    "date": "2026-09-21T09:47:49.000Z",
+    "summary": "Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St futures rise as AI stocks gain, oil prices slide - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+    "date": "2026-09-21T09:42:13.000Z",
+    "summary": "Wall St futures rise as AI stocks gain, oil prices slide  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Managed Services Engineer II-Fullstack Java-Hyderabad/Bengaluru - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaVNqZXhHSDMxd29HeTBtTW9RYVd4R29FZVZrTHBOcGZfcGlMd2drR0Y4TWxuWVRhSEdPTklhd2JFNlVMbDdYUS1oRmU2WmpUSlo4RFRQQzB4NDYyUjVTSjdIUEZ2VmhXSnJKalktWDNSSHN2ajFCWGd5TUJyS3JGWXp5bXRaNm1sYmRjU2RrNGQ0Q3EtV2dRdmNHVHNCRS14RV9WWC04Q0pXVEE1eVVDOWg2cEhWY0hxZFdYcTRQZDZSdmh4TGhTWlpjbG5jS1NSNmhNSFl1aTNWaFVhLXNSV1g0QQ?oc=5",
+    "date": "2026-09-21T08:40:58.000Z",
+    "summary": "Managed Services Engineer II-Fullstack Java-Hyderabad/Bengaluru  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trafigura launches Volare tanker arm, plans Oslo listing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmpETzRmZnpTN05za3BiMHJMNXhiQ3RkUUJ5ZDhCdjBLa2wzQmh0ZVRHZjFzRmc4VTFPRENoUGM2OXI1NlBhdENZNzk4T2RzZndmNDFRc3FleHBLTGRUbURSZ205Q0NBbmwxSVhxbVY3X2N3U3hJQ0FXTHJSNzcwZHFYTXU5SFdMb2ppWmZJQmVoYkdIeVU1RTlxQzdWT2NTM3h4dnRyNng4bWM?oc=5",
+    "date": "2026-09-21T06:36:00.000Z",
+    "summary": "Trafigura launches Volare tanker arm, plans Oslo listing  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Predicts 60% of Organizations That Ignore Data Governance Culture Challenges Will Fail to Govern AI Successfully by 2027 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ3gzamhpc0hfRW5XR2N5RnRtOE5fWDhjT2VXd1JPVU9FaFNuRjM1aWR6ZDFyUjlJR0dlUGlZLThEU1Jvbnlkc1NfSXF3WC1lWVVyNW5KcEgtc3puVWlMVkZZN0ZabWxtdFlOZDJNZWxTRnR6ODlDcTl5VlhyZ2haQ3g5eEpfb1o4aHYyb2xPV0tPS3Q1YktycGd6NXBmRWR4NmVyWTZHdU1xc2xSSENYbjhGcGc5cnJtMEN0Z0RBVkZwT2tzb0hCQ1JpNVlZQTJHNWNIaU9jRXFBQUxya21jbDJmQVNMOTJoaFdldHZQLWNpNjRoRmU2RjAzMDJlV2txZ1JsVkNzZ0hDYV83c1dkRU9xRjZCUVFxUUxWNHFLUmJYZ2s?oc=5",
+    "date": "2026-09-21T06:34:48.000Z",
+    "summary": "Gartner Predicts 60% of Organizations That Ignore Data Governance Culture Challenges Will Fail to Govern AI Successfully by 2027  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Data & Analytics Summit 2026 India: Day 1 Highlights - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1pTZVl3OHFjUFpFLWc4RXdLNktKWHVOMXNRa05xLXo5WW12N19sT0VER0dvTWVhdmFPMDJGYkJtbE1PNTFucTZNZ0Q0d3NDdVFiVU1rbjhWT1JGNXFmRGtTWERFOXF3VVU2by0tdXBlN1MtenNSUXBhLUhFUnhId0NGVzBCM21xSHAxMFFIWjJqT0NhaW9tX1ZFUzlOTVBxWDdxOWhqYkRiX2FLYVlBMS1wcGJvZG5HbW9hVjk5ano?oc=5",
+    "date": "2026-09-21T06:34:48.000Z",
+    "summary": "Gartner Data & Analytics Summit 2026 India: Day 1 Highlights  Gartner"
+  },
+  {
     "source": "Gartner",
     "title": "What Gartner Does: Research, Advisory, Consulting & Conferences - Gartner",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51TWYzMkJrNGs5SmZfOTdjRGVOQkRvOGtDRzl2clFBdTVCR0tneFFsNk10MFNaQjQ4YzRxNzNQN1VCVGUxa0lmWUY1OVFFQQ?oc=5",
     "date": "2026-09-21T04:05:18.000Z",
     "summary": "What Gartner Does: Research, Advisory, Consulting & Conferences  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZExFRzNrdTZtWHdwRU9FLXpibVg1dVByZ2Y0aklMcW5YcjdkVkl1ME1tdUhvVFA2dHlHWS1BSDhIekNkMTJFWS1iTnVHZE0yOTlxX2RHREswSDlIMTVDbVR4VGFRQVlNRURGX1kzWVdBdk80ZmVOWEJ4eXBVQmlsal9XM3JjNkVKN1FPbElDRmpSbGJWSTNuWWdXZ2VVOGVsNG44eGZ3?oc=5",
+    "date": "2026-09-21T03:43:00.000Z",
+    "summary": "How Trump and Xi went from tariff war to trade truce  Reuters"
   },
   {
     "source": "Reuters",
@@ -15,10 +78,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Paramount, California AG discuss concessions including $1.5 billion investment, WSJ reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGd4RXVxVmZTWnpNcE16LWlSRlZkVW1aUDByd2hfRGtDdzVxaHd1YVhydkJQc2Fhb1FGLUMyMW14WHN3TFotbHJSYThzNkl5Y2o3dlFuZE15VHdCdWd1UTlKRzl5M2VkWW1hM1FWeWJRcWpGOXhyS3RBV051Q0hNSEZnX1pyS3ctLTM4T3JGMjR5RXdsMU5LVFhPZEtVVXkyVm1ld0hzY3V5MFJvSXpETGJPUGN0NzRnN1ExVVJaQXNKVmdkQ3g5dm81dE9ZaDVtUm5hbw?oc=5",
+    "date": "2026-09-21T03:05:58.000Z",
+    "summary": "Paramount, California AG discuss concessions including $1.5 billion investment, WSJ reports  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Australia warns of risks from ageing population, falling birth rates - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hOSzIxR1hfa3RsSlg3UUFMWGwzakM0V3BLSUlHQjFYX1d1anY5dEdTWlZXU2ViWXVqXzBHUXN0Z1puV2ZRQ2t0T3RER2FTb25QUklHekk1amNfMTZaNXZUejk3LW9kQ2JLMEthNHp3TEM0QjZBbkZyeWdadXZrRzhLdzYwMlJoN0U1TFdNTGlvaGpqLTlocF9ES2ZCNnNkSE1SSlk4TEg2c2UydENScXpOeVZBcTJLZlE?oc=5",
     "date": "2026-09-21T02:32:00.000Z",
     "summary": "Australia warns of risks from ageing population, falling birth rates  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Typhoon approaches eastern Japan, prompting flood and landslide warnings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVM0aEY5Mld4Ums5YWNQNld4c29vLTROWlJsVzFNdXFLZzV4SnVpTG56SzNWdlJGZDNVQ3kxOEYwajBrY096NXQ4OWp5bUpQZWNRX1NwZ2NIRWdaN2s3UFR1R05OUk03S1JXemtFcHdUcS1uQ2xxR0Zxb2VrdHkzdElHQ0NZZ3lIZWRGSjY3clRVTWM3OUlybi11S0l0OXg2UEh2S1U0LTBpckNzUmJkWHg5TU5ZY3RRSlBWQ1NPcXNEQQ?oc=5",
+    "date": "2026-09-21T02:11:00.000Z",
+    "summary": "Typhoon approaches eastern Japan, prompting flood and landslide warnings  Reuters"
   },
   {
     "source": "Reuters",
@@ -47,6 +124,13 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVgydHlkOXlLQ1Q4SWtQNmtjZjNoLTRUNnptMkdnUndRQlhhQWVCVTJ6VzlabXdZSUIxOG9BNDRKOGswSHlZSC1RS3pqMnlMS0R5U25ZZnFMUUNYemhXSVo4aVBhVlNjRnRQWVo2b0h4a2FvT29vMkFyQV8yZVBRSGZmUldDWkRsYVlhVFljYk44QWdTRFJnMUw5bk9BVEpRNVpNa0gtZV90ZVRUYXVSYUtRZ1VHZXFOVmdxbzJTTmFJOEZ4d1E?oc=5",
     "date": "2026-09-21T00:04:00.000Z",
     "summary": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "WIRED: The AI playbook top companies use",
+    "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership."
   },
   {
     "source": "Reuters",
@@ -85,10 +169,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEJfOVNKYWwzX3Z5cXN1bXVFNFBENVpGZ25Md0pGQnB0Y1k0RjQ5b3pXTVl1M2ZXZUg2MU1vY0ZyNW1La2pPMnFPMDJpbHd2REdTeFlvT3lWMzM3bjZCZ193b0duUXBoZ1lnOHRuZzREV2sxa1R3X2g1eFE5UnFGRWNmTDBtaC00YXc?oc=5",
+    "date": "2026-09-20T15:15:21.000Z",
+    "summary": "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Qatar launches wealth fund division for domestic investments - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjFTdjVSY2VJTE13ZGZLR0FHWnFlNWNScVFWNHN4N1g0TzNKZElMY3dKb2hWajdiNHRlUjRRdlB0WGdmODZ2aDlBUXN0eUFsYUFWQUIwVC10emkxbnEtbllDNV81Wlp3ZGlzakExV3lWblNjeVZQTi1Vb2RiYm9kVUs0eUg2aVhIX2VSRF9IcEJENG1oTjZ0OTBCVFBGZEZjTmlFa1IzUkQ4U2xnQ1Nr?oc=5",
     "date": "2026-09-20T14:55:43.000Z",
     "summary": "Qatar launches wealth fund division for domestic investments  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Luxembourg deploys additional detection assets following drone sightings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5",
+    "date": "2026-09-20T12:30:54.000Z",
+    "summary": "Luxembourg deploys additional detection assets following drone sightings  Reuters"
   },
   {
     "source": "Reuters",
@@ -252,6 +350,20 @@
     "summary": "Associate Director, IT Strategy Consulting, High-Tech Telecom in Chicago, Illinois, United States of America  Gartner Careers"
   },
   {
+    "source": "EY",
+    "title": "India's semiconductor ecosystem: from fabs to ecosystem leadership - EY",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjdsSGVwb3dpNEdLWnJSZlV5eGRwcnY3Q05ZZmpsbjAzaVdPM1J5VnJLU052SjBtNWVBZkUyMHQwVDhENmxwNGl1MWMzdkJSbnNQNHFtRElraVNBUWxmUktvcDNENzktdG0tYXFzUXZOMFhwTU1qcHY2MUxQUXQ1aU0ySEtFVkJ0c2VsZ1FmZ2o1YXRzaklRVURWbUlCYmV2R3JNTUZVdWl2aS1LR01WdXFqVDNMck0?oc=5",
+    "date": "2026-09-19T07:00:00.000Z",
+    "summary": "India's semiconductor ecosystem: from fabs to ecosystem leadership  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bolivia scraps diesel subsidy to combat fuel shortages - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYndqT0lFZ2ViZVpFdDgyQTVMSUd5Wjk0djhiU0NMRmhUdTNoRHBYTHZrS3NoWVk1aVBFdGxWa1BMeGFSMkhEU1AxTXRiYnRGT211OW5RQXkyNW0zWTV4aXE2RkpiUzdqNU01cTJiUGR2aXdVWkNiQ1RHTmRXRVZ2MHJJTnJPbTZCOG04SjhWYXhaQ00xeG5SQ1Q3aC1WdFpKU3ZySnF3?oc=5",
+    "date": "2026-09-19T04:46:00.000Z",
+    "summary": "Bolivia scraps diesel subsidy to combat fuel shortages  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Senior Tax Associate - Global Reporting & Compliance - Gartner Careers",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVVTSXNqZU8tcnhDbVptd1o4R3RIMkFxQ01jSHBwVWdkX01qekRqYld1ZXVpSm9SMm9Makt4dFd6SEpINnhPNjFEQ2FOWGd4MVZlcW5zQzJYYVBjOHZFU3V6anItQmNvT0YyejRiajZtM3ZGQWVpSkcyUnBkUGFuTHJtaGtIc2dLTU10ZWRqa29fekcx?oc=5",
@@ -264,6 +376,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
     "date": "2026-09-19T04:26:00.000Z",
     "summary": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mural of rapper Macklemore painted in Gaza after Sheeran tour furore - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3llQ2FzaGFiSG5aNXd2SUpSS3JQYTF0c1dodmhsc01GNHhQSWUyZ2laVjBuMUVYQVRPc0ozMGh6WVhWTzZNM0MwLVVkQlBjZHhLVWhLbnlLbGJkdTk1Q2gwQ3hSc3A1czFrVkw0Mm5BN2hlN0ZZM0JzSUxZZGVtcm5KZ2lpQ0NPYlo4ZkJ4QW52N0FEbzUzUW5BVVlGOGE0cHBTWDNESzh6S0M5UEtiMTVveE05bUpIRzBkNG9n?oc=5",
+    "date": "2026-09-19T00:50:30.000Z",
+    "summary": "Mural of rapper Macklemore painted in Gaza after Sheeran tour furore  Reuters"
   },
   {
     "source": "Reuters",
@@ -323,6 +442,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Trump says he might ban other media outlets from White House - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmxpY2hBRXpFVHFlYUgwLWIxUkZ6dm5pNFFkME1CYzN5bS1SVV9zd19vTHlVUzI5MDhQWFhmdy05blV3dGZtUFNISkhqNlJ0S3k4el9lVE9pNjZYVmt6R19zSDlaSXEtbEZhUWpYYzFDM013UTVHeUgxeFZsdU5FZUttRzBzWmJJNGRBT00wMzRFYzY5VXM4OWpMT0M2SC1oRF8wQTdfT1l1MHlvWTZhS3dBTmg?oc=5",
+    "date": "2026-09-18T20:54:03.000Z",
+    "summary": "Trump says he might ban other media outlets from White House  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Germany cuts energy tax to offer motorists relief from soaring fuel prices - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZobnk2M04td0ZjWFpXR0g2d0ZwSHBxeXplMnhTVU1RcjdvMXZMVWtWY19Rd2lwRTVJNzk1Z0pzU2xKblRvcy1Mbi12aEFQQXV4YndRMVdkbEtTWW4waXZLdm1nemlRcWxNcHl2T2U3WkRrZXFmaVM0OHFocjE3dkl2NUg0LU94ZjFScVM5QllIOWJ5ZC12S21pbUUtZjVlSXpCZmc5UFJranZrM21hamVsSQ?oc=5",
     "date": "2026-09-18T20:24:36.000Z",
@@ -376,6 +502,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmM5WHBFcXJlS2RFQTVzVjVFU1ZIa3VOQ2YyZmYwekJFTnZQQXZ2dUtMZmNmcEtwS1hRV1Y0dlkzVzZJWFVsQ2Vtb0Mza3paVUlUckNUNHB2SEpFeDJPckl6bF93WGUzYV9vbDNhMExEckdJRHg0OThoSjBXQ3Z0MTVVaWVJQ24zcF8wbHdpVjhEdEQ2TDBmTG5iOFR4S3VpU2p2aGYwbEw3OGFWTHRjVkxnemNoZkcxckVxWVVUSFRZdw?oc=5",
     "date": "2026-09-18T17:51:18.000Z",
     "summary": "Cyber Operate - Analyst- Data Scientist  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU antitrust regulators set to block UPM-Sappi merger, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWpKd0VwbkVYMGJ1QmVZQzJBd25Dbkx5YmxsbUxldHNSZmpyUjJTa1ZjZTc4SXRtelJsTXBneDRFWmNpVndfazM5LWtsN25LS0Z4UkZxUWZ5dmRxbUpIYW9sZTlKbUtrRGVpNVF0Vld6VVFGakhUcDMzRFBPLXByWHZ3cTBmQ28yQ051YkdPQ0MzWEJPTkhEUlh1bk1UYnVoLVdCTG82TzI2T1E?oc=5",
+    "date": "2026-09-18T17:46:00.000Z",
+    "summary": "EU antitrust regulators set to block UPM-Sappi merger, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Key executives running Berkshire Hathaway's $1 trillion empire - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2MwUVhZc3M5S3pCWVZlSTI0el93V1N1Y2xIcGNJMkxCLVVLclpUYlRPWGY4Rk9peVFqZDZrQUtSa2FVZmVmQVN3d0o0Vk00R0dEd0NWdXFoY2VneGo0dEtUQnFiSmlKb0JiVkU4c1IyUmRhVFd6TWdiUWJDQm1Dcm9Wbm1BQXVaUk1rTkVfeUp0eXdwb2Y4dzhWMTYzX3B2ZGhxeEpRRFVJU1J4VkhmeW1xTVRMS3M?oc=5",
+    "date": "2026-09-18T17:03:28.000Z",
+    "summary": "Key executives running Berkshire Hathaway's $1 trillion empire  Reuters"
   },
   {
     "source": "Reuters",
@@ -596,6 +736,20 @@
   },
   {
     "source": "Reuters",
+    "title": "France's Macron says G7 will meet to discuss energy crisis in coming weeks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2VfaWJGZjlWRTZKN1NVT1BVNzJxSTh0b01rdFFXNVk1cWNLT29YT1lCbllBRU44YndhVHFPS3JYRzVfOU5za2Y4OFJuZGdMRnJBdUxSLS1RNEdEdHJmNVpjeUd6RDJ4UGNWVllrTkw4eFVWTHJ2V2IxR3BfQ3h0Vlo5SDNkQmhGeFdTTEtQQl84ZEhiZ1NfMzRmdHh6T2xhN0x2aUxRN0hzd2NvYW9IMmdJTlkySHFQUUNV?oc=5",
+    "date": "2026-09-18T12:50:09.000Z",
+    "summary": "France's Macron says G7 will meet to discuss energy crisis in coming weeks  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZngyZ3RoMER3Sl83bUtlX2VfdUs0Z3pRR0l5VGRUR2dubzZucnRIbW5oQy1zS19ZMUdLLU5neTc0eU41WUpwV05tUVh3Z1VFdXhpdklUTmZLNVVkMTJ2RTQyaG55clRYR0hZV3JCdGZOMFZXWHVuNVdjR2NxMF94a1FlY240ajRkSWdTaTNSelNuZUFmOW9FUU9DRTl4QVo1a2psNF82ekNkbDA2WURRbnVKcDZOdlRPSTVrMmF1V2JGc2Y5SnplQzJYbng2Zm8w?oc=5",
+    "date": "2026-09-18T12:40:00.000Z",
+    "summary": "Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Record US diesel prices squeeze farmers; food prices may rise - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFFeEk2NVZjZU9WbTQ3QUZObDgyZ2JZdVlPRjd5dzNVdk13OFNCN2tiR0c1MElNMFFZVGdRelI5UnZkNnlMNmRQZXM1Um1sQUZQRkh2R3JvSHNkZnhtV2JzVFB4SDVoam0tZUE3WHljQWdSbXFPTEdOTkxSQXdvcTZQdXloOEpXMlVWUnprbS0ycUJ3aU1qRkVKZTc0UTFxa2h0bG43TlpCRnM5N1pVN09R?oc=5",
     "date": "2026-09-18T12:37:13.000Z",
@@ -621,6 +775,13 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWgxQnZIOFEtUlNCWUN1OS1jY0wwVzUwQVRaeDlJeS1BV3BxLXZfcTNzcmxLNzR0bXcyZmkwemZYVlQzYmhyajJycndGQmw3VG8yNHZlYy15WDFKRUhWRnRSOFU1NEt2My0ybEk0YmJVSTZyQVhNZjhDd1dhdkRTdTEyZU1kRjczMzBHbWpzemFSdy0xbUhLejB3?oc=5",
     "date": "2026-09-18T12:13:58.000Z",
     "summary": "Check out this job at Deloitte, Senior Editor, Economics & Financial Services  apply.deloitte.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "Lagarde pushes back on market rate-hike bets after energy costs soar - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHh1ZUpsSWtLM3dSUGhYbzY3RU5LR3FTOTVvY0VyWFNoUWdNYkRxaTlsSGJmWWctNXAzeDZGUjZGcHExRWl6S2dLdXhvTEZMem5RN0ZHWUVFbWVkTGp4UVJLR3BtSkNwT1d3Y0pmSi15bTBNdWdsVkFhOElCemdBMFpCSTVwdkM5RWZoVHVibVY4aF9mZkdHX3pmaGdOczUtdU50bFJNaGh0UE5Zb0dV?oc=5",
+    "date": "2026-09-18T11:40:46.000Z",
+    "summary": "Lagarde pushes back on market rate-hike bets after energy costs soar  Reuters"
   },
   {
     "source": "Reuters",
