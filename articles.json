@@ -1,10 +1,66 @@
 [
   {
     "source": "Reuters",
+    "title": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
+    "date": "2026-09-22T18:22:55.000Z",
+    "summary": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic unveils Claude Opus 5.5 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2VINVptSExJdjU0WkQ0WDVkRUdsaHduYjB1Tk81TnBrZkVvalowQWh2NFJnYmZ1TkxtVTQyZHdVWDgzVmJtRE9SSjkzeW9DWDFleHNPU01LUWE1TUpCdktmTVVRZHNXWm9ack9CRmdQTU1XUHd0Y2lhaEZBWWJYQVNFYw?oc=5",
+    "date": "2026-09-22T17:22:35.000Z",
+    "summary": "Anthropic unveils Claude Opus 5.5  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Republican senator seeks probe of Trump family business dealings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1VINWFaTnNHOU1IY3ZueVY0UjMwWXFVTmx1bnA3RjlxT0t4Q0tUcEtpVFRqWVZpUF9JZk1kWkNPNmk0TV9UVVlfMW1sMnBHVzFLRGhpOXBlMU1EYzBrbE1jZzB4dzgtNDFUemg3ZnVpT1B1a1VJWXkwZ0tGMmtCRk80cWFoRVJVdUxPc190dGFkUzk3aUtNT1U5U2lpOW9rVXloYlA5WUhMQWd6OG9tVXhvUXM3VjZSZ0lkRA?oc=5",
+    "date": "2026-09-22T17:15:44.000Z",
+    "summary": "Republican senator seeks probe of Trump family business dealings  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Beyond MDF: Partner Incentives Enter A New Era Of Strategic Investment",
+    "link": "https://www.forrester.com/blogs/beyond-mdf-partner-incentives-enter-a-new-era-of-strategic-investment/",
+    "date": "2026-09-22T16:47:29.000Z",
+    "summary": "For many B2B organizations, partner incentives have historically centered on market development funds (MDFs) and co-op funding. While funding programs remain essential, new data from Forrester’s Partner Ecosystem Marketing Survey, 2026 suggests that partner incentive strategies a"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpkb3RQV3p1VmpBdlAwTHlnTVI2bkJRSW9hWDNHV1JqRFloLXNkV0pOVDR4aXRmNkpIMzFwS0xBMU9zMFRqVUF0VThLWndEeFlSc1NMVGVYc2NiSDVkb05mZVozNGp5RWRkcjNhY2N5amZwX19QT1NGemF4djVKSU51SjRDaWg5dTUwMFpkd243bWlyejFCQWNmY29EbTF1WG9QNGNoTVJBODRHakgwMW1fX2JfaHZI?oc=5",
+    "date": "2026-09-22T16:41:23.000Z",
+    "summary": "EXCLUSIVE: Saudi Aramco plans reorganisation to create gas division, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "CD&R and Warburg Pincus in joint bid for Canaccord Wealth, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHZ5R3BLMXFJdElxQXZGaFZjdWE5bHBOTi1mUHBnRW1XdmRubnFkNHU0TG4xdVBVY09MUWh2WHRUa0didlhieFRxR1FQOFpTbGdiQklxVXN4cHltaDVuQU5xU1F6LWpNdVd6QVVRU3dTSU1VcFB5TFNzR19aekZscV96YThsd2N0V3N3Um1QNXhEbXAxR2xreHNFMnZNeU9sR3Y2eG9HVko4N2JHSHVoenJ1bw?oc=5",
+    "date": "2026-09-22T16:21:27.000Z",
+    "summary": "CD&R and Warburg Pincus in joint bid for Canaccord Wealth, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
+    "date": "2026-09-22T15:21:51.000Z",
+    "summary": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
     "date": "2026-09-22T15:10:19.000Z",
     "summary": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Collins says she supported rate hike, warns of elevated inflation risks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0JDdC05Wl9XNzhQVmlyMnBJTmNMYVQtZXM4SmJkeFFBWGFhSmV5eDBTeGdySWtvbEk4VTVpUl9CaGVoYUt0N19qRVF5NldOWVg5dFN3NlJrNW9HSlIwekJralVaNWFEdFhJa3BxYUFQQVRnUkVwb3p0WTRYRV9oTmZCamE5bTJ1WlN0ME1wcVRobDJnLTZqMkMxVlkwOUdoNTU3ZmVQSlZpQ2k1M2E1TFQ4MVlsMFRo?oc=5",
+    "date": "2026-09-22T15:01:38.000Z",
+    "summary": "Fed's Collins says she supported rate hike, warns of elevated inflation risks  Reuters"
   },
   {
     "source": "Reuters",
@@ -21,6 +77,20 @@
     "summary": "Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "Pyspark-Data Engineer III - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0ZfTFRxeDlNZ2RuVU9UcGN3TnRCRVdnSjNiVE54WUtHU3BZRk5JazA5bGprOUtseHY5QVpKVXlUOXVpQjNqcTVNYXlKMGh0NHR1ZFRHUGRZR01uZ3hUNEdhZS1CdDRVQzRTNWpRdTdudHpTdHBzNUw4UzE3WGVJUWlNYldld2Nid0stVHVZU2VZMXFqVmxhVXd1UHVNOHcxTWNKTEU0VG1qSFNiMVlsQnVubUdIV1U?oc=5",
+    "date": "2026-09-22T14:24:34.000Z",
+    "summary": "Pyspark-Data Engineer III  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Williams says rate-control toolkit is working well - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9XZUd5U3BmaXhkR2F4NEgwNk1FMWtuZEd0UVVFcWgxMUZkOXRDZHJqSzI5X1U2Y01BbXY0OG04c0hmOEpqMHpERWd1WUQyVElTeUdrTmJYNFBHYTFRek1XNkZRb3FEQWxJQUZpZFhkUms0MWl5LXByUDd1Y2tIbHRtVzRzUU1zbXdZQUVwMGRCR1BnZkpnMGFUc0RmNUtvcTl2bFZ1WmE1ejk1?oc=5",
+    "date": "2026-09-22T14:09:42.000Z",
+    "summary": "Fed's Williams says rate-control toolkit is working well  Reuters"
+  },
+  {
     "source": "YouTube Blog",
     "title": "UK Creator Voices launches to bridge digital talent and Britain’s creative industries",
     "link": "https://blog.youtube/news-and-events/uk-creator-voices-launch/",
@@ -29,10 +99,24 @@
   },
   {
     "source": "Reuters",
+    "title": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlc5U2haVjdCOXFmcjZtdUJGOGtOaThkenVQS3piZGpYa0xqbHFuRU5fRHZ2TkdwVC1oZkpRSzVJNXRqU0g2M3BlakJnaVR1NUx1RG90aGRjdjJQYXo1MGg5R2w4ejJ4aXVhY3V1Qk5tX3Y5ZE5sY0dEYzlKY0c5Mmh4WDRleHFCdTM0UjVLT2dFTEVVMXFmVk00bHhhSDlFYXA5cEpGX0tvOU9YRjVraVBKaw?oc=5",
+    "date": "2026-09-22T13:54:11.000Z",
+    "summary": "SNAPSHOT Nasdaq hits intraday record high as tech stocks regain footing  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
     "date": "2026-09-22T13:40:59.000Z",
     "summary": "Wall Street expects Meta's AI agent to shape into a new revenue engine  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5",
+    "date": "2026-09-22T13:37:12.000Z",
+    "summary": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models  Reuters"
   },
   {
     "source": "Reuters",
@@ -124,6 +208,20 @@
     "link": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/",
     "date": "2026-09-22T10:22:00.000Z",
     "summary": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment."
+  },
+  {
+    "source": "Reuters",
+    "title": "Jet-powered Russian drones strain Ukraine's air defences - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3oxSW05Z1BOc2lHbGotZDd1NzA5TUlxWFJtN0JSbWdzLVlZelE0VnVFU2hkemZjTWZDd3lnckVEcEJ3dmR0eHY4MGthYjRqUVFQdjRhVFdlc1d1SmJva0hiSG84OVEzLVR0NVdTZ20ya244T2xDWWl0cWR3QzhLUDBqY0JEOHl3MGdhWXBleEJtS0UyRnVLc0dXc0h2ZE1DMnZSQUFCOUtnLUp1bDZKZFB1UHN2T0djSFE?oc=5",
+    "date": "2026-09-22T09:56:10.000Z",
+    "summary": "Jet-powered Russian drones strain Ukraine's air defences  Reuters"
+  },
+  {
+    "source": "PwC",
+    "title": "Business AI Engineer - Intern - 2027 in Bangalore, India | Technology at PwC Acceleration Centres - PwC",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXFEUUZ1ck5XSmV2VFZZRlc3UG1oMHF5S1dydUl6M2tIVUtpeUdxSzA3WnBGdVZBMXhBRnZUc3ZpUHNLVTZZRFBmRC1ReXBJQ1JjcW1yQUdfUG1neDdrMWVGSTZFZktIMEI3X0RGbEFXbTl6WFUxQVRIOU9GRHBFV1NrUnp0Zw?oc=5",
+    "date": "2026-09-22T09:33:54.000Z",
+    "summary": "Business AI Engineer - Intern - 2027 in Bangalore, India | Technology at PwC Acceleration Centres  PwC"
   },
   {
     "source": "Gartner",
@@ -246,6 +344,13 @@
   },
   {
     "source": "McKinsey",
+    "title": "Ready to ramp? How US manufacturers can scale at pace",
+    "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": "US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels."
+  },
+  {
+    "source": "McKinsey",
     "title": "Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz",
     "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-through-uncertainty-a-talk-with-former-us-energy-secretary-ernest-moniz",
     "date": "2026-09-22T00:00:00.000Z",
@@ -337,6 +442,13 @@
   },
   {
     "source": "Reuters",
+    "title": "EU to keep opposing new Arctic oil drilling, despite pressure from Norway - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenVuWURnNzAzbkltSXVCQWZOT1VnLXdrNWFoeDR6VE1GUWljZDdHcjB3V3FwZFVkTzZSYXM5dHpyLVI4UXBYRERCZGdkclQ5WFlNX2hDcDNjN1VFcUh6SW9DcFhkSkdJd3J2RElXU0EyeFJha0pBUlF0RlMwRDB5M3QtUWVodjl1RDdsLTVuUzRLenliRU1zNDdiVkN2SFA1ZDQwWndZUFVueGxqOGhXRzFHMmVTRE0?oc=5",
+    "date": "2026-09-21T21:01:02.000Z",
+    "summary": "EU to keep opposing new Arctic oil drilling, despite pressure from Norway  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Trump administration proposes $5 billion to kickstart investment fund to rebuild Gulf energy sites, WSJ reports - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzdFZjM2QWJJQ0xUUE1Tb2llS3dpWkd3QU9lZWk1QjVCenN4VlE2RnVyUnVFRjhNd29mbWxVVVJDWWlCVnFDbFRfY1NldDQzOTg5UEN1UF9oWVZMS0FSeTZLT1NxZU5DN0lYbzgwNVktTjhrMGFtaUp0T3FsWjVQT1JsZFhQSmV2NU1Kd3hpVjdPdFhTbG8yaWFNV1RfeXNLQ1lvU2tkRmJzSnMtN2kzR2d6NDUtUzUwWDRRWkRQYURQMzl0Q0pLRS0tWVE?oc=5",
     "date": "2026-09-21T20:49:41.000Z",
@@ -418,6 +530,13 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2Z5Y1lKQkxhUzN2LU5ONE1ZZ1hDMWR6S3JLdFBaSmt0SUtQR3FrZFBibmxra3Z2c3NDUVV6cmlOaGowYjdiWXVxVHNVemJTU2hnblJmNFB6V1NiRE42Rkx3RTR4MjJoZjBKdEJMRHl2dVYtUjhHa2JVdEFqQXFQa01adDNmYVcwRDV5TFpTVlJFNnRRaDkzMUFaUHUtU2RDR1ktcjRGbnN3T2RxblE?oc=5",
     "date": "2026-09-21T17:12:32.000Z",
     "summary": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US lawmakers urge Trump to maintain ban on Chinese automakers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmZTMFQ0MFhraVl2ZVZfempza1U3UTNZZFBoZmNhMmtpNW1CWEpMYXNmdTRUdWRZclZrUjFwdHZsSjJvSzl4bHN6ZUE3SWJGTE8zRjVsMWYzamtvejdwRmJVcHl4R0VBODBjMUNuLVMxb2YxN2gtUHNZd1QzRzBEYTR2T3BlT0RnNXpXeHQ5Z2I3SnRiQTVnNmdjR21udw?oc=5",
+    "date": "2026-09-21T17:03:41.000Z",
+    "summary": "US lawmakers urge Trump to maintain ban on Chinese automakers  Reuters"
   },
   {
     "source": "Reuters",
@@ -593,6 +712,13 @@
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdEppSW9FMnJicm9WX282OUNrT1RQYzlvWFpzUzJQTjF1M2FKTkNMM2t6NENCV25Ia3hXNXpjNVZ4RnM2XzZtV09UbENRRXVwMUwyVzRxNHc2V1FoZFlmTnlxal9NbEdveHR0TE5HSTl0aWNrZlpyWmxQbGZ5T0JBUU5Ocm1uOFFkbjhhSEYyb2h5QU54YVp4UzZDRFA4YnYxdzgyMUEzdllDZVE3eTdQbnNxeVFrMHk5TGhNTEVuUE9ZaGE2bWNXN1VoNjBPai1JdFVTYjNxU3dURkw5WGxPZzgteS1zY3FQUFVtSDktWkFyN3A1S1pwSEl0UVlzOUUteWFxcURBblljVE0?oc=5",
     "date": "2026-09-21T13:52:48.000Z",
     "summary": "Specialist, Strategic Market Insights and Thought Leadership (CIR-Cross Industry) - Mumbai  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's AMPIN gets equity investment of up to $100 million from Norfund - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzBkNkw4aEdoOUNXVUdHQU8wanM3UHpINUgxd19ocXQ4RHdlVzdFYTdfSlFnMGF3eTVaX2JNSTEydEYwZEFVbTRBUExFemtQNXB6ZmdlcnlVTml1Vl94cGhNdVRxMG5sMHFOM19zR3hCWGZKalFVaU5DbjdDclZzSm1hQ3dWLVRXVmZad0lJY1FqTXBjZXNxNlBGNEFNVkZVcExQLXlLbHluZHQwNkd3?oc=5",
+    "date": "2026-09-21T13:50:28.000Z",
+    "summary": "India's AMPIN gets equity investment of up to $100 million from Norfund  Reuters"
   },
   {
     "source": "Reuters",
