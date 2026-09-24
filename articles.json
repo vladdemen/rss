@@ -1,10 +1,94 @@
 [
   {
+    "source": "Reuters",
+    "title": "U.S. yields rise, 30-year bond yield hits highest since 2004 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
+    "date": "2026-09-24T15:07:09.000Z",
+    "summary": "U.S. yields rise, 30-year bond yield hits highest since 2004  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St slips as Middle East uncertainty lifts oil; Trump-Xi talks in focus - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+    "date": "2026-09-24T14:21:39.000Z",
+    "summary": "Wall St slips as Middle East uncertainty lifts oil; Trump-Xi talks in focus  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Forrester’s 2026 Technology & AI Award Winner For EMEA",
+    "link": "https://www.forrester.com/blogs/forresters-2026-technology-ai-award-winner-for-emea/",
+    "date": "2026-09-24T13:45:41.000Z",
+    "summary": "Technology leaders across Europe, the Middle East and Africa are under pressure to deliver more than resilient technology systems and efficient IT operations. They are expected to help their organisations grow, adapt, earn trust and turn emerging technologies, especially AI, into"
+  },
+  {
+    "source": "Forrester",
+    "title": "Context Is King: How Identity Context Will Drive Agentic AI Success",
+    "link": "https://www.forrester.com/blogs/context-is-king-how-identity-context-will-drive-agentic-ai-success/",
+    "date": "2026-09-24T13:43:00.000Z",
+    "summary": "AI agents are putting traditional identity and access management approaches to the test. Discover why identity context will be essential to securing autonomous agents and scaling agentic AI with confidence."
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Says CFOs Must Take a More Disciplined Approach to Finance AI Investment - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFd6cDhPRDVoN3AzMFRybno5WHhtVW9xd2xtOTlfem4zaHpIUVRTUm1uVFVhR1RZaVRzdG9HVTM0bHF0NWl3dmxpRzNvcjVRdGhUOEIxZDJJT0haQjU5YVB1NF9ZN3FGN2RJQVZHYUVNQkZPanl3YzRHbHpPSnVibDdUVW8yNmN2MW1sYU9ValNDZ1JKNlpUYkFzVTMwTmxoMUx3azkyWXFNeE1yZHlVUUk5VXByVFVW?oc=5",
+    "date": "2026-09-24T13:34:54.000Z",
+    "summary": "Gartner Says CFOs Must Take a More Disciplined Approach to Finance AI Investment  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Predicts Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030 - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRmNMLTFSQm9tWkZVYW1XcHgxOWhoUFpnM0R3eXRHZWIzM1J3RTdGZVdjbm9qcVoyQ05mQnY0dmhGLV9XcGc5UHdsY0tIWi1oc3FSZnVLSVNCaEJROENNTzdhVldzdzM5anh4ZUlqZEVUdVZDS1JBRFpqSVRrMTJnSEgwQjFlUUJhaHkwZk5ha0VYazZfT19YdWFWb1Y3VkpJaDRKSHVCSWdZUVRoZHItUHI1TFNLR3E4ZFRlNHJqTkxuQ1NIYUZTQTFhUURDb0VxZUFLMzk4dDQwd0pvRGJWcTluY0s0dnBVd19hekk0LVNORnB3VnJQYVlEMWdydmJvbEozSmxjOFFvbVVvWjFfUVdjNXg2UVpYSld3eFB4SHJDUQ?oc=5",
+    "date": "2026-09-24T13:04:31.000Z",
+    "summary": "Gartner Predicts Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
+    "date": "2026-09-24T12:56:32.000Z",
+    "summary": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Why Some B2B Experiences Change Behavior And Others Don’t",
+    "link": "https://www.forrester.com/blogs/why-some-b2b-experiences-change-behavior-and-others-dont/",
+    "date": "2026-09-24T12:49:50.000Z",
+    "summary": "Why do some B2B experiences change behavior while others are ignored? The answer lies less in gamification mechanics and more in the value an experience creates for buyers and customers."
+  },
+  {
+    "source": "Reuters",
+    "title": "BlackBerry lifts annual revenue forecast on strength in automotive software business - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTYtSzdtandreWhMSE9ZXzJoWXRWM1Zia2hTVHRERnduQnB4aXZCX3BGclo0dmZmc3NwNEhQdWx5V0RQRzZwT0tzN3QwRkw0blB4UUM3cjhNdW9KblhlMUVHOHNkZGNHWENyNmFpcm04cTFQYWdGTTMzQ0ZHVlE2bi1rTVI1ZFk1ZFJhcHVHcWw3cXlKd3B4LUJfS2lpckY0ZmtwYjhSak44MlUxMGFTSW5VWXpCLTlVdnAtSC0xVnc?oc=5",
+    "date": "2026-09-24T12:20:47.000Z",
+    "summary": "BlackBerry lifts annual revenue forecast on strength in automotive software business  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "How Brooklinen Built an Influencer Marketing Strategy Around Life at Home",
+    "link": "https://influencermarketinghub.com/how-brooklinen-built-influencer-marketing-strategy-life-home/",
+    "date": "2026-09-24T11:09:21.000Z",
+    "summary": "Influencer Marketing Hub\nHow Brooklinen Built an Influencer Marketing Strategy Around Life at Home\n\nHow Brooklinen Built an Influencer Marketing Strategy Around Life at Home\nKalin Anastasov"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Security & Risk Management Summit 2026 London: Day 3 Highlights - Gartner",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQek1IeUpRRUxZcE9JU3dodHBiSmowTmlKSzdKV1kzTEx3VWdwbEV6NE4zRE9GVXFiS1hpWDlNM2dQdGhlT0RIWmNBeUxBb3FvNGdQRFplTTBLdWhuYmtLVzVZSUp3MmtobGVwYWw1TUJRSmY2R0w0TlAtQjZXTlpOQUp4Z25pcGV0WFpKUGY4TDNJdlBmTDdVckdrRG4tdjd5c3FxVU5UWlRYV3BPbjFQUVE0d0huVmFlblE2eXRjVXNiRmZHc0d5MnZNY0g?oc=5",
     "date": "2026-09-24T10:09:31.000Z",
     "summary": "Gartner Security & Risk Management Summit 2026 London: Day 3 Highlights  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bain-backed renewable fuel maker EcoCeres targets $1 billion Hong Kong IPO, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHE4aWFWUElCdHQxdE8xa3FxVS1kVXpybGpKTURvakNuUHY1NmJhSU9oMDl2RExlSV9GVDBJcHcwbUZxdTU2N0tNZ0MtVkN6by0xSC0yclFLYkRJeEUwNWpkOU9YemlGNUFVd184ZjUxVVBCOEoydVRMU2dTRzNienJwY3VsZVdBTHZXSHJjd0MzV291R2dZLTRHeXJEUVA5Y1BkazdoUTl6bFVIdGNtdU1FcmtnaTBrZjlwbDB4UkpVS1E?oc=5",
+    "date": "2026-09-24T10:05:07.000Z",
+    "summary": "Bain-backed renewable fuel maker EcoCeres targets $1 billion Hong Kong IPO, sources say  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Product Analyst - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFgtZUR0SG1uRzBtYXNYNTUtdHFWV1dzalZuaTZYNW0teTlsRWNnbzBTdUljM1JhMFg4YUhaMktUMzFEcVZvemZVeGxjTXk2ZlBpamp1VmNsWTU4dkJ4Sk5TOXB3LVV2WnpKWElaNmo0Z094UmtyWVBTZ3ExSnhJSGJOMGQ1ZTBlQmNnUXRQMXM0UVN5U2JPT3J1YmV5cW9NWEpKZEVxSFRkSEZ2c0xjVEp3U0dOWGdpLUdqYnFpOHZvSXFJUU9oQjVR?oc=5",
+    "date": "2026-09-24T10:03:54.000Z",
+    "summary": "Product Analyst - Hyderabad  Deloitte"
   },
   {
     "source": "Reuters",
@@ -14,11 +98,32 @@
     "summary": "EXCLUSIVE: Amazon bets $3 billion on India's fast-delivery boom, sources say  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "The human side of human services modernization - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NkVk1YQzV5eUhXbWdBeG9JY0VrWXdxWEV4c2xqQ2VBeklVbl9Jb0xlVTJMdENyd3JlRGpIOERYemxCWmhNMkY3OTVTR1g3Zlhlenc1d0Q5cTJFUWRQcDhrZkFQckp4WDFWLTN1dUhKSmFCcjVUX2s2Q1d2WjFSRlN2dkQzQWJXbGVjQkZBRnZKSXNHaGg3S2lMWWFQZVhjdVk5MkZMaGg2ZTFLam1fdWUzSjFqS24xOHpEcQ?oc=5",
+    "date": "2026-09-24T09:20:31.000Z",
+    "summary": "The human side of human services modernization  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "China raises fuel prices but caps increase a second time - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTJ0WWFBaDl0WHBBSlJRa1lyRnpSR2JNRU9Mb1B2ejQzYkNuSXhRa2JjcWRrT1NsLXJGRGxVX3MzcEJmOUNxYUFaOW9KQXZubUhhQ0JkZ25CZVV6N3dFRjREdEZ1MEQ4V19kZm5MR2hFZmd5di11OHY2ZXR1TGFYQV9YSmNMeHNPd3gyMmNYUDFvMWxub2M3aTYtdWdhNmttVGdSdA?oc=5",
+    "date": "2026-09-24T07:45:34.000Z",
+    "summary": "China raises fuel prices but caps increase a second time  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNndJWFQyTDNfdUQ5R1dEWWVaenhhWC0xU2NXOV9BVVZqWVFyV1dudUFLWmREQ2ZZR3BYSFBZS05MelpfeDU0TmdmUzYwV0ZSQ29qWjhZOGxYckQ3bS1xNlJRb080WFhXaElWbTc5TW55Vk04SkhIby1QWWpSM1VaU2w1ZXNZcWJUVnZURHJ5SjJmd0VKUmdQWHRjS1JfYnBpc18yMVNlT1U3enZPU1ZQQzRsXzc1S0tCczJNZUVyUVVRRUtzUlBHdDNIc2Y?oc=5",
     "date": "2026-09-24T07:00:37.000Z",
     "summary": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China's fuel inventories hit over decade lows, raising concerns over comeback of export curbs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1JINFhpNlRoREQ1VUJrTWpBR0swMVRjM1VxY2NJOGRCNHRPRWUzWU83SHRYb2FIcWR0SjdDOHJZeXBzZ3NsWlNFVUlMUldnS3h2Qm9rZFVlVDdBQWFvSjhtTEpaNXo4S1pOQ1VLbXJTUXBLSHpPaVd2QnRMcDBtajhtMWZmWDZqdzRSR2hnaHZRSzJMTWt3S280LVFSMTlVcHR0Tldrckk1WlczSDdHNklOTjF2dTY2LS1kZ1NYTngtRGp3TGc?oc=5",
+    "date": "2026-09-24T06:42:00.000Z",
+    "summary": "China's fuel inventories hit over decade lows, raising concerns over comeback of export curbs  Reuters"
   },
   {
     "source": "Deloitte",
@@ -71,10 +176,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Australian shares trim declines after jobless rate tops forecasts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHJJQ0Vva1pBZlVlZnNqeVpuWlN3YnQyQ0VjQnAtYTJrTzBUTUR0WUhtdTBLcUpyaHZrV2ppOVA3ZXp1ZjRacko2aUxPSkpHclRQVzc3aGx1dzhETlZ0bDkxVkdpQmU1VDdQdkJzcXFuYUhpM3hlM0V6RXpKNU1HMHhqVm80SW9CVzNJUWYxOF80LThUd3gxS0pHaFpJbzNXUDZiamh1U1lITzhpc2F6WTdNd2t2Vm1ZZzF4RE9WWWR0OUNVbkE?oc=5",
+    "date": "2026-09-24T01:25:00.000Z",
+    "summary": "Australian shares trim declines after jobless rate tops forecasts  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Oil prices fall as Iran says it is open to diplomacy to end the war - Reuters",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
     "date": "2026-09-24T01:17:00.000Z",
     "summary": "Oil prices fall as Iran says it is open to diplomacy to end the war  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Threats from armed group bring Colombia's Santa Marta to standstill - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0s1VThLX2FYajRIbV9uejFRekcwY0NOQkRBNndLVVI1ajlsQ2VucVc0NWVWR05FS3NWWjQwbEExWU5jZ1JRZmFoTjJBSHNSd1VrNXl2QzN6QjZpbTVXdEFZV1FaQXpQRjRvRVN1VTlzek1ZcGJoazdMck1sR29zRWN0N2ZPazIwb25oTmYxRDI1VWc2ZW1zb3dkN0FUQ2dab2RqZzZxQ1VneVFteVE?oc=5",
+    "date": "2026-09-24T00:38:00.000Z",
+    "summary": "Threats from armed group bring Colombia's Santa Marta to standstill  Reuters"
   },
   {
     "source": "Forrester",
@@ -103,6 +222,27 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXE5eWdka19wbC1KNHVxNmZGSG5XN3NBWFBxczJ6U0RwRERucC0ySG1FWDVISUJFQWlLQzhxSW40UTNfdS1yZVJiVGcxY2Y4VzRkSkVYbjdqVnVoSWkyUmJLb3JwWmdGZDVMdzBscDZLOWN5X3FBVGdha2hsbkx6X21tMEpnU3Z0SG1ES1ZNRUxzeEtKZndLczlxN2ZNUkRWX0xjdUtMUzA1MDRSMmluUkpIaHpQTUtESDNj?oc=5",
     "date": "2026-09-24T00:02:00.000Z",
     "summary": "Top dairy exporter Fonterra flags El Niño risks to milk supply  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Democratized superintelligence is coming: The world needs to get ready",
+    "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+    "date": "2026-09-24T00:00:00.000Z",
+    "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+    "date": "2026-09-24T00:00:00.000Z",
+    "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership."
+  },
+  {
+    "source": "McKinsey",
+    "title": "The new growth mandate: A conversation with LinkedIn CMO Jessica Jensen",
+    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen",
+    "date": "2026-09-24T00:00:00.000Z",
+    "summary": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a catalyst for growth."
   },
   {
     "source": "Reuters",
@@ -225,6 +365,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Israeli bulldozers smash Palestinian olive trees ahead of annual harvest - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWF6b0oyTm9VbjlMVERkVEhEaVgwbGoybno0bW1LcEZFQkpWRXlVaU5QV0ZRMWFTNkFEY0JRRjBvRjlUOThXMkQ4a0djaENib1Yyb0Vvc2YxYmhlY3VhemwtV3lEaThtQ3VmaFI1TGlCNUJpV1dVTUlORTNWMmpxaW1NZl9IV3JONVp6cTFMbHVCT2pVNHR5NFRkUDdISWZzbGlKMk1oVzVYN0hka0l4bFoxMk9PYk5RblNnUzNvN1NBMkpO?oc=5",
+    "date": "2026-09-23T17:42:00.000Z",
+    "summary": "Israeli bulldozers smash Palestinian olive trees ahead of annual harvest  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Single-client hedge funds attract growing share of capital, Goldman report says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazhCNHo4TzF5bnp6M0RiQWVrbkcyN2EzTDkzNXhnZzBvVFBDS29aR0YzOXZhbS0yQ0VvXzktUk5oRlBOSERnOFhocFF6ZTJxZTNLLVhYc1FZcEFtcURlM3JoVUJUS3hWUnhDempDMDZ2TlRpZTdFbWtEb0lyRm1MWndrZnVnZjhXdWFBSWNvM2d5R1pCM2xlR3pyaGNSOFpEdV80bno4c05zR0xrRi1ScWNkNUVmTlhYcTZETg?oc=5",
     "date": "2026-09-23T17:26:57.000Z",
@@ -264,6 +411,13 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1lteXkxQlJCeWhYV3dJcHczZmlPZEk0SjdWN2RydFp4eS1CUHRQNC1NOV9SRXA4NTZKWGt1SmtDYnlPamxMalhoMEI3YklER25JYWVsOGdnLUltcWNvRzFqbUNPTnhUSmYzX2c1bE5Gb0ktVWtkS3NydjlKX2hfMmxMYTBXWkNpVVIxVlh1dk1OR0dUbkFxZFJ4V1pBZUhMM010NzRCOUtta1pnQXlreXZKT2M0Nk5id1VWYUw2X2FLcWlyQTRweA?oc=5",
     "date": "2026-09-23T16:47:53.000Z",
     "summary": "US will either reform IEA on climate issues or leave the group, energy secretary says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ashtead Technology receives $660 million takeover proposal from Ember - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjB3bDJGYUhNbkdCcml1VEpEYy11R2pZVXd3aGFFYTY1SGh4OHFHelR6UnhjSlpLakZGUlY0QmN4cGM4OVNtUDB3aWlIOHQwN3lyM2FRa01LM09BZENPZENKdlR6ZThVcFJxZXpYX3pERzUtV2NIZUNlWERwQWxmRVZTWmxNMHJMN0p5Y3JJUWxyWjBPQ3hfbHppaGZQQlh4LVlqTWlDaXZSZXRTOTBtVExiNy1zT0owWkpV?oc=5",
+    "date": "2026-09-23T16:34:09.000Z",
+    "summary": "Ashtead Technology receives $660 million takeover proposal from Ember  Reuters"
   },
   {
     "source": "Reuters",
@@ -614,6 +768,13 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjhMRFNMVWI2VzNSa2lZSEtxWXlLajBkRWhUMGlQM2xiall6TmJnMDNDTmdlbmVYa2l5UFdQRlZIYVFoSXNVZnNSelNWV0Nza2tPcnR0X2t0d0VYLWVrNUk5d1c4V08zSjlRT1ZtMzJwRW8xNllSeVJzODlRSlk5Q2FoM3pBQXRkblhkUTQ1Z1pUV0hDOUJTbEpZcTZ4TVk3TjNEUWxNbHFFb1FxQkVReUdoejY?oc=5",
     "date": "2026-09-23T09:50:37.000Z",
     "summary": "Europe's economy surprisingly resilient amid war-driven energy shock, surveys show  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "Iraq offers prompt heavy oil cargo via tender, document shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHFRTHZVRGQzMGxlSDl0Rk1JRzZNMlotYkNCdHJQQkpJRGE3VFZTVU1xVTktcU1aMVU3MXpfQWttVVJ5eHZrdUgtQUw4N2NnanpMNDF0UWRxYjkyRVVmejA2MzdyWXZ5d0g4UWxvNWM5M2xOSjc5ejNtNTM2YzFNbnlMdHFJdVZrMV9iQnV2UHJXVHlxc3RzY2hpeldDbmFBaVFrYXBmel9CdXJBUXk5Y3lR?oc=5",
+    "date": "2026-09-23T09:07:03.000Z",
+    "summary": "Iraq offers prompt heavy oil cargo via tender, document shows  Reuters"
   },
   {
     "source": "Reuters",
@@ -2637,6 +2798,13 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmxpY2hBRXpFVHFlYUgwLWIxUkZ6dm5pNFFkME1CYzN5bS1SVV9zd19vTHlVUzI5MDhQWFhmdy05blV3dGZtUFNISkhqNlJ0S3k4el9lVE9pNjZYVmt6R19zSDlaSXEtbEZhUWpYYzFDM013UTVHeUgxeFZsdU5FZUttRzBzWmJJNGRBT00wMzRFYzY5VXM4OWpMT0M2SC1oRF8wQTdfT1l1MHlvWTZhS3dBTmg?oc=5",
     "date": "2026-09-18T20:54:03.000Z",
     "summary": "Trump says he might ban other media outlets from White House  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOV9pOVBZSm5jQ3VudHFUNnVmQkswMzJhajNOTmNuZm81QkxRWVlVTWoyM1M5ODFtTnRuc01WX2wzdEtNRUh2SmlSRzFsWGxhaWZSNkhuQmVYQlF2TUVWaXJNS0xlVmZ4SkVCV0pWNlhUU1NsSVZZVU9oUzFWNm13R01pMkd2cmYtOXpRUTk2M3F3T29jY0FoMjZINDlreFdCZnpwV290RTVxQUJtMVJxbUVvT3lmeVgtRWtXNVA2SWU?oc=5",
+    "date": "2026-09-18T20:36:47.000Z",
+    "summary": "Check out this job at Deloitte, Junior GIS Analyst - Delivery Consultant, AI and Analytics Solutions  Deloitte"
   },
   {
     "source": "Reuters",
