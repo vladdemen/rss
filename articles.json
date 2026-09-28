@@ -1,5 +1,54 @@
 [
   {
+    "source": "Forrester",
+    "title": "Alibaba’s Next Chapter: From AI-Native To Agent-Native",
+    "link": "https://www.forrester.com/blogs/alibabas-next-chapter-from-ai-native-to-agent-native/",
+    "date": "2026-09-28T04:36:26.000Z",
+    "summary": "At Apsara Conference 2025, Alibaba Cloud positioned itself as an AI-native cloud provider, combining infrastructure, foundation models, and platform services into a unified AI stack. One year later, the company’s ambition has expanded significantly. At Apsara Conference 2026, Ali"
+  },
+  {
+    "source": "Reuters",
+    "title": "China says US trade truce extension creates space to advance talks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5",
+    "date": "2026-09-28T03:07:00.000Z",
+    "summary": "China says US trade truce extension creates space to advance talks  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China's industrial profit growth slows further as economic imbalances deepen - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGRoN0tpc0FCRXdvTHEzV1F0ZzBzV1ZWMFFEYXl1WC0xUWxnaDdJTDNWcEtFaHh3a0dob2hwOGVNQ1ptR2c1N0QtNkRfd2UzT0VPSDFMNEdIaXJGdUZFMmRvbDd4T0pVOU9SWjlIYTNqNVJUQ2lMSmxBSVRlNS1kSzZYYTBteHpQT1FKcWZJOTBrRXY3RlM0cnpyNlFsNXAtcC1WdXZB?oc=5",
+    "date": "2026-09-28T01:40:00.000Z",
+    "summary": "China's industrial profit growth slows further as economic imbalances deepen  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bank of Japan debated need for faster rate hikes, July minutes show - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0Rid1RQcVo2QlNMTTZDOGEyYmRtQnFYVVJDN1pBMGpwNGxzS19vN1VBMHVXbDFtWkZHOVJhZTNxaWptMGsxbkxDQ2ZSNjZkNFdMTUQwZEhuaW1FUGhHUnJhWGU1eU5NQ1QwRWpDUURJQS1HUUdNYmFZbldSdFk4VGRXSGhUTkVPbk1QSUxzMV9ZckpvMWJYaTNPaWswYnpCTkpEUk9xNUhFMjEyVDRJek93?oc=5",
+    "date": "2026-09-28T00:58:00.000Z",
+    "summary": "Bank of Japan debated need for faster rate hikes, July minutes show  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Stocks slip in Asia as oil climbs, bonds retreat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
+    "date": "2026-09-28T00:50:00.000Z",
+    "summary": "Stocks slip in Asia as oil climbs, bonds retreat  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Japan's corporate services inflation hits 2-year high - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckhuSjBSeXYxT0JkaDJPZmF2cThESzJvaEE5dHBWWEpZVFVvbGdkTlhfa0NKOGllU1AxWTBHRzdDdFhTN2VWM1h6TUVEeTNWdmt6Z0FEajR4V1JMckFZZm9wbG1Hckh6d2NuTHhGTGRLbDlSeGhoQ21JNURHcjFkbVZROU9FMVVvNVBqYWprbGk2ci1vaHA0YmU0emluY09xRHNOd3ZTdG15Vlk?oc=5",
+    "date": "2026-09-28T00:29:00.000Z",
+    "summary": "Japan's corporate services inflation hits 2-year high  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+    "date": "2026-09-28T00:17:00.000Z",
+    "summary": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
@@ -8,10 +57,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBWUjdTSkRRcUtpSUp6djB6M1NoZHpMQmlsRXBpU3R2Z0ZuT2dOa09tYzBoQ1hQbXFGbVJGa3c2TmFiZ0JaUF85cU15bXVOcTBKdUgyYWdoUGRJT1htcmZEN0NJMGJlT0JtWHBPQjZJeDhiMzlQWFBYWFl3WDRMNE5nem12bkFobF8yMFJMaTZ4bkZwRVVQbEUwZG5UY0lXR1VZTnRFNVhZSkcxYnkxT3hsQTZlOF9UaEt4Q1VTem1PUURnQjdFRWViN0QtSzBVb0tlcFFpUnFFSFBMMnc?oc=5",
+    "date": "2026-09-27T22:02:38.000Z",
+    "summary": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
     "date": "2026-09-27T20:13:48.000Z",
     "summary": "South Korea demands apology from Ukraine over North Korean POW disclosure  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Floods, landslides kill 56 in India and 14 in Nepal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+    "date": "2026-09-27T18:43:58.000Z",
+    "summary": "Floods, landslides kill 56 in India and 14 in Nepal  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
+    "date": "2026-09-27T15:24:00.000Z",
+    "summary": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports  Reuters"
   },
   {
     "source": "Reuters",
@@ -54,6 +124,20 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNpd051YmVtWG1CajVjZ1NPTzhzNVJ6aG5uc3p4SXBIZFBDdlhPZmMySXlNWVNaY21wUXNFZnJ0aVA5bklra0E2SVJxT0k1QkZtQ1N6bVZXdEtwblFES2xWNGhpU0ZUU3JhZkRXM2xkc3YzUmMtRFJLV1lWNFZyWFdJcndhMm4zVE9XeGdTMG9oR0tqNGwxOXloQzhNRjE3dXBDQ0h2a1RPN09RNmJUak0xbnQ1ME1nTjBR?oc=5",
     "date": "2026-09-27T05:02:00.000Z",
     "summary": "US consulate builder in Milan to pay $35 million over labour probe  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bangkok floodwaters recede after torrential rain as residents count losses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUk3bWh1Mm1sUEZaODJkYkRUTks5S24zSG1JNGwwZHZHQVhpMXNHZTl4aXR5QVdmWW0zVHEwc01DTVc0VUxLTG1zMVBlaTdJaEpONTRFajdpYzhnSTFTXy1iby1FQ3JuSzlsR1JyZUZzSmZ1NHZFYkpyVTJvVDJWenJrdldYWF8yLXJLRTNFMmdsLXptM1ZSc3hhX2NpRURMMHdNcm4zRGdPclEwUmxYZA?oc=5",
+    "date": "2026-09-27T02:07:00.000Z",
+    "summary": "Bangkok floodwaters recede after torrential rain as residents count losses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5",
+    "date": "2026-09-26T17:49:00.000Z",
+    "summary": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled  Reuters"
   },
   {
     "source": "Reuters",
@@ -498,6 +582,13 @@
   },
   {
     "source": "Reuters",
+    "title": "East German town bans future Holocaust memorial plaques - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNby1XUXBfbVk4eVAyWUlZUXZhQi1saDVDWTdJU1dUb2N0aVFxY2NJdTdaczY1QnlXODVzUnZuRThwSEwwb2stNkFOSklmU3VLUVJXZ3cxRjdhVXZGSE9hTVJPbUdvTWxyMXMwVUdTNF9TNzg0N2tTU2wzRTY4Mngxams4Wm5WMS1xZXJ4c0w3NU11YzMyQlNaclNMSFBuUFlnWVozZDBEYWJCZ2pOWE1RMGRMMGg?oc=5",
+    "date": "2026-09-25T11:27:43.000Z",
+    "summary": "East German town bans future Holocaust memorial plaques  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5",
     "date": "2026-09-25T11:15:43.000Z",
@@ -509,6 +600,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUd6QzFyeHBYYlMtd0RybG1XVjF0ZlZwMjVWS2JSVS1WbWR4WWNZQ2ZNajYtdUpGcm1QTC00WHdzWlRSaE0xNVdwNVVoOTZvNm9ubkw2NHRKQ216cWVRTEdQSlV4bUxpNVM2VWtSWDFQVU1RWmRqNVN3X2ZiMEFKMnpad3g1LVZXWWFkbTYzb3hHNk1hNFhORTVLamtIck9pNS1aYWdyNDBUaEgzWjVyS245VGM0X1M5WkRiYzBPUlRyUQ?oc=5",
     "date": "2026-09-25T10:23:03.000Z",
     "summary": "Italy seeks refiners' help to boost domestic fuel production in bid to ease prices  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "Americans navigate 'wild West' of health insurance options after dropping Obamacare plans - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYTYtOGFSaGk0eGlEek9IMkxrTTY5MVhHdzZJNl9wWjN4b3hfOEZHdy14alF1LVBZMEhJXzE4NEtkSjRwWkRKLUo1R3NTYUJNSW1EZXFFUEd0UHdZVnRrSE41c0tkd1hKTTBpNGJZT0Fpam03TURzQVo1UHNVSE5qMHlkcWotY2ZHNG1BcnRvb3NOVWtlR0tUZHk0RDVZZzBmczRyZTA5WGpySGV5d3dvZkp1bW5tSGNOWnZzSzVOSmc0UWtONXJXdkxKRQ?oc=5",
+    "date": "2026-09-25T10:05:00.000Z",
+    "summary": "Americans navigate 'wild West' of health insurance options after dropping Obamacare plans  Reuters"
   },
   {
     "source": "Reuters",
