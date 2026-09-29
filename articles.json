@@ -1,5 +1,250 @@
 [
   {
+    "source": "YouTube Blog",
+    "title": "We go behind the scenes at Made On YouTube 2026",
+    "link": "https://blog.youtube/inside-youtube/behind-scenes-make-it-made-on-youtube-2026/",
+    "date": "2026-09-29T19:00:00.000Z",
+    "summary": "YouTube employee Nina Fan takes us behind the scenes at Made On."
+  },
+  {
+    "source": "Bain",
+    "title": "The Missing Architecture for Agentic Software Development - Bain",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVZNdnpwZXJoSF8xeXZCUDdJTHlTTW1laDIzWU1nLVNXRk9iVjZidWpiUnh5empjeFJTd1pGVG9QT3N1WWc2TjdTazE5d2RrYkZEeUVJd1Zfdk9IeEZTNmMzQmxFNnJsRnRnTVpkWHVDMUstNUdvOFd5OHB1WW1hUG5UMjlQZmVkRXlrNi1KY0JmUXREM1dTQkJPZnNqWmpfSVhEYlFGVkxlbzhQcFMzRg?oc=5",
+    "date": "2026-09-29T18:22:30.000Z",
+    "summary": "The Missing Architecture for Agentic Software Development  Bain"
+  },
+  {
+    "source": "Forrester",
+    "title": "As AI Adoption Surges in B2B Marketing, Work Is Changing",
+    "link": "https://www.forrester.com/blogs/as-ai-adoption-surges-in-b2b-marketing-work-is-changing/",
+    "date": "2026-09-29T17:59:24.000Z",
+    "summary": "Across B2B marketing, AI is no longer an emerging technology for experimentation or being tested on the sidelines. It’s now a core part of how marketing organizations operate, and it is already reshaping marketing teams. AI Nearing Majority Adoption Across Marketing Use Cases For"
+  },
+  {
+    "source": "Bain",
+    "title": "Managing Token Spending without Choking Off Opportunity - Bain",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSzNnUk9JUGNGVHFFVElJbTJsYlhjVWpDYlV3bVZ2cXJDMm11OHhib29ZLTJjeWtPOGpBUW9sR3hlVEd2Z0NCVnpyS0lINTJYcXJNdXdQR3dicWl6eVdUWkNqZUVXdnczREJiTHFyOC1nc3FWWHhHYzFkSUZROUpsWEVxUHVjc2lxNjNrV0FpU1Nka04ybXpfZC1xRDRLdjVqdjdxd08tazdNTVpMV2c?oc=5",
+    "date": "2026-09-29T17:48:45.000Z",
+    "summary": "Managing Token Spending without Choking Off Opportunity  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "Hardware Strikes Back in the AI Era - Bain",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2tfQ21ETHRRLTQ2cDdWT1JySk5IbklyYzRkbDZzSGdqOE8xdlJEbVBoNTNUMEdDTnE5U19Dem9vRGhwN1ZDUUQySDFyX0JpYzVJek54UlhndldsaF91T3FHalhxbFRpVkVwdkVGVlNCb20zdDZRMmZzU01ZUmU1MXJ1Z0VOY3BETlRHYVJoSVpUQXc?oc=5",
+    "date": "2026-09-29T17:48:32.000Z",
+    "summary": "Hardware Strikes Back in the AI Era  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "Software Investing in the Age of AI and Slower Growth - Bain",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3pmaGJXX1R4cEdqU1laemV4OTZnOVZvUGphY3g2TzdKdjhFalc1NVN6TkJYTlB0cndqSEc2TmdEYUl5YVI0b1FNbER2RDc2MmtfY2o0TFE0dmJpSjRuYTVFR3YydlhOM0hxSzV6MS1VUnNrVlJoRDRWUHo4b3ZyTjQtS050RkpJQU5KOWpSRGpVblBnUWktcXdfNGFXWHVzSlF0U3J4cS0xLWM?oc=5",
+    "date": "2026-09-29T17:48:28.000Z",
+    "summary": "Software Investing in the Age of AI and Slower Growth  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "Cybersecurity’s New AI Imperative: Attacking the Backlog of Vulnerability Alerts - Bain",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM01yTFR1OUtlbUxJd3ktZEJIRlQ2VVBBXzIwT2FyLUswU21EX3dBZTZPdkFGemQ2WTQzaVRUMU1CLVA1QmJPMHdvNnZNU1NCcl9tYjkybnNfaDZjRFI3Y2pUWWtmRjJOXzVZdUNwR3ZPUWpYcURwYnNOY1dZTlFEVENEVTJtd0pLWDA2THkybk42RWJKeklKMWpMTG10QlhpVjI4UmMteUluemo5MmtOakV3bjd6a1plbnJaTENoV0VlcmFDQlJmaXFsa1A?oc=5",
+    "date": "2026-09-29T17:48:26.000Z",
+    "summary": "Cybersecurity’s New AI Imperative: Attacking the Backlog of Vulnerability Alerts  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "Why This Is Clinical Development’s Defining Moment - Bain",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTVoUmNYZi1KVzNGZXBlMjBSR1hneXJjeEFROW9FZVRORmxGRmtkVWxHRXh2ZmYwS2xON1EzUURhZ054bWc2LVpkb2RvX25XNHJjWlJES1VDNmhtd09mMHB3bWdaVTdJVE5NR3lYdFgxRWswZExKTzNkRlktTEpURjJOMFJCQVU?oc=5",
+    "date": "2026-09-29T17:48:24.000Z",
+    "summary": "Why This Is Clinical Development’s Defining Moment  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "The AI-Native Enterprise: Absorption Is the New Advantage - Bain",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTF1aGxTRTEwSUxmYndWNzY2a185dFRxWEMyb0ZacWo0T1pyWTJ1VlZBNVNDSGxfbzREdkVpV0hYdG1mUGpoRGhrd210S2VFT0c0TkhfZUxEZHozNzVxdUlUcWgzSnZDZWZZTnJUaXBfTGdoTTktYmxSZ3RMU3huLWpROXlQanNzNXpCQXh1dGFjZ0ZPRlpIR2lEeE9Jc3BSejRoZDgtNU9ldkEwT0dF?oc=5",
+    "date": "2026-09-29T17:48:19.000Z",
+    "summary": "The AI-Native Enterprise: Absorption Is the New Advantage  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout - Bain",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5",
+    "date": "2026-09-29T17:48:01.000Z",
+    "summary": "New Innovation Is Required to Fund AI’s $6 Trillion Buildout  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "Tech Services: Cracking the Code on AI-led Growth - Bain",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0c3cC1tWDdMUEVJSlBnMTNyNXFXYVltNHc1dE9Mb1VBY2VwU1pzR2dnMGEtT3hRRTFwa0ZaakU4aFR5U0NHQThITU1QMVp4MHpFMmFXYUt6Sk9IZTJhVjcwRUlNdV9yTFQtTEc1WXZrd1hpSFp5aWhjclZraU5rMUtFc0tFUlVJZzlUV084bDdnV1VtS0twV3JxdGwtT0tIZk0ydQ?oc=5",
+    "date": "2026-09-29T17:48:01.000Z",
+    "summary": "Tech Services: Cracking the Code on AI-led Growth  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "How AI Is Changing Data Monetization - Bain",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2lma0xaVnZ1RFZTelNzY2FCdVJURVllMkMtOUZxVlo4cnRKcHpPbGlJRXFobzRPcHZuUlNCeTlGN1NMaGZEUDEybHFvbFhjTmNua1c0bE1hUDc0UzE0R1FaanJOWlhFUi0wVU5MSFZoMjI4ZmwtZVVzY01HNFphU19IWkdLRXhIYlZFQUVDTElRYzhr?oc=5",
+    "date": "2026-09-29T17:48:01.000Z",
+    "summary": "How AI Is Changing Data Monetization  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "The Half-Finished Redesign: How AI Reshapes Software Organizations - Bain",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXBRZVlVUnB6VDlvZEdoWjVIZEJSMkN0M2F3RV9rZGN0ZEJSMDBMVkJveURiVU5qamV5TS1NcWZRS2FhQjUyWkx0eXdhcmNIMlBiSXh1cnU5S2w3Q3lPY3VsOVBHN3ljZHpLdmo4R2wwT0lSd01TOGlxbnl1OFVLNVc4VXhkWWFmVE9NRnJEeEEtZlQ5UEpLejVhVWxTTG9SNS1CNmF2RjBia2UtU003LUl4Tms1RUIwSV9B?oc=5",
+    "date": "2026-09-29T17:48:01.000Z",
+    "summary": "The Half-Finished Redesign: How AI Reshapes Software Organizations  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "AI Data Center Boom: Can We Build It If They Come? - Bain",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWNvX2lrSDdtMnFwTDUtWUV3WjhUQ2w4d1hmalI3bHA0bUF2MmVMeDFQLVpYMUJIQjg3OXo1dFN1RUZtYll5OHkxUlpSa1FBajRBeVB3N3d5SmpwN0RmempoOV9WdnlzeV9URURzNU93RkhVV1poTmNFdVNkQ2VjNWRReDQyN24wODVNbWRqUUE4V1JmWjFzb0tPNGNDWXJsN2d1dg?oc=5",
+    "date": "2026-09-29T17:37:30.000Z",
+    "summary": "AI Data Center Boom: Can We Build It If They Come?  Bain"
+  },
+  {
+    "source": "Bain",
+    "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - Bain",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPclhWRTRGU2lyM3ZJSmNHcW9uNHI3VklqcEFpRV9sN05jYmhtYzZvZDJ4bnZnalBORUwxQ21nSnVMNUhvdW0xaVB5WGZVaERxNE1LWFpaa3BzVFpoamhKY2pTYmt3STQzVnI2djhmYmxWWGczWnhqaWVwY1p1SGMxV2hlbUEzVHE5VzNuV084c0c0T0s1eFJsbE1hd2ltS1dVQ3RSeF9rQ0Y0WHlxRHVZeENub1UzQXFkR1BmaWFXaTdWSC1janp4dFp1djAwZGFuTTlGbWJod0JOV2pybjBwSFc1M25jdVhqQ3IyNFJvNFdwUHNnWFdzWlB4ZGE?oc=5",
+    "date": "2026-09-29T17:37:30.000Z",
+    "summary": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor  Bain"
+  },
+  {
+    "source": "Forrester",
+    "title": "From CRM to the Agentic Enterprise: Salesforce’s Biggest Dreamforce 2026 Reveals",
+    "link": "https://www.forrester.com/blogs/from-crm-to-the-agentic-enterprise-salesforces-biggest-dreamforce-2026-reveals/",
+    "date": "2026-09-29T17:37:02.000Z",
+    "summary": "At Dreamforce 2026, Salesforce presented its most complete vision yet for the “agentic enterprise.” It shifted the core focus away from individual apps (like Sales, Service or Marketing) and unified them through a single architecture built around data, logic and AI agents. It inc"
+  },
+  {
+    "source": "Reuters",
+    "title": "Spotify and Claude recover after brief outage in US - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZGeHhCUUctV3ZXZmpFV1NheVhYbFZYZkRPNjY0SWpRMFZGVjg1Zk9HYjRUM2NtRVc0SlVZbE00a1RDT283S1h4NGp3dFlkWUlDMzJKQmZldl9pY2VKejhhaFJBQUk0VGR1NTRoN2tJZ19PaFNoVEJvd3RwTkNoVUNidXM1VGVzTDUwcDQ4MDk0YklLdm5Ia1Bmbw?oc=5",
+    "date": "2026-09-29T17:28:12.000Z",
+    "summary": "Spotify and Claude recover after brief outage in US  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
+    "date": "2026-09-29T17:17:43.000Z",
+    "summary": "OpenAI takes on Meta with always-on Dots agent in enterprise AI push  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "Profound vs. Athena AI for AEO: How the tools compare",
+    "link": "https://blog.hubspot.com/marketing/profound-vs-athenahq",
+    "date": "2026-09-29T17:00:02.000Z",
+    "summary": "If you’ve searched “Profound versus Athena AI for AEO,” you’ve probably already hit a wall: every comparison you find is written by a competitor, an affiliate, or the vendors themselves."
+  },
+  {
+    "source": "Reuters",
+    "title": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+    "date": "2026-09-29T16:57:17.000Z",
+    "summary": "China's AI agents can lie and scheme - just like their US rivals  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Alaska Air bets on premium travel to boost profit as fuel costs bite - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE13SVhVZi1LZTZ0ZDhfOFlfTU9hX04ydDNQdWZwWkpHT3gwZVl3QXBPNXBjd00zcjExdVZMY2NWOXBJcUl6OXdTTEgtNHlBYkF4aXVoNDRKcFNCdUY2dGlXQlJ6SlFDZ0NuLXlpR0xYQ3UtN1Z1OW5Sc2tkT2drZnhhTGNtSGVORkRmeUhSczJrd1IyWF9OM2hpWkhBV0xZOTVMcEJUTnpRZTZhNlZ6blF5dVFHSnVpQVVOWldxQkktdw?oc=5",
+    "date": "2026-09-29T16:17:25.000Z",
+    "summary": "Alaska Air bets on premium travel to boost profit as fuel costs bite  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Find Your Community With Forum, a Dedicated App for Facebook Groups",
+    "link": "https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/",
+    "date": "2026-09-29T16:00:05.000Z",
+    "summary": "Find your community with Forum, an app built for people who want to go deeper in their Facebook groups.\nThe post Find Your Community With Forum, a Dedicated App for Facebook Groups appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Reuters",
+    "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
+    "date": "2026-09-29T15:52:17.000Z",
+    "summary": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Alternative capital powers America's next wave of LNG and pipeline projects - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXd6NlljZk9vTEZ3MWtuOXpSdVA4WHZaNC1pT2ZvTDIyQTZLd0djSWQ5OVI0Y0tCM29kMmlkbkMxamFXX0g3b3ZWS0pzWDd1TVdYSVB1ekQtYjVtZFhKbUZGMjhWb19iR2FXYnZSZWNoNGtsak80OG53QTVXM0RxM2xhUEpNQ3RDMl9zUERGWGFSby1wY3d4bmM5cWh1T0dDWi1MaUFYNGk0dFF5T3l6NENJckFkYndwQVVF?oc=5",
+    "date": "2026-09-29T15:40:56.000Z",
+    "summary": "Alternative capital powers America's next wave of LNG and pipeline projects  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "How to Retarget Influencer Campaign Audiences After They Don’t Convert",
+    "link": "https://influencermarketinghub.com/retarget-influencer-traffic/",
+    "date": "2026-09-29T15:32:52.000Z",
+    "summary": "Influencer Marketing Hub\nHow to Retarget Influencer Campaign Audiences After They Don’t Convert\n\nInfluencer marketing drives fast reach. A creator posts a video, comments flood in, site visits jump, and a...\nHow to Retarget Influencer Campaign Audiences After They Don’t Convert\nN"
+  },
+  {
+    "source": "Reuters",
+    "title": "Iranians stagger under soaring costs of seven months of war - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZiODJvYlVSWTFTXzU5NnY5dV9vQzAya01EME94cUZRdmtITkpwTnR2UWVLX0gtY2hOX0k5bE1mbUpSSjhGMU43NDRqQkJJaWVVVmt6d1p3cmJnVGdJQkg3U0RtUTZXVDRzVUNJdnB3bDdiUmVLTDF0ZXc1a3FnTi1qMVNOZUxxeVFZR1JxbDZUaFVmT2RIWDlTN292SFBUZlVYUDZwNG0?oc=5",
+    "date": "2026-09-29T15:10:18.000Z",
+    "summary": "Iranians stagger under soaring costs of seven months of war  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Nigeria's Dangote says refinery IPO demand 'enormous' as Kenya project advances - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjJSWDBxT0xfS1B2cGVZU0tOMnM2ZnI4T21ZbExxZkp5U0JhSFlNMXBDTkdLZkhXajNVZnQ4cm1zWXVuNW5qTi1nUjQ3TEdjYm9xalF3RmNXVWprQ3hOYzJYN3ZGWTUxR2p2SU5GdVNjcUl6dUxKS1A2Q1hob1hnZ1Q3MEZYS2gwdW1CMmpJVTZmdmNpa08zbjZhdk1zZDJQLUFpbWVSdUF1Z183ck5NTnJMc3RCNWFqYXdBenFSUDVEWm5E?oc=5",
+    "date": "2026-09-29T14:58:07.000Z",
+    "summary": "Nigeria's Dangote says refinery IPO demand 'enormous' as Kenya project advances  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Localization Affects Your Business — Do You Choose To See It?",
+    "link": "https://www.forrester.com/blogs/localization-affects-your-business-do-you-choose-to-see-it/",
+    "date": "2026-09-29T14:56:29.000Z",
+    "summary": "“Reality doesn’t care what you think.” Localization shapes experiences that most business leaders can’t personally evaluate and rarely examine closely, but whether you see the business impact or not, it’s there. Have you ever tried navigating a website in a language where you hav"
+  },
+  {
+    "source": "Semrush",
+    "title": "The LLM positioning lag: What it is and how to avoid it",
+    "link": "https://www.semrush.com/blog/llm-positioning-lag/",
+    "date": "2026-09-29T14:50:00.000Z",
+    "summary": "See why LLMs get your brand positioning wrong and how to fix it."
+  },
+  {
+    "source": "Deloitte",
+    "title": "Associate, Market Research and Insights - I&CPM- Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzcyb0FsT2c4UkxJYWEyLWZpS2h6UjYtczAtc3ZXWm9zR29hWkxDMHpnbHpLMEttc01FRWoyTXZNU0l5cVpzbmRXNENfLTFUdkNRQllRaDFzR3VIRVIyUmJ4c0VNNFFsakM5VVYwVlhmdXZNRVFwX25BdGgzX2hfZ25oRTFWWF9kTHNQRkMtU3JqZms3ekNSRUNUNVlpQk5MdkI2RXUxZ1RGbjBmZlVXamFCZ1IzT2daeVlqc1g5dF9CVnZEN1VVdEJ3?oc=5",
+    "date": "2026-09-29T14:23:01.000Z",
+    "summary": "Associate, Market Research and Insights - I&CPM- Hyderabad  Deloitte"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Why in-house marketing teams are turning to external support for influencer campaigns",
+    "link": "https://influencermarketinghub.com/in-house-vs-agency-influencer-marketing/",
+    "date": "2026-09-29T14:13:27.000Z",
+    "summary": "Influencer Marketing Hub\nWhy in-house marketing teams are turning to external support for influencer campaigns\n\nInfluencer marketing may be owned in-house, but that doesn't mean every part of it is done there. In...\nWhy in-house marketing teams are turning to external support for"
+  },
+  {
+    "source": "Reuters",
+    "title": "Who is John Waldron, long seen as next Goldman CEO? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1ZmOGJFMHFKSDY3YmMyeW9feWRFdU02cF9xRDNpOUlEdTNNOWhsNTBCdGhYaXI1eFVRUzJsZXZvaFo0OVE0elZRS01yYTdDT3d5ZEZsT3dxZ3d5RThXQkNwbk5UcVE5VFE2QjJKUUVUVzE5U05lX1lybjVHZTRnUm84T1htYnpLYURtV3FsZVJlblpqWVlGcDgzSUZkTFpZYl9tQw?oc=5",
+    "date": "2026-09-29T14:11:17.000Z",
+    "summary": "Who is John Waldron, long seen as next Goldman CEO?  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta expands Instagram school program as teen safety scrutiny grows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTE9fLXRRSzFCV2pSSkNMUkJBVlFsOEZlbEtIRkx2Y3dQV1VLN3NfNlRBaXl4SzBwZk9jOFlWbnp6ckJIOFRMZE1wd2hSNmIyS1JBb21ZVzA1bWtHM1U4akREX0hzMkpYcUlDYmZjYk16ZnVRblhHeXktX2NNSmMtRmp4ZGp2RHlFYWhOOW9XTlVIcHc3eDlCVmhXR1M5dzFMU0Z3Y2o2dlhaZzdMd2hKV3lHUU5kaFQyWFBNNHNYZk8?oc=5",
+    "date": "2026-09-29T14:01:03.000Z",
+    "summary": "Meta expands Instagram school program as teen safety scrutiny grows  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Soaring cancer rates in Iowa emerge as a key US midterms issue - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5",
+    "date": "2026-09-29T13:59:09.000Z",
+    "summary": "Soaring cancer rates in Iowa emerge as a key US midterms issue  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "AT&T signs over $3 billion fiber deal with Corning as data demand surges - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTFBWVFQaDBka0NCQzJEb3Q1STFOQy1pSDFYTVhBaWt5Y3NGa0xiUGpYNDlES0xFdFN5S2ZBa3l2WFgxc2NxQk5DUkZaSFdVSGpDZkx5a0Jqc24tMGkxRURkSURrZGRnNVRZdjhkM3NhY3FiOFVvc2tVUnpWWXJXTTd1dzFac3NObDE4TWQ2RVpvZ0Q4VVFJVlBtRDFlMjdkX1lXal9fVF9TUF95bXg5RjdUNGpFdk1rRV9WQWNVUGFiTFdx?oc=5",
+    "date": "2026-09-29T13:31:29.000Z",
+    "summary": "AT&T signs over $3 billion fiber deal with Corning as data demand surges  Reuters"
+  },
+  {
     "source": "Meta Newsroom",
     "title": "Expanding Instagram’s School Partnership Program to Help Teens Stay Informed",
     "link": "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
@@ -15,10 +260,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Italy completes troop withdrawal from Iraq - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjVUTzctQWVtRlBlYWkwQkRvNEFnTUZJNFl5eTNhY0lrZVhMdnFBcDByUmJiTzhKbkUxN1dwc0ljNXJUVmUwWXdrYWtMU3ZoV2hoQXNRRjJBZjVMeExvdmp6dmUxMFF2WVBkX185al9LdllIVTJQYndFX0dGMEd4VHR5YndRYUtfd3Nxd0Z4UlRORHQzM09oOTNieGZUYmVzTGc?oc=5",
+    "date": "2026-09-29T12:57:04.000Z",
+    "summary": "Italy completes troop withdrawal from Iraq  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVCbjhpLXhaZU5LbGk2TENxV0NHbXdFSS03bVpudXJnOE84Y2ItOGxEdHRHRHYwNG80SlRsZEVLNDN4eDJNaDJJRmlxbWpyNDU4Uk9scjNCQXVzelhERzZzZUZOS1c0M3JEMFpMWjFuRGU2cHhqQk1ZSDlIMFRwZmtCYXJZajFpcEM4cFRIUF9tUWljSVRzRFN4akQyLWdaNVltTDY3anJJUkRHbWctVkNRbzNQV3FBejF4UldtcXA2QQ?oc=5",
     "date": "2026-09-29T12:47:43.000Z",
     "summary": "Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI startup EliseAI valued at $4 billion in latest funding round - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5",
+    "date": "2026-09-29T12:25:37.000Z",
+    "summary": "AI startup EliseAI valued at $4 billion in latest funding round  Reuters"
   },
   {
     "source": "Reuters",
@@ -42,6 +301,13 @@
     "summary": "US stock futures tick higher as tech steadies though oil, yields stay high  reuters.com"
   },
   {
+    "source": "Reuters",
+    "title": "Oura joins wave of IPO delays as markets turn shaky - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDctV240eEZCRDJqSGJ5ZTRPSm1uaDNIalFqY19ZdjVjY2ZTZXU3Zi00NkNpM3haSVZkU3dDNzNvYzVkcUxRWkNlOG91OUVMbGJHc0xwU0FmaE5RdEtsNXl2NXlOTFQtMHRLWHM0WWFtLVJGZXZDRG1zV0tMU0tVWnotdUpMNFZSZW03b3pwYktDVmZz?oc=5",
+    "date": "2026-09-29T11:35:43.000Z",
+    "summary": "Oura joins wave of IPO delays as markets turn shaky  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Says Enterprise Risk Management Leaders Should Target Three Key Innovations in Risk Reporting - Gartner",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdlMtendFODF2Z2czV0w2NU5MVW1XZEZhOGhGbmJmUGFHMW5SR05uWkpJbTVHeEppZURpUGtYeXI0SUlRa2FnakM5bW9IT2U0OEUzUzNMWnBHSE1rVDNBRTI1TG1TMExGR1NBQ3JfMTc5TUFxSFpxZmZpbnZRaG43QVk1Um02XzVHSDlfd0xWU0tWSlkzNC1fSmppYnJMbnlNTVd5V3RGekNlOE03MGtveExpaU5xN0llTzY5clZaVzQ0YUNWVGZpUE56U01Zd3lQbEhTS0lBbURteU1CbHZyWGVyUEhZUjFaTk5CNkE3MzY3UGNSenhZ?oc=5",
@@ -54,6 +320,20 @@
     "link": "https://influencermarketinghub.com/how-lovevery-connected-parenting-content-with-product-discovery/",
     "date": "2026-09-29T11:27:28.000Z",
     "summary": "Influencer Marketing Hub\nHow Lovevery Connected Parenting Content With Product Discovery\n\nHow Lovevery Connected Parenting Content With Product Discovery\nKalin Anastasov"
+  },
+  {
+    "source": "Reuters",
+    "title": "Target lowers prices on nearly 2,000 items ahead of holiday season - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1E3TENhdEd6akVBdHFQcFpWREh5Q2luV05JZXFZT0RNZkwwamZHZWZhWUxKWW9aUmttQ19PZGdDQ085TEJKV1prRGx1bUJtRUdDSm44MlFGcWUtUzc1QkxqU0otVnpiR2RIdmRLNThqREhJTFp3OUVSSlI0TUlGOTJLaDlnMk96RldwLVlTMHZPeldvRGtnNG5nTVMtWHJoT0FtMzVENGVlU1ljcldyZnZBZWZ2Y25BNDZpbQ?oc=5",
+    "date": "2026-09-29T11:04:12.000Z",
+    "summary": "Target lowers prices on nearly 2,000 items ahead of holiday season  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Britain's M&S joins forces with Sephora to expand beauty offer - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRW4wSjR6eU9LRGNpNHBpOUN4YmVTRDY0eTlqYWNJTzdUYzhfR3RfQlBaU3QwUWNWTGN5RWFoY0xBZTZCVXBZcldwbTBrMWVqY2RhX0kteVlJeE9vY015bUh0Sld1Q1BNVElVNFNFYnRlT1hSTTRScXloOUFFcFVOY1VDZkRtV0xZSXl2R3QxYzVCSkEwTEtvNHN6ZFVRSXB4NDI4N21ERzhQR3hiXzE1M0w5RWUyWGhsTVE?oc=5",
+    "date": "2026-09-29T11:04:09.000Z",
+    "summary": "Britain's M&S joins forces with Sephora to expand beauty offer  Reuters"
   },
   {
     "source": "Reuters",
@@ -71,6 +351,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Explainer: What are Europe's methane emissions rules and why are they being delayed? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEdMQ0ZlemRNTTNOWHlDd3ZyU1oydDk1dkVqakQzdVBsWDJWcFBTdUo5QU9Pc1VjbUVEbUxVNWxraTQ5YjJWVWhvbko3eHVHamQtVmpwaUlCWkhvSW1iOGRob0tJUHVPQWtObENYOVBQLXFYS0JlS3NuQnNsTWZMTkZCNEF4ZndkVXJ2WmpkZ0VlYzdSWFVIblYzQmFLX0d0TXNOdjRjUVVRWUpZSVhnZWl6U2c3Q2ZPamlN?oc=5",
+    "date": "2026-09-29T10:33:44.000Z",
+    "summary": "Explainer: What are Europe's methane emissions rules and why are they being delayed?  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Faced with US ban, Canadian booze makers see yet more hurdles at home - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDZ1cVBHMzJMU3V4RGtpR3F4LUZ4dWVUTFI1Z0FhNDJHUkRJSlFMc2haTXI5R0pSRzBKek1IdV9CaDQwOVczb1dFOGF0a2d1a3dZVXdSMmlhQVhkaWRqd1QxUk9CRjRnSzF0SlJUMUlyWUFEZDR3OV9CUmtOMEhuTHdFdWYxTG5qc0N5MXMwRWNST0s2YmJrbk90al9OWmNCOUFtanBqWnkxck4yZmJr?oc=5",
     "date": "2026-09-29T10:33:43.000Z",
@@ -78,10 +365,24 @@
   },
   {
     "source": "Reuters",
+    "title": "GM’s pint-sized Bolt EV gets smaller production run - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk9DUGY3MTlQM2NqTTZCSFBSTnpXcXp0Y0ZFOW9rOWJrSGY3M2VteGVzUENDbE1ZMGdicllZYzhWdUNubEFVSGM0dHlpM0N6VE82eUpZS0xBaVB4UkVSeGZXX21JbkJqQVdiem9LOGQ3cGJLck5DcFpqckVkWEM5czlfX1F4YmFDa2NxUUR5ZU5fd1BwTXVJbVdTSE84cFd2TWlKalVtTElvUVZLRDBqRFZESWFNU1U?oc=5",
+    "date": "2026-09-29T10:21:54.000Z",
+    "summary": "GM’s pint-sized Bolt EV gets smaller production run  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives - reuters.com",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5",
     "date": "2026-09-29T10:20:22.000Z",
     "summary": "SpaceX's Starship engine failure could impact NASA's moon mission objectives  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "UPS signs exclusive deal with TikTok Shop for label-free returns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmpqUTR4UHhsaFMybkdXX0NUTFowbGZUbVFUc0hvbGpRVERISVhMdEtNRUl2M3JuVGVmOEtLRnFxU3JaU0I3R1NTZ3RRVkR0cmhwLTdVd21udkR0aHkxRG5lczhkV3BSSlBXM3VwTUI4T2N3bHRqYm50X1Bhb0IzeG14bk9EUkFxdlJiZjdfZS1yNGhIczMybUpEN0UzUE9iUE9MaXdyNzU?oc=5",
+    "date": "2026-09-29T10:09:45.000Z",
+    "summary": "UPS signs exclusive deal with TikTok Shop for label-free returns  Reuters"
   },
   {
     "source": "Reuters",
@@ -126,6 +427,13 @@
     "summary": "Tesla receives approval to roll out self-driving software in Croatia  reuters.com"
   },
   {
+    "source": "Deloitte",
+    "title": "Intern | Strategy Risk & Transaction Advisory | Risk, Regulatory & Forensic | Enterprise Risk | Riyadh, KSA - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNDJRZUNPeDRKYkxGMllzakgtWmRrU0NuMXQ1UnZJdzNydnN0RGhCQWQ5WXA1eklDd0pGWnpUOUxFTHVCblB4dnVwVWRmQzFZZGd2bm9HbXdIRW0ydGxDVjZVZmJCSWJGSmdLUTZrZkxLM1BSRjZVOTBGQS0wREV0c2NObFQ3OURxSHNqVi01aHV6VXhJN0phanU0M1NfWXRULXZIT3ZCYjBRbWxfR2hpamltUVhtUmV4czR2ejRrVnZvUDMzODhmZ3o3S0tCaTFRR1dFTGRVWmhHWFFxaUVSbjVtdkk0dlFIekx3TWp0VUZ4bGlfYnZPcTJBSjVQRDZRN0RDUA?oc=5",
+    "date": "2026-09-29T09:13:38.000Z",
+    "summary": "Intern | Strategy Risk & Transaction Advisory | Risk, Regulatory & Forensic | Enterprise Risk | Riyadh, KSA  Deloitte"
+  },
+  {
     "source": "Semrush",
     "title": "Google releases September 2026 spam update",
     "link": "https://www.semrush.com/blog/google-spam-update-september-2026/",
@@ -145,6 +453,13 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lWTTdxaVZMaDlmeS1TNERQbGRyNENwTzhUZGt5d2pMSFMwSFZpQUtHWks4UklrU2lKU2EyMWVuUnU3U1Y1Vk9icjlYR1F4M0pCNjdUWDZIVVpIeC1SMVVnT05ySmRSaGZYdEZnVXFaR01ISHlqdEttMVJoWXdGbTB0RlBUdVEwWDFnd3J5S2Q5TjExN0FFVkMwcHRES0k4R1luZDNJMUNmaVMydXBRX3g4RERlZHc4emUxN2xiMllTQlpWbUE?oc=5",
     "date": "2026-09-29T07:54:53.000Z",
     "summary": "Shell-led LNG Canada greenlights Phase 2 expansion, doubling export capacity  reuters.com"
+  },
+  {
+    "source": "Reuters",
+    "title": "Blackstone to launch investment platform for Nordics warehouses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVhDR2lhSk9TVnhoYmItdWhaYU1GdlkzR2NCaEh4ZFdOTFJ3WHNEMXp4Q0dwV3JQZWdObGYxWDd4alVaMGxnZlhlZno2V3ZJal9nbVJtRkY2anR2dU0tUGZfT3ZRb1RyOUdJVVNNUFdqYmNVY0xGRkp2THlGU3Q4MXdaNUhLQTVZVUF2amwyZldBRzN3YjJxMGEwbGZ2c3pDRUU0?oc=5",
+    "date": "2026-09-29T07:50:16.000Z",
+    "summary": "Blackstone to launch investment platform for Nordics warehouses  Reuters"
   },
   {
     "source": "Reuters",
@@ -180,6 +495,13 @@
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTjV2VTBHaExGT2dFVFl0a0VfekhyNVhDZFZDQkp0d2h2cHAxR0hRNlp2V3VIUnh3dldIVk13V3hDNU1FVmJkN2ZOamtFa29kdjY5dmNQRFBSdVJObzd4WG5tVzNJV2xoS25JbFlIeGlSek5xZl9uanNuTWhUbVphbW5tbTJ3RlhZSGRRamx4YUV4TkdvZnpIc2tHeTN6MFRNUFozTG9ra1ptYzhrLVo5QUZKSnVwanVmMkpZMnoyUTVaTnE2SGp1NlFoNHVHeHJHOGRwVVJiaWJxbkx1eldXWVJZSkllbzhoWGxv?oc=5",
     "date": "2026-09-29T05:52:33.000Z",
     "summary": "Analyst – Center for Energy & Industrials – Research & Insights (IP&C)  Deloitte"
+  },
+  {
+    "source": "PwC",
+    "title": "Companies risk losing their most AI-savvy employees while leaving majority behind - PwC",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlMyOUpxRktEaWtQYm5xZWM1SzQ0N1A1TllhOUtKTVVxM2o5ZUhzVzVUMVc4T0kxYll1T1lHRkhmYUdqU25lZ0lmUUg2eXl0WUVSWDFBb09hMm01NkZybTR2ZWhCVTJIeE5MQWUtcVEyMy1QUW1vckluVjBLcnpIZDJYVEduUEhjZU9kMUw0SlNNNGtEbC1xR3oyT2Rnaks1MlhN?oc=5",
+    "date": "2026-09-29T05:32:53.000Z",
+    "summary": "Companies risk losing their most AI-savvy employees while leaving majority behind  PwC"
   },
   {
     "source": "Reuters",
@@ -302,6 +624,27 @@
   },
   {
     "source": "McKinsey",
+    "title": "The next phase of government AI economics",
+    "link": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Make life better: Mikhail Lomtadze’s customer-first philosophy",
+    "link": "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else."
+  },
+  {
+    "source": "McKinsey",
+    "title": "How leaders are turning AI into growth",
+    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/how-leaders-are-turning-ai-into-growth",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": "Nearly 90 percent of companies are investing in AI, but only 6 percent see material impact. The difference is in how they approach it."
+  },
+  {
+    "source": "McKinsey",
     "title": "Workforce in motion: Skills and pathways to future jobs in the United States",
     "link": "https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states",
     "date": "2026-09-29T00:00:00.000Z",
@@ -400,6 +743,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG96UXB1djdqb2RGOU11dFpxQXA5ZTZPZHQ1VnY1MVlPQTNZOV8xSlVqREg0S2FwWnFDcjAxLU1OUEdEQ2ItQnByckFEMHEtVkFEZ19DUWNlZlRNYjFwZkhvWHRUWkJCWkpyeldCV0xucmQ1NnhsTjJzTGFHZUNPUjVDNnJvTjZrbmZ4NW84UXNHX0NDRkRYbm5pdTFacUpUTTBETDNqb05GT2pzV3k0TFNCVHpjcHc?oc=5",
+    "date": "2026-09-28T20:05:43.000Z",
+    "summary": "Cleveland-Cliffs to idle output at Canada steel plant, blames tariffs, says CBC  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "BioNTech to shutter three sites in Germany as no buyers emerge - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXFZMGZ3dGZNR2l2TXZxcHhWN1dPeWVXLVJwY0tHYVBSSl93c09MOFUzQjlDN2dldnNzOUVYNEI2LXpXYzVsNlo2bW41dWFXdE5MNGVVY1pvNUpaYnhJZm5wa1dIa1NHeU8ydmhkSFota3U1SE1ZZlNvU2N0SVExbFRNWFd0cklUMTdwU1VMZWRBRF9fVTdIN3pxTWVnUFd4R0RjOEJBOWt5c2h3RXpDTnYtdmlnQXJWZVljaER1NTktdTd1SW9MaA?oc=5",
     "date": "2026-09-28T20:00:16.000Z",
@@ -449,6 +799,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Canadian dollar hits 2-1/2-month low as Middle East uncertainty spooks investors - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRnJpRzJ1MExVeHNZZ2duSUlIaWFRYTVmQmd3b04tWmhpR2prZEdUZ2tmaVQ3QnZaUGZPZm9ha2g3cmR6bGlybHpQTkhYM3R6YTB6LTBGR1VKMWJFM0VOZU1zRmgxRHFYYnNsRUdIMHFQaXhxcVdpN0dpM202TmVHNWQtdnZjaUZqdm9wZTNvQWZlZWVLMV9rb2hhZGdDTWNVODRhc2dySm9tZkFnTTc2emQ4OVR1SG1vVFJOS1Rn?oc=5",
+    "date": "2026-09-28T18:17:02.000Z",
+    "summary": "Canadian dollar hits 2-1/2-month low as Middle East uncertainty spooks investors  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5",
     "date": "2026-09-28T18:03:43.000Z",
@@ -495,6 +852,13 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUd1ZVlldFI3cUtuSXFZd0FkcDdGc0JmZUdxU2o1cU5JWEZyWnNvWkwxV3NaLXY0ZjZzd1N3MklWSl9RemdkWFZhWGY0Ni1yVVc2SXJ3eHg3ckZCTVhUTE5XeUx3dVVSekZxMnhWQWt1REhlZDdNbFo2RU1DdTZVMVh0N0c2YnFiaDRwTXQ0dzN4QWRQMElQaG5hNC1IVzgwLWdEYUtTcnlQckNIUXVmWA?oc=5",
     "date": "2026-09-28T17:02:16.000Z",
     "summary": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Lead Analytics and Insights Engineer II - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEJaZERNZnoxcEd3bWtXZUZzQkFIY0prY1VJYm5DTnRjWm5HSDk2cnZlMDk0c0p6dmtCNE1oaElKa1ozTU45NnZrSVNlYTVvOXN0SFh3ZXhOWUdzTl9EZmEwTGpHb3FFOEF4SlV5b19fMHRidHhwOXQwWVJhaVYxcHotaGNaajdXLUZuWmhsQ0xwX2p6RUM4bkdXV1cwdw?oc=5",
+    "date": "2026-09-28T16:39:04.000Z",
+    "summary": "Check out this job at Deloitte, Lead Analytics and Insights Engineer II  Deloitte"
   },
   {
     "source": "Semrush",
@@ -649,6 +1013,13 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZE1NMFJSVHIxMmoxa2V3aWJ0UGhxeFVBSkk0VG9WY2JCMW1OZ3Q2REcxTDJoWlVqSjZYUk5HSGNWRmVvbFlVM3FjN24xaWlWNGtIRWhIcGRhWEthMEdfOEJLTFhsS3ExaFNJUElMcHlFMGl1R1J6b1lheVlYRTZmcGZzRFREMU5BWW85Z09TWXZWZVJFbVl2WWdMS2UxeHl3dnVkOXhyMnlXczVnQTdUN3dWREtrRzIweVFLTjByQWVwSE12ZS1iaVlfd2MwSUwx?oc=5",
     "date": "2026-09-28T12:05:44.000Z",
     "summary": "US holiday online sales to grow 6.7% as discounts attract shoppers, Adobe Analytics forecasts  Reuters"
+  },
+  {
+    "source": "Edelman",
+    "title": "Codex Humanitatis - Edelman",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3hNcm9xWW9qa1pHc1JVZXJzSWZ4d2poeG00NlhSek00OW83SWlrcGpaYTduVllyRlRESmpEVGw5Wk1FcmJqZWphM1Uxd2xKcl9rV0FGMEZRQ25qSGJQNmkyLS1ydEdwa1lCVkhLRVd4aHp1Zm9Jek9mdkpyaXFDc1dB?oc=5",
+    "date": "2026-09-28T12:00:00.000Z",
+    "summary": "Codex Humanitatis  Edelman"
   },
   {
     "source": "Edelman",
@@ -901,6 +1272,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
     "date": "2026-09-28T00:17:00.000Z",
     "summary": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "AI is changing how we work. Is your organization ready?",
+    "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-how-we-work-is-your-organization-ready",
+    "date": "2026-09-28T00:00:00.000Z",
+    "summary": "As AI reshapes roles, leaders face a bigger question: how to rethink jobs, teams, and the way work gets done in a fundamentally different era."
   },
   {
     "source": "McKinsey",
