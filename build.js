@@ -76,8 +76,13 @@ const day = (a) => new Date(a.date).toISOString().slice(0, 10);
 const cleanTitle = (t) => String(t).replace(/\s+-\s+[^-]{2,60}$/, '').trim();
 
 // Job postings and career pages leak in through Google News site: searches
-const JOB_RE = /Check out this job|^Applying to |Job Details|Job Title:|\bCareers\b[^-]*$|\b(apply|usijobs|middleeastjobs|jobs-ta|careers)\.[a-z]+\.com\b/;
-const isJob = (a) => JOB_RE.test(a.title) || /\/(careers|jobs?)\//i.test(a.link);
+const JOB_RE = /Check out this job|^Applying to |Job Details|Job Title:|start the application process|\b(USI|External) Careers\b|\bJobs? in\b|\bCareers\b[^-]*$|(News|Insights) Hub\b|\b(apply|usijobs|middleeastjobs|jobs-ta|jobsus|careers)\.[a-z]+\.com\b/;
+// For firms whose Google News results are mostly vacancies, a bare role title
+// (no colon or question, as headlines usually have) is treated as a job ad
+const CAREER_SOURCES = new Set(['Deloitte', 'EY', 'PwC', 'BCG', 'Kantar']);
+const ROLE_RE = /\b(Specialist|Manager|Analyst|Associate|Consultant|Engineer|Director|Intern|Architect|Developer|Scientist)\b/;
+const isJob = (a) => JOB_RE.test(a.title) || /\/(careers|jobs?)\//i.test(a.link) ||
+  (CAREER_SOURCES.has(a.source) && ROLE_RE.test(a.title) && !/[:?“"]/.test(a.title));
 
 const seen = new Set();
 const visible = merged.filter((a) => {
@@ -137,7 +142,7 @@ const page = ({ path, title, description, h1, intro = '', body, breadcrumbs = []
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>
 <style>
   :root { color-scheme: light dark; }
-  body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
+  body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 860px; margin: 2rem auto; padding: 0 1rem; }
   h1 { font-size: 1.6rem; margin-bottom: .25rem; }
   h2 { font-size: 1.2rem; margin-top: 2rem; }
   a { color: inherit; }
@@ -152,6 +157,17 @@ const page = ({ path, title, description, h1, intro = '', body, breadcrumbs = []
   .summary { margin: .4rem 0 0; opacity: .85; }
   ul.links { columns: 2; padding-left: 1.1rem; }
   footer { margin: 2rem 0; font-size: .85rem; opacity: .7; }
+  .block { margin: 2.25rem 0; }
+  .hero { padding: 1rem 1.25rem; border-radius: 12px; background: color-mix(in srgb, currentColor 6%, transparent); }
+  .hero p { margin: .5rem 0; }
+  ul.grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .75rem; }
+  .card { display: flex; flex-direction: column; justify-content: space-between; gap: .5rem; padding: .85rem 1rem; border-radius: 10px; border: 1px solid color-mix(in srgb, currentColor 14%, transparent); }
+  .card-title { font-weight: 600; line-height: 1.35; text-decoration: none; }
+  .card-title:hover { text-decoration: underline; }
+  ul.chips { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
+  ul.chips li { padding: .25rem .7rem; border-radius: 999px; font-size: .9rem; background: color-mix(in srgb, currentColor 8%, transparent); }
+  .faq h3 { font-size: 1rem; margin: 1rem 0 .25rem; }
+  @media (max-width: 520px) { ul.links { columns: 1; } }
 </style>
 </head>
 <body>
@@ -169,16 +185,119 @@ ${body}
 const pages = []; // { path, html, lastmod }
 const add = (p, lastmod) => pages.push({ path: p.path, html: page(p), lastmod: lastmod || today });
 
-// Home: latest items only, so the page stays small enough to be fully crawled
+// Home: several themed blocks plus generated text, so the page has its own
+// content rather than being a bare list of outbound links
+const SECTIONS = [
+  { id: 'consulting', name: 'Consulting firms', sources: ['McKinsey', 'BCG', 'Bain', 'Deloitte', 'PwC', 'EY'],
+    text: 'Strategy and management consultancies publish surveys, CEO interviews and industry outlooks. These are often the first place new numbers on AI adoption, growth and transformation appear.' },
+  { id: 'research', name: 'Research & analyst firms', sources: ['Gartner', 'Forrester', 'Kantar', 'Nielsen', 'Edelman'],
+    text: 'Analyst predictions, market guides and consumer research: Gartner and Forrester on technology and marketing strategy, Kantar and Nielsen on media and audiences, Edelman on trust.' },
+  { id: 'marketing', name: 'Marketing, SEO & creators', sources: ['HubSpot', 'Semrush', 'Similarweb', 'Influencer Marketing Hub', 'LinkedIn Marketing'],
+    text: 'Practical guides on SEO, AI search visibility (AEO), content, influencer and B2B marketing from the teams that build the tools.' },
+  { id: 'platforms', name: 'Platforms', sources: ['YouTube Blog', 'Meta Newsroom'],
+    text: 'Official product and policy announcements from YouTube and Meta that change how brands and creators reach audiences.' },
+  { id: 'business', name: 'Business news', sources: ['Reuters'],
+    text: 'Market-moving business headlines on energy, trade, central banks and big tech for context around the research.' }
+];
+
+const TOPICS = [
+  ['AI', /\bAI\b|artificial intelligence|GenAI|\bLLM/i],
+  ['AI agents', /\bagent(s|ic)?\b/i],
+  ['Search & SEO', /\b(SEO|AEO|GEO)\b|search/i],
+  ['Marketing & advertising', /marketing|marketer|advertis|\bads?\b|brand/i],
+  ['Cybersecurity', /security|cyber|CISO|privacy/i],
+  ['Workforce & talent', /workforce|talent|employee|jobs?\b|skills|hiring|HR\b/i],
+  ['Consumers & retail', /consumer|retail|shopp|commerce/i],
+  ['Energy & oil', /\boil\b|energy|crude|diesel|\bgas\b|power/i],
+  ['Trade & tariffs', /trade|tariff|export|import|sanction/i],
+  ['Finance & banking', /bank|financ|investor|\bFed\b|rates?\b|earnings/i],
+  ['Software & SaaS', /software|SaaS|cloud|data center/i]
+];
+
+const DAY_MS = 864e5;
+const latestTs = new Date(visible[0]?.date || now).getTime();
+const week = visible.filter((a) => latestTs - new Date(a.date).getTime() < 7 * DAY_MS);
+const weekResearch = week.filter((a) => a.source !== 'Reuters');
+const topicCounts = TOPICS.map(([name, re]) => [name, week.filter((a) => re.test(a.title)).length])
+  .filter(([, n]) => n > 0).sort((a, b) => b[1] - a[1]);
+const weekBySource = Object.entries(week.reduce((m, a) => ((m[a.source] = (m[a.source] || 0) + 1), m), {}))
+  .sort((a, b) => b[1] - a[1]);
+
+const card = (a) => `<li class="card">
+  <a class="card-title" href="${esc(a.link)}" rel="noopener" target="_blank">${esc(cleanTitle(a.title))}</a>
+  <span class="meta"><a class="src" href="${SITE}source/${slug(a.source)}/">${esc(a.source)}</a> · <time datetime="${esc(a.date)}">${day(a)}</time></span>
+</li>`;
+
+// One headline per research source keeps the top block varied
+const topStories = [];
+const seenSrc = new Set();
+for (const a of weekResearch) {
+  if (seenSrc.has(a.source)) continue;
+  seenSrc.add(a.source);
+  topStories.push(a);
+  if (topStories.length === 6) break;
+}
+
+const topicSentence = topicCounts.length
+  ? `The most covered themes were ${topicCounts.slice(0, 3).map(([n, c]) => `${n} (${c} articles)`).join(', ')}.`
+  : '';
+const busiest = weekBySource.filter(([s]) => s !== 'Reuters').slice(0, 3).map(([s, c]) => `${s} (${c})`).join(', ');
+
+const homeBody = `
+<section class="block hero">
+  <p><strong>${esc(SITE_NAME)}</strong> collects new reports, surveys, predictions and analyst notes from ${sources.length} consulting, research and marketing sources in one place. The feed is refreshed every hour, so marketers, strategists and analysts can see what McKinsey, BCG, Gartner, Forrester, Kantar and others published today without visiting each site.</p>
+  <p>Over the last 7 days the site collected <strong>${week.length}</strong> articles, ${weekResearch.length} of them from research and consulting sources. ${topicSentence}${busiest ? ` The most active publishers were ${busiest}.` : ''}</p>
+</section>
+
+<section class="block" aria-labelledby="top">
+  <h2 id="top">Top stories this week</h2>
+  <ul class="grid">${topStories.map(card).join('')}</ul>
+</section>
+
+${topicCounts.length ? `<section class="block" aria-labelledby="topics">
+  <h2 id="topics">Trending topics</h2>
+  <p>Themes mentioned most often in headlines over the past week:</p>
+  <ul class="chips">${topicCounts.map(([n, c]) => `<li>${esc(n)} <b>${c}</b></li>`).join('')}</ul>
+</section>` : ''}
+
+${SECTIONS.map((s) => {
+  const items = visible.filter((a) => s.sources.includes(a.source) && !topStories.includes(a)).slice(0, 6);
+  if (!items.length) return '';
+  const present = s.sources.filter((n) => bySource[n]);
+  return `<section class="block" aria-labelledby="${s.id}">
+  <h2 id="${s.id}">${esc(s.name)}</h2>
+  <p>${esc(s.text)} Sources: ${present.map((n) => `<a href="${SITE}source/${slug(n)}/">${esc(n)}</a>`).join(', ')}.</p>
+  <ul class="grid">${items.map(card).join('')}</ul>
+</section>`;
+}).join('\n')}
+
+<section class="block" aria-labelledby="latest">
+  <h2 id="latest">Latest from all sources</h2>
+  ${visible.slice(0, 40).map(articleHtml).join('')}
+  <p><a href="${SITE}archive/">Browse the full archive by date →</a></p>
+</section>
+
+<section class="block" aria-labelledby="sources">
+  <h2 id="sources">All sources</h2>
+  <ul class="links">${sources.map((n) => `<li><a href="${SITE}source/${slug(n)}/">${esc(n)}</a> (${bySource[n].length})</li>`).join('')}</ul>
+</section>
+
+<section class="block faq" aria-labelledby="about">
+  <h2 id="about">About this feed</h2>
+  <h3>What is ${esc(SITE_NAME)}?</h3>
+  <p>An automatic aggregator of public RSS and news feeds from leading consulting firms, research and analyst companies, marketing platforms and business media. It shows headlines and short excerpts and links to the original publication.</p>
+  <h3>How often is it updated?</h3>
+  <p>Every hour. The archive goes back to ${esc(months[months.length - 1] ? monthName(months[months.length - 1]) : 'the first build')} and now holds ${visible.length} articles.</p>
+  <h3>Can I subscribe?</h3>
+  <p>Yes, add the <a href="${SITE}feed.xml">RSS feed</a> to any reader to get the 200 newest articles.</p>
+</section>`;
+
 add({
   path: '',
   title: `${SITE_NAME}: McKinsey, BCG, Gartner, Forrester & marketing insights`,
-  description: `Daily digest of new research and insights from McKinsey, BCG, Bain, Deloitte, PwC, EY, Gartner, Forrester, Kantar, Nielsen, HubSpot, Semrush and more. ${visible.length} articles indexed.`,
-  h1: SITE_NAME,
-  intro: `<p>A daily digest of new reports, surveys and analyst notes from ${sources.length} consulting, research and marketing sources, updated every hour. Browse the latest below, by <a href="#sources">source</a> or in the <a href="${SITE}archive/">archive by date</a>.</p>`,
-  body: `<h2>Latest insights</h2>${visible.slice(0, 150).map(articleHtml).join('')}
-<h2 id="sources">Browse by source</h2>
-<ul class="links">${sources.map((n) => `<li><a href="${SITE}source/${slug(n)}/">${esc(n)}</a> (${bySource[n].length})</li>`).join('')}</ul>`
+  description: `Hourly digest of new research from McKinsey, BCG, Bain, Deloitte, PwC, EY, Gartner, Forrester, Kantar, Nielsen, HubSpot, Semrush and more. ${week.length} articles this week.`,
+  h1: `${SITE_NAME}: consulting, research & marketing insights`,
+  body: homeBody
 });
 
 for (const n of sources) {
