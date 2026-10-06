@@ -48,28 +48,31 @@ const now = new Date();
 const updated = now.toISOString().slice(0, 16).replace('T', ' ');
 const today = now.toISOString().slice(0, 10);
 
+// Hand-written SEO descriptions (meta description and page intro), kept under 160 chars
 const SOURCE_INFO = {
-  'McKinsey': 'Latest McKinsey & Company insights on strategy, AI, operations and industries.',
-  'BCG': 'Boston Consulting Group publications on AI value, strategy and transformation.',
-  'Bain': 'Bain & Company insights on technology, private equity, consumer and industry trends.',
-  'Deloitte': 'Deloitte Insights research on business, technology and economics.',
-  'PwC': 'PwC surveys and insights on workforce, digital trust, tax and strategy.',
-  'EY': 'EY insights on geostrategy, trade, AI and business transformation.',
-  'Gartner': 'Gartner research, predictions and First Take analyses for IT, marketing and business leaders.',
-  'Forrester': 'Forrester analyst blog posts on marketing, CX, B2B, security and AI.',
-  'Kantar': 'Kantar research on brands, media, advertising effectiveness and consumers.',
-  'Nielsen': 'Nielsen news on audience measurement, media and advertising.',
-  'Edelman': 'Edelman insights on trust, communications and brand reputation.',
-  'HubSpot': 'HubSpot marketing blog: SEO, AEO, content, GTM and inbound marketing guides.',
-  'Semrush': 'Semrush blog on SEO, AI search visibility and digital marketing.',
-  'Similarweb': 'Similarweb blog on digital market intelligence and web traffic trends.',
-  'Reuters': 'Reuters business headlines relevant to markets, energy, trade and technology.',
-  'Influencer Marketing Hub': 'Influencer Marketing Hub articles on creator and influencer marketing.',
-  'YouTube Blog': 'Official YouTube blog news for creators, advertisers and viewers.',
-  'Meta Newsroom': 'Meta Newsroom announcements on Facebook, Instagram, WhatsApp and AI.',
-  'LinkedIn Marketing': 'LinkedIn Marketing Solutions insights on B2B marketing.'
+  'McKinsey': 'Latest McKinsey insights, reports and surveys on AI, strategy, operations and growth. New McKinsey articles collected hourly with short summaries.',
+  'BCG': 'New BCG (Boston Consulting Group) reports and insights on AI value, strategy, M&A and transformation, collected hourly in one feed.',
+  'Bain': 'Latest Bain & Company insights and reports on AI, technology, private equity, consumer and industry trends, updated every hour.',
+  'Deloitte': 'Deloitte Insights in one feed: new research and outlooks on business, technology, economics and industry trends, updated hourly.',
+  'PwC': 'Latest PwC surveys and insights: CEO and workforce surveys, digital trust, tax and strategy research, collected every hour.',
+  'EY': 'New EY insights on geostrategy, trade, AI and business transformation, collected hourly with links to the original EY articles.',
+  'Gartner': 'Latest Gartner research, predictions, press releases and First Take analyses for marketing, IT and business leaders, updated hourly.',
+  'Forrester': 'New Forrester analyst blog posts and research on marketing, CX, B2B, security and AI, collected every hour in one feed.',
+  'Kantar': 'Latest Kantar research on brands, media, advertising effectiveness and consumers, including Media Reactions and BrandZ, updated hourly.',
+  'Nielsen': 'Nielsen news and insights on audience measurement, streaming, media and advertising, collected hourly in one feed.',
+  'Edelman': 'Edelman insights on trust, communications and brand reputation, including the Trust Barometer, collected in one feed.',
+  'HubSpot': 'HubSpot marketing blog in one feed: SEO, AEO, content, GTM and inbound marketing guides, updated every hour.',
+  'Semrush': 'Latest Semrush blog posts on SEO, Google updates, AI search visibility and digital marketing, collected hourly.',
+  'Similarweb': 'Similarweb blog on digital market intelligence, web traffic trends and competitive research, collected in one feed.',
+  'Reuters': 'Reuters business headlines on markets, energy, trade, central banks and big tech, updated hourly for context on the research.',
+  'Influencer Marketing Hub': 'Influencer Marketing Hub articles on creator and influencer marketing strategy, tools and case studies, updated hourly.',
+  'YouTube Blog': 'Official YouTube Blog news for creators, advertisers and viewers: product updates, Shorts, ads and creator tools.',
+  'Meta Newsroom': 'Meta Newsroom announcements on Facebook, Instagram, WhatsApp, Threads, AI and advertising, collected in one feed.',
+  'LinkedIn Marketing': 'LinkedIn Marketing Solutions insights on B2B marketing, thought leadership and LinkedIn ads, collected in one feed.'
 };
 
+const clip = (s, n = 160) => (s.length <= n ? s : s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…');
+const humanDate = (d) => new Date(d + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 const slug = (s) => s.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const day = (a) => new Date(a.date).toISOString().slice(0, 10);
 // Google News appends " - Publisher" to titles
@@ -139,6 +142,9 @@ const page = ({ path, title, description, h1, intro = '', body, breadcrumbs = []
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${url}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="${esc(title)}">
+<meta name="twitter:description" content="${esc(description)}">
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>
 <style>
   :root { color-scheme: light dark; }
@@ -295,7 +301,7 @@ ${SECTIONS.map((s) => {
 add({
   path: '',
   title: `${SITE_NAME}: McKinsey, BCG, Gartner, Forrester & marketing insights`,
-  description: `Hourly digest of new research from McKinsey, BCG, Bain, Deloitte, PwC, EY, Gartner, Forrester, Kantar, Nielsen, HubSpot, Semrush and more. ${week.length} articles this week.`,
+  description: `New reports, surveys and analyst insights from McKinsey, BCG, Gartner, Forrester, Deloitte, Kantar and ${sources.length - 6} more sources in one free feed, updated hourly.`,
   h1: `${SITE_NAME}: consulting, research & marketing insights`,
   body: homeBody
 });
@@ -305,7 +311,7 @@ for (const n of sources) {
   add({
     path: `source/${slug(n)}/`,
     title: `${n} insights & latest research — ${SITE_NAME}`,
-    description: `${SOURCE_INFO[n] || `Latest articles from ${n}.`} ${items.length} articles, updated hourly.`,
+    description: clip(SOURCE_INFO[n] || `Latest ${n} articles and insights, collected hourly in one feed.`),
     h1: `${n}: latest insights`,
     intro: `<p>${esc(SOURCE_INFO[n] || `Latest articles from ${n}.`)} Showing the ${Math.min(items.length, 300)} most recent of ${items.length} articles.</p>`,
     body: items.slice(0, 300).map(articleHtml).join(''),
@@ -316,7 +322,7 @@ for (const n of sources) {
 add({
   path: 'archive/',
   title: `Archive by date — ${SITE_NAME}`,
-  description: `Browse ${visible.length} consulting, research and marketing articles by month and day.`,
+  description: `Archive of ${visible.length.toLocaleString('en-US')} consulting, research and marketing articles from McKinsey, BCG, Gartner, Forrester and more, by date.`,
   h1: 'Archive',
   body: months.map((m) => `<h2>${monthName(m)}</h2><ul class="links">${Object.keys(byDay).filter((d) => d.startsWith(m)).sort().reverse()
     .map((d) => `<li><a href="${SITE}archive/${d}/">${d}</a> (${byDay[d].length})</li>`).join('')}</ul>`).join(''),
@@ -329,7 +335,7 @@ for (const d of Object.keys(byDay)) {
   add({
     path: `archive/${d}/`,
     title: `Consulting & marketing insights, ${d} — ${SITE_NAME}`,
-    description: `${items.length} articles published on ${d} from ${top}.`,
+    description: clip(`Consulting, research and marketing insights published on ${humanDate(d)}: ${items.length} articles from ${top}.`),
     h1: `Insights published on ${d}`,
     intro: `<p>${items.length} articles from ${esc(top)}.</p>`,
     body: items.map(articleHtml).join(''),
