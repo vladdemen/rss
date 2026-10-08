@@ -1,10 +1,178 @@
 [
   {
+    "source": "HubSpot",
+    "title": "AEO for digital PR: How to build earned media presence that shows up in AI results",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr",
+    "date": "2026-10-08T20:09:15.000Z",
+    "summary": "Digital PR has always been about earning coverage that influences the audience you can’t reach through paid channels. While the value proposition of digital PR hasn’t changed, the definition of “showing up” has."
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for marketing agencies: How to deliver measurable AI visibility results for every client",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies",
+    "date": "2026-10-08T20:05:40.000Z",
+    "summary": "Clients are asking about AEO. Some have seen competitors show up in AI results and want to know what it means. Others have read that AI is changing how buyers find vendors and want to know what their agency is doing about it."
+  },
+  {
+    "source": "HubSpot",
+    "title": "Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
+    "date": "2026-10-08T20:02:20.000Z",
+    "summary": "Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns."
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for marketing operations: How to build scalable processes that connect AEO to revenue",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-marketing-operations",
+    "date": "2026-10-08T19:58:36.000Z",
+    "summary": "Buyer behavior has changed since the advent of artificial intelligence. Now, before ever filling out a form or clicking an ad, prospects are likely asking AI for recommendations, comparing vendors, and gathering answers. Those interactions shape which companies make the shortlist"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI pricing lawsuit against McDonald's raises new antitrust questions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5",
+    "date": "2026-10-08T19:56:11.000Z",
+    "summary": "AI pricing lawsuit against McDonald's raises new antitrust questions  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for demand generation teams: How to generate qualified pipeline as AI reshapes buyer discovery",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-demand-generation-teams",
+    "date": "2026-10-08T19:55:48.000Z",
+    "summary": "Demand generation has been built around the assumption that buyers will come to a brand when they are ready to learn about its category, whether through search, ads, content, or other channels. The funnel starts when a prospect arrives somewhere the business can see, measure, and"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for product marketing teams: How to ensure your positioning shows up accurately in AI results",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-product-marketing-teams",
+    "date": "2026-10-08T19:52:55.000Z",
+    "summary": "Product marketing’s core job is positioning: Deciding how a product should be described, what category it competes in, and which differentiators matter most to buyers. The results are deployed through sales, content, and campaigns. But now there’s a channel that interprets and re"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for marketing leaders: How to stay ahead of the shift to AI-driven discovery",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-marketing-leaders",
+    "date": "2026-10-08T19:49:18.000Z",
+    "summary": "Marketing leadership decisions used to be about where to allocate resources between known channels like paid, content, events, and email. Each of these channels has established performance benchmarks and predictable customer acquisition cost (CAC) ranges. But now, that framework "
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for growth marketing teams: How to find scalable acquisition channels when paid and organic plateau",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
+    "date": "2026-10-08T19:45:56.000Z",
+    "summary": "Growth marketing is all about finding the next channel opportunity before the current one gets crowded and expensive. Paid search got crowded. Content took time. Email got filtered. The teams that found a new lever early on took advantage of lower competition, cost, and dispropor"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for digital marketing teams: How to ensure your brand is visible across every channel",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-digital-marketing-teams",
+    "date": "2026-10-08T19:41:38.000Z",
+    "summary": "Digital marketing teams have spent years building integrated measurement, connecting paid, organic, social, and email into a single picture of how buyers move through the funnel. That picture now has a gap. A growing share of buyer discovery happens in AI interfaces that don’t sh"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO for content strategists: How to move the needle on citations",
+    "link": "https://blog.hubspot.com/marketing/aeo-guide-for-content-strategists",
+    "date": "2026-10-08T19:37:52.000Z",
+    "summary": "Content strategists already know how to build for search. They understand how to map topics, connect related pages, and create enough depth to establish authority. But answer engine optimization (AEO) begs the question: When buyers ask ChatGPT, Gemini, or Perplexity about your ca"
+  },
+  {
+    "source": "Reuters",
+    "title": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
+    "date": "2026-10-08T18:57:55.000Z",
+    "summary": "Data centers' 'flexible' power usage could save the grid billions. Can they scale?  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXhNTjhLSmI1NTZVMGszNVhsdXFqSVFET190Ym5DTUVHbW82d2VOMHpIRG1ubzdSX2xnWkxBTHA0VmRFN1dXVWZlV0dKbW5FejdxNlc0NWtSVUlHZ3hNazAtcFdWb0xoZHJ4YUc0SVhNWDJuazB0Z0ROdkJGQUlsU3FGbm54bm04aUUwVmJDSjBFVDcxWGJiUlNUb1dGV2xHRUxuY0FYMW5ycDNtSm5qWGQ1SUZpZDdYOHc?oc=5",
+    "date": "2026-10-08T18:48:04.000Z",
+    "summary": "AkzoNobel, Axalta set to win EU antitrust nod for $25 billion deal, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Venture Global breached LNG supply deal with Galp, tribunal rules - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEgxQzJIWjlpem9jZUZxcnpLRTZWRkdNeFR4cmJLZkJvZ2VsV01FSWNYTW1LNHZmMHVxMlFqdUg2VW5qeHBxNkdPTW1LQ1VLd2hUVGZkbk9wU1A2eXYzTXVNWXo4RFhNRVZCalBUdlhKTVM3LS1wN1hJbmxXaXpJaXpVZkZHdXViLVpsLW1sQTFNTjdPQlJkbnRSMEVrcFh1VVlub0VZRjZTZWZ3Qnc?oc=5",
+    "date": "2026-10-08T16:55:31.000Z",
+    "summary": "Venture Global breached LNG supply deal with Galp, tribunal rules  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Debunking the Biggest Data Center Myths",
+    "link": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
+    "date": "2026-10-08T16:53:24.000Z",
+    "summary": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers. \nThe post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Reuters",
+    "title": "Shell partially restarts Pearl gas-to-liquids plant in Qatar - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajAxTjhOWkJsU0pfU1l4amFnZnZWZFZsWUdJaEVpRlhraG0wVlN3bk5NMnZQNlZaWGhTWmM3YVhqdzlJYy1yeGRZZ3paU2Npc2RsN01Bc2tkTjdhQzZqRVZHcDFBVlNHdjAzT2ZIOW5ENnU1b3h4NEdKQ1NISU5xMUVzdTFSZUdCSDNqTzVmUEVxaEd2czE2bDZJcjZRUjFwTEQybGRpV1NJdUJxR3c?oc=5",
+    "date": "2026-10-08T16:49:14.000Z",
+    "summary": "Shell partially restarts Pearl gas-to-liquids plant in Qatar  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Starbucks has explored Chipotle takeover, FT reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "date": "2026-10-08T16:18:14.000Z",
+    "summary": "Starbucks has explored Chipotle takeover, FT reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "American Airlines extends Starlink Wi-Fi roll-out to entire mainline fleet - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR3YxNnQ5YXBGVHdDQXFVclB4bHN4MUtVZnI5clMxZ19RYi1YSkViNzRYNDBtdFV0djYzbnJhZ1lpdDRkVU9SZ0RPcGQ1Qkc1bElOb2hZSXhOVlRhazRKbTgxMi0xM2pvdE8wVW96aGQzWDY3THhaQTNQSTdENUMyNHJwdXotbWFFUFlGV2prSFZ5UGg5QXlqT1Voc05IcHhVU3lYSUJ2S1Y1d3NrcTJGM3BIVXNzT2FFNVphUU9JU0tnRHFSeC14c0FIOGd0QUU?oc=5",
+    "date": "2026-10-08T15:27:45.000Z",
+    "summary": "American Airlines extends Starlink Wi-Fi roll-out to entire mainline fleet  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5",
+    "date": "2026-10-08T15:18:12.000Z",
+    "summary": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ukraine says it hit Russia's largest oil refinery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3pJT0ROR2hYSi10NDQycHpZdW5pRmMwTmNnZjRKVVEtbjBWMkZwaE9uU25CNDZtTXFvQ3NxMTRVblJ1Z1BuNFpTLXgtSjBrR1FqZHhvTkNkVmItVUJiYzNNZzhDelc5YjdwMzJlelcwNjBrbnl4WS00WWg5dE00S3NQN09HVldfMWpGbWNydzNJWm5tMmJ3Y0toTWdvVTVZN0E?oc=5",
+    "date": "2026-10-08T15:12:06.000Z",
+    "summary": "Ukraine says it hit Russia's largest oil refinery  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Google Cloud introduces Gemini agent for work as AI race heats up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5",
+    "date": "2026-10-08T15:11:43.000Z",
+    "summary": "Google Cloud introduces Gemini agent for work as AI race heats up  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: US farm debt is at a record. Official data might be undercounting it - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWJYbGZFa01VMUNHX3BQTHQ2SG56azk3WjRqOVdjYXNnV1I4a2IxNFRybjlJN2ZCVk1XMkNaYi1OdEMtd25aZXZ6NUxxbWtiRUJZV0VBbF9JYW5Qd3RiZld1WXFrMHFnNXhkUi1wQXN4eVVJQXhiRm93U2xUS1o1RWpsVURmNVNjbVN5XzFQOUlqZnEzek1wankxWXVNTjN6ZlJfQ1g1WVphZTQzNWZKN28zdmtRdw?oc=5",
+    "date": "2026-10-08T14:48:30.000Z",
+    "summary": "EXCLUSIVE: US farm debt is at a record. Official data might be undercounting it  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "10 Rules of Viral TikTok Hooks – Real Brand Examples",
+    "link": "https://influencermarketinghub.com/viral-tiktok-hooks-examples/",
+    "date": "2026-10-08T14:36:11.000Z",
+    "summary": "Influencer Marketing Hub\n10 Rules of Viral TikTok Hooks – Real Brand Examples\n\nAccording to our TikTok marketing report, 71% of TikTok users decide whether to keep watching a video within...\n10 Rules of Viral TikTok Hooks – Real Brand Examples\nNadica Naceva"
+  },
+  {
     "source": "Forrester",
     "title": "My Take on Open-Source And Sovereignty From Open Source Summit Europe 2026",
     "link": "https://www.forrester.com/blogs/my-take-on-open-source-and-sovereignty-from-open-source-summit-europe-2026/",
     "date": "2026-10-08T14:14:16.000Z",
     "summary": "At Open Source Summit Europe 2026, one message surfaced repeatedly: organizations and governments that merely consume open-source remain dependent on others to shape their future. Those that govern, maintain, secure, and sustain open-source ecosystems gain influence, resilience, "
+  },
+  {
+    "source": "Reuters",
+    "title": "Manus raises more than $500 million after Meta exit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+    "date": "2026-10-08T13:55:34.000Z",
+    "summary": "Manus raises more than $500 million after Meta exit  Reuters"
   },
   {
     "source": "Reuters",
@@ -35,11 +203,25 @@
     "summary": "Gartner HR Research Reveals Fewer Than 35% of Employees Report Good Levels of Overall Wellness  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "European intelligence services weigh possible fallout after German ex-spy chief's arrest - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdDFjX1hTTzhGWmNIdTZTTlR2X1JLYVJ1VUZYSXdyYUJMUlRBRm5TNzJydXVZQ09WOEFCZjhvbWZEXzIzdHY4YXMxN203M2F3aGlEWlBzNldhVUFmcjdTVTc1cGVjU0hvV0ZfZG0yYTJKMkZMNjliRWJkNDRkZ21NdDJMWlY0T3hFVXotMUJZbHMtaEhBWW1rLXp3Ql9hWFNWSDRtR0pyV2FIelU3UGFxaG5SYWl4R3B6MDV0RHNYdjdrVE1FUnBYZ2dPX1dlZw?oc=5",
+    "date": "2026-10-08T13:07:44.000Z",
+    "summary": "European intelligence services weigh possible fallout after German ex-spy chief's arrest  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Survey Shows Chief Procurement Officers Stalling on Needed AI Role Redesign - Gartner",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcENOdzdHVWtWdW9UaEs1R0NTZlY0Wmd4akdSTkhGVURZTjFmMFkyNHJGNjBuV01CMUJoWXJPWVg0SFJkVzJqRlZFUTM5MGdDWFI4bFFFUUgwX29QeUFENTRmd2s0a0RkVnBzU1h2ZmNJdU9tTDdTeUJTTHV1a3NMU1d0VmZXVXpDVzVhdVV4NXdMN2ZUMmQtLVIzMElEdjlmNXhZVEdUM2hwcHlXNVRIOXZOQVFmNERzRzNsUElqMVN0REtvT1dxQmo4VkVSX25ZbkV3Sk9VVFRjaGlNLXc?oc=5",
     "date": "2026-10-08T13:05:04.000Z",
     "summary": "Gartner Survey Shows Chief Procurement Officers Stalling on Needed AI Role Redesign  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Polestar nears US sellout of remaining 2026 models as ban looms - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNXRtRkNpdGhxRkhaTTRqaERpdDNCWDBLdGZ4RjhGcTZaUUN3NlVvNWtsSTdyYkdrSmFnUVNxX0JIZmlRT2xncFRhQlNPTDZKVGpUek1vTXN4NEptWUtZRUo4TXpZZkVSeGNYWUtsNjVmSkdJTnJnRV9mWTUwT0FneXRNdEprXzZEVkkzZlB5Ykc1Q0tHaHpxUFNLNEFYcWtzX05nSWZNUEJ6R3hSV29sVDAxcDJSbE9GSjZyRjdPbTNNUHM1VHpQUlNpSjhsdw?oc=5",
+    "date": "2026-10-08T12:45:09.000Z",
+    "summary": "Polestar nears US sellout of remaining 2026 models as ban looms  Reuters"
   },
   {
     "source": "Reuters",
@@ -57,6 +239,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGdkZHlKUjgwWHQ4eXRUaTJZeFZBQkFLaENBNFYxTUh5SVFkaWNfVGh3MUtrcGdKYjZhWk03QlV1WV8zYmxkbl9fLVRIa0xwWlczbVRwVlRFUGZwMXFwM2lRck5BVmVhQ3JmVzNZS3U0OUpuLVdLU04wVVlkNE9jN2IyRW9YY0pla283VmJBa3FpVm5zX2xaQkw0X3JCcUx1djhraTRVTEQzeGJtNzZKQ3hLTHRRSUEt?oc=5",
+    "date": "2026-10-08T12:01:28.000Z",
+    "summary": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Russia says reports of second case linked to Siberian plague lab are false - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFR4cExQYWN6ZW1lM0p4Z2RYZV9IVzNCSndUUTg1ZF8xdy11al94MFh3WXh6V2JYdEJPNnc2VnBxUFY4TEtsMnJjWl9RUmswRmx3UUxTV3EyT0VTT0hvbWx4dm81T3laYl9CYnBVNjc2ZWZ4X0J5c3dNLXdBSDl4SGwyNlpmelplbEFPUGZ1SmNpS1k5NERxU3lFMW5fSmlyTjh2ZXNhSlZuanVTVVI0N3VVbWJmRE4xTE1DaklmX2FlNVRfTkI2Ymx0eU5VbWtjUHZzQllfaw?oc=5",
     "date": "2026-10-08T11:14:49.000Z",
@@ -68,6 +257,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGJBQ3U5X1l4T0ZNV3EwRlRRdDI3TFlOdTRoa2Z1V24tTE5DSTBDaS1obFFQczhfeG02WmpBZmlCQmRROGtYTzRzQTBzZGxrSEFxNGVWaWF6X0VnMUVrMzkzMmpweHg5RFRpc1g0ZXV0NjRiN3phampReEdnY3ZNNnVCMDhvLXlYdGVqaXRvZ2x0MkF4c1ltQ2dJLTNZZ0J4dnFORG5pMEc1T0dPb2VRX3R1Rjhid2R0Z19NUVY0aWM?oc=5",
     "date": "2026-10-08T11:03:44.000Z",
     "summary": "Mexican auto exports slump in September as US tariffs take toll  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US bank investors to focus on impact of higher rates, deals outlook in Q3 earnings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORm5UakVwcWtuYk1ZZUZtMXBqRUpGak9BUUVkSFJJZVplS1RhUVU5U3g4c3RmbHBwWVM2VHJDakR4a1FYT0NyYjJlSUNkVkM1NGZ4WExKWGtJS0R6TTN3OW9DaGlIRDJwU0ZrVEljM1ZBTEdrdGFKZ0U2YTJSYVdrdTdlemFoQk9zVlJFRDhrSkUtRHhzOXVMejFZLWU0eUxiOXdONjI4U2xnQnhvdmRmeElGZDNFeWxfRExHUF9Lbw?oc=5",
+    "date": "2026-10-08T10:53:01.000Z",
+    "summary": "US bank investors to focus on impact of higher rates, deals outlook in Q3 earnings  Reuters"
   },
   {
     "source": "Reuters",
@@ -92,6 +288,20 @@
   },
   {
     "source": "Reuters",
+    "title": "Hungary plans renewable energy push to curb prices and import needs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXNMTkVYdUUxOWJNajFTMDNOM1E5RUM0c29zRzRNeVlZQWFvUkl4eGFBVTRlclFEUXdqcnlWbzNRS3gtYnlEcG9JMUpvaUNJa2YyWVZVSi1Qc3FqcUJHZzd5TFNlbjhfaVNEelBzWEt2eWhpc1ljWkVQdFBubEhtX1hZR3pLZm1Fbk9yVnp6eEg2ZEVEZVZHY0hYd2FiZm9qNEhYSFFtdGVMNVl2bTh5VnF3?oc=5",
+    "date": "2026-10-08T09:47:43.000Z",
+    "summary": "Hungary plans renewable energy push to curb prices and import needs  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US ocean container imports set new record for September, Descartes says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3RJYWRJXzdLSmx5ZmwzMzRLZ2RxVy1pTm5ZMXNjZlhTZkNWcGppU19aSlhqMEFBWi1ONmFUQkk0Yjk3NkNULUptMXNrNHVkX2FVVjRrNUd1ZnFWdkZXdUtiWFBheTNvTWRzUzFXVUtoSnV3eVpUbHU4aGRyMjM0VDFKS0pPaEU5VkVxUUp2anhNdmhzbndjU0JQNmVpTTg4dUZzdWo0ZDhYblpxbEZzXzJlZk8?oc=5",
+    "date": "2026-10-08T09:03:44.000Z",
+    "summary": "US ocean container imports set new record for September, Descartes says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Fed's Waller: More hikes needed, but there is 'flexibility' about the pace - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJjTS1oeE1aRmVEcC05dTZkd25ONVRidzJkTlozaEE3Q0tvQ2hPd0dYemMxNWUzTUZORnFfb0FWZUdDOVp3QUVwelQ5cjJzcV9oMl9mZmpCTnJOaGh6XzZXLXlxOWJBUVhTX05oOVhwS2hhZG1WbmppWlRRRGNDOGZneGNneTRiLXBhVHd1Z3FGc1JaZC14Qm14SVRlYi1Cd3MxSjVR?oc=5",
     "date": "2026-10-08T08:56:12.000Z",
@@ -110,6 +320,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXlfSndUbWFtSUJRVXpWa2RXaDJ6MmRveURVT2VjSzhRcVBXSnZEZVR0d1V4NnZGLTk3cjhheFpBSDJyQ3A5LXlzNk00Rkp4UDZkeExnM2EwS0JLdHJmOVdlajVjMmp0MTZLcVd2YnJySDR0Qmh4VGMwaG5NbVdUNEVvNlhleEN1NUxDV3lncl95Tjctc3dHZ29kOUNpSHhJT0JPag?oc=5",
     "date": "2026-10-08T08:22:03.000Z",
     "summary": "Top Uniti Likes & Dislikes 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Greece plans 10% cryptocurrency capital gains tax - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXM5OWRKZ3dGVlc3N1A3UjBXYWNrd3FrcERoUmdBcGRpZXpzRF9CYTRGREVzOE5TWEtQS2hpNXhBSzgxcmlNdjI5SUJIQUVwS3lzVGQ3cEVJdWJoMUM1YTBtY0VJYXFwYmRUNzJkWThTbHhpRFNRMlFSblBFR2ZqRXlzYW9Qb25yd2paMXlPMFVuakh1SmFPS1htMk5tbi1yc0tj?oc=5",
+    "date": "2026-10-08T07:19:33.000Z",
+    "summary": "Greece plans 10% cryptocurrency capital gains tax  Reuters"
   },
   {
     "source": "Reuters",
@@ -166,6 +383,13 @@
     "link": "https://www.forrester.com/blogs/sap-connect-2026-four-decisions-cios-must-make-before-sap-agents-execute-enterprise-work/",
     "date": "2026-10-08T00:10:59.000Z",
     "summary": "SAP wants its process knowledge to become the operating context for enterprise agents. CIOs should decide where to grant that authority while retaining ownership of company knowledge, agent learning, and outcome measurement."
+  },
+  {
+    "source": "McKinsey",
+    "title": "The playbook for seeing around geopolitical corners",
+    "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners",
+    "date": "2026-10-08T00:00:00.000Z",
+    "summary": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming."
   },
   {
     "source": "Meta Newsroom",
@@ -477,6 +701,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Pfizer to cut around 330 jobs in Italy, unions say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVVxMTFrRklzTUJfMTBuVFhjRGpCOUxFZWcyUWpjT0Zmanp3cVFHWWd6bjRRTFlqdXdzdU02U0JQbWRBZFNWc3A5My1rWnFLSDkxWllFTVh2RGtNZXdaSnN1ZnhIajMyQmIyZ3l4dzJBUDNVQ2NCRkVBU2dnYjdqX2NybWFTdDJpczVqcC0wd0RKRUdUQ0E?oc=5",
+    "date": "2026-10-07T14:21:00.000Z",
+    "summary": "Pfizer to cut around 330 jobs in Italy, unions say  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "South Korea unveils $747 billion energy transition plan through 2035 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlBuXzYzbm5CTTctaUg1bWRZU1hvMEFPYmdRSUstNW5DRE4tNjFDTlpKZ0IwTm5EMDR2OUpHREpUUkpBSEpnaXU1UW9BUUxRWWM2elMwM3Q2YXlZS3kzQzN3T0pDV3hsWUduLW9WYUNNanh5TUVaTFZfdjR0VS1rd2V5VTl6NmlGdGd5eDAxS01IS2MyUUtHdE40QTNhTWFFWTFfMzB0Sm1vMXFxZTBtN2tEYm5kUTdFaHNF?oc=5",
     "date": "2026-10-07T14:18:46.000Z",
@@ -572,6 +803,13 @@
     "link": "https://www.forrester.com/blogs/do-you-improve-what-matters-to-loyalty-in-customer-journeys/",
     "date": "2026-10-07T12:43:25.000Z",
     "summary": "Probably not. Loyalty is shaped by a handful of journey dynamics that most CX teams neither measure nor actively manage. This blog is part of a series how customer journeys drive loyalty (scroll to the end for all resources). Five Journey Practices That Strengthen Customer Loyalt"
+  },
+  {
+    "source": "Reuters",
+    "title": "Denmark's CenSec, Airbus sign deal on cooperation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0NrWFQwMlpscUVfcUpNempaSF90ZEdLWG5ZUE9uZzE5SGxKS2NpUktpckZydWJnNHdzemJ2YmtlY0tWMm5TVWxhMlNVc2loVXNNcHEyV3E5QTFobmhrNkp1bVVBZUNxd2xRTXRYUXRyZWtJVVpvREtFVmVTcXFMMlhkbHMwTjlJNUNFd2VpR0VqTXhUVTRac2ZtTGlnaWdXa21wU0VxbTA1MlU?oc=5",
+    "date": "2026-10-07T12:05:43.000Z",
+    "summary": "Denmark's CenSec, Airbus sign deal on cooperation  Reuters"
   },
   {
     "source": "Gartner",
@@ -789,6 +1027,13 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXV3b1VldjdSN0dMQlNTZm9JYmRscDY2UllLUnlaTEJoU21xVzRpVXhucnlxbFhsOUFLUmlYU1EzejBIRWQzYm0zeTdVdE1lckU4V01RZ2pneE9nbkI1UHJHTGM2UkIwaUI4WWltR1pocHpmcHZraExfVHB4dld0N1pGX2ZRTWw5Zjc2V0FhTEg5Y29DN0hYMmdmVV9YVWNnZjlQRmNlNF9sMGozVVFOOWNOc2FDWlBZbVRzaTJxcmFrUU1UT1c2T1NSR0JzQQ?oc=5",
     "date": "2026-10-07T05:13:00.000Z",
     "summary": "Musk says TSMC won't run Terafab AI chip complex  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bond selloff leaves France no room for fiscal mistakes, Citadel executive says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTNZVFNjdnU2UjU3cUZpWnZKbUVLcEppRThRNWwybW40Vlcyd1ZXT1M0Y29NY25MODEyTUlveWhiMkIwbWlZMERZRWtqNWVSY0xNeWtKejdLNlFmT1BZeXpoYjNLZ3Q5VjlXZk8zZTRHQmNuUm5kb2RtSWlTRmRxMmVtTF9Ma2dmRFhOdXQzNkQ0SE9FbHNWcXktTE9FdGpySlJvQ3FfUXFFUUs0WUlCQnd2b0JOa1U0djlfb0FhM2dXQ2ly?oc=5",
+    "date": "2026-10-07T05:12:00.000Z",
+    "summary": "Bond selloff leaves France no room for fiscal mistakes, Citadel executive says  Reuters"
   },
   {
     "source": "Reuters",
