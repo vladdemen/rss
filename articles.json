@@ -1,6 +1,48 @@
 [
   {
     "source": "Forrester",
+    "title": "SAP Connect 2026: Four Decisions CIOs Must Make Before SAP Agents Execute Enterprise Work",
+    "link": "https://www.forrester.com/blogs/sap-connect-2026-four-decisions-cios-must-make-before-sap-agents-execute-enterprise-work/",
+    "date": "2026-10-08T00:10:59.000Z",
+    "summary": "SAP wants its process knowledge to become the operating context for enterprise agents. CIOs should decide where to grant that authority while retaining ownership of company knowledge, agent learning, and outcome measurement."
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
+    "link": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+    "date": "2026-10-07T23:19:30.000Z",
+    "summary": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them.\nThe post Why Data Centers Are Such a Big Part of Meta’s AI Approach appeared first on Meta Newsr"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed minutes show some officials want to prepare for market stress - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWFKZEFfR182VlUzeWdFaHJOYlVxQ3FxYVVnS3Z4VXdnUlRZaGtIZkxocjFlejVyY2lKbHA5UEw0bUFUbEhRaExnTUMzZWlPWmFMQkdlVU94ejB3bjBGdGFfYXlwX0c5M3RMRDJ2NGNmU0pNSWo5X200MTZGdzJuREtOekJpRGEtZHV1ODZUTEZ5empUOFU2ajFxdF9TaDNQMndvTnFn?oc=5",
+    "date": "2026-10-07T21:34:27.000Z",
+    "summary": "Fed minutes show some officials want to prepare for market stress  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Thursdays With Erik: Educating Myself On Proactive Security Platforms",
+    "link": "https://www.forrester.com/blogs/thursdays-with-erik-educating-myself-on-proactive-security-platforms/",
+    "date": "2026-10-07T21:33:13.000Z",
+    "summary": "As a research director, I manage a team of analysts who cover a range of technologies outside my primary area of expertise (identity and access management). I’ve had to educate myself on these areas so I can oversee the quality of the analysts’ respective research and direct thei"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wolfspeed secures $1.5 billion conditional loan commitment from US defense department - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTJJdnV3bjkwcHlyTEN2NkFfZk90VkUwYjQzS0wtMGpCUm9Rb1BtY3R6LWdPbDl1X1paM2o0UmZPMk84cTZnR0pQbmh2MlJUSW1LZGZwMGdnUVQ0QTE1Q3JPU3Y1Sm5nWE5Oa3l5ME5iejl1U3J2ckxDZUtDMExpaUUyUXBwZVFsczNpdXF2dDNIdHRmUFYxWjJMYWllWHZjN0ZveGtrcmdtU0lDLURYeklBOVlENnNaUEQxb3N2N0k?oc=5",
+    "date": "2026-10-07T21:09:43.000Z",
+    "summary": "Wolfspeed secures $1.5 billion conditional loan commitment from US defense department  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Four AI Decisions Tech Leaders Will Tackle In New York This November",
+    "link": "https://www.forrester.com/blogs/four-ai-decisions-tech-leaders-will-tackle-in-new-york-this-november/",
+    "date": "2026-10-07T20:43:56.000Z",
+    "summary": "Technology leaders have moved beyond asking what AI can do. Now they face four harder questions: Where should we invest? How do we scale? What needs to change inside IT? And how do we prepare for autonomous AI? Learn how Technology & Innovation Forum East helps answer them."
+  },
+  {
+    "source": "Forrester",
     "title": "4 AI Decisions Tech Leaders Will Tackle In New York This November",
     "link": "https://www.forrester.com/blogs/4-ai-decisions-tech-leaders-will-tackle-in-new-york-this-november/",
     "date": "2026-10-07T20:43:56.000Z",
@@ -35,6 +77,13 @@
     "summary": "Top Autonomics Platform Alternatives & Competitors 2026  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "US bonds selloff eases, yields off highs, after strong 10-year note auction - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0RvVl9ubDN1ZkRqRFJ1Z21yUUdrSHFGUG5jRmU5N2FUU0dPeHlGcjlBY0hQZjltWjFVc3hJNEtSVEtKNUF1T0RZV3dnWFEzbWJ6Yi1jbk1QajNDMzFMTzlTUUtkNExTdWJIYXZHZ3FMTXgycVJVd056RFhwYkRYM0tYa3I3eElsVGdnMHUxQWh6blZK?oc=5",
+    "date": "2026-10-07T20:05:34.000Z",
+    "summary": "US bonds selloff eases, yields off highs, after strong 10-year note auction  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Can Security Enforce What Data Governance Defines?",
     "link": "https://www.forrester.com/blogs/can-security-enforce-what-data-governance-defines/",
@@ -42,11 +91,32 @@
     "summary": "Data governance and data security leaders often tell us they want the same outcome: They want people to use data (and use AI!) while keeping data protected.  Unfortunately, that shared goal has not produced a shared way of working. Data governance teams define policies, definitio"
   },
   {
+    "source": "Reuters",
+    "title": "US seizes $3 million in fuel shipments to Cuba as crackdown continues - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjFTNVhaYWpIdjNGcW5WdWNpOGZxc0tBV19OYk5GQ2VNc19PS1pOU0dZTFYtZHFSSW9DQmhJMWg2cFhuMXNFZGtXZjlOVml2SkQ1V1BqeFRxWHlxUU9kRThFMHhfcDdXTGNQOXV5V1Y4ZVExZFl1VEJ2ZGhjdnVqRFlaU1FSWERqdHNNOXJsWGw3dV9DNXByZjdhbzJJaFFRZkt2YUZUZUlvbXJ2SHdUeQ?oc=5",
+    "date": "2026-10-07T19:12:07.000Z",
+    "summary": "US seizes $3 million in fuel shipments to Cuba as crackdown continues  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anglo American threatens to close Brazilian nickel operation if EU blocks sale to MMG - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaWg1OGsxM3pIM04zTzlwOTJYemF3MmVxWjVzOUJQTXlFM1c3UzhLa1MtVlhYb29ULUt4QllTaEJaeHZZOEcwbDd0VTVET2ZsMS1WSlNLNkpXcGs1V1Y2cGZsTWNRT3BjX21OSldnZHRsUVUzLXNlT0xVWU5xQ3JaSU5CVGNjYlB2WHd2a3ExdEZFWkU1dzdtR202UVZ3enZ5ZmJIUG1pMzA4b3FSY20yODFGWUthbE1YYkFYa2RCZnRUZTBvMkwzUXBlU08?oc=5",
+    "date": "2026-10-07T19:04:13.000Z",
+    "summary": "Anglo American threatens to close Brazilian nickel operation if EU blocks sale to MMG  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Uniti Reviews, Ratings & Features 2026 - Gartner",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS00zREpPS0YxTm9sdGRqaUhXQVlhWW0xbW9qSDNXaFZjYmVWSHRtNEJJQ3dpN0FKYW5ETUZJWVIxaFpWZFhYZVJzdkhFQ3h4TnMwWDFxNWNLRzNRNW1sTGlTVVphaXZaLWRXblpXRTN0aXZMb05wVDR2UXdsV1BjNFhoSHozYmNTakhmandpdUE?oc=5",
     "date": "2026-10-07T18:43:44.000Z",
     "summary": "Uniti Reviews, Ratings & Features 2026  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
+    "date": "2026-10-07T18:07:44.000Z",
+    "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO  Reuters"
   },
   {
     "source": "HubSpot",
@@ -85,6 +155,20 @@
   },
   {
     "source": "Reuters",
+    "title": "FireFly Robotics files for Nasdaq direct listing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlDaEwtTEw4V0tjU2diYkV2cG9BbGxJYmdBM2VUTzcxUXFOR1N6NWo5b2dpRkM3TkRtZFNhNDNKZGNjMlRfdDhMR2M2bVBFanI2aUJTUk5SakNSM1R2Z2hSRXpsUFU1dExIaWJQU2xvM2dmM1F4bjgwN1g4UWxsYW5MSWF5Nlk0eWJRS1FFNHlBOUE?oc=5",
+    "date": "2026-10-07T17:21:43.000Z",
+    "summary": "FireFly Robotics files for Nasdaq direct listing  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Rosatom takes full control of Delo to create Russia's biggest logistics group - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3RRRTVJOV9UTjdVRGlUb3hiOXU3UG83YWstOG5xbk1GS2E0NkJGMFB1eVQ2TU5JYjdEU3p1T0RXRE9sZmJ0M2liYWV5QnczTlZRbkxUWlRRRHdrV0R1WS1Zd0FQR1NybGp3Zk9yUjlqUlhWTWJpbTkyYzI1c3pZVEdIZmQ3eHpXQkJBdzNXTnNnRHdsNVllb1hTYnJwdG9ZYklTdmUxMXpFemtmMkV4TjlMVllRUQ?oc=5",
+    "date": "2026-10-07T16:34:26.000Z",
+    "summary": "Rosatom takes full control of Delo to create Russia's biggest logistics group  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZyRzY3SU54cjlKMi1jWWVvY21vYWU0UlBMb2FwUEp5Wjl6bERWWHRvY3NjSVNTRWlDM3M0aFlPNXpaX0hTS1pCd3pBZWJhVDl5LXFzV3ZEb3U1QV91RjgyVVNzVDVQLV9UY3FmRnFwMm1MdTNMMk9SZjhHNWk2WFp0Mm9UTDRPbjZMdXpGS2lxZWkxZmNYNG5QYnpEc2RJbXNwaEgyWUJUcnlFY1BLVDZfbFBBdURQNlVkN01VcEFBdnNBUjhMUWZyVk5XZw?oc=5",
     "date": "2026-10-07T16:03:12.000Z",
@@ -96,6 +180,13 @@
     "link": "https://www.forrester.com/blogs/talk-to-your-vendors-about-quantum-security-readiness/",
     "date": "2026-10-07T15:41:05.000Z",
     "summary": "Last month, CISA and the G7 Cyber Security Working Group put out a call to action for post-quantum readiness, listing five priorities to help with migration. It’s particularly welcome to see CISA and the working group highlight “integrating PQC into cybersecurity requirements and"
+  },
+  {
+    "source": "Reuters",
+    "title": "US crude stocks fall amid strong exports, refining activity, the EIA says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVl9sOUZ6bmRCNno5WWFVTjROOU5nUi1oRlVvU3Y5MG1KLS1HdGg3UGVqcGNpaDNzeXdrX0NPS2FOX1Y2SFNmWkh5YkphTDRRUWtXZk9PeFdjQjF0ZlBlY3FieWVKZVRMTDNlNEJMVWFJbHQ0alFQNDBNTzZBelJPZ0Fic2ZiZ0ctZDNVUE15ZFRtM3dmeEdTa3I5a0lVVUEtbXRrZm80SXRNZzZ4Z0pkc0dkaEpWR05PdlFPM2c4TjBzZWJLR1ZJdm1B?oc=5",
+    "date": "2026-10-07T15:35:48.000Z",
+    "summary": "US crude stocks fall amid strong exports, refining activity, the EIA says  Reuters"
   },
   {
     "source": "Forrester",
@@ -273,6 +364,13 @@
     "summary": "UK's Pennon seeks £550 million fresh capital as new CEO overhauls utility; shares drop  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Nestle shoots to score younger generation with NBA deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXlocXJyWmRJUV9aUHZhVkRjVi1pUmpoRmpJWmpQbENiMHN4Y0xTeXRydDFuRGZ0VzFIVEFrU3EwM0ZWU1lrVHNkUy1MVW80SGRzWXg2ajJIWjhROGhaSklqSXdsRURsQVA1RUdiWkFoODF0N3lBNUlWVVVra3pzeVl0UDRWaTdZQU5ob3lKbXMtMDEySkotdVA0MHpIX2JHUlk5WTVjcDRmNnZDcXVwQTNYcw?oc=5",
+    "date": "2026-10-07T10:30:53.000Z",
+    "summary": "Nestle shoots to score younger generation with NBA deal  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner HR Symposium/Xpo, London: Day 2 Highlights - Gartner",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVpMSU5qc1BiWnJNeWYwczJIWWlFaWpfZlhNVnFXM0UxMUt0RjY5Y1ZKYnk5SDNpMlo3cnpvMi05cXp6ZE1mdWtyS0htZU56VjdjbF96QmJUTDF6X3Y5aHY1TlRrTlZnZGxRdnRod1NNYkRLOHI4NXlpOW9vMk12VGZ3S1JfdmhnQ0hrN0tNOGlZMVk1Ymdja1hKYXc4Z2RvTDdvcVF3Q1c1dXgxM0E?oc=5",
@@ -414,6 +512,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGIxUzFNcDNGR3Z5Ym9JdXRTV2ZUN0NpV2lpaXJVRkh2M0hwdHJFTGVIVDIzak92WDZiR2JyaXBvcGxFY0ozbm5XSm8xRTFTUzJUMkd3aVJqOV9kSmFuQllsS05yLVdPQ0xmN1I4enZfUmRJRU1tUURQMU1fSWh2ejJ6VDIwSWttSV82aklZaHhhTldjU09SRk51a0xwRUExbVVnTEt3bkxHcERELVV2X3Q4SmhUY2NLSzRnazBmNUFGdUVFZGc?oc=5",
+    "date": "2026-10-07T04:27:00.000Z",
+    "summary": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "HSBC plans job cuts across UK wealth business in AI push, FT reports - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjBjMnNYdjI5bzJVSHlZcU9KM1Rqci1HNXRlQlA1R3AzRjN5bkFRdzFzZU1JUTQ0OG9SeDY1ZWwyOHRwcGNjWERsYnBXVkJ3NFBNVHZUSENsVWt6b1kxckczejA0YlhobmVoX0wzYTZyM21RY09CWEhaajRSRkhja1NUTmx3VjhuMjZMUlBBeFM5aWNrREJqd0JjSjFSRWRjdTQ3NE92WEQzcjVnVWwyWmdGdXEyNlVa?oc=5",
     "date": "2026-10-07T04:17:00.000Z",
@@ -537,6 +642,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dfcjJxclVWTV9faDZyaUpIZ3F3cl95X2dFdzRaN0IxTWFuX0VwdWFBeEFtdjdqNVlKRHVCNVUzZF9paU9Cb0F3Y1NLR1l1UnNMVXNudDVYTEg4SVlVSHl2b1QwWjR6WV92ZV92MEUzRnozaEx4cHF6ZURxdUY2VDNlWWZSaGIxX3hsWEsxalhvZjhpSk85dWEwNWN6U0ZKeUNPdklHYnZpQjlORGpKemZOY0NfWkZFWHdvUkd3?oc=5",
     "date": "2026-10-06T19:01:28.000Z",
     "summary": "Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
+    "date": "2026-10-06T18:15:37.000Z",
+    "summary": "Fed plans to overhaul bank supervision responsibilities, Bowman says  Reuters"
   },
   {
     "source": "Deloitte",
@@ -775,6 +887,13 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFc1c0xXaVJWOWFhb0N1MlhwalE0cGd4R0xCdXEtUFUzTE1BeFhTX1ZqMEFCWnlpOTczN0djcFVPU19rb3M2Rjd0X0xPVzB4bUFUTlQ0MDNHdF90VEJrWThjU2llMHI4bFJiQ2VtM3hYWEdTSzJkdmJZX3RJRzB5RFdrZTdZRjl4NEJJcXB5dG55ZXU0SWFEeDZkZV9STUpGRzlVWHlCVFFMeV9pQlE?oc=5",
     "date": "2026-10-06T12:51:59.000Z",
     "summary": "Sweden to deploy Patriot missiles to NATO hub in Poland  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+    "date": "2026-10-06T12:42:00.000Z",
+    "summary": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance  Reuters"
   },
   {
     "source": "Reuters",
@@ -2644,6 +2763,13 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTgyQ1VKU21CSHhfcG9kb1MzYmhLUnVrMkJuQVBTb2I1Y1NMdVFzTnhGOTgwNmlpSXVLRkFnN0VCaHp4NjlzMS1iOVJmSjdaa0F4b2pnbVVPX3lBUENHWDcwVnZYcTRmSFZYcG9kbVVCcFROaDJRdzVZbHNpODdMSWxXM3JqdElkaEVrOVpCbXdBaTA1WFdzeTY0SEZJdGlIOWJCcnZUS3I4MWpzWUpGNG1WZmRXZ05jbFhMWFZFV251N1llcHc?oc=5",
     "date": "2026-10-01T21:08:28.000Z",
     "summary": "Bridgewater's flagship macro fund posts double-digit gains this year, sources say  Reuters"
+  },
+  {
+    "source": "Kantar",
+    "title": "Job Description - Kantar",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSQXJJb0FWdEtfRkZ0b19TWFh1ZnhqNkdIS2EyUWt2QU5rZHdieElUZTZDMXZYVEs4MWZDb0tpWkdLOWM4U1MtVmJWdXJuU1dVYm1oQUNDZ1M2MFpJdmdaRDBBMGNCekRQckQ5NGo0OA?oc=5",
+    "date": "2026-10-01T20:44:49.000Z",
+    "summary": "Job Description  Kantar"
   },
   {
     "source": "Reuters",
