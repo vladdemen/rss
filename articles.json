@@ -1,10 +1,213 @@
 [
   {
+    "source": "Reuters",
+    "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
+    "date": "2026-10-12T17:23:08.000Z",
+    "summary": "Hackers heat French supermarket fridges, sparking fires and spoiling food  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+    "link": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+    "date": "2026-10-12T17:08:05.000Z",
+    "summary": "Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks.\nThe post Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents appeared first on Met"
+  },
+  {
+    "source": "Reuters",
+    "title": "FTSE 100 ends higher as financial, medical stocks offset crude price hit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUFaYzhXUGhhdFpHc2M4a0JXTmllM2hTQ0FfVnVMUFdWQTkwNWRRb3gxQm83NFNGQWc3Y0Fpb0VONWl4LUZyc2ItUllCMlpndkRhZENCWlJXT2N2b3pWdFBYUFdRbExJQ2NsMUpydGdiOGo0UXhWV0s1T3c1MDd2RlpKWWR1SDBReHJlTWZySUhvaDJMM3Z6Z2Rn?oc=5",
+    "date": "2026-10-12T16:50:30.000Z",
+    "summary": "FTSE 100 ends higher as financial, medical stocks offset crude price hit  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Starbucks says not buying Chipotle, ends takeover speculation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnZGZEV2WklwWFV4b0FvOTI4eFpxVFgxMTNvNDUxSVh3ZVBRalVuWjJaS1JRaUpwTXp0em0yUVAxQjZqQ1dUYlo1MGNEaFlzNUxhOUgxWF9CY3dUem1ILUdqd0FxQzNGNW9CT19qc3hueWlrNlJHQm9vYzJfV2UwWkFsRWpYbzI4THFPSVVCczVVeUpDTzJKVWJaeU45OHZw?oc=5",
+    "date": "2026-10-12T16:12:02.000Z",
+    "summary": "Starbucks says not buying Chipotle, ends takeover speculation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Musk has spent $366 million to help Republicans retain control of Congress - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5",
+    "date": "2026-10-12T16:07:43.000Z",
+    "summary": "Musk has spent $366 million to help Republicans retain control of Congress  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "What's in the diesel deal between Putin and Trump? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVYyWUE3V0taZldlY0hsb2o0Rko0Y0QxTGJrbk80SHhyT3VKcWR1LTNfMFFEcEowbklSemZfRHp0Vk51cTBIQWFxNTBMSGZWTGZJejR4TUtoN1V6NGpWcnJtZWhScXY2MGotd1E4eW05UHd1cVZWb3NJLVI2NXl0QnJlRWlMeW1sVVFKSm1mQnBUd29yZVE?oc=5",
+    "date": "2026-10-12T16:00:03.000Z",
+    "summary": "What's in the diesel deal between Putin and Trump?  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Global smartphone shipments record worst third quarter in 14 years amid memory shortage - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3JuUWZiallOd1ZDeGo0Nko1b3JpdUk4RWVvRlA0cURrV0VwakxSQlQ4NW5xNXA2MkZTOTc4d0pvX0xDdkMtMHdtYWRRNVRsTXNkeXFRX19RUDVfZmZVQ1IzRE5RZGlOU01lQmZLQWF3WFU3eWRTME8zRkEwM0tfSnJaenBQZklkRVdCSlRQVW9BVlJWbDRxQ003OHVhaWpvVTI3TmtkYVlBTmkyVmt1Vm8xQnhxYjFxU2FSWTZkeU1KbnpOYW05QkpFODNpV2pGTkE?oc=5",
+    "date": "2026-10-12T15:55:05.000Z",
+    "summary": "Global smartphone shipments record worst third quarter in 14 years amid memory shortage  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
+    "date": "2026-10-12T15:48:11.000Z",
+    "summary": "Trump defends Russia diesel deal as lawmakers from both parties complain  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Getty Images to go private after restructuring deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5",
+    "date": "2026-10-12T15:47:36.000Z",
+    "summary": "Getty Images to go private after restructuring deal  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+    "date": "2026-10-12T15:06:26.000Z",
+    "summary": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US yield surge triggers mortgage hedging, adds to bond market pressure - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDF3em5PS0NkZ3ZlcnJlQktDOFBTQjlhZmhpYWJ1WHRyRWlyX1dQbTJRd0FqMk52WU1zZGNvVDdJcnNCUFllLUlnUVBPVzREd3VESXpXU1dLWFpZeVQweW1RYUlqRmtfbk1DYVJ2UWt0dDVrcGUtM282UXNyR0IxejBkLWZFdHg0VF9TenZDMUc4bDZldkk0Uk82WVFObDVST2NsWE9wT0RxZF9jY1RVQg?oc=5",
+    "date": "2026-10-12T14:52:28.000Z",
+    "summary": "US yield surge triggers mortgage hedging, adds to bond market pressure  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Australia's Treasury Wine sells Rosemount back to the founding Oatley family - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOU12TDlNalJMckVLME9Oc1Q2TTFDQnJJM0RKbDdUUmJJSUlJX0VWWkhwRkY4UW5Wc0o2SXF4XzFYWkpXMHVxNE5UblRSS1E1bWszMF9HRWhqQkdGSkpFaFZXRmllMUlQZUdOQVhfTWNDX1Zpc1hVZ1hYd25TelROWV9ITzlMbm55SkJNS240MkQ1TmRVcnc0WDJmN1pNX1d4dlkzYk5yZ2pvVV9oV2hXUWpMRm01M2hDYzUtdUd5QThuZw?oc=5",
+    "date": "2026-10-12T14:17:01.000Z",
+    "summary": "Australia's Treasury Wine sells Rosemount back to the founding Oatley family  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Data Migration / ETL- Manager -Sales & Services- Customer - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQndoVGhpTUlXZlVmUVhLRzdSSWlkNWk4aGFpXzY3VkdHQWVybXJPeUdIUGhOT2Q5UERiM0Q4THVoenFIS1FYUkpJNnU5eVYzcG5jZkRvYjh2c3FiU2dIelNBdFhkSkpBZEczTHZZa1R0Z0pDYTJ0WXJWR2xFSXFBR2dIZlhkeUE2ZW1nck11Y2s1Q0VQeFdkRld0UzNLYnlBNzFyanRmN0ExTGhpdDRHTXVFQXBEZkpjd1Eyd0d3WQ?oc=5",
+    "date": "2026-10-12T14:12:41.000Z",
+    "summary": "Data Migration / ETL- Manager -Sales & Services- Customer  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaElqa3NPZERzOHYyU3NVZmRTSkpYY1U4SzM5ZTZzQzlGbFBhTlhhWHNUN014M3JVWV80c19kRVFWaFRXRWRUVnFOLUV4eVlVWVdlbUVReWFRY1RsUVhvQjhET0dtN2I4ZmRuT1hmU01GY1JmS2hQUG0ycXN6ZWRRUjZpR3VvRTBLYXJxVEx1QUluN001Wjd5Yi1LMFpHQ1RQb0pMbGgtekJvaEpBVzJEOWxMZEtUUVVTQUUxamk3SzNlQlJvb1pXeHJkT1dCSUZG?oc=5",
+    "date": "2026-10-12T13:52:48.000Z",
+    "summary": "Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Asian refiners buy spot November Saudi oil, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnNKRV81aDlKVS1rMVJzSUFpcC1aRVZwU0Flc21NbUlEaWE4bUZvaHZXQzlEek1vVWpuaHFkcmVZemxhMkdaeGptQ3dGLXhkWGRQcjZxdmtLS2EzMnlJSnVadmRKeEZMc3ZSQ3BsN0E0dURETzVGSEpfdnJuMzVpUV94NFNzdUJ3NlpCTFdvaWhpQ21KZEJfSnVTclBfM2tLNkE4YmttWHRNUQ?oc=5",
+    "date": "2026-10-12T13:10:45.000Z",
+    "summary": "Asian refiners buy spot November Saudi oil, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Goldman upgrades global equities on earnings optimism - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjR2a0RaMnJBMVkwaEw3NUluMEozZXppOGxUV2lONlVjUlZaMGhvR1p1cnFVSmRybmlzcHlHTTJkSnoybkdJR1FlanJfTzkyNVBoaVU2SENlM2Jhd0c2cFFoVGFuNW9RMDhGX3RZU0ZlbUdsZmh4U0hYTkNid2cwMWI5a01VMjJUYU4wRzJNWG5TVzVpUTRDQm5rbw?oc=5",
+    "date": "2026-10-12T13:02:36.000Z",
+    "summary": "Goldman upgrades global equities on earnings optimism  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Logistics, rising global prices could create diesel shortage in Ukraine, industry outlet says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0J5UDVuRmdEbnp1MHg0cEt2Y3daaEJPdGdRRkp2WDRXOHRxcDFJSjk0ZTdRTjltTU5vUUlpclNQNEJqOGVXWlJ1TVo0SzI5TnNsc0hyRVpsYVdYUHZHV09IZVNQeTdmQUFqYXIxTkhZbjY3Xy1PZXB0WVhfX1dfM29LazVsOXd2eUJFZ3F1dXJjRFo3SVJxcWNQVWhBTERNMnZrbTVLaG02RExHZm9sbXdQZmRjNXhUbGtIVXdKX25EYlFVZUd3?oc=5",
+    "date": "2026-10-12T12:45:42.000Z",
+    "summary": "Logistics, rising global prices could create diesel shortage in Ukraine, industry outlet says  Reuters"
+  },
+  {
+    "source": "Edelman",
+    "title": "Two Things Every AI Agent Needs Before It Goes Live - Edelman",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDVXVvUEJDZVdKMy1lRXI0ajYyVGp1VGdpdjlHZ1g2VmRsUzZsVkJIb2FjWHl1NlVPV1ljd2ZoeGlqVzFzMVBaRU4zME9Mb1l3ZEhJX29WcjZrX3NfTTlRUzZoRm45SU8tMmd0di1JRGYxdw?oc=5",
+    "date": "2026-10-12T12:00:00.000Z",
+    "summary": "Two Things Every AI Agent Needs Before It Goes Live  Edelman"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU eyes December trade initiatives after China car import deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUVjWi04OFQ3RzdMUmNYSTk1bk0wbWtWM1ZmbWpVY0dMUk1HVUJEVTAwbHJlc2cwUHhtNktGZHhwdEV4QzBxSlJVa3YtUFpVZlhXcXozZDlzRUlsbXV0UWdyTkU3d0FLdkpQS1kxdGNaeDJpdnBpNWhfdWk0UjYwbUcwUEJHcExDcXVPcTRYZDJOWi1DMGJxNjMyOGp1QUxoZXZvbGg1X0djb1VOLU1YN0psU0FfaF9sc191QkZtaXdUaGhqc2t3?oc=5",
+    "date": "2026-10-12T11:50:46.000Z",
+    "summary": "EU eyes December trade initiatives after China car import deal  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's HCLTech signs a pact with Anthropic, to set up business unit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakI5S2NLS3JLb0FGeHRiWWdlZ0dKQmNUZDRuNTVTTTBvX2VZYmJSdFp4Z3lFaFRpcFprX1RiY1BpUGpmMmZuMnZBUjJveVV5YnpMX0R2cEF4LTE4NVZIa21GVzZVWndlVU54UlZBRUktaWlzNS03Vzg1eUlrRzBMdzVSRENhVndlYmNVS09Kc2RJM0o2TENPVlUyY3hZVGh4cmRYWXl6M3E5elFESVE?oc=5",
+    "date": "2026-10-12T11:06:11.000Z",
+    "summary": "India's HCLTech signs a pact with Anthropic, to set up business unit  Reuters"
+  },
+  {
+    "source": "Semrush",
+    "title": "How to build an AI visibility dashboard with Semrush",
+    "link": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
+    "date": "2026-10-12T09:45:00.000Z",
+    "summary": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks."
+  },
+  {
+    "source": "Reuters",
+    "title": "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHpiemJmQ3V5V3pqc1NKUTc5MXVCVW92Mm8wQ3BWUnlmeXNmTUotNUFjYl95ZmVFN09sLXV6SzhhRWJpRG5sV3o4dUhHSTNubjZRZXpyajRDTTJYWUdNY1NDMzRWYmtEZVhsRC1Jd05SaW9ic0t3dWFtUTIwWmNFNW9SYWF2eGo0RlpNYl9QOVljdVE2RkVGR2VpZ1FZMmxXdFZuS0lNcnJyMG5IbE1yWm8xNzZJRHQ5SUVTRFJIbFFoQjZERkVVbA?oc=5",
+    "date": "2026-10-12T09:41:02.000Z",
+    "summary": "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall Street's big but narrow rally: 4 in 10 S&P stocks are down this year - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHVFd3RKVURlTy1UV2FEeGZZTmZKT0RmYkxtM0EyTjdLTzhidVdqdVdMV05LX1R5WlpQVGpGMncwTGpPM1Q3amQwVmFSR1k0SmI0aGRIMW5iR21WMFZSbV83dGczZ3hhWURhSWVHMF95cXFGMVRZTmp4dl9hVlZYTGFmLW1ueS0xN21la3FtcHBLdXUwQ0hBSVFEb0Z3TWRLcVNoVjNTMWJnMEtY?oc=5",
+    "date": "2026-10-12T09:01:43.000Z",
+    "summary": "Wall Street's big but narrow rally: 4 in 10 S&P stocks are down this year  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China approves Geely acquisition of Ford España - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFBtSVJQWEhxeElkUGVmY0l3WGxIUTlXLXJ1X1UzS2ZTYWQ0NDZIVF9tUzJhdEM2VVlSQVJhclBiUk5RZ1p6XzBBV2lNZXVwZ1ZEYUFSTGs0VFJMS1hQTkM5M1NsbkFIM0JGbGpvZnNSeGlHNDRoUlA1UGlET1c5Y0FXSzhXU1FMSEFxWV9ZZjNLZXBIa0F0d2NBNlVDeTVpd1BOZE5GTQ?oc=5",
+    "date": "2026-10-12T08:51:48.000Z",
+    "summary": "China approves Geely acquisition of Ford España  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Orsted buys back British offshore windfarm stake for $20 million - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXl6R2pFR0dNLTdObmN2djB2ZmdJWDJtaVVMMUJFZ2ZRRFp5MVIzdGtUb0R6b2FEWVV4QlR1REU0VUo5NDZYT2VQbmVQV0J6aW5oUEUzVXpwNHB4VGdJejRYa0VSOXNZUzZ4YWczamVmWEptZndiU01INVdUQVFleDdLTWVaVFJZRHQxZFBOVVlCZzBfWXdXVUdlTG1LeFdsRlJhdjd3ZkotS1dwUmYxUQ?oc=5",
+    "date": "2026-10-12T08:46:22.000Z",
+    "summary": "Orsted buys back British offshore windfarm stake for $20 million  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wildfires spread into residential areas in Indonesia's Bangka Belitung, destroying over 300 houses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjBOaTBncV9ZRXBPRWNKVGhtNVljOG1obXNNQjI2amtHbW9MQ25XbklwU1Q4QXRoUEhWUGEyaXVFQ01FYVlNN05VNGh6OXo4T04wcDlDYnhGWTEyS29rOHhsTHhDSGRxa3VPcjRwYndVQ3JVeUMxck9ucFBsMWYteFRDeWpTU0NCVzhweHZ6cG5WUVVMSVdRTWhWZEdocUlxelNQVU1QQlkxdFRXODYwYlV6b2ZOSmJTUjh5WWhBRFJZcmZVUkU5R3VRVVZDVWM?oc=5",
+    "date": "2026-10-12T08:04:32.000Z",
+    "summary": "Wildfires spread into residential areas in Indonesia's Bangka Belitung, destroying over 300 houses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India wastes 4% of solar power amid power shortages in July, August, report shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUt6djVxbzlOUEJXbVE4a0k2YnRsUzlSWGZlWTBxbnlZdDRWQnUzajVzTFlHOXlYejJqejF0WXFfdVhpRG1WZTUtMmpQUmRyb3ZXU3hFdWNLSy1jM2Y5MEdCRmpZclRfNW42ZHhRMVZjQ1F0S3RCS1Btc1EyVjNMVmhQTm10VjRnTkdCYVRhbmFMRjVoemFXWmdZTGxUOXgyOFlGeGR6dEdRb1NkLTRmQW5naWl5QWJReEp1bWF5aWhRZw?oc=5",
+    "date": "2026-10-12T07:47:34.000Z",
+    "summary": "India wastes 4% of solar power amid power shortages in July, August, report shows  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Applying to Data Analyst - Risk Adjustment Analytics | Analytics and Insights Engineer III - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lYjNqWERmM0o5TENUZDBZVFBBck80MWQyaXUxNHY2ckR4a2pHNDRhbUIyZHYzd2ttRHFJUmN1dVNxb3o1STlIS3lFM0NKU1pkanZHSzh4ajdfR25WX2xsMEZ1UnQzVDlEOXBIZFg1Z3FvQWdGZk9KaFVEbkQ?oc=5",
+    "date": "2026-10-12T07:44:09.000Z",
+    "summary": "Applying to Data Analyst - Risk Adjustment Analytics | Analytics and Insights Engineer III  Deloitte"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Says Worldwide PC Shipments Declined 22.4% in Third Quarter of 2026 As Component Cost Inflation Raised ASPs - Gartner",
     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUE8xYThKVU9OOUhIaUF1T3hwM0ItRVZ2V05wei15d0gwMWpwVm0zZm90c2k4dUZzcXdyc1BNdXB4eVJ4TGQzampxVG9ZRlBBTjVZRmhvNldLSzVHNDI0b1AtZEhHY0g2TkdwckFfRjQxMHBpX0FCYXBHOWFnZ2ZoSnAyV0o2cFdqYWp2alJsYVI1RWxydnhicERwLWY5XzJnN1VNX2ctUC1VMEI0YUhJMU1vU0JzdFFtdlRqaWFHVDZjS0NrQVdSZWtWZ1lGMFpHNzA2VHA1d0ZmeW04cGlyaWhBX0FWMndzOUtHRnpqM1hreklMTTgzeWJrQ0ZZaXAtQzNpcXR3U0JleEp0U05kNnJNRkc2R1UzYUE?oc=5",
     "date": "2026-10-12T07:34:20.000Z",
     "summary": "Gartner Says Worldwide PC Shipments Declined 22.4% in Third Quarter of 2026 As Component Cost Inflation Raised ASPs  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Telecom stocks in Australia, NZ slide after SpaceX spectrum deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajFpQm1yQTNQelVjcWZoYzl2Y3I3T3g1RFZxc3RQazNndjh1cV9qeDJJeUVRQ21JVTVnazMzZnM2YUIwT29LZ2FTYXJSeHVQSmFIOUJKTHJhTmJmOVJmVTA5bkR3MnRIT3BuTjFUMDE2WWphaHBUaU5TTkF2X1Ntc3BveWR6ckxNOUFlUlE2a1JmaXVTTmNkVVItd1VtTzNMM3Y4RHU2YVBXNmttdFo2ZVVER0ZXRllLVjRB?oc=5",
+    "date": "2026-10-12T07:31:33.000Z",
+    "summary": "Telecom stocks in Australia, NZ slide after SpaceX spectrum deal  Reuters"
   },
   {
     "source": "YouTube Blog",
@@ -15,10 +218,73 @@
   },
   {
     "source": "Reuters",
+    "title": "China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM?oc=5",
+    "date": "2026-10-12T06:51:00.000Z",
+    "summary": "China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Volkswagen deliveries post steepest drop in more than four years as China weakness deepens - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2hFMXI2bm5WNnJvU1FEeEt6SnBZZTEzazBXOU1XWkRPSGNSUFo4LTB6UzJlcGVwSndWS2NyRmVTRkFvS2J5eEZ4NEdVaTlSQzVsR2huLVJENHo3WnlHODY4aFRLbUNQdEhrRDdvNUl6OHZKUnNhODA2UmJJeE1JVllEWDhNUzZEQkpCSnN0eC1rZUx5emx4cEhCVXE?oc=5",
+    "date": "2026-10-12T06:45:00.000Z",
+    "summary": "Volkswagen deliveries post steepest drop in more than four years as China weakness deepens  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Specialist- Client account management- Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0liVmNReFloNXdnSTUyQTFzWUMyVVNHU3RReUwtdnpxUlRRMV9UeWtTX0JfSW4xbFFsWW5XbnZsanZST1RJOU5LblZndlAzUVBEakNuRk81RHlMbVAyR3RqamJucEY1a2w4Qmg1NEl4NVlHYldGNV9wbHp2LUk1WF9vV3JNdjV5SHc4c2pxUkFMLUFBWWR4VGE4QjFlQVptbE11d0NPMk05bHBHSDBYNkhSLVJhNEFOZ1Vtc3hYODltdXQzTG9xUURUdVFBYng4?oc=5",
+    "date": "2026-10-12T06:40:26.000Z",
+    "summary": "Specialist- Client account management- Hyderabad  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "China home car sales downturn continues, exports retain momentum - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkRwQ2xkNzNQMm9WRGRvNnVXRnF4a1Z3aFJycjNwT0o3Znd3akkyVlVEc3Y1UmVXV0cySGdnNVhXdFNqSmZGdnBWcDVaYUZNUGM3LVJVR3NNYUlRWS1VUFNITG9QTk9OSXlFUWM3QzItTTZXZ3FLaXVsMEw0M1VPVm5oNUpjYVMzV2pkNmRKaGJIQTVVNUxnYXFkX3E2clA0cHNGSHlrRFRCVlh0?oc=5",
+    "date": "2026-10-12T05:55:00.000Z",
+    "summary": "China home car sales downturn continues, exports retain momentum  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Model blitz at Paris motor show as Europe-China rivalry heats up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZE5ZM3ZtTlpCRVZYM0QzQmV1cWxaWkh5ZUx0UHQ2NmFZR0dkZGYxZVR6RFFnRUVqdXUxS1dmY2JlQXdRUXdqdGQ0bnE3bDN4M0pxSmlTOFN0eFZTTDF6aGg5NXJoT2N6Rl91bEpZZ25GeHh5WnNNc2R3UjU2b05uLVJyYXRPLXF2dExrZVI2Y2FDbU53R25lMnVnczl1dG84SlEteUVQS2V4X1FxRDRiUFMxbE8wdDdRNFBwY05ON1hkd2w2eDFVaTBUWF9IdmJBNWZDWjJvdm5TQQ?oc=5",
+    "date": "2026-10-12T05:55:00.000Z",
+    "summary": "Model blitz at Paris motor show as Europe-China rivalry heats up  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Senior Consultant | ETL Testing | Delhi | Engineering | Quality Engineering Job Details - Deloitte South Asia Careers",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMU0zbWZ5Yll5MUZ4YXpjMEJrRW9maXE3NFdrZGl6S1lGNmJrSmFVelNtVEl3QVpORjVseVNDSVNnVzhqM3J3eUZtX0pnWUxsYkRZaUpwUzBCUHpnZXBpMFE1QmY2OUpMaXZncVpMV1h3X2FYckoxaVBSU1B0a0Npc0pfOUUwLTlRbkJnZkxJUnlxZ0xpaVFyVi1obDZ0bDVLSFBjZ1lYSzBiUGtmdGlVYTdBS25mRlhTblZZam5lZ050Y0k?oc=5",
+    "date": "2026-10-12T05:50:29.000Z",
+    "summary": "Senior Consultant | ETL Testing | Delhi | Engineering | Quality Engineering Job Details  Deloitte South Asia Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Sweden's Telia to cut around 900 jobs and save $100 million - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajFSeTNKMXZMRjFZOVAtVmkxT3FMUnh0b3l3NjFRVW5wa3JOM0o1UGVIb21LcmhBWFozd05sc2VxTDdaLUE0SWlDbkw0WHM2VXRPRHhycWVRT3FQczdPR2JDdkJEN0lnLW9uRjZCTFR5cF9ZUGRLdFFxVEVBeEhlZE5DS1F6aGU4VEdBMWhqNmI5Zm5WMDVBeGgtWlJsazRFam9ZQ1lGQmpYdjQ?oc=5",
+    "date": "2026-10-12T05:38:00.000Z",
+    "summary": "Sweden's Telia to cut around 900 jobs and save $100 million  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wind turbine maker Nordex Q3 orders rise on Turkish demand, US recovery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTZ5dFo2X2FkZ1hfNTlDMmIweEVCMjZSQWJud0E5Y2plV2xXWDFHNkxCVVF1MGd2Sy0tVjlQRWRyWjJZRkNBNC1lQk5EMEw5bXRWOU5QeTZOLWJSY1htckdSakRqSkxQdUJiVzZGRXJqUjJ2TzNYMklNd2dqQmdqU0hqS29fR2tmUjdYd3liNVdmZnZzSWU1XzJpVHlEbl9CbDNLTXZ2cjN6UWdzeDdldTFwYlR5emF6dWRF?oc=5",
+    "date": "2026-10-12T05:13:00.000Z",
+    "summary": "Wind turbine maker Nordex Q3 orders rise on Turkish demand, US recovery  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "China home car sales downturn continues, exports retain momentum - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORklFeXBseFFYZHVWelp0YnlDTklwc3lPS1B0OE95RUhMUG9aVnR5bVFVbEVNQVFyRlVVdmlEV0QzWVlYbUhKWlFFSFBjZlFWOFA1bzZRWUMzUS1IbjNQYUtLUkhIRTd4OFlXX21LRkl0RkYzYWUybzlsaFFSVkJmQk9CYWRKQzJicUZRRjhPdnVaeXk3d21JQmhwWUE2X1JJNGxpeFN6WmFGZWhSR1pPYUZseHRJLURqd055YmRUd3dwaDhBU25XMA?oc=5",
     "date": "2026-10-12T05:07:00.000Z",
     "summary": "China home car sales downturn continues, exports retain momentum  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "German startup 1Komma5Grad secures $1.35 billion valuation in new financing round - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDlTNHhfM2VxYnl2bHhjS1h0dzNGb1VlVE5WYjh1MklwYmpLMkNRNlNoWW1xc3N5aEV3dS1LZHhKVUEwanNhbGkwRGVFMEd5Mlg3ZVB6cEdCTDE2TjNJbnpoaFBEdHhxRlNnajh2YUYwODc2Y09oalMxdXpldTdEMnRtcGFqSldmQWFHdFhwdDFSZGMwYm9uOXF5aVB0VVM1ZmR0Q2xHV01zV3RjVjQzcmhDci1CNFFEOG1fYW9B?oc=5",
+    "date": "2026-10-12T05:02:00.000Z",
+    "summary": "German startup 1Komma5Grad secures $1.35 billion valuation in new financing round  Reuters"
   },
   {
     "source": "Deloitte",
@@ -26,6 +292,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDFFSGJva1NTWHg0WmZ1aVZuUWVGci01YnlKQmZZd1RYbjVqWlZVZ1lYUjN0WlJLWUN2WE5uNjJHQWN4SkRwY2RVLW5RZVFMQzBKbTNfcjk4LV9RbDV3QXA0X1JtOGhlVWEzMVlDMnZrS182eV91ZW9OblF0YVJSMDNocFozNmM2Rkg3eFVoWDg5Ti1JTjZJQV9tRFotWDFaRnk5dllkNjQ3V1dXYmxJU3BvS1V6aXlQaVdqNkF2Ui0xcWsycEVJUjUzNDVTaFZZSGlUbUZLWk5HZw?oc=5",
     "date": "2026-10-12T04:38:52.000Z",
     "summary": "Specialist, Assistant Manager, Analytics and Insights - Hyderabad  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anduril unveils interceptor missile family Steelfin to counter varied threats - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEREV3BlQTNlOGhDZFRxVGY2TXBNYnFFMXpuSndaQ2pkZks1Q1FiekRWZG5GdjdoSnEyZXVEOS15a0xGM3BsWWttejAzaG9nTl81TG5YVTNGUnFYZ0NsTEpWV2xfSjVkV05CUVhKWDEzUVpQZzhSSTRiV3NIMFhaR2laNXRoYnUzSUlScnFldjFxc3BiZmtQRmg1MWR5cGJGOEhOY01ubmUxcWJOR3JzbkJOd2I0R1A5a3lsMGJ5bUl3bVpDTVpMblhYaERRRDN6YWtfOFpncw?oc=5",
+    "date": "2026-10-12T04:07:00.000Z",
+    "summary": "Anduril unveils interceptor missile family Steelfin to counter varied threats  Reuters"
   },
   {
     "source": "Reuters",
@@ -40,6 +313,34 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0wtSjVQYjhCX1JxTC1hSjFtNThnOU9LQWxnZk5KdEJadDFVTkd6dEMyOUdGSlA1c3RnZEhvREVCVXBMcmRzcEhXcmlZeWdRZkRZSTdOQVRtYURYTTRtV2dtT1Yxdlk1QXpwSnRJcnBfS0tBVmFzYmxtcE5QMWVzVHVxcmU2ZnZoNXVGb3VPbkRMbHFoUVN2b25UNVlkdWhmeUdQRUpnNmJuaEowWnc?oc=5",
     "date": "2026-10-12T02:13:00.000Z",
     "summary": "US-China supertanker freight cost eases from record, data shows  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Peak XV, Accel-backed Zetwerk seeks $2.64 billion valuation in India IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5qMTNSMzRzTGhDdEQzcFdocF9zcGN1OHJ5ZlluUkVEazlxbFNqemJXLURkYzBZSnFwMEJGb2ItR0hxTW9ta240WFNYMkVFMDFWTXVkaU9oS0FxdnV2d2xuMVRRV3VYaTJqVzU0RWZnQTNGVXNEanlZZHBkQS1VU09XNkFDdWpad1R2Y3Y0OUdBX3FsSU1qU0NWeW1jLUdnNnl4bjhTZlc1UkdFbkFNb1ppSmc3S3lZMTRj?oc=5",
+    "date": "2026-10-12T01:47:00.000Z",
+    "summary": "Peak XV, Accel-backed Zetwerk seeks $2.64 billion valuation in India IPO  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Meesho: Making e-commerce everyone’s business",
+    "link": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
+    "date": "2026-10-12T00:00:00.000Z",
+    "summary": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled Meesho’s founders to succeed."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Asset management 2026: Plenty for the few?",
+    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
+    "date": "2026-10-12T00:00:00.000Z",
+    "summary": "A golden age for the industry is becoming a golden age for a smaller group of asset managers."
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1hmZzQxZmpITVlBeVpjanJJRWhDN0JGWWtSb291VDJIaTR2ZXJuVDRtanlSUDdiQllFM1RqSjBHeXp6N2JaT1FnMXB5Yk45RWhOeFoxT3RGMEdJT3N1UG1SS0E3RWFvRG1Tci0waTNYWVBKeFcwOVJ6T1dVOV84cTZHY3B1ekdOR3ZqZ1NLWFZTN1Zoc3k2dWZLU0dOTnprX0ZBcnZLRmFsdUUxQkhNUkRpN1dpUE0wSTBHRVhIY2NrcEk?oc=5",
+    "date": "2026-10-11T23:02:00.000Z",
+    "summary": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say  Reuters"
   },
   {
     "source": "Reuters",
@@ -180,6 +481,13 @@
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMU9yUGphQkFmSnBwR0hqWVB3V2VQUF83bmJ3eS1maHVKd3pyTFhIQnprMTd2NkpHaTdkMlBUZUw5dGFLdHNDMjkzYzNXZXh2bmFDbi0zZXl0V0JfMnpTZFpaVmZHTFZ4eFdDQjczY0t0R3NTVWxpcThoNUVfTFlYQ1ZIdw?oc=5",
     "date": "2026-10-10T13:40:51.000Z",
     "summary": "USI-EH27-CS&G-BM&C-BR&I-Senior Analyst - USI Careers  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Strong Panama quake shakes nation, but avoids major destruction - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+    "date": "2026-10-10T11:59:02.000Z",
+    "summary": "Strong Panama quake shakes nation, but avoids major destruction  Reuters"
   },
   {
     "source": "Reuters",
@@ -1211,6 +1519,13 @@
     "summary": "Manus raises more than $500 million after Meta exit  Reuters"
   },
   {
+    "source": "EY",
+    "title": "AI Software Engineer - Financial Advisory - Cairo Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWpRUmw5b212WXVNMUhaV0o0WGJfbFZmcjR2c3VTZ0wxaEZfc0dhbjVvbUJLSlNIdHNJalhFR2toMXR2cGpJLS1RS0phWTVPZC1ZSGpNcHVhVzg3YjltWW5jQm5ON1NTc3cxNFJYQjVlMXpKWVpkVFY3X3J5LXZRU3JPU3Qxbnc2UkdDdU1lVndHREd2M3AtWQ?oc=5",
+    "date": "2026-10-08T13:48:29.000Z",
+    "summary": "AI Software Engineer - Financial Advisory - Cairo Job Details  EY Careers"
+  },
+  {
     "source": "Reuters",
     "title": "PepsiCo slashes forecast, deepens cost cuts as N.America recovery drags - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHltelZJVGJtWi1ueVRYa1Y0VHR1TG4tRTN4M1JIS29vSHE3V1VVWEJNQURYUlBBbGk5X2tYNFphZ0JvWnUxVUlkdGJjd1FjZFJLeDRvVWdhdjRIZmNJSjFDODZlWWktaERJQUliOFp4U0ZqRW13ZGZRQjBFTHlIbm43NzZWaU1WRmNnOXk4TnVzUWpRWUg3OHd4ZGdzYWhjMFVZLUhnZlRUVDhoNm9DN0F2REVpdy1XdjJ3cHBiLXQ3OFBtc2c?oc=5",
@@ -1447,6 +1762,13 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXM5OWRKZ3dGVlc3N1A3UjBXYWNrd3FrcERoUmdBcGRpZXpzRF9CYTRGREVzOE5TWEtQS2hpNXhBSzgxcmlNdjI5SUJIQUVwS3lzVGQ3cEVJdWJoMUM1YTBtY0VJYXFwYmRUNzJkWThTbHhpRFNRMlFSblBFR2ZqRXlzYW9Qb25yd2paMXlPMFVuakh1SmFPS1htMk5tbi1yc0tj?oc=5",
     "date": "2026-10-08T07:19:33.000Z",
     "summary": "Greece plans 10% cryptocurrency capital gains tax  Reuters"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Broadcasters and Pay Channels show dominance in South Korea’s TV viewing while Streaming continues to grow, Nielsen’s The Gauge™ shows - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbEpqOENYRmx6eWVxSTZYY2xMQW9EMkFZRUZRMjgxbEZXblhZZms3NXAxQlBtRWs4blNzc0x1WlVQLUFMdnlyTjN6TmhOaWh2YUl5WWk2emVnSnZhcS1KNXR0aC0yWTBPOTJ4UTEzanhHUGdlZUgwVDR3N3MwaEUxZk12aDgwaDFPQnQ3YzR5X1FVOTlLQjVCYUVMWDY2VlJ0MmFhajE0aUZPNmxjck8yeGNJWG9ZdDlCUHBwODJuN3FiZTg4NzFPbTVZcDZrcE05T2RRek9jMUtPTTNTT2tOWkpuTlJZa1VlaEVHWkc0RS13dXN5Ym10N3lkNEp3QThwV0E?oc=5",
+    "date": "2026-10-08T07:00:00.000Z",
+    "summary": "Broadcasters and Pay Channels show dominance in South Korea’s TV viewing while Streaming continues to grow, Nielsen’s The Gauge™ shows  Nielsen"
   },
   {
     "source": "Gartner",
@@ -3183,6 +3505,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMThYYlZGYjluZGV2elp3ZjMzbktva2tVZm03YmNoTU16cFJRNUw0OVZPY0I3ekNzVFl1TXpPaHNSdHRkOTNoWU8taGVYMWJiUFlvMFZtLUV6Smp3NmlaYng3NTBMdXJlVXNkaXJUU2k0N1ltQVNVM2F6RE5wUVlGOGFMRzlMc3A2RldsUC1sZjlJdkFRbnpxUVVrTEtnNnF2SXEwOE54c2w3c2RIelZGSW9sUDJZVGQ0OTFnQjFuZ05lMDA?oc=5",
     "date": "2026-10-05T17:45:45.000Z",
     "summary": "Heavy rains lead to Senegal floods, government reports several deaths  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "USA - Consulting - Financial Services - Quantitative Advisory Services - Staff at EY - EY",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFRRVzBpRTNSOWprSXlWUU9HTEc5SEQteXozOXR2UWNvdjN4T3JPcGE4SVBxMzRhdW1TMVNqN0tNejVCQWlxWDFHZFRLWGJNb2FKYUJuYzdIY013aWF2ak44dGM4eUx4eFlVUzlLbXNSSmpnTFgwNEFMVl9EQjVEUUJfNW5tVmtodkVhYk40UlpLRWdhcVlONGJKbjRUd1FhQ2h2Vl85OW9JdW9nWVlabGxNSW5nbVVza19aUkswSV8zVVo1NzV1SHpLSW8?oc=5",
+    "date": "2026-10-05T17:38:56.000Z",
+    "summary": "USA - Consulting - Financial Services - Quantitative Advisory Services - Staff at EY  EY"
   },
   {
     "source": "Reuters",
