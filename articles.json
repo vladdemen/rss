@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "title": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5",
+    "date": "2026-10-13T20:58:03.000Z",
+    "summary": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EPA proposes full reallocation of refinery biofuel exemptions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnIwRnF5UFNtbERvdjNuSkRKS3VYelNxdFNobWpWYU9SOUFaTG1saGl4X0JrSHhCRmdJM3hqcDlEWVJyVVdweWtQUFBMS3pMNnVROEJBVGZVYkYweHNsTEZubGxDRkRRV25rVS1qQTFJTmFEY2tWRjRVSW81M2ZISXVpZzNKNXBHblg0Z01felg4TE1FdVFMX1JiaE9BdWltd1BHZ3JtRUlVTEJCOE80?oc=5",
+    "date": "2026-10-13T20:57:07.000Z",
+    "summary": "EPA proposes full reallocation of refinery biofuel exemptions  Reuters"
+  },
+  {
+    "source": "Nielsen",
+    "title": "Everyone. Everywhere. - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Rnhfb2hEbHBvbHJodDh3dERfc00wTjM0SXBJdC1Dcl9maHlDVXlOT1E0bHpfTzEyVEljbWZoRkNVMUxKV1EwcGZFU3lBUndpZjE5ckRqbndYc0xTQVFnbjNTaFhrVDhPaXc?oc=5",
+    "date": "2026-10-13T20:27:25.000Z",
+    "summary": "Everyone. Everywhere.  Nielsen"
+  },
+  {
+    "source": "Forrester",
+    "title": "Multiplayer AI – Your Impending (And Accidental) Standard",
+    "link": "https://www.forrester.com/blogs/multiplayer-ai-your-impending-and-accidental-standard/",
+    "date": "2026-10-13T19:41:08.000Z",
+    "summary": "Where you do work is changing. At the Dreamforce 2026 Slack keynote, Boris Cherny (the head of Anthropic’s Claude Code) approximated that 90% of his coding is done in Slack. Why is he using a chat tool to code? And how? Forgive the immediate use of a buzzword, but the answer to b"
+  },
+  {
+    "source": "Reuters",
+    "title": "Copeland, Dixell refrigeration systems also hacked, French cybersecurity agency says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcEw5ZkNkalNNZjZRdGZhZ1VDQUpRMy1mOEVfdlhEVHNLRlVCMnZydHVvdVBUOXlneXlDNjdNT1NyYmhvVE44LU4yelRWWE1IcU02RWlJVE9mODNlMGdJLTRzY25ia3l1M2NCUWFSRl8xb0I3Z1E3djNkcVctVGRMMUsxV21TeVg5S0dJZy1LeWFqdWRVaHE5cmdsWlRCbE44TUtlOGJ3SGl1a1VYM2hCalFhY3F5SGo5LXlLbktnaHMyLXNiVXpYZl9aSlhselJLeWtMYQ?oc=5",
+    "date": "2026-10-13T18:03:52.000Z",
+    "summary": "Copeland, Dixell refrigeration systems also hacked, French cybersecurity agency says  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Capgemini SPARK 2026: AI Makes The Task Cheap — Redesign The Enterprise For Outsized Value",
+    "link": "https://www.forrester.com/blogs/capgemini-spark-2026-ai-makes-the-task-cheap-redesign-the-enterprise-for-outsized-value/",
+    "date": "2026-10-13T17:24:52.000Z",
+    "summary": "Enterprise AI conversations have moved from experimentation to implementation. At Capgemini SPARK 2026, the focus shifted from implementation to value realization. The gathering explored the theme, “Make it real: from action to value,” and how organizations apply AI at scale for "
+  },
+  {
+    "source": "Reuters",
+    "title": "Agilent to buy pathology software maker Proscia for $240 million - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdpa3EzSGg1SG8xYmFPM0g2S2FHTjVDVjNLdERYWG05OW9fUHFWWm9pcDhGWEUxSnN6NzFjWHI0MUxjX0NrYmI1SGx5OTMxZDNRRTJIazRVTmVISGlzVENGM0VJMGhDUlBwdVctNkpaRmotLUpMY19DTkl6N1psQnFUMWJEQVZNS2E1YTNyVTlsZTBzazJVSmhKZEQtRnhCU3MyWGVlalRoUDRjQURlV1dR?oc=5",
+    "date": "2026-10-13T17:06:08.000Z",
+    "summary": "Agilent to buy pathology software maker Proscia for $240 million  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Swiss parliamentary committee backs fee on UBS for public liquidity backstop - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTdhbnhiSmN2aFRlbXNVRE5UVjU2VktmWWE2WC0wZklvVm1lNjUxVk9RYkltbllxN2Z0R3RlUzhPMExkSElMTGxrSUxOa2dFX09SUFpiRmVyT3l0NlhweTdxNVdVV2l5NXh6b3Atbnh5Tm9CMS11LXVoN2ExUUZhQVFyUVI4d1dkS3RGWldwT25MLTgwbXVtYWx1eHBzODU0MlRtYTNCWGZXbk4wMF9vdzRBZDV6ODVCM093ZWRqQQ?oc=5",
+    "date": "2026-10-13T16:51:43.000Z",
+    "summary": "Swiss parliamentary committee backs fee on UBS for public liquidity backstop  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "Talent Insights Manager - Global Businesses & Functions in Gurgaon, Haryana, India | People and HR at BCG - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGY5ZHo1dHMzaDFLNzlqcEpmNWxYVW82bF9jYVp1Q0JSeVNUcUVEbFV2OVZIN2JjTkpTVC1nMVE2Y3ZTVlpvOG9fTTJISlBlaDVqa19kQUZaamtWSVVGdWhCekh6Zml0ci0xcDNHbk9vWGNFYWtnVGZmeEpKSjFsa2VzZWZ0OG40WHZjRmNsNmZ5NWh2cVlLbms1UQ?oc=5",
+    "date": "2026-10-13T16:43:36.000Z",
+    "summary": "Talent Insights Manager - Global Businesses & Functions in Gurgaon, Haryana, India | People and HR at BCG  Boston Consulting Group"
+  },
+  {
+    "source": "Reuters",
     "title": "J&J posts weak medical device sales, shares fall - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg?oc=5",
     "date": "2026-10-13T16:18:36.000Z",
@@ -14,6 +77,20 @@
     "summary": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
+    "date": "2026-10-13T16:10:19.000Z",
+    "summary": "Google launches flagship AI model Gemini 4 Argon for developers, businesses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Shell to sell its Nigeria gas business to Vaaris Energy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3FsTHd4OGFfa3l4X2lJRmdpdnlDRmVfSzJ4c1dxWTd1OXEyVDNLb0pwa056Vm56LTdzMUxMTkNqQ0lMM3EzeW9Iek1HRV8tMGZieGkxcmU0LU9GbEVqY2N4aTlUc0tyNFV6NGJzOTV4bUQyc29laFBLSEZWRnF3MUU2dzJpNEhzVWdwbDVIaHh2ejJadlFRZDNWUk1nTEFDU1ow?oc=5",
+    "date": "2026-10-13T16:07:43.000Z",
+    "summary": "Shell to sell its Nigeria gas business to Vaaris Energy  Reuters"
+  },
+  {
     "source": "Meta Newsroom",
     "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
     "link": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
@@ -22,10 +99,45 @@
   },
   {
     "source": "Reuters",
+    "title": "Russia detains Japanese journalist on suspicion of spying - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkdlOUdiNjZXXzhwd1VuY2UwbXlOWTNaeHBMbzk0UFF2QzZvaEVDS25iWHdoMmNJTFZFS2duUzJzWkpZNER2OExvUVZDMkJQZ25HMGxmN3hMbjY2YkMwM0tRM3hoR1ZJMnVBb3RpMUJ3NzhZdTktWHotUDQ3a1lqMEdQc0oxQUZLb3ZYemhUUkMtU3FGd1M4ajQ2SVdEWTNYSUlDeHhENVBSbzU0NGtv?oc=5",
+    "date": "2026-10-13T15:50:36.000Z",
+    "summary": "Russia detains Japanese journalist on suspicion of spying  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0xhcFhSdW91SFViQlVNcTVhclpFS2cwUnhfbzZIY2VfVDVKOEVrU0tpWDdaRVBPeHIxMGRQTFllMVVWM0VDV2lQMXdaZGI4b2hRLWNPYTdzMFJReTc5ZW5tejlTcmVzZUgyNXk0dllCSnI1X1BycXU1MXlSTlZobWhDakhaT0J4ZUhkVWhhQkw0eEVpbFlyS2ZYbDNyYjZYS054MDViRkxkMS1WNmNlTWt4dmhwdw?oc=5",
+    "date": "2026-10-13T15:46:00.000Z",
+    "summary": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Goldman Sachs beats quarterly profit estimates on equities strength - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1BMNkJOM2lfbGYxNGhhcGsydkZDbUIxWFNwM1pDUFdCbWphMnZLM0VoRzBubFdfeXNnVHBtLV95WVZYdW5kLThuOEVfYmZTRUxLV0VSenczY0Voc19TUFJkYTJTS21UNU5HMFlIWExPUWxwUGkyOU9VOEt6NENxTWN5SHJCanZaMW1Ud2RiZzZQelBCMTRMejdRMEVPZUN1bHpLUWJUd3JHOWc?oc=5",
     "date": "2026-10-13T15:43:55.000Z",
     "summary": "Goldman Sachs beats quarterly profit estimates on equities strength  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Goldman CEO watching for election-driven volatility around data centers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2dfTkNXSzNhUHRNdEhEcUhNSmtSOEFXN3YyX1NVUHotcTJZc09SVGoxaG9oR1FacWdDLUxVaDdhbkdqU2N4U0VCLTZXRFVXbUtXQ1h5aDJpUE1UenNKbHd0NnVvb0J5ajViTGJDWGJLYmdLTVFpU2JudkFTb3NjZ3pmcm1oSXR3SklRUWZoQ2ltZmctVXVnWW1NaXY5S3cycFBTOXVhR1FraWI4VURDSE5R?oc=5",
+    "date": "2026-10-13T15:29:43.000Z",
+    "summary": "Goldman CEO watching for election-driven volatility around data centers  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU approves Kimberly-Clark's $40 billion Kenvue acquisition - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUM5QjZ4UzMyOFAzcTZoUGdEckZHR2h6SW5NVF9hdjI1dV85OUtvRV8zRkl5TE9QemNLLUwxR05QYlJqaDB1cC1NSno0QjRIYktoNzZzVU5POTR1VVVJUFdnZnk3V3Y4SEVMTi1FWHJnMnl3TDFudW5yQ2o2MlVvUjBhR19OU1diUVVWcGZzck9OWTNXNzgtdnpzWEpWSWw3UFVLLVBDdld6ZHM?oc=5",
+    "date": "2026-10-13T15:29:18.000Z",
+    "summary": "EU approves Kimberly-Clark's $40 billion Kenvue acquisition  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "BlackRock replaces WCAS in joint venture with Humana for senior clinics - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOankxMG9JbDMtRWc4S2NtZ19xN3BOdDdmVWprTHc5Tk9kTURWWGo3TTRqelFGSno1eGQwbk1iTnNBTUxFTFF5SV9Hczk2VnBsZ01HSHFWR1RzdVEzR0NHLXVIVnI2VUNPOXd4VzNfUUd3NkNaa0tXMDctdjJCeE1MMlA3MXBGbkN1ZEMxZTV4UGdsdGJZeFNtNlVoN1BsQ2stY2pGcndWQVhDRnRBOFBQZQ?oc=5",
+    "date": "2026-10-13T15:24:19.000Z",
+    "summary": "BlackRock replaces WCAS in joint venture with Humana for senior clinics  Reuters"
   },
   {
     "source": "Gartner",
@@ -168,6 +280,13 @@
     "summary": "Wells Fargo beats profit estimates, NII and revenue fall short  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Ahold has no indication client data was stolen in cybersecurity incident - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzVxU1VkbjNEMHlHUzIwTVBIU2lJc2YtVUJ0NS1wVnVMSEwzb205dUM1TUw0M3FGczZYN2psb3A0dFp6dnVqZXVPc1Q4ZDhFWVZ6b281Tm5ndUo3ak5oUlBxM0NySTdmc0t4Nzl0ekRONHhvZXhjYXFsNGVrb0g0ZEI2Qko4NE80T2QyekVxNWFCdktoZzdxSDVaN0pLMmZzSW9qN2VyVUxyVFlmbERFNEVEMUhNb04w?oc=5",
+    "date": "2026-10-13T13:06:15.000Z",
+    "summary": "Ahold has no indication client data was stolen in cybersecurity incident  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "How Grüns Built an Influencer Marketing Strategy Around Daily Wellness",
     "link": "https://influencermarketinghub.com/how-gruns-built-influencer-marketing-strategy-daily-wellness/",
@@ -201,6 +320,13 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
     "date": "2026-10-13T12:31:54.000Z",
     "summary": "IMF flags risks to global economy from AI market correction, war and debt  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Germany to fund new emergency gas reserve via consumer levy, draft says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg1QUVraUl6Rl9NTU5rME9BMkhPY1Fmckk1emMteUxBVXczM01tRWNiLTdsUFkxNzVzVlA3a1d6b1MtT09JS0hkd19YVlJsak14bm1FTFRTSGZDeW1FRHYxbFFzQ0VFamlKQzRHcmpUZVp0MEc5UUJjQU45OFEtVGJJZXJKdkhoaWdJTVJJVEwtTVZuZ1J0ZUZ6YnQ4SXFXa2gtNnlyOTdZZjZ6T2xub1ktNWNtcDNydmZz?oc=5",
+    "date": "2026-10-13T12:18:38.000Z",
+    "summary": "Germany to fund new emergency gas reserve via consumer levy, draft says  Reuters"
   },
   {
     "source": "Reuters",
@@ -428,6 +554,13 @@
   },
   {
     "source": "McKinsey",
+    "title": "The AI operating system: A new way for CEOs to run the enterprise",
+    "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise",
+    "date": "2026-10-13T00:00:00.000Z",
+    "summary": "An AI operating system can become an enterprise’s “second brain,” but only if CEOs rethink how management itself evolves."
+  },
+  {
+    "source": "McKinsey",
     "title": "Why the future of capital projects belongs to digital and AI-enabled teams",
     "link": "https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams",
     "date": "2026-10-13T00:00:00.000Z",
@@ -519,6 +652,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbG5FR1BDa09LM1I4UWVxVENCQ2gtR0hvZ2pUVWR0cDBSRjVKdnlKc0FrNDAtc010U2R3QlkxUG9lVGRMRHItdzc5Y0ROR1NtRzBWbWZzcG1GbFAteGpEMnVSWElFbEhrUDJGbzFJcllwZVVGVU03UWNQQmZFX3RyNGx4UlNzdS1rdjFQekFGSFNNdkpsRmhHQTZnTktxVkRZRGZGUERJdFljTllxTXp5eG1pRnZhM1FORS1wX3VreWdTcHVqNnZ6eQ?oc=5",
+    "date": "2026-10-12T18:48:13.000Z",
+    "summary": "Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "First major Irish public sector strike in almost two decades set to go ahead - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjJFM1c0VzY5cldOb2diUzBVZVdLZU9CbGpSaThsVWRral9SakcyaHFoTWstSHlEQnF6cjVWLTg4d1hkaUc4TzRUYTMxZ2dfaEpfNURKUTQxWWo4NUtFX1BseTZKQTc2MkFDNGJjN1o3NVBIQjczdVN6Y09TN01iWlhCaHI5d2xUZGRtWnBNeWtMYUJia19jcVUtRDdhT0dqcFhhZm9oaEZ5RktzcEhKU1N0d3FvWmdLMy1fckFueGxWckFqUkY4Rg?oc=5",
     "date": "2026-10-12T18:37:34.000Z",
@@ -588,6 +728,13 @@
     "summary": "Senior Associate Audit Analytics & Data Insights | Assurance | Stockholm Job Details  EY Careers"
   },
   {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Consultative Offerings - Investment Banking Summer Analyst - Corporate Finance - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQms3VXRQYlBJa2J3eVdRdUNDdWNXLWFVU1F5VVN1SlRvTVZCRHpZYWM1WGhOc1cyaTA5bHE5ZG4xdFBGQU1EZXJKc2ppbVZLcmFDaU5lbWVxZXAxbjdvR25mMTNvdjVrcUNsbnlNU0d1VTJGWXF4dVlGRzFLeW00ZGctZHI3WlBjNHRnSjZLaUJ2cl9zT3ZNN1p3WkRxZ0tQa1VxNG9uLUJBOXBjM3l5VGRhR1lOX2VBbEVJdTZ1YkIybVNmMnZhYmpxWDY?oc=5",
+    "date": "2026-10-12T16:42:45.000Z",
+    "summary": "Check out this job at Deloitte, Consultative Offerings - Investment Banking Summer Analyst - Corporate Finance  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Starbucks says not buying Chipotle, ends takeover speculation - Reuters",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnZGZEV2WklwWFV4b0FvOTI4eFpxVFgxMTNvNDUxSVh3ZVBRalVuWjJaS1JRaUpwTXp0em0yUVAxQjZqQ1dUYlo1MGNEaFlzNUxhOUgxWF9CY3dUem1ILUdqd0FxQzNGNW9CT19qc3hueWlrNlJHQm9vYzJfV2UwWkFsRWpYbzI4THFPSVVCczVVeUpDTzJKVWJaeU45OHZw?oc=5",
@@ -649,6 +796,13 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5",
     "date": "2026-10-12T15:47:36.000Z",
     "summary": "Getty Images to go private after restructuring deal  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Senior Manager - Research & Insights, Studio+ Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR19IeFdpN1hLU2RwUTZOMVZYUmo0VTJyNG9lRzRfdEpkUGhzRDNOZFdoS1lYSEJ3QnpRSHVZOUREU2dZdWdyV0FJVC1IV3l6ZXJqWGZocE5qZDlJcGhIYU1VZ1RmcDV3cjB4ZUFuQ0ZsSVFfYWxaTi12OXRBV0J1amZWNUlzVS14WFF3WGJmX3VENVhUOXRKdktEcW1tWFd4V2RPRW1nSQ?oc=5",
+    "date": "2026-10-12T15:31:48.000Z",
+    "summary": "Senior Manager - Research & Insights, Studio+ Job Details  EY Careers"
   },
   {
     "source": "EY",
@@ -903,6 +1057,13 @@
     "summary": "Telecom stocks in Australia, NZ slide after SpaceX spectrum deal  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "Tax Consultant II - UK Individual Tax - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXFiNUMyS2xLdGNzMzQzeDY4LWoteFE2MzRqX0xHLU5qTnRYWVl2T1FNQjVReE50ck9OLV9NakRIRVNmbVU2dG9xUk1FLU1jblFnbF9jMFBOQ3MyMUpnWWsyTEtna2dNNUpUcHdCT1dWcVZCbFktVlFDTWM2dlJ4d3o3dDFWTE9RVHRHY2hqNWdxWHp6eUlzMktrdW1hYUgwbFRFM1VYS0FFNmhGTUVCX2lkR3p4dXFmNHhrUFZoSUFSMEU?oc=5",
+    "date": "2026-10-12T07:15:56.000Z",
+    "summary": "Tax Consultant II - UK Individual Tax  Deloitte"
+  },
+  {
     "source": "YouTube Blog",
     "title": "What 20,000 creators told us about unleashing Europe’s potential",
     "link": "https://blog.youtube/news-and-events/europe-creator-consultation-creative-capital-report/",
@@ -1013,6 +1174,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5qMTNSMzRzTGhDdEQzcFdocF9zcGN1OHJ5ZlluUkVEazlxbFNqemJXLURkYzBZSnFwMEJGb2ItR0hxTW9ta240WFNYMkVFMDFWTXVkaU9oS0FxdnV2d2xuMVRRV3VYaTJqVzU0RWZnQTNGVXNEanlZZHBkQS1VU09XNkFDdWpad1R2Y3Y0OUdBX3FsSU1qU0NWeW1jLUdnNnl4bjhTZlc1UkdFbkFNb1ppSmc3S3lZMTRj?oc=5",
     "date": "2026-10-12T01:47:00.000Z",
     "summary": "Peak XV, Accel-backed Zetwerk seeks $2.64 billion valuation in India IPO  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "As rising waters flood homes and temples, villagers protest India's $87 billion river-linking project - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTElpdjF1UmxmZFZUSnB1c2VCVHVyTlJ0cktqZmNHbmJGVXNsRUx0aUtGNDZuUFBzU3c3VEQ3UXN6M1dkX2hSeTBnOXFIS2hIWTRRSWs5bDBWVUVkSEFQb3ZvVkZUVlFjWVhLOUEwNmgtTDVFV1d5V2hPb1VxYnBodzlyRVVhQl9YMC1wUWgtdkxlSzl2X3ItYjJvQlg2bUZraE1SSDgxVlNSR3ZmOXVjMzdvU3VrS1FQY1FuT3NqZmY5X3NlTDEwdFpkYk4?oc=5",
+    "date": "2026-10-12T01:03:00.000Z",
+    "summary": "As rising waters flood homes and temples, villagers protest India's $87 billion river-linking project  Reuters"
   },
   {
     "source": "McKinsey",
