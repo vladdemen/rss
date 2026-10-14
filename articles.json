@@ -1,5 +1,54 @@
 [
   {
+    "source": "Forrester",
+    "title": "Use Forrester’s Total Experience Score And Growth Grid To Accelerate Revenue",
+    "link": "https://www.forrester.com/blogs/use-forresters-total-experience-score-and-growth-grid-to-accelerate-revenue/",
+    "date": "2026-10-14T18:38:34.000Z",
+    "summary": "Forrester’s total experience framework is an excellent way for companies to measure performance with prospects and customers alike. Our growth grid (see below) maps brands into one of four quadrants: leading, churning, plateauing, and lagging. A successful growth strategy propels"
+  },
+  {
+    "source": "Forrester",
+    "title": "Prime Big Deal Days 2026: Retailers Pull Forward Holiday Shopping",
+    "link": "https://www.forrester.com/blogs/prime-big-deal-days-2026-retailers-pull-forward-holiday-shopping/",
+    "date": "2026-10-14T17:23:55.000Z",
+    "summary": "We reviewed 116 brands and retailers to see how they responded to Amazon’s October Prime Big Deal Days 2026 event. Learn more."
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
+    "date": "2026-10-14T17:12:05.000Z",
+    "summary": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "Tracking AI Overviews: What the data actually shows",
+    "link": "https://blog.hubspot.com/marketing/tracking-ai-overviews",
+    "date": "2026-10-14T16:30:04.000Z",
+    "summary": "AI Overviews have shifted how audiences discover brands. Gone are the days when users would click through multiple search results until they found what they’re looking for. Now, AI Overviews answers questions directly on the results page, meaning brands are either cited or ignore"
+  },
+  {
+    "source": "HubSpot",
+    "title": "Claude skills vs. plugins vs. MCP connectors: A simple guide",
+    "link": "https://blog.hubspot.com/marketing/claude-skills-plugins-mcp",
+    "date": "2026-10-14T16:30:04.000Z",
+    "summary": "If you’ve opened Claude’s Customize settings and weren’t sure whether a task called for a Skill, a connector, or a Plugin, you’re not alone."
+  },
+  {
+    "source": "Reuters",
+    "title": "AI infrastructure firms slump as US rate hike bets rise - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWlPWk9kbVZKbXFJNXFBZDJmczNIeVVfTkI4MUJFbmVsbTVhQ2hJdzRMNFVfeEIzUUVKWGN4allmczJkVUlZVzRabGRhenZ4Rl9ZU0o0YUY3WlRCQ3Zfc3RTUUphSDJRMXoxY2lfME00bHRpcGVNUTQxeTVqQkVCcm1jUkRBeUdtVlI0eE5nYllYYldzRHAxRUF1VVpPQQ?oc=5",
+    "date": "2026-10-14T16:11:32.000Z",
+    "summary": "AI infrastructure firms slump as US rate hike bets rise  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russia's Novatek acquires at least two ice-class gas carriers, data shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWlVM1pWV0tIajNVWTRPSmFuWENqdnBYN1RKSmxmUWhCMS1YTnpYaTJtSVdvWGFZaVZ6SC1xdWs3X1NES3QxWVpXd2RyX0YxOGloSkxiZHBxVW9kM1VXSUY5eVJpbHQ2TGZ1VWlBUnJ2MlctVVV6YjFTWDd5QkNiTmtaU0pEeHVvV0FrSDgtWEFfMjB4aGg2QnFFeEJ4a0VUMXBreWpkMzJoZDluc1k5bUF3OHRCZzNmOHBlMg?oc=5",
+    "date": "2026-10-14T15:09:43.000Z",
+    "summary": "Russia's Novatek acquires at least two ice-class gas carriers, data shows  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "GSK plans to cut up to 1,217 jobs in Belgium as it begins three-year restructuring plan - Reuters",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2xlQkdqRUlNQkU2UTRoMHpzQVNEcE9Za1dVY1hVVl9hWmhTVXREWHJTVmd5TUpEVVBvb3B2bVE5MGNUZGJWcUxkZFBXY00xVThVZEloZ2xEOW5UdkRGR0dNbXFjU2hpT1NaNXM5QVpVV3RMSDdsUUEzVWhRbDROMzZjaE5qT1JXSFlJZmRMRUpILU03S0YwSUJZU3RWMW8?oc=5",
@@ -8,10 +57,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Citi turns hawkish on Fed after inflation surprise, expects December rate hike - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTlWWnFXTFVrM3lHcHBOZF9YMzFUQkx5WmJXNE5ieXJoY29tVkZKZGRGT3JoX3NBNGNPSERqeW5CTnlDdWh0SWZDZ3gtcGQyOTBFSW90dmgwOEJTdV85SVJxV2dQUmtETDc1RlR4RFNXSzRDZTY2ZFNQTk4tajdmNWZST0FRd1BmaG5kSjhrbWdnVHY2MFNrcFNiaHF6aU1BOEZCSkNCOFZHTGV4TFNmS2czNWg1RHZnOHZN?oc=5",
+    "date": "2026-10-14T14:42:53.000Z",
+    "summary": "Citi turns hawkish on Fed after inflation surprise, expects December rate hike  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
     "date": "2026-10-14T14:31:48.000Z",
     "summary": "BofA misses profit estimates on trading weakness, books $1.2 billion charge  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "German government in talks to buy 50% of KNDS, source says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9reVdMNTJnYmt3eUN4dklDN2VkV0FSdFA0aDFMOVVjWC0zSXo0LS1vQ3NfaHhQUENVMjhyQlBzRkwzUGNhWWFJTUtoSVo4NE9SYVdoOW1BVmVvMkNBNTRtZHR4WXFoNU1KNHpPV1h4dFNpd1prVGdZYzNSTk9pQkhoYTFhbXl3YjdiaUVZQ1d2RTNuX1RLOC1Iai13Y2UwQml2MDFmNzZiWXBOTmlz?oc=5",
+    "date": "2026-10-14T14:31:44.000Z",
+    "summary": "German government in talks to buy 50% of KNDS, source says  Reuters"
   },
   {
     "source": "Meta Newsroom",
@@ -43,10 +106,31 @@
   },
   {
     "source": "Reuters",
+    "title": "French cosmetics facing delays clearing China customs, says industry association - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdFBLcEYtRWpKRWZzU29mMFNxSjZLcGQzS3l6SzgxejFQR2hBRzhKSzh0R0NYSldOWmwtZHBWMlpuSlRsMkxsVFVxR2s1TWdvVW9YOS03SHdkZnQ1T0FwMEtSSEpkN0JBa3pUMHJhanZLYzNrTWg2T25yUmJRTUpZVE9lVE5QTERnZkItcnU2bDdtMGZnU1IwQ0N1d0l4YmhZSUNPbG5wR19BbURUM204TEp4VDdycExEZ3BYOTdSZWpXQy1YUnZFTWdLUXlpVTVpZUJockh0MA?oc=5",
+    "date": "2026-10-14T13:17:27.000Z",
+    "summary": "French cosmetics facing delays clearing China customs, says industry association  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Airbus forecasts huge hiring gap as aviation services market expands - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUFjdHdMNTA0OTFzYjlKRHZ3MlJvaEFrSzlTVjhwSGJsYUFNWi02aG1XY2cxUTNMU1RLSk0wX2RCTllMS2dUbGpxdXJFTnZOc1BRYm9OX0VKU25jS1piVWo4c2YydlllUWk4MFVRbXU0cjRCZXZYTUZuTmZYVnhzaWtsS2QwMGlaOFRhWU5SRVRyaXpUSm5jd19PVlVPaE1UQmU5YTR2S3JvaTVoQkVEWERPQTNTRThhT3MxdVFOYTZ2dw?oc=5",
+    "date": "2026-10-14T13:03:46.000Z",
+    "summary": "Airbus forecasts huge hiring gap as aviation services market expands  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "American Electric Power to invest $4 billion in fuel cell project to power Google - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
     "date": "2026-10-14T12:40:03.000Z",
     "summary": "American Electric Power to invest $4 billion in fuel cell project to power Google  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tunisian journalists fear jail again as freedoms erode - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2ZmSnZtcGtTYk9PVnFJUE9IbWs0QkE5MkJrbXR1bjlkRE1kV0Vib0NhalJRX241ekFpbmZOTE9kdzdBS2tjNVJwZlU2bVg4bThfaUhGeWxKa21uRDJNcnFBMnBmNkc1UHdpWGVoRTNfNEw5al9oc05Qd1RFVlVMWUJiSV9ZVlRpQzJsNmVaMENUY0ZiNDRxN19VTWxKMVZ4ODBLYTlXNEliM2FaYy00?oc=5",
+    "date": "2026-10-14T12:25:44.000Z",
+    "summary": "Tunisian journalists fear jail again as freedoms erode  Reuters"
   },
   {
     "source": "Reuters",
@@ -112,6 +196,13 @@
     "summary": "Ukraine says it frees more territory in Donetsk region counteroffensive  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "BNP Paribas hires Santander, UBS dealmakers to bolster UK M&A advisory team - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWw2NzVsTkdNdzdFMC1EYzFtczRiaXptV3VmWDh0Y3hwNGt5VTJmbWc5VlNQMkVXcEpDNFROTTRiMFVuQUF3d3pZaW9mQ3lWR0x6ZnhLdlVMVEFKWFBBTWZmVDduTUZSUGFhYW14X1RiajhZNlRQQ1pOTUJXbkkxNGRiaFJCWm5QZGhMejFZM0hVam5BbnhhaEw2ckNXNFd1R0pfRS11OWZPYW1VZF9Fc0RoOHVvc2VNNzZHbTZMSXc?oc=5",
+    "date": "2026-10-14T11:14:35.000Z",
+    "summary": "BNP Paribas hires Santander, UBS dealmakers to bolster UK M&A advisory team  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "PartnrUP",
     "link": "https://influencermarketinghub.com/partnrup/",
@@ -166,6 +257,13 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNThmWTFtdHAtZG1oNzJxbzdqc1R6bjFiTmlmZF9Ha2MxRlVBZkoxOWt4N0dFU3h4dkFJWmNGVzFpQVR3QllvSDRfc2F1MGpxYUZ4LW1NSkMwcmREVS1mYVNCR3VlQXBzNWg2ajRGQ2l6OG5vYS1QWmxvTHVuU3ZkX1JvVTI2QzJQZXpvQ3JvQ2F3QVFKSGVuTlNGeEJtS3FDSWtRQ0lIbW5uSUEwdlhBbkhRZmtvQ0dUMWg3cktZNWM3Y0VZNTdHak8xVmVGdw?oc=5",
     "date": "2026-10-14T06:46:00.000Z",
     "summary": "China solar giants shed another 40,000 jobs last year as overcapacity persists  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Turkey appoints trustee to run pro-opposition Halk TV amid opposition crackdown - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWpjNzFPZ1BBNDdpNlFhaVNqVnFHMkxFOGsxV09feDFxT1BNMGxXNzJ4UGNmMWJMSkNmRmRNdE13cmMzd1BIaWVncWlVRFNQS3BEdEtVRzZTS0FCSUxzclFIcVZaRUYwVE1QNmRmSVFvMDFhWWhXTnZucWxzUzNHUnlkRzdDWmJweVZfOGtLV1dmUG1jdlh4NUU5czFuV3AxbDBOODVpazlYbjFVem82OXRReU9sdW10MUNJRmloZHM1Zw?oc=5",
+    "date": "2026-10-14T05:35:00.000Z",
+    "summary": "Turkey appoints trustee to run pro-opposition Halk TV amid opposition crackdown  Reuters"
   },
   {
     "source": "Reuters",
@@ -266,6 +364,13 @@
     "summary": "Torrential rains in Libya's Tripoli kill two  Reuters"
   },
   {
+    "source": "BCG",
+    "title": "Forward Deployed AI Engineer, Internship, Campus, United States - BCG X - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXFPelR0Q3NGMUlPMGoyUG1TbHhTcWVGM1VSMkpVVXhieGVyQUtjV3phSmFqTjRHeENGOUxtWTJlRVFvOU1nLXhjLTZydEJnZlBfODVsajdfNEtEMzB6QlAyMk5MWGxkWnIzUGMzTWpOV253SkVfYldGLUEzdFU3V0tmeVVUdjFhTXdDalBQUFcyZlRmX3FINGo2ZGpGYW1aLXRfc3gxaTNTcUx4QXo4?oc=5",
+    "date": "2026-10-13T23:09:55.000Z",
+    "summary": "Forward Deployed AI Engineer, Internship, Campus, United States - BCG X  Boston Consulting Group"
+  },
+  {
     "source": "Reuters",
     "title": "Big UK firms focus on cost-cutting as inflation bites, Deloitte survey shows - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTk9pZVQ4U2JOc0xuajdWUWNJbHl0aEVFaFJQUV9wUGdQQjBQS1J0aU9RWEEyRGU0X3RiMHJXRUlBN1JwSDJSOUpCNlJNUC1ZTUpJSzB3cXpTMVFKS1lqMDJ2UGF3enh2bWltUnBndjhIZ1hFVEFPSzVoSGk3UklJZ2NEZW8yZmU2aWxhLWlxODU5UHk5NEVmb3VmcEtBV0h2bWxWbFZZeFhRNURsZHJrcFFqQXU?oc=5",
@@ -313,6 +418,13 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGM2dm9HNmlqTkdMODFpV09LT2YxRWloWXUtTk5KaFV1NTVxWDMtNlRwZDY3Z2M3WFBpZ2JVS2tsVUY5eko1Mldtd3RPMTM3aFFaNGZYS3dZbkZvbjZLelNISHB1dlk1Z3B2Zy1xWVJudzhIaXVXeWNjQkxIX2x5VThzUnZ1Y25HTjV5eHBVNm1jSlk3S1c2Qm90ZkZLUkRpU3JHX18tdld4U0U0R2hhVHdwZw?oc=5",
     "date": "2026-10-13T18:28:51.000Z",
     "summary": "US sanctions Mexican cartel CDN's horse-racing, business network  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Guyana may scale back LNG plans as Exxon needs more gas for its wells, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkd0M3A4dTZ1QlJ5dW9YclRZZEMwLVJEc3N0UFpPY1Y3S0FNYjdQTFZULUJBdVVKWmx0czJiQjNONzNKUGhfakZadEZtbFRnSGtYQ1ZidUpFT3JsdW9RdDg0d0ZvNE83c1pWd2d6bFdDalFLNmdYUi1JNjBZb1VDQUQtYl9mNmhoLVRSa0I3eTB3XzVrU1RIeVYxdEQxR2ZKZWo0MzBPVEZRV2dEQ1dnVnpjTU9aR0U2VGJZeDBZWFVrYkFK?oc=5",
+    "date": "2026-10-13T18:22:59.000Z",
+    "summary": "EXCLUSIVE: Guyana may scale back LNG plans as Exxon needs more gas for its wells, sources say  Reuters"
   },
   {
     "source": "Reuters",
