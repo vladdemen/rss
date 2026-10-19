@@ -1,10 +1,94 @@
 [
   {
+    "source": "Forrester",
+    "title": "TALOSCON 2026: The Winning AI Strategy Is To Preserve Choice",
+    "link": "https://www.forrester.com/blogs/taloscon-2026-the-winning-ai-strategy-is-to-preserve-choice/",
+    "date": "2026-10-19T11:20:54.000Z",
+    "summary": "Enterprises spent the last decade reducing risk through mulitcloud and resilience strategies. AI could bring that risk back. One of the strongest themes at TALOSCON 2026 was the increasing concentration of AI capabilities, infrastructure, and investment among a relatively small n"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+    "date": "2026-10-19T10:24:37.000Z",
+    "summary": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "UK urges firms not to take part in E1 settlement tender or risk sanctions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeG9CWEV1Z3N0eDN1b2U5TEw4Y21TVm51OWtfUFQ4UEhyVm9jZkpLQUFraHFaajdGeEctTWtVZmlWT3pkWGtVZXR0QzJmcC1wS1paMDVBQ3FVTUdGUWZ2TlZOdmRYRUJBMFNBeml4RjgtQlhaMW9TdFJNSzRBU2RjRGI1MmRadmI0azlNTGJQQ01EU3FhWXNsX0FyQkN2OHJKcUR6ckdwMExWanJfSVNJVFdMM1ZseGRMME43QUJR?oc=5",
+    "date": "2026-10-19T09:54:50.000Z",
+    "summary": "UK urges firms not to take part in E1 settlement tender or risk sanctions  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall St futures climb as AI stocks rebound; oil, yields fall - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
+    "date": "2026-10-19T09:45:44.000Z",
+    "summary": "Wall St futures climb as AI stocks rebound; oil, yields fall  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Zetwerk's $518 million India IPO fully subscribed on final day of bidding - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGk0RG40TlBZVlFnWDYzdUVvRHZicC1PcW9KVUFqcGpvcjVWVG5IcU1lbFRSRkdNWXJZQkQzYnB1V3NRMnM4Qmh4VUp6U0lzbjZrc3EyTUJLdGRGdGlFNGtnMkg5ZzlRb1JJV3hrOEM1dDVNTXhYY0Rwek1jNGloOUwyeG9MUmpVRjRIbnM0Q3lkSlY3aVNMMEdwbmZUQjIzdEROdE1KX3FNYUxIR21PdHRmSQ?oc=5",
+    "date": "2026-10-19T09:06:27.000Z",
+    "summary": "Zetwerk's $518 million India IPO fully subscribed on final day of bidding  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's UltraTech Cement misses profit view as higher costs weigh - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk8zT0E0N3hRWXNlSWR4d193aDFxU3hhaDAtZ2ZGNm4yV1M2NUlZSkZwTTNIOUFvVmduYnc4YUowaDRQN0xCSWo1ZHVLTzR5aXB2SE03ZUtTM1BYQjFIcHd5dXVNQTFCcXJOR3FkeXZiYWZLaDNlYVVHZDlNS1JzLXY5RkJqRnFsS0ZEWkIzdmExQllicGtyY25Vdw?oc=5",
+    "date": "2026-10-19T08:50:28.000Z",
+    "summary": "India's UltraTech Cement misses profit view as higher costs weigh  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mozambique courts South African investment for new gas project - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmJUN0pCUGFySWlWTzV0WlN5Z1llSnBGTVpCSnN1ZnJVTGlzQlNnZEt0Y29sdW1lRXhiZlZhZGFHME5FSG1BdXViSlBfUTNUVUM5WXBPMnJWdW9DaFhJMVZ6djEwdjZlVGhsV09PVGNONzBDYmJPUHJNaU10RlZramlsQzBpb2FGcW1LMVAtOHNTN1R6Wk1VV3BfMlpxNVdPdjNBM1AyRGE0ODQwLThJ?oc=5",
+    "date": "2026-10-19T08:43:04.000Z",
+    "summary": "Mozambique courts South African investment for new gas project  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "VW plans to freeze salaries until 2030, works council says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFVUWW92dGw3ZW4xVVNIeDFBTUg5Qm9LdUk3b2JoNkVpTEpIZjQyYVcyaUlEVHpjY0pYRDBybzhrWllGVG1Wc3RQbTNfT0JseGpGVkFIN2h5RjNQQWwtQXp4YWJjOGNvUVE2VkFuU2lpMXdnY3dTai0xY3kwQ0pzcGxGbGRmYWlTQlRRcnBySjJQRnN0cjJXel9lMnh2dThuWDB4UkNyeGZxRTI1TXRGZFRzSQ?oc=5",
+    "date": "2026-10-19T08:36:09.000Z",
+    "summary": "VW plans to freeze salaries until 2030, works council says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0NZaFloZVlFZGlYUFRnSTJ3c2xtRFBobVFta2pZV2ZBSTRYY1BGREZlQTQta2pEbXBTc1VjY0VJMHFDaDNzOHNmN0ItUjg2OWNHN3NBLUNqcXJ5cVFnbVNYTzhwUjhIN045Z3lBVkc4U0tXT2cxSkpsTVY0eTgxaklkaHNCVEpuUWtZSzVXb3hIOVhyMS01OThUcTVSWjRUSUJDeXU3Y2l3aWtQR2U3bU93?oc=5",
+    "date": "2026-10-19T07:47:02.000Z",
+    "summary": "Rheinmetall, MSC jointly acquire Romanian shipyard  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Putin approves minor Russian government reshuffle - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
+    "date": "2026-10-19T06:53:00.000Z",
+    "summary": "Putin approves minor Russian government reshuffle  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "World faces nature reality check at UN biodiversity conference - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVFsNmEyREF5VEFrLW5Oa3JZNGdMc1gtY0ZCQXBYWi1wdGJURWRDUzY5VXpsbG5ldjBRM3prNnF3WDhERnNwLWJMR0JuWkQtb2lweUVfX01SQk94eDFZS2JPZ3JaN203aFU5MFM0QWV5VVVfYnNIeGFkcDFvZThMUlY1TkNoLVh2STBpdTY2a0kzX0d1azVxNllFU2ZkcEFPQ3FfZ2U4cXpVQ1czek9QcHdDYXZiOUE?oc=5",
+    "date": "2026-10-19T04:03:00.000Z",
+    "summary": "World faces nature reality check at UN biodiversity conference  Reuters"
+  },
+  {
     "source": "Gartner",
     "title": "Gartner Finance Symposium/Xpo Conference 2026 in London, U.K. - Gartner",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWlwTmtZWlQtX3I3ZVlXRzNFTzJwdl9NdlZFUnRaMG9qcTZVSzdBa0ZraVBGeEtidkVraV9wQURTSjNjMVpfMUtRZnI0VExyY1djTVhGV3hhNDdCWTBFSWFYMk96MkNTTzRuMklWWGJuLUJwb1B0anNNcGRtV2Z1THJORlZPcHNZOUw4?oc=5",
     "date": "2026-10-19T03:12:06.000Z",
     "summary": "Gartner Finance Symposium/Xpo Conference 2026 in London, U.K.  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "VIEW China's economic growth accelerates to 4.5% in third quarter - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXFNS245X3pBcV9XTmxwQVljcVRHRW9YWER5N3EtUlo3UnBXVm9WaE5VbUdDTTBMczJnY0hQeEpEYUdackhNb1g4VGhIcUM4VGl5UnlwOEJCT1ZqREhRZXMwVUFMVzlmT3lneGZROGR0STFaeGNuVmlCTnNEaFNjYlRta3RSd2tXVEJyOHJWNkgtSjdqZnZtanRYOUNDckZ4RUtfeTgzOTV5b3RYX0hFTg?oc=5",
+    "date": "2026-10-19T02:40:00.000Z",
+    "summary": "VIEW China's economic growth accelerates to 4.5% in third quarter  Reuters"
   },
   {
     "source": "McKinsey",
@@ -33,6 +117,13 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3BnTkYwbTF0X3R2ZUpDMy00Tk9ITWR6RjZlODdWWkdhQ0t5eVh1NWdlZmFxWVluT3hvSUZ4cHhJaTR1WEtZdU5NWEYtTk1rNVVvWU0xbXp2YjQ5ejliaHUwSEFYSDBocmc0X3lmNUN2SUVscVFSNF9XVF83VkVrVzVGdHhTQzA3dzhPU2liT1REY3dteWFaUENGWDRDMnBlZzltcTdzeFZ0T2dCUmdNRFowZEdmdjZNRl9veg?oc=5",
     "date": "2026-10-18T23:44:01.000Z",
     "summary": "Australia's Cleanaway agrees to $6.5 billion EQT takeover, shares surge  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Luxembourg-US Market Pulse Insights for Asset Managers Navigating Europe - EY",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnhFVUhHTS1yR3ZuSlZRTllibVQtcjdIQlBoRURqa250NFhtOVY5MHhickZVVHItNlU5MUd4RFI0OUFXVW51SzRMZlBucXZQMHJ1dzVmbXllUFNjM3VBbGVkZ3FaXzJwSGJuVTgxYXZTSVl6WG9mS0NNMHJ4X0p4MTBiOHB5XzVNVzJJRg?oc=5",
+    "date": "2026-10-18T19:37:20.000Z",
+    "summary": "Luxembourg-US Market Pulse Insights for Asset Managers Navigating Europe  EY"
   },
   {
     "source": "Reuters",
@@ -145,6 +236,13 @@
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3RnYUVVWDBYbWFPY05ZMXUzUjVZLXgwMUtLRU1WNVNleFZOZUJ1eHNGUWFyYUViekxaQnFZUjEydjZUSjJ3b2NRMi1QNWJpYTQ1bnkwOWVaVWFPdGRMSHZYN3B3VFhPN3VWOXIzYUhFUm9MSUtBd0xBS2RqLS02REUzM2s2akNWRkhoX2s5UUlSc3NLTHM2LWpXcXVvZw?oc=5",
     "date": "2026-10-18T03:27:36.000Z",
     "summary": "Data, Analytics and Insights Managed Services  PwC"
+  },
+  {
+    "source": "Reuters",
+    "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
+    "date": "2026-10-17T23:56:00.000Z",
+    "summary": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia  Reuters"
   },
   {
     "source": "Reuters",
@@ -565,6 +663,13 @@
     "link": "https://www.forrester.com/blogs/for-service-providers-ai-giveth-and-ai-taketh-away/",
     "date": "2026-10-16T13:12:54.000Z",
     "summary": "In Q2 2026, service provider revenues were up a little, bookings were mostly flat, and revenue/employee were up nominally. The technology services industry has struggled to grow over the past two years as AI accelerates service delivery, thus undermining its core engine of growth"
+  },
+  {
+    "source": "Reuters",
+    "title": "Supermarket operator Ahold's websites, app remain offline 5 days after cyber incident - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGprSnN3THp5OTg4aGhFN21VUFpsWDExdnhoNjNhMHFNVHFiT29BOVA5QnNoV0lkaVJNS0tGMExnLWlxaVZHWV9mQ2Q4dXdCRU8ycU83bmZ5Ml9uVk9WTTB6Q0N2R2k5U2Y1UVl4TlpGb2JPRnZENDBacktPVng0YWRzRjJOZzJtdTk5OXU4Zm1mUm9wblZMM2Z6R1hxcTNYSzI4cWROaV9ua05sSzFhcUt0QW9OUjRYei0w?oc=5",
+    "date": "2026-10-16T13:12:40.000Z",
+    "summary": "Supermarket operator Ahold's websites, app remain offline 5 days after cyber incident  Reuters"
   },
   {
     "source": "Reuters",
