@@ -1,6 +1,125 @@
 [
   {
     "source": "Forrester",
+    "title": "PHP2Shell Leak Sends Security Teams Scrambling",
+    "link": "https://www.forrester.com/blogs/php2shell-leak-sends-security-teams-scrambling/",
+    "date": "2026-10-22T17:25:36.000Z",
+    "summary": "At 14:00 UTC on October 21st, PHP released patches to two critical CVEs, both of which can lead to remote code execution. CVE-2026-109618 addresses an RCE through an out-of-memory error, and CVE-2026-109619 addresses an RCE through a stale global state issue.  The flaws were disc"
+  },
+  {
+    "source": "Forrester",
+    "title": "Salesforce Shows What Happens When AI Has No Plan B",
+    "link": "https://www.forrester.com/blogs/salesforce-shows-what-happens-when-ai-has-no-plan-b/",
+    "date": "2026-10-22T17:19:28.000Z",
+    "summary": "I enjoy extreme sports because they provide evidence of the human ability to do remarkable things when the alternative is extreme catastrophe. Psychologists call it goal shielding: commitment to one goal can push competing alternatives into the background. History has given us a "
+  },
+  {
+    "source": "Reuters",
+    "title": "India's eMudhra exits website security business after flaws trigger global alarm - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZpekQxR0pOZEphU3hQT0ZFVTZqMVcwZTVzcndlQk0xMng0d3R0SFdWblpxVnpPR05TTnJGOU5JWFBBbjhCS09JaEd4VnlpTnpiRFk0ckpER0lkdU5BQWI3ZzZmVnRYcW9jNUd5Zl9pcXE1YktldnlnSFZKTG9JZUZNZVFGYmw3VDBBcUVWWUlmNlFDNDFxbkJ6bExGcW9EZjhUNi1nenZHemliLWV0YmdmMjB1M1hWTHBKT2FB?oc=5",
+    "date": "2026-10-22T16:46:11.000Z",
+    "summary": "India's eMudhra exits website security business after flaws trigger global alarm  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+    "date": "2026-10-22T16:44:51.000Z",
+    "summary": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5",
+    "date": "2026-10-22T16:32:12.000Z",
+    "summary": "Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta's credit risk indicator hits record high on increased AI spending plan - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5",
+    "date": "2026-10-22T16:18:09.000Z",
+    "summary": "Meta's credit risk indicator hits record high on increased AI spending plan  Reuters"
+  },
+  {
+    "source": "Nielsen",
+    "title": "TV Viewing Cools Off in Nielsen’s August Gauge Reports as Sports Take a Breather and School Resumes - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3E4ODlNeV9kVUJzNVc5RXNLbWJWQ3ZxUWRGWnBKSUNrd3R2MVpRNUJvdkUzMVdTRDIyTUlTUjlFbXUyQ1IxQzhvTU9sbHZILVhHR1RKNGpHWlB6RUVMNTJJZ3pObDJxVFR2bk1HQ3hBUjNvMDhROTBwejF6Tm10eHhDZDVCWnozQUNHcEF5UGFnbjBUNUJ2UVREY2tTTUQ2cE5WOWU0MUNDbUg5alNJalZnOWtTcmVzcW5ST1g3WUV4MkhoRVhzaGxCQ3Jwb1pZMmVkU1JZNA?oc=5",
+    "date": "2026-10-22T16:05:07.000Z",
+    "summary": "TV Viewing Cools Off in Nielsen’s August Gauge Reports as Sports Take a Breather and School Resumes  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "European corporate earnings set to get a boost from energy windfall - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUJnTGN1WFJubWJyWFhuRThRRzhEMVZTTUpkaGJ1RGp6a3BfWHpSVkRNa2VvdFNNUFpvUU5YbGdOaVR6SUpKbi1vdG05b0MxQk5OamlhOEpvSmo5ZU4zdjF6UGZrSXNtWVAxRkxRV2w5WEU0R1c5MmpVLWFNUWZwSFFSZlNla0pnN0hkSDhTMDZpcWlHWDVzcXRudVpRVjZFajJ6Yw?oc=5",
+    "date": "2026-10-22T15:34:58.000Z",
+    "summary": "European corporate earnings set to get a boost from energy windfall  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Short sellers make $6 billion in unrealized profits as neoclouds slide on AI debt fears - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTRpNjFnV1FOR2NGYlhDTzRtV3NqY2x1UkFkNTJaTnlXUGk5VkVSVlVOY0ZPQnVJTkVRTHAwVUZvUmxjZnl5QzlHQ0VFUlQ5RThmN09Yb29HbUxBMFEzQ2NXUEtJc0lLZ0FqYjg5czBpdGJHSWhHYnl5N1cyQjFBZ3JPbXVZdlBQRDczd01kQjAwX0VEMzB5ZmI3bEExMkdYZEd6bHFIUG9LaWhJSnJpSmEzRQ?oc=5",
+    "date": "2026-10-22T15:33:24.000Z",
+    "summary": "Short sellers make $6 billion in unrealized profits as neoclouds slide on AI debt fears  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "The Most Important Finding In This Year’s AppGen Forrester Wave™ Isn’t Who The Leaders Were",
+    "link": "https://www.forrester.com/blogs/the-most-important-finding-in-this-years-appgen-forrester-wave-isnt-who-the-leaders-were/",
+    "date": "2026-10-22T14:53:57.000Z",
+    "summary": "Every Forrester Wave™ identifies Leaders, Strong Performers, and Contenders. But the most important finding from The Forrester Wave™: AppGen And Low-Code Platforms, Q4 2026 is that the application generation (AppGen) market has fundamentally changed. AppGen platforms are no longe"
+  },
+  {
+    "source": "Forrester",
+    "title": "“Good Luck, Have Fun, Don’t Die”",
+    "link": "https://www.forrester.com/blogs/good-luck-have-fun-dont-die/",
+    "date": "2026-10-22T14:30:21.000Z",
+    "summary": "If you’ve seen this post’s titular film, you know it portrays a ragtag group fighting against a dystopian AI-controlled future. I’m not worried about AI cloning our children or mastering teenage mind control via social media doom-scrolling (well, maybe a little!). But I’ve alread"
+  },
+  {
+    "source": "Reuters",
+    "title": "Comcast flags over $1 billion in restructuring charges in fourth quarter - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjJ2dV85cGc3bEF1UU1idGVnc1NnTC1tcUsyY3dnSkNXT3dEbFpURzVHS2N4c2gwcmpqWjVYTktNdUJKM3NvbjNJbHQtclg4QllDNDVrOXJJZUpJVWdiNnZnZDJ4dXBNRVZjamJ6MDltMXh0VlZTX0RJeXhuRTdUa0tHaVRobHpRbWMxQjY3bEx5SmF3cEFRSENMY0tseGw3OFB1alMzRUlwQlYwOW1TdDNoMmFWSmxYOEwtNlNwclVCdUU?oc=5",
+    "date": "2026-10-22T14:27:59.000Z",
+    "summary": "Comcast flags over $1 billion in restructuring charges in fourth quarter  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Shell- and Exxon-backed UK chemicals group weighs $8 billion sale, FT reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUEyOHVuZUJNajR6dGFhNWkwWUlUYTJId0dhWF8yZE5XR3NIM2o4NFpuYkdrenJDNjRHTmFNT09vc2J4UnZBVkNnWnh2ZDJzc2s1ai1LWVl5akdDU1U1R3dvMHIyLVVyc0tIVlRkalJlUjV1R29lVmFRS3ZxLUNnd29KdUJUQW9lUk1FM1YwMHdZeUVUS1RKTmo4Uk9NY0pfU2g0NUQtSUx3cUNaWHNwaGxhMkdoelBmOVlKMXFvdFJPQUUt?oc=5",
+    "date": "2026-10-22T14:20:46.000Z",
+    "summary": "Shell- and Exxon-backed UK chemicals group weighs $8 billion sale, FT reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EBay to cut about 9% of global workforce - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHZHaXFSVU81MFNKQXVTMFp5Ymtqa0dhMEk2M1lHcmdGMzl0T1NQdEZMczMwRUtnWFY0SmhSS3ptQkw3WUZQb3hXeVZIaFdKSGdlQjFNenR2VVlBMFdEdzh1ZXFBRFdvQkdpWXZSWlNyVzAzNTFHMVhJT3RoV1JGMENhTldrN0dSNUNEa245cFNLYWpSX3Qw?oc=5",
+    "date": "2026-10-22T13:40:29.000Z",
+    "summary": "EBay to cut about 9% of global workforce  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Cyber Threat Intelligence Analyst - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmhhU1hwcGtHR0RHMVRiQzU5eHZELWp2UFJ2S0RqTmtRZTJvMDRmMXItekUyZXhtR2MtUHM1b0tNd3BoNS1ScUZmMzRnVDhadW5vWVdCZGpCU1l1cXYySnBCTXp3SlpGMWZWanpEbDBubTZNXzZTa3hEUU5uUnNYclV0YjJ6cTRwTXhhWkFsTXNpU0hDRGpkQ29PQQ?oc=5",
+    "date": "2026-10-22T13:40:11.000Z",
+    "summary": "Cyber Threat Intelligence Analyst  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Renault sells former Alpine F1 engine unit to Dumarey, preserving 150 jobs - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2Y1clB5aUdUaDkxbllkMWJuN2FkcTRqZ2Z0M1NLSEFTelE1YUVPRllsTE9idE5rVGduVU9Md21DN2pnNFA4QXZEVThkTW1uQnVCTlhlX3l4eGxJMzhsNzNaWEdxSjVKVXd1WFVrdFZZR2dXOFZVbGlzcFJCS0dBb2xBZnVScnRTak1HMF9UNkVFRkFKNEQwcVl4b3cyQjVDb1QzSU1OS1B1RVJfTmVnRjRnUkNRQQ?oc=5",
+    "date": "2026-10-22T13:22:56.000Z",
+    "summary": "Renault sells former Alpine F1 engine unit to Dumarey, preserving 150 jobs  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bosch to reorganize corporate structure, create Mobility subsidiary in Germany - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hlTzFNLXlEZ1FQZ2xfek4wdC1RdnJwRXE3S2ExM1UwSFVKM3lEXy1xZ0ViZ2xZV1h3bW5hc0dQaVh2RGZjSG5sUHJldXIzMEUwZEF0RDdpQmwyM25ucm82bDFNLXI3RXRiei16X2NDMGhVLWNUNllyUTFCZ0VOcHh3cUQtdEo2V29qXzRBc3QxTmp3UGpHb3FwTW5BOVFhcC1IcUFCVVJ1VWlRTHB4MXBvZzQwVHM?oc=5",
+    "date": "2026-10-22T12:03:43.000Z",
+    "summary": "Bosch to reorganize corporate structure, create Mobility subsidiary in Germany  Reuters"
+  },
+  {
+    "source": "Forrester",
     "title": "Helping AI Understand The Business: A Data Leader’s Guide To Technology & Innovation Forum East",
     "link": "https://www.forrester.com/blogs/helping-ai-understand-the-business-a-data-leaders-guide-to-technology-innovation-forum-east/",
     "date": "2026-10-22T12:00:56.000Z",
@@ -15,10 +134,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Asia needs $1 trillion investment annually for next 15 years to boost energy security, McKinsey says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNako4U3VFaVpQc3RSNWp6ODZfSVQ0QUdCQUNUTDVsRWNpOFI5MEk0YTNyNXRXc0RUV1RhVkh0Nk1FNk50S1pKd1BlS2xnT0dBeHZIWndCQUJhWnNkNkVla2toUUNsS0Z1OGtjOVF4Wm5JVWpwdEdyci1SOVpqNjJPLTM3Y2tCbGF3TnVJOXcydUNlSkRmOHZnY3FTX0puSE1VMDhLRGEydkk0eEtQOFNINmVxTHZMZ2J4MHhNYU1aUFVPZ2YyYnhpeQ?oc=5",
+    "date": "2026-10-22T11:57:01.000Z",
+    "summary": "Asia needs $1 trillion investment annually for next 15 years to boost energy security, McKinsey says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Valero sets strong tone for US refiners with record quarterly profit as margins surge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0J4Z1hTMUNSRXFieWxXREx5bWRTMzlTNU9yMUs1bnRlc0xJTUlJa1Q2S2w5X2lzTzNSQ2EzdVQzZERaWVU4NTlFVXRYakdIeG5lTVhYeWtPMDl3VHZSYkoxX1VIUGoyQmNfTlh3b0JJNG5lQnVwUmxWc3RzYk1TX3RaQTFVWGJkMk4yZU01VUZ2NmdTbDYwNkNNdTZ3X3lJdHd5bVBNTFFYcmFrS0NoeTJxREltcWRWbmt2a2g0bDJNa3NKYnhV?oc=5",
+    "date": "2026-10-22T11:08:51.000Z",
+    "summary": "Valero sets strong tone for US refiners with record quarterly profit as margins surge  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Lockheed lifts annual forecast as missile, jet production ramps up - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
     "date": "2026-10-22T10:58:19.000Z",
     "summary": "Lockheed lifts annual forecast as missile, jet production ramps up  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0c3E0Z2JLUUZURFlSOU44dmwyTnBGX3pyR0FSOURqdEVudEVPUXpMYW5QSC1EQW95ZGJQVlpzdDltNGNpQ2NSR2x1RWNfazJKLVZ1UkVXblpWM3RrVEFxWE1pUVY3WDdtWXZxNzhaOVhkaTBKZW9RQ0daMDRDcHNCaEJvQUFrM2pScmxyWDNPN3hkc0pjQjI2cFFKcXk1YU81Y215UDVYMUdlWW11VjNhRENlR0pnQzRUSkR3dw?oc=5",
+    "date": "2026-10-22T10:44:51.000Z",
+    "summary": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets  Reuters"
   },
   {
     "source": "Reuters",
@@ -106,6 +246,13 @@
   },
   {
     "source": "Reuters",
+    "title": "LSEG to buy Octus in $3.5 billion deal to shield from AI disruption - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
+    "date": "2026-10-22T06:05:00.000Z",
+    "summary": "LSEG to buy Octus in $3.5 billion deal to shield from AI disruption  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDFzczJud3pHcEZobURrNEhua1BVYm43Q2FSbFF5N2Jzc2gta1FnTm1wcVRseGVvSHhUSEZ0SnlHSXlsR0VKRW9rRGszYzRwLW5mQWdLZk9FVnMxVU12ZjBKZ21yT0lYNXZVTW1lRlBWWWV5d0g2U2F6MDRwajYtbXdOMDBXNjducVgtbWMwZmpBT3cyb1VqRTVPbjNsMk9OTnpqOTJUUFZMRkJWMW40V3lCLWpuOUREWU5sejd5UGdraHJGWWM4Nw?oc=5",
     "date": "2026-10-22T06:04:00.000Z",
@@ -173,6 +320,13 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
     "date": "2026-10-22T01:36:00.000Z",
     "summary": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5",
+    "date": "2026-10-22T01:25:55.000Z",
+    "summary": "Companies cutting jobs as investments shift toward AI  Reuters"
   },
   {
     "source": "Reuters",
@@ -463,6 +617,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Philip Morris warns conflicts are raising costs, hurting earnings - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTBlQlNUVDl4ako3OGhVM2JkMHVjSlJDY2ROeDRJMXM0WC0xNXluRUtYWlFsSHlmUGc2b3FSMTlOUFg5R29Ndmd3NTdwWk5YM0VzZ3BCZjBfb3h4WXlsOGE3bUxWUFNTTEFocER0cVlQQnJqVFpGbHlhTG5WZEV3aDRsSU4yZVA2LW9xYWp4eVBwYUR4Rml0Z0FtVDhhUFZobC1ROFBJMnR6cU81RVhXMWFzdXA?oc=5",
+    "date": "2026-10-21T14:39:33.000Z",
+    "summary": "Philip Morris warns conflicts are raising costs, hurting earnings  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Abbott cuts 2026 sales growth view, plans to spin off nutrition business - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGtxUVgyODRDVEJyUEYyVnA3Ti0xTTFBbFVfYW93YlhQMTlrUjQ3WllPczFzQTByR0lIMjdJX19Wc1lGRnI0bGtYaFFUU3JGVXBUWXdCcTZpbkp3UGMxQUtQRlNPRV9xQmx2akZCbzE0XzZqUUVocHVvYkVmN0pZN3VHb3hzd0YzTDZuZmhyVFJWc2d5NFB2RkpuQWhmWlFkckNLbUFXM3V4VjVaOUJSelByeW5jcGMxR1dwTGM0cF9UbnowVHR1aFktSmRleDZqd1E?oc=5",
     "date": "2026-10-21T14:38:51.000Z",
@@ -474,6 +635,20 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDJhOEN6cWNrZXVGN2pYeWR3Qk9GN2lKUlhIamtlOHlCTHJLbll4TVBmYXIxWjJQVFNSYk9XckVkRF83OGJxd1lETkZIbXVOVC0yM3M1ZV9pNlljbXRNUGxuUGp0VmdnSXZMZFZJdjBjeUpMalFpQXFmWWVzSWY4Sk81ZVlRRFQ3R2o0eVh0a0RKNkUzUE1wRGZ0VFdyNEZTSlRWR043N2hXNGNGUUtFbVBVTDE?oc=5",
     "date": "2026-10-21T14:38:24.000Z",
     "summary": "AkzoNobel, Axalta near merger approvals with two unit sales  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Georgian court begins hearing lawsuit seeking ban on major opposition parties - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVBoZzZBZ0FEcVNENVZPWENfc1U4UFZwRHV0NW8tUjUxOElUeFdYYTZDaHNUUkE1SGVNM3JYOTlVRjEyMHRFdnhMOHI0UkF0WkVXd2NDNnk4OVIzSEtwdVFQcnFZR2JuU2FUSFhSM3J5Ym1lVW1oM0Nrd2xObjRJeVNHeFAyUjdNNVV1NmZtcWM0V0plYUJlbG5ZQy1XcTItTWRlQTczSHlzdGplRDJOQzdpaTFjWWREWUQw?oc=5",
+    "date": "2026-10-21T14:25:35.000Z",
+    "summary": "Georgian court begins hearing lawsuit seeking ban on major opposition parties  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "Privacy Policy | BCG Web Accessibility Statement - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByZnN3Yi1yMkV6ZWRzdUFsYzZTT2NFclJBRG8zUDNObXB4X0UwbXlnWk1fclNyTm5IdVdZMkhJZlpqcnplUXd1M19MSDY5YXZtalJwWURSaE5SM0VoRXc?oc=5",
+    "date": "2026-10-21T14:10:36.000Z",
+    "summary": "Privacy Policy | BCG Web Accessibility Statement  Boston Consulting Group"
   },
   {
     "source": "Reuters",
@@ -1580,6 +1755,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHMyRGhadi1kbGZuSEVyakFWeFp4bS1TYUc3VjBiWXpJTk84VXBaYmhjTFBZd2FVV0cyR1p5QXpNOHhsVlJtakxzNTlVRzZxbjVuMVlLTkVmQWk1b3VINFZ3Qkp1Ui1ibExKaHYwaEdMY1FfSzNYb0pkSFpWLW80VGJRREhzdUw0ek5zcy05UTM4dDJNaXFoejhfSnJVZTFrWkZQU1RqYms0X0ktbUZJNkVRSUNDMHV0RUVmVl8ySQ?oc=5",
     "date": "2026-10-20T07:31:34.000Z",
     "summary": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Deloitte Innovation Hub I Senior Cybersecurity Engineer - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1RTMGtvWExONl9hYkFtUmxuVjZaNDZXTFBHQmt5VWYtb1otVzluMUdHY1IybVd3aDJCSUxtZWNmLTh1WG01Zk41TlhsRVVrQ1IyYW1qSl9VTXJYamRiN0ZSNW9mT2h4U1RoQk9fMXFveTBWWmRNSlBnbVg3UWpneWhWYVhGY3RURTBIMU9fYVlGNWdDNnU1S21nUVoweHctTHh2ZmxKaXEwUnA2eG5XX1JNNXNOM2pkZnY3OUgxZkY?oc=5",
+    "date": "2026-10-20T07:00:00.000Z",
+    "summary": "Deloitte Innovation Hub I Senior Cybersecurity Engineer  Deloitte"
   },
   {
     "source": "BCG",
@@ -3967,6 +4149,13 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEdEbGFQRUN4Yi1BR1hOMXV4NU5xV0M0ekx2djVYSWk2WVJPOVFMVzdnREIzb1ZwZlZ5c1NSa1JrWGJYcVJvTXA1MUQ3dG4zTFZBN29SbGRpdWVfYnNJMkJzXzlwV2VWUGZCRmQ0RFJrTEZqV2kxRXZPZHhqLU1PS3RBeldrWFMx?oc=5",
     "date": "2026-10-15T07:14:24.000Z",
     "summary": "2026 European Holiday Shopping Outlook  Bain"
+  },
+  {
+    "source": "Gartner",
+    "title": "電力／地政学を考慮した、これからのAI時代におけるデータセンターとは - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01VDVRMTUxUTNfUTNUR1laYUJBSTJ5Um1mUFhWdWE2b2FOU2ItMUtCeEhQUDdlWXM5QUNCOFVwV292STFKUjQwMlg3UExYUkJpYXQzczhjdw?oc=5",
+    "date": "2026-10-15T07:00:00.000Z",
+    "summary": "電力／地政学を考慮した、これからのAI時代におけるデータセンターとは  Gartner"
   },
   {
     "source": "Gartner",
