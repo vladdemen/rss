@@ -1,6 +1,41 @@
 [
   {
     "source": "Forrester",
+    "title": "The Next Generation Of CPQ Won’t Look Much Like CPQ",
+    "link": "https://www.forrester.com/blogs/the-next-generation-of-cpq-wont-look-much-like-cpq/",
+    "date": "2026-10-22T20:24:26.000Z",
+    "summary": "The CPQ market is shifting fast as AI changes what solutions can do and which providers lead. Three priorities, outlined in The Forrester Wave™: Configure, Price, Quote Solutions, Q4 2026, can help buyers choose for where the market is going, not where it has been."
+  },
+  {
+    "source": "Reuters",
+    "title": "Steep bill for AI buildout punishes Meta, other tech favorites - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+    "date": "2026-10-22T20:07:42.000Z",
+    "summary": "Steep bill for AI buildout punishes Meta, other tech favorites  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVl2TFdMRGk3SHRydndCTVJDMm5QSV91MEtxODd1aE5QNmxXSk4tV0FmVUlYcUpwU3JieHB1MFNCbXlNMnY0eEtvMnh4UnpsZURBaWNacmFBRjVLZHdNNk1pY0NyU1lwREdkNnNmNlY4UU9MMHZ1c2Z3cnBNM01PcExkYVlaaVRpWkNCcGpfdHc3eFRQMGxRU3pPM2tEbmp5Z1ZJSFgyZ3IyNWxIYXFCa2lsQmt4Zjgwd1F2MnZR?oc=5",
+    "date": "2026-10-22T19:52:06.000Z",
+    "summary": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "When Case Studies Are Too Much Of A Good Thing",
+    "link": "https://www.forrester.com/blogs/when-case-studies-are-too-much-of-a-good-thing/",
+    "date": "2026-10-22T19:15:26.000Z",
+    "summary": "When new customer advocacy programs are building a library of customer success stories, the selection process goes something like this: Successful customer? Check. Willing to share results? Check. Available in the right time frame? Check. Casting a wide net is the right call when"
+  },
+  {
+    "source": "Reuters",
+    "title": "Top Democratic Virginia lawmaker charged by DOJ with running illegal cannabis operation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0xFbHRnZ0VNY3ZGOXExUkVOWGM0TG8tanhZSjduQzkxc181cGllQWdRMngyeUF3SGJrWkMxd0lFOW5sTTBxVngzeTFRR1ktY0lvQmpEakxKaTZvYmJ6Q1pvVGpWUUR3bHpCS0g2bGIwRHRrbmo5MnY0bGZFWEluTnhmYzQ0NTlvMERBd0FhN0ZQeG5Qc0MxV1ExbV9BQVJ2TmN1OVN1dldDNlNwM1lyQ1d6T1o1cjlfM1V1dFJWTUFWdzd3SzhNd3Vn?oc=5",
+    "date": "2026-10-22T18:20:37.000Z",
+    "summary": "Top Democratic Virginia lawmaker charged by DOJ with running illegal cannabis operation  Reuters"
+  },
+  {
+    "source": "Forrester",
     "title": "PHP2Shell Leak Sends Security Teams Scrambling",
     "link": "https://www.forrester.com/blogs/php2shell-leak-sends-security-teams-scrambling/",
     "date": "2026-10-22T17:25:36.000Z",
@@ -36,6 +71,13 @@
   },
   {
     "source": "Reuters",
+    "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+    "date": "2026-10-22T16:30:32.000Z",
+    "summary": "US regulator is probing suspicious Iran oil trading, official says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Meta's credit risk indicator hits record high on increased AI spending plan - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5",
     "date": "2026-10-22T16:18:09.000Z",
@@ -47,6 +89,13 @@
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3E4ODlNeV9kVUJzNVc5RXNLbWJWQ3ZxUWRGWnBKSUNrd3R2MVpRNUJvdkUzMVdTRDIyTUlTUjlFbXUyQ1IxQzhvTU9sbHZILVhHR1RKNGpHWlB6RUVMNTJJZ3pObDJxVFR2bk1HQ3hBUjNvMDhROTBwejF6Tm10eHhDZDVCWnozQUNHcEF5UGFnbjBUNUJ2UVREY2tTTUQ2cE5WOWU0MUNDbUg5alNJalZnOWtTcmVzcW5ST1g3WUV4MkhoRVhzaGxCQ3Jwb1pZMmVkU1JZNA?oc=5",
     "date": "2026-10-22T16:05:07.000Z",
     "summary": "TV Viewing Cools Off in Nielsen’s August Gauge Reports as Sports Take a Breather and School Resumes  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "US weekly jobless claims near 57-year lows, underscore labor market stability - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
+    "date": "2026-10-22T15:50:55.000Z",
+    "summary": "US weekly jobless claims near 57-year lows, underscore labor market stability  Reuters"
   },
   {
     "source": "Reuters",
@@ -63,11 +112,39 @@
     "summary": "Short sellers make $6 billion in unrealized profits as neoclouds slide on AI debt fears  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Canada gives Cleveland-Cliffs 15 days to reverse planned job cuts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHoxa1lxaUxwZTRtMl85ZDI1UEd5bXRIcEVqandQY1B3dk5QWURqQ2t1dHdxWVM3bWpYVm1fRzhWQjZ2TGMxdnVSMnl1cXpyT0d0WnFsclJmU1I0ajNrNEZ2dXBESzd1UlRVSkx4WklPWkdFZ3p4cERfU0NWWFE3MEw5b0RPcXpaanpkcERkWWFIaWYtQ05aMjhDc01UMzFjcEd6QU9OazZZMm8?oc=5",
+    "date": "2026-10-22T15:19:44.000Z",
+    "summary": "Canada gives Cleveland-Cliffs 15 days to reverse planned job cuts  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dow forecasts profit above estimates on pricing gains and cost cuts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeko2eDV1REFETEVaR0x3Q0NsVVRjM3JFRUx0djk1dWJWRlNOT1lnNkctZlBtWHp4VG9vM1RoTkxzdzRWbHhKaWE2U0lXZDQyZHFRanlDY3I1LWNaNkVmX1dYZ0ZhNGxJUm8yLUF3R3RJdFhpeW90bUEzY2h5UURYQWZUS2Y1XzBPNC1ER3ExMmE2SGpXcndkdFhqN2FiNURRZ0dn?oc=5",
+    "date": "2026-10-22T14:56:00.000Z",
+    "summary": "Dow forecasts profit above estimates on pricing gains and cost cuts  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "The Most Important Finding In This Year’s AppGen Forrester Wave™ Isn’t Who The Leaders Were",
     "link": "https://www.forrester.com/blogs/the-most-important-finding-in-this-years-appgen-forrester-wave-isnt-who-the-leaders-were/",
     "date": "2026-10-22T14:53:57.000Z",
     "summary": "Every Forrester Wave™ identifies Leaders, Strong Performers, and Contenders. But the most important finding from The Forrester Wave™: AppGen And Low-Code Platforms, Q4 2026 is that the application generation (AppGen) market has fundamentally changed. AppGen platforms are no longe"
+  },
+  {
+    "source": "Reuters",
+    "title": "Citi sees oil risks skewed to upside despite recovery in Gulf exports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVZV3hhS1BtQ2puTC1WcVZBYXo2bEI3bE0xaS1keVpmVkduLTBFT2tvSkRiSUk3RTA2dDBXd3o5TDk1VjFJNFpWN2xXdmZGby1UWWl2MkFxMDZJd056WnpmRU1IUXhWaXZiR2JzWkQwaFBvcC04MGZjUUd6THZTd0c2TmZ4YjlwUHVxeWR6bzRnSDV6VW5jNDlDRDgyaTFoclFnQi02aXZUZnJKa1Q1OTlkaVdlQQ?oc=5",
+    "date": "2026-10-22T14:37:44.000Z",
+    "summary": "Citi sees oil risks skewed to upside despite recovery in Gulf exports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's Tech Mahindra partners with SpaceXSI for AI-powered software development - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlJWQnZvNjJES1NYSDBSeGdrbDR3ellObzFNV0dqVHFwT2YyNXhMVzlEdUFXVGFnUnBaVmZVMnRmNUNQWkxkcEh1Z3dCZWw1MnFuWVpla0QwQXRYY3lCUVV6ZUhid0N2U09HYUdDcVNSRHFERGw0eVplNVJJNHJKY0x1ZFFzZWctTlVfOWwySl9vWV9ENllCanBicDBlNDE4a1RveEQ0NG01bVBMMVhQbEtELWRDRzBTelJSSUZxaHZzdTAyclRIdTNnMFZ2MGc?oc=5",
+    "date": "2026-10-22T14:32:37.000Z",
+    "summary": "India's Tech Mahindra partners with SpaceXSI for AI-powered software development  Reuters"
   },
   {
     "source": "Forrester",
@@ -141,6 +218,20 @@
   },
   {
     "source": "Reuters",
+    "title": "ADNOC's XRG in talks to buy stake in Eni's Libya oil and gas business, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1g2NkVwaGlBeGlfNkxLTFhLYzdVOW42cThDUFRoVDJJa3RsSF9xdGxleFhFTXdHbHdTZFJFNk9UaTMwOXhtZHYteGJKWWgtNVctU0lwcWppNUZQWGl4SlpQUHhUbWZmbXFxWVNxbUlBNkx0U0NSTFQybWExWU9aLWVGa0lHaWNDOGNoYm4weENEVU9GbmtoZzlSVVZEdHNJbU9QU2JxQjNsM1B5NFNYcEtuSWw1TGVEMHc?oc=5",
+    "date": "2026-10-22T11:51:43.000Z",
+    "summary": "ADNOC's XRG in talks to buy stake in Eni's Libya oil and gas business, sources say  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "COO - Planning, Performance & Reporting – Assistant Manager – Hyderabad | Bengaluru - - 372590 - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXZQSTRtTDdWbGVITFhmUHNzWkVZMmw2X2ZWSy11SlVEeWtWbzVUcWU0Q2h1eEN2TFVMckdsSTctQk1WblBfeFdxaEN3YjRDV1lFa0dPUFhnRDE4VE1FS2J4em1xS3VzRWd6RzBrNjIzNnN0MkhuZUtVV2NkekdaRjRVWDY4WWVQVlVjTkhNRGhPYURqWDRmbG5hUjd1QQ?oc=5",
+    "date": "2026-10-22T11:36:20.000Z",
+    "summary": "COO - Planning, Performance & Reporting – Assistant Manager – Hyderabad | Bengaluru - - 372590  Deloitte"
+  },
+  {
+    "source": "Reuters",
     "title": "Valero sets strong tone for US refiners with record quarterly profit as margins surge - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0J4Z1hTMUNSRXFieWxXREx5bWRTMzlTNU9yMUs1bnRlc0xJTUlJa1Q2S2w5X2lzTzNSQ2EzdVQzZERaWVU4NTlFVXRYakdIeG5lTVhYeWtPMDl3VHZSYkoxX1VIUGoyQmNfTlh3b0JJNG5lQnVwUmxWc3RzYk1TX3RaQTFVWGJkMk4yZU01VUZ2NmdTbDYwNkNNdTZ3X3lJdHd5bVBNTFFYcmFrS0NoeTJxREltcWRWbmt2a2g0bDJNa3NKYnhV?oc=5",
     "date": "2026-10-22T11:08:51.000Z",
@@ -180,6 +271,13 @@
     "link": "https://www.semrush.com/blog/seo-at-scale/",
     "date": "2026-10-22T10:11:00.000Z",
     "summary": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t."
+  },
+  {
+    "source": "Reuters",
+    "title": "SAP clients increasingly worry about AI models' origin, CFO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks0d1dqWVRpTHVmNXBKTjdIbjlBczVtSXFDcllzTVlKallJZnUyX1dXOFpQWjZjdjFHQ3AwUVJEaFZoQ040TGFsVmFiMFllUHNsbGQxbldiSk5SdExrOHIza0diZWpRbDhEdmtMSzd3eWkyaUdCLVgzbDh6S0lrd1oyanNUQWZwZ2JUcmVMbFo2NXVlRzh3clQxQTk4OVoybU1vRmw5V1djNnk1OHpJ?oc=5",
+    "date": "2026-10-22T09:40:09.000Z",
+    "summary": "SAP clients increasingly worry about AI models' origin, CFO says  Reuters"
   },
   {
     "source": "Edelman",
@@ -316,6 +414,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjRzbWZvU2s3cXVzUkR0Y2o1Q2picDNXb1dvRVZJSTQ0Z3hoMmYtUjlRa3RUU3hlY1AzN1BTYjdqVUFkRFJhaW9HSGpSLU1BdDA0cHk3RXZBUHhLaFRULWJCMTJZcTlKaE82ZGlxbko0blQwVjJycU9kNHN6dDllQ0ZYTl9ZdWQycHZSVHZKcHNaUFZSby1pN3RGdHR5bXNOeEI3R1JzUHlDa0hhbU5Vdndpb0FyZw?oc=5",
+    "date": "2026-10-22T02:03:00.000Z",
+    "summary": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
     "date": "2026-10-22T01:36:00.000Z",
@@ -334,6 +439,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
     "date": "2026-10-22T00:46:00.000Z",
     "summary": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
+    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
+    "date": "2026-10-22T00:00:00.000Z",
+    "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
+    "link": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
+    "date": "2026-10-22T00:00:00.000Z",
+    "summary": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays."
   },
   {
     "source": "McKinsey",
@@ -523,6 +642,13 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N?oc=5",
     "date": "2026-10-21T17:07:44.000Z",
     "summary": "Price of Russian oil used for tax calculations jumps 60% above the budget level  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2VSNmItZVdUY0hnTHdRZm8yVWlRLXFJR05UeTJNcUpBS0g4LWFKT2JxOWNpNnNNTUpzTk5mLW04aFVDcUVyeGhDV0pncFpZRWlkbnBtLWJxbnRQQkRhRXBvN2xZa0Rma0ZZd0EzOWhDMG9vOHhhcWoyeDFTU1F6c1JFZmJLbGcyaGdSSVhYOF9FcFU4WVlTUlZiTzdoNzRDenhya3N3ckNKbm5teHpEWGJR?oc=5",
+    "date": "2026-10-21T17:06:09.000Z",
+    "summary": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27  Reuters"
   },
   {
     "source": "Reuters",
@@ -736,6 +862,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Water rationing, rubbish pile-up raise disease fears in Yemen's besieged Taiz - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZmbFdBRmdDNEtQdFQxUzFxNk94SktoeDF3aTlLRlBxRkQ3dzdoOGFCQ0ZyUks2bkMwNmpRWjd1dnZtYW9xM2ptWEoyMlp2WVZrV2pua2pjZzkwV2Jab0RVSjdVM1dBdXdQUkJOWHlnckpmNXczSDNpQnlUTlB5TDdaNXhZb3NFS3lmS0VUUEZxMlpEaU1SQmgtazROaHE2WTVLYXRwTUgzN0lfamRtLTI2eGVoX0xHS3MwZERndEVPb0NnZnpaTA?oc=5",
+    "date": "2026-10-21T11:36:39.000Z",
+    "summary": "Water rationing, rubbish pile-up raise disease fears in Yemen's besieged Taiz  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Nigeria's Dangote buys 25% stake in Kenya's oil pipeline network - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHJDRTZkX1B0YlRMX1Yyby1BbThTYTBmanFWNjNxMmREUTRUSlJLQThGM19YdlJfRzY1S28wMEpVOVJHR1k3WmNOeDNoZkROeG5TVGMxaVRaOERoczYtRWVzaHlXQ0h5cEptYlFRNUU0SHRTbmR3a2tld2d3VUxJX2FpbmxYX1lBMUVUdjJlVXhXVTFNVEdmOUIxaDlnXy1NN1FOSE9fM29MRFhEQVR3?oc=5",
     "date": "2026-10-21T11:21:46.000Z",
@@ -747,6 +880,13 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlJzQVlZRXVQV215ZVNDWThkZVVmbkQ0RGttT0JuTEZ5bXMyYXR1SjNPSVVDa3JlbWNVZVcwb3M0b1l0Y2NDR1Jtc3hld19idUM3NjlvblpydlJzV0NGeWo2LXJmWjh6TmJieUdaOGJJSWt0djM1elBXYS1xUXB2UzdRWnBLdkFWZFR1U18zNU5MNUFTeldXLTFHa2VhdTBSakdpODdXeGtFSzFtZE96M3ppdjN4Vk5IS25Fcw?oc=5",
     "date": "2026-10-21T11:12:52.000Z",
     "summary": "AT&T raises annual profit forecast on strong demand for bundled plans  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5",
+    "date": "2026-10-21T10:57:43.000Z",
+    "summary": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks  Reuters"
   },
   {
     "source": "Reuters",
