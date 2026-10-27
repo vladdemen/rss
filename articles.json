@@ -1,5 +1,117 @@
 [
   {
+    "source": "HubSpot",
+    "title": "AEO analysis tools reviewed: What actually works in 2026",
+    "link": "https://blog.hubspot.com/marketing/aeo-analysis-tools",
+    "date": "2026-10-27T17:55:04.000Z",
+    "summary": "The way people search for information is changing. Instead of scrolling through a list of blue links, more users are turning to AI-powered tools like ChatGPT, Google’s AI Overviews, and Perplexity that deliver direct answers to questions."
+  },
+  {
+    "source": "Forrester",
+    "title": "The eMudhra Certificate Authority Incident Is A Wake-Up Call For Enterprise PKI",
+    "link": "https://www.forrester.com/blogs/the-emudhra-certificate-authority-incident-is-a-wake-up-call-for-enterprise-pki/",
+    "date": "2026-10-27T17:39:05.000Z",
+    "summary": "The private key of a certificate authority (CA) should be one of the most secure secrets in digital infrastructure. In eMudhra’s case, eight CA private keys turned out to not be very secret. In fact, they were so weak that security researchers could derive them from their corresp"
+  },
+  {
+    "source": "Reuters",
+    "title": "AI investment boom powers US business spending on equipment in September - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlJmQ1NMeEVTRlJIWjMxUGJPOXNBMXRLR0VnVlBkVDQwUFlUNkFKOTRnaWFUc2U5YVhxYWF0UnBVWFVkMXd3c2Juclh5a0FnOHMzeUpaOE1NVWhfYWYtVUc2MHBzVXhESFc3RXRpcTM0R3I3V2tpcFVpSE5aTkNtaEh4LXZpRjlmMUdHcHMzWUFtdjNzY2hIbmt1WThYSUg4OGVlVA?oc=5",
+    "date": "2026-10-27T16:59:18.000Z",
+    "summary": "AI investment boom powers US business spending on equipment in September  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzVtbS01OXk3NnVyRUloc3RIcmtsTVVWczZrbUw0T0M0bGZkZXk3NUFidnVwaWloTzh0MVh2UTNWSnFzWHA5OWlNUlRPZmxYV0F5T3djbHBkLTZpdm54YV84T0Exbkxpay1KQ2xncEExT2FyNndUU3lqTFh0UG5ndnJqOHlvNXh0cXBGdkowemlFVFVWZzhXUGtjbng3dTRIendvbkpmdHRHd0lwQThzUW5HblhzbEdUZ2ZuOUNtUnBLdw?oc=5",
+    "date": "2026-10-27T16:54:52.000Z",
+    "summary": "EXCLUSIVE: Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "JetBlue shares rally after airline flags 'disconnect' between earnings and bond rout - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHg0SWkxcXB1dHhiU1pUdGdjaVhwVnlvNVpPZ0dTVjNyRDBXM3VRNGJ0c3dhZWpGMnd4OVBJVUM0dlBGdjBuWlkybGdkUU1TUEt5Uk02SUs5RnZ6T28yT3h1SlQzSmtGNGozNXp5VjR1Sk0yVmtpdmxjMlhpYmE3RV9vUHVEd05sVDNteTl0Zmdqb2pfbHlXSW9wYnBrOGxHZ0NabkNR?oc=5",
+    "date": "2026-10-27T16:51:42.000Z",
+    "summary": "JetBlue shares rally after airline flags 'disconnect' between earnings and bond rout  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "航空業界 コンサルティング&戦略 | BCG ​ - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTkh4SzlSWGhBVFFoc0k2SlVtc09FVTlNcWxTWkZKZHZ6TGxNWE1CREh6azltVmE1ZGFzcGR4WklxVmlyeVFSbDRnbk1FamRGcXhVZlZIU1VrNkl6Z29SLWt5eE1TQWpMNVNLcQ?oc=5",
+    "date": "2026-10-27T16:28:59.000Z",
+    "summary": "航空業界 コンサルティング&戦略 | BCG ​  Boston Consulting Group"
+  },
+  {
+    "source": "BCG",
+    "title": "Aviation - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42b2pYTnpaNS16UHpDZTBDb2JsTm9Gc2tlOUVkc2hJWGNpQ0VOR2w4enJBaVU1OUxIWkgyVDJWdWdNc21rSDQ3ZFF6TVp3ZW9sS3Npdm9MRVhuTDc4Y1R5emhxNTU?oc=5",
+    "date": "2026-10-27T16:22:36.000Z",
+    "summary": "Aviation  Boston Consulting Group"
+  },
+  {
+    "source": "BCG",
+    "title": "Part-Time Assistant, Internship, Hong Kong in Hong Kong, Greater China | Consulting at BCG - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTVfZW5lekU4QWhZT2I3TDNPeFJDTUJvTFppSUFBTjNBRU5WcDVhOU5nUjd2dVU4Q2EtV194b0ZBR1hhTEY1anR1eGdkLXN6QmdNT2JwRzdEN05EYlZIazdCbzJBV2tYcnpzR1daT2ZQNEpHOWpMRDZvM0k3WngtNG9MZHVfU3k2cF9TYQ?oc=5",
+    "date": "2026-10-27T16:04:53.000Z",
+    "summary": "Part-Time Assistant, Internship, Hong Kong in Hong Kong, Greater China | Consulting at BCG  Boston Consulting Group"
+  },
+  {
+    "source": "Forrester",
+    "title": "Banks Can’t Block Their Way Into The Agentic Future",
+    "link": "https://www.forrester.com/blogs/banks-cant-block-their-way-into-the-agentic-future/",
+    "date": "2026-10-27T15:56:32.000Z",
+    "summary": "Five banks have moved to block third-party AI agents from operating inside customer accounts and making transactions. Given the risks and uncertainties surrounding agentic AI, those banks’ response to AI agents having accessed their customers’ accounts is understandable. Banks ar"
+  },
+  {
+    "source": "Reuters",
+    "title": "UPS CEO says delivery company will make more money on slightly fewer holiday deliveries - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ09qUmU1TG9CYkFQZWhZRWRlajJfMDRabXhYWUZTck05eVJHc1ZtY1ZaM203c2xiRm8wMWNqMGsxUHFyWHg4NmZBYUNLQmNVa2VCSnZrVld3ZzFtU0FGY2NBREd2bVZUVGRJSVY3SWRGRTRVMy1MRXB3U1JQMFF4ZE1RRHJGeFFvQUdMRG84dUtqSGZxdFVRaWVIenVZanNwTGFXalpfTzRraWx4WG5fNmJmdTRoRDFoZVZ0N0hibVpVNU5QNk4xSXIxUDJialJXYnlxaVFaYw?oc=5",
+    "date": "2026-10-27T15:50:43.000Z",
+    "summary": "UPS CEO says delivery company will make more money on slightly fewer holiday deliveries  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "LogicMonitor Elevate 2026: AI Doesn’t Care About Your IT Silos — Neither Should You",
+    "link": "https://www.forrester.com/blogs/logicmonitor-elevate-2026-ai-doesnt-care-about-your-it-silos-neither-should-you/",
+    "date": "2026-10-27T15:32:41.000Z",
+    "summary": "At LogicMonitor Elevate 2026 in Chicago, one thing became clear: The company’s strategy is evolving from monitoring individual technologies toward orchestrating work, experiences, and outcomes. One of the biggest themes at Elevate wasn’t a single product announcement but the conv"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner HR Symposium/Xpo, North America: Day 2 Highlights - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHRTYktMaEZka1B1el9zRHNaQ3hFSW8wajFXWTlQa3M1Yy01eTRleVVqdVd3OURKTWRrSlpVaTdWYXMyS1FvaXN1YWdTcUV4ai1zYkI5LVZvY3d2MGRIYVJWV2lsLW9iUndwS1FKYW1sd0Z2MFh3NTFQQm5iTl9GeFl0VmFEcndEVjFFdFRlcFlQUXExeGp6QnRJaVZSN19JU1RJYUc2QzZrZ0FrR0hFZA?oc=5",
+    "date": "2026-10-27T15:21:03.000Z",
+    "summary": "Gartner HR Symposium/Xpo, North America: Day 2 Highlights  Gartner"
+  },
+  {
+    "source": "Forrester",
+    "title": "HP, Ferrari, And The Convergence Of The Device Edge And The Software Edge",
+    "link": "https://www.forrester.com/blogs/hp-ferrari-and-the-convergence-of-the-device-edge-and-the-software-edge/",
+    "date": "2026-10-27T15:05:03.000Z",
+    "summary": "AI PCs need a stronger enterprise value proposition rather than more processing power. At HP’s event in Modena, Italy near Ferrari’s Fiorano Circuit last week, I saw a broader ambition: Connect devices, software, and agents to reshape how work gets done. For technology leaders, t"
+  },
+  {
+    "source": "Reuters",
+    "title": "Caviar, champagne and a Porsche ride as aviation widens its class divide - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVdZUXFtZmw5QUNjai01dDlBU3ZXcUtpemZIMGVESTVTcHBpWDNyaEFaRVV0NjBGeFVibm1fRUtYMks4d1UzTmszQUZBR3ZNN2pEV0N1WWJEaW8yMTJDZGRNeXhIUW9pc3ZQYkVZMldncUhpT1FuUmV0c215WngtblBUakRYMXNOcXUtY1hLbERFM2puM1o4TnJhdExMM3BwOEN1NDd1OUJOX0U?oc=5",
+    "date": "2026-10-27T14:13:24.000Z",
+    "summary": "Caviar, champagne and a Porsche ride as aviation widens its class divide  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Technology Risk Cybersecurity - EY",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kWEFDV0E5VEppcWZfWWtmblFjTTFWNndwTEIzdFBqTTRNLUpDbTI1b3NJUDA4SC1CQTJYTjE2SU1ZaXNaYk4zSXZyY0ttWmROd2wtZTdhZzBHVm1ucG94QnFON1duX0Myc2E4RUp4NGo?oc=5",
+    "date": "2026-10-27T13:58:48.000Z",
+    "summary": "Technology Risk Cybersecurity  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Protesters enter Serbian pro-Vucic TV station, call for arrest of editor - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGhvQU1uZDNPdUtuYmVudkVUbzY0dTJSTHRkRWxpb1A0VU8wUi1yNVJnQW5RT2V1NjFDV3FsZVdzSTF1N1FKRnc2MUdMWWpCSERvR2ZPdDhidXhTWjUxZ3h6SVJ3OTlLLUJoazE0UVh0ajk4OURHZ2hrMUNxYXMzV1lhSFZZd1NzSE9vQUhfY29oc2J2aHh3SWt6NC0wLUdGMzg4R3dkdzlMMVlVakotekMwYVFrYW9nWGNnQmRQR2w?oc=5",
+    "date": "2026-10-27T13:45:02.000Z",
+    "summary": "Protesters enter Serbian pro-Vucic TV station, call for arrest of editor  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "S&P 500, Nasdaq open higher as oil pulls back ahead of Fed decision - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
@@ -15,6 +127,20 @@
   },
   {
     "source": "Reuters",
+    "title": "Tanzania announces first gas discovery in more than 10 years - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmVrRkk0aDBtZnZJZ1R1SGRCYzM0YS1FazM3U3ZoWHNBVy04ZVBRTlRKcXdFWGo3emZiU085ZjgzWHZ0ZW94Tk43NGJzZzdtMW1wQ0FReE1RWWt3YXpZQTBUUWR6NjFncFJxVWt1YWNEeTJ6S1VKbmxrZ0FXd1F6Sy1WSzU5ak5pVzNnbTA1c003bGszWGhBY0FBZnozRGxXWmlYbUlkWmRHSGZma3c?oc=5",
+    "date": "2026-10-27T13:27:07.000Z",
+    "summary": "Tanzania announces first gas discovery in more than 10 years  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Turkey may make acquisitions, sign deals for further hydrocarbon exploration by year-end, minister says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2hKVkNvYlhna28wU1ZEaXEzcEJnVHRTbHFac21FQ0pmZE5QWE4tS2g2bWVldDlqT3JqVm41NmFnUXZVREhXNFdiSC1HUmJkWTVscC1OcDVRNEZCbXpmT0p0cVBpaGNFNV9ydkZkalFSNnVibWNRRi0wLXBMbEFSQ0NJMnoyOFF3SWNZYnM5NG9LTFgzTjVlblF1dkl5Y1lJdjQyZU00X3VGZTd4T1d5Z1ZnbDM4aGR4VmZoTzRYWWJUcV9pQl9PajhqMA?oc=5",
+    "date": "2026-10-27T13:07:15.000Z",
+    "summary": "Turkey may make acquisitions, sign deals for further hydrocarbon exploration by year-end, minister says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Boeing jetliner production challenges weigh on third-quarter results - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93?oc=5",
     "date": "2026-10-27T13:03:35.000Z",
@@ -26,6 +152,13 @@
     "link": "https://www.forrester.com/blogs/predictions-2027-the-seat-at-the-table-comes-with-a-few-surprises/",
     "date": "2026-10-27T13:03:16.000Z",
     "summary": "For about a decade, CIOs have been asking for a seat at the table. In 2027, many will finally get one, along with a stack of AI promises somebody else made and a few hundred agents nobody remembers hiring. The next phase of AI comes with a less glamorous problem: figuring out who"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "How to Choose the Best AI Visibility Tool in 2026: What Actually Matters",
+    "link": "https://influencermarketinghub.com/how-to-choose-ai-visibility-tool/",
+    "date": "2026-10-27T12:55:52.000Z",
+    "summary": "Influencer Marketing Hub\nHow to Choose the Best AI Visibility Tool in 2026: What Actually Matters\n\nAn AI visibility tool is software that shows how AI engines like ChatGPT, Gemini, Perplexity, Claude, and Google...\nHow to Choose the Best AI Visibility Tool in 2026: What Actually "
   },
   {
     "source": "Reuters",
@@ -56,6 +189,13 @@
     "summary": "European News Creators; A Local Play  Edelman"
   },
   {
+    "source": "Reuters",
+    "title": "What is likely to be in UK finance minister Healey's budget? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTBRdGUxa29SekFIb1ZxZlBraGN3SHN0UV9SWVNOUktLQWw1OXJWd0EyaTdjQ2VGdU9kck5FTlJRdjZaVW9iZkkzTm5aUUpKYndHRlhGbVlkcmYwaHdnUmtCeUtBdUNTemZQcjQzRjVRNVFCZkxXdkI2ZGhxR2FnTkt0dlJ2V3FIU0lzaWhPRFFWdnI3ZEhHTTh1MHRiMlh0QXp5eC1SZ0k?oc=5",
+    "date": "2026-10-27T11:58:06.000Z",
+    "summary": "What is likely to be in UK finance minister Healey's budget?  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Journey Mapping Essentials: Five Lessons Every CX Leader Should Learn",
     "link": "https://www.forrester.com/blogs/journey-mapping-essentials-five-lessons-every-cx-leader-should-learn/",
@@ -63,11 +203,32 @@
     "summary": "Journey mapping is one of the most popular yet one of the most misunderstood and misused tools in CX. Creating maps is the easy part. Creating change is where most organizations struggle. Over the past five weeks, the CX Cast revisited five episodes that explore journey mapping f"
   },
   {
+    "source": "Reuters",
+    "title": "France to exempt retailers from replacing diesel released from reserves - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUYxT1ViMGFGdllJWVo3MWhKOHRrQnNmRVJ3WFhJWUlaSjM4Y3RtSXoxOEN2V01HUHltbkNSSHU1Z1lmMzZqcXZpMElRako4UE10ZFhRZkhwZU9fZmZMWVJuSTdFYTJHdTVjaDBZT1BIbmc5M2g0WFdhNjlRQjZzLVJ5QTBVd1B3c0IyaGRBNVpsUmpyMXBaQWpvWGg0Wk80VHhWUFpaczlzRFJtanFR?oc=5",
+    "date": "2026-10-27T11:39:43.000Z",
+    "summary": "France to exempt retailers from replacing diesel released from reserves  Reuters"
+  },
+  {
     "source": "Influencer Marketing Hub",
     "title": "How DinoBars Turned Mess-Free Snacking Into a Creator Marketing Advantage",
     "link": "https://influencermarketinghub.com/how-dinobars-turned-mess-free-snacking-into-a-creator-marketing-advantage/",
     "date": "2026-10-27T11:16:24.000Z",
     "summary": "Influencer Marketing Hub\nHow DinoBars Turned Mess-Free Snacking Into a Creator Marketing Advantage\n\nHow DinoBars Turned Mess-Free Snacking Into a Creator Marketing Advantage\nNadica Naceva"
+  },
+  {
+    "source": "Reuters",
+    "title": "Canada's BCE sells minority stake in new tower unit to La Caisse for $1.75 billion - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVk3c05nTGlxVTJRYlBZRWNuTllzREhJdE54Rm84d2g1X05ISUVLWnRsd2dISGVId2hKbHp5Ym1hZjR2MWZOS0FjYWFnd2tycjRfZFZubUZLc0NyYkdHNW5qaHFialZ0X1ZweXdjVDQwTE1XdUEzNnQwYy0zQTkya2V4VFZ2bUxFaXVlOTRtd3I2aTFKc01XUFBhWVpfX0xHNjBiX3VTalVZTEFHcW9aSmlKWWpFUVdFNTdqZ2lrM3RkQlk?oc=5",
+    "date": "2026-10-27T11:15:44.000Z",
+    "summary": "Canada's BCE sells minority stake in new tower unit to La Caisse for $1.75 billion  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Poland and UK support strong transatlantic alliance, Polish minister says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa25CZXpqVTAxc2JCOUVqTV9WNVlGWDFMSS1sVkRDdVdINkVvREoyWnNxeFJfUXJFeTdZT3ZYZ3hSWTcwWmlmd1cwZE5Qa2xzSzVDVk45cU95NWpOd3U0eU9KZFZob0R0WjJ3UVJ4Z2JlYWtmTGdLMi05d0NGR2IxYjBsaE50dGx0N3ZsTFZZemptSngwWlZZak9yUmw4YWRnX2dwdGJUdzJJaDRoX3dYLXp2bnFmQ05EajUwNzZhamdvRENEQkh2bnR5TQ?oc=5",
+    "date": "2026-10-27T11:13:43.000Z",
+    "summary": "Poland and UK support strong transatlantic alliance, Polish minister says  Reuters"
   },
   {
     "source": "Reuters",
@@ -82,6 +243,20 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ014bjJuTk4zNVhiVnRWZENIWHpQOGNfamNWNktkejdodHUxMWhlWWM3Y0d5RGd6dUFheW9ORktmWkZhLUtqZnM2LUQtbE1NOGwyNjVFVDNGcnFrSWNrU1liQkN5T3BhZlRVb0RiNU9TSXZIdjZUM2RfajdtZEtTVkpablRFN254ckc2emFxVFBxZEFyeFlTMW5LbXVld09kbWZyNnNqdjNMcnFzUml6X3ZxY1BVeWFqZ0E5aE4xak1nbVV1Y0tWZGhB?oc=5",
     "date": "2026-10-27T10:42:30.000Z",
     "summary": "EXCLUSIVE: Alleged Israeli spy company heavily targeted Starlink users, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India seeks bigger share of diesel exports on refining capacity boom - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNby1QU21PZ0R2bmsxSkp6TmhWT29yMXVfZ1ZKanJyU2ZKcy1TX3liRWdUQXhSYjdxV0cxUWtYN19USFIxdzNiSlFMRTZNaWFxNWt6MlljaEZFbGZ2c3pLWnJlTldFd19ma1pZOGJ2MGh6WnM5WGFXQm9nU3lIMWFNTjVsUF9rMlB3MF9uWWlPTHZzWVJvT1Y4Q21vQ2lJV1VhakpCSnRPc0tGblMzUWhlc056MEM?oc=5",
+    "date": "2026-10-27T10:02:09.000Z",
+    "summary": "India seeks bigger share of diesel exports on refining capacity boom  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Hengrui Pharma reports 88.9% rise in 2026 third-quarter profit on licensing deals - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOelVfR3lHOG55b3hUMlhNYmJqQUFId05nLU5RTXdrbDhUTldoN1lWSERud3pNSEFGcjc1WTdlMGwyd2I3eENISHhJa0tDbnpGWl8zSGx2Nkx4LXJ4bXhmYmVqeUdDTFBXZWowZ2dxMGp0LVVYN1hDR0xrV2tDeWlTcGlCRlgwbEtkM29zLTVzQnlUd3pXOHBnQVhlWnZHMlVfMmU5bGFZLWZsNmg0RmNHSTBhUWRUX0RaMUtqaFZVdF9ETTdW?oc=5",
+    "date": "2026-10-27T09:59:44.000Z",
+    "summary": "Hengrui Pharma reports 88.9% rise in 2026 third-quarter profit on licensing deals  Reuters"
   },
   {
     "source": "Reuters",
@@ -126,6 +301,13 @@
     "summary": "Reckitt lowers annual guidance on manufacturing struggles in North America  Reuters"
   },
   {
+    "source": "Semrush",
+    "title": "Poisoned SERPs: An update on Google ranking data in Semrush",
+    "link": "https://www.semrush.com/blog/poisoned-serps/",
+    "date": "2026-10-27T08:17:00.000Z",
+    "summary": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users."
+  },
+  {
     "source": "Reuters",
     "title": "Britain and EU finding way through 'Made in Europe' concerns, UK minister says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdW5Ib200d0FJeEsydzhRVmxNSXR3MFlFeHFKeV9lWVJTX1BoMUlqT2dPOU5PcS13TzhBdlh6eE0zM0N1aU9GaElNOWVZWXgzaXJyT09MY1hrQU5pM1YtZkFHbmVyeFcxc2ZISlZKdGYyUDRmREpVRTE4STVLS3R5dVlLMDlkM05oWEdMUFZyVGJKWlBpZVlJNzVqS2VkSzNKMy11QUlhcTZsN3dOMEwxeWNHVQ?oc=5",
@@ -166,6 +348,13 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanJRVHk3MzNXaUhLRW1xeUNZMDJHUkxvd3BCYnRRWkRsUXEzYkNpaFZtN1FfX2Q2Zk9fS1Iya2c3WldjUWZPUlIyNnhLN0JOREJGYnJnU09LVFVPRU5XdmRtVjFma0JiYmpRYXhjX0F3S2t2ak5rREJ6T1B4a2dkVFM0d1UtUEktaGFUdlZSZUpaX3d0c2hYWVVBVU9FVnBzZ1J5Z2oxQzQ0WC1idHZlUEkxaFZXaV9xMlZDQ1AtNE5VX3RMLWloVEUxbi1oQQ?oc=5",
     "date": "2026-10-27T06:46:00.000Z",
     "summary": "Porsche posts profit rebound as restructuring starts to deliver  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Orange raises 2026 profit outlook, talks up satellites as network boost - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3NZaW92YUZNVmRrWWxhNC1kV3FUOUNrWDFXWEdlbnJzZHZDdmp0XzJGRmRkWGhZOXVzVnNPU2RwdjQxa0RmNnJpV0VkaE5tX1IzQTJ4U3VzdmpxWmlRMjFtYXhFUDVVVmtNaFlMTWJpZEdvUTlBYkcwTzF3RGVTcng4QWNmaU8xYWloRFN0YUYwdW1sZHFtSHR1bUNEaVNlem16T2tpOEdZYWJvdzhSX2szNzU?oc=5",
+    "date": "2026-10-27T06:31:00.000Z",
+    "summary": "Orange raises 2026 profit outlook, talks up satellites as network boost  Reuters"
   },
   {
     "source": "Reuters",
@@ -217,6 +406,13 @@
     "summary": "Morning Bid: All eyes on AI  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Germany's Merz proposes wider EU-Asia market access to counter trade restrictions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5",
+    "date": "2026-10-27T04:07:00.000Z",
+    "summary": "Germany's Merz proposes wider EU-Asia market access to counter trade restrictions  Reuters"
+  },
+  {
     "source": "BCG",
     "title": "Three Blind Spots Leave Industrial Companies Exposed to Critical Mineral Shortages - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHdNWkxuVjdlNndkLW1LVkJXQzVBQ1MtbHZXMHlNYURrUk9IQ0xXOGUxN3BGeDNRcndMYlg4UkRyajlVTzBWRzJtUFQzZU1KM3plaHkwVnVRWkNhRl8xWUNDWXQ0Wnl6MHV4V3F1LTlGRHRMemxGbEM1RjZCZ25jVWJGSUZTUmZ4WjVRd1VLQXFPbllnQkRWWUNOd0hwbTkwcVhGNA?oc=5",
@@ -243,6 +439,13 @@
     "link": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
     "date": "2026-10-27T01:00:00.000Z",
     "summary": "Creators are turning YouTube Shorts into episodic microdramas. Discover how channels build multi-part mini-series and use new tools to publish serialized shows."
+  },
+  {
+    "source": "Reuters",
+    "title": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWRKSlpLR3l4cENjelFuU0tPXzRLc21PTTZ4QUpCNHBnZDZ0MW85NFVpYnlvLXhiaFQ3SnZ3aDhEZXRfOXg3LURobjdQWHAtSGNKalZMcVNhWGRCeDRpYzVYb1BTOXZydlFJVVFqbXRaWDlsbUozS0lSc1BsUDdhaWRuV3dpUDFFT3VXRjg4cklMT3NvOEs4T1hOX0lvUC1Yek5kcXd0TmhIaUItS3RVRFUxejN1amZIMmJmcHE3M0k5VGVGOGs3LU5GTWk3R0ZCNzBURk41dw?oc=5",
+    "date": "2026-10-27T00:54:00.000Z",
+    "summary": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing  Reuters"
   },
   {
     "source": "McKinsey",
@@ -341,6 +544,13 @@
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWFfVjhJWk9UYlNFZU9oaXdnMWQycHZhLW1mN2VCZlk4dF92VFZmbEJwVHVhTkRQcDdPM05QV0ptN0E4YU41MHlkR1ozT29qMkhYcGt5MmJ5c2JPRUt0WGJXS2xReEdFUEdFR2tJcVY1dVpCemZvdU5hZDIzSmtBQ0I2TmVvWFlaZ25vSUJWamFuajVYQlJWRXhMYXIxUQ?oc=5",
     "date": "2026-10-26T18:02:06.000Z",
     "summary": "ConocoPhillips to reduce workforce in Canada  Reuters"
+  },
+  {
+    "source": "Kantar",
+    "title": "Job Description - Kantar",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96azdDTmZCUHU2dE5XNDRYbE5XT1JnV01hMm1lQVRXb0RsZ2FYWmtlVFdjYXhwZ2FQYW1PQmdpaWxQaDBmSkJGdnI3aEpFWlB5X2hoWXhEbEcxNE4zRjh3dGVGd3Z1SGd5elo0bVJtdw?oc=5",
+    "date": "2026-10-26T18:01:24.000Z",
+    "summary": "Job Description  Kantar"
   },
   {
     "source": "Reuters",
@@ -3190,6 +3400,13 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVE1WFlPV043OWhlQ0E3TXFCSnNmQmhLaVBsS0l5TTlRSFNGNlUwY3pqZllBVDQ1alFzdXFuTEowN0RlRU5jMkdmNjFzU3hRM01XdGc4TVVvQWhOdWp5aGQtNm9sdUhzWWUzWkN6VTUzeHFtWjk4aFlTdzllSGZtZTFYX0gzb2k0TkFyRUZrYnRJTmF4d2JJZWwtN0s5RzVaRDhLYmgxS3pqRERvSTFzM2VxVVZubDQ?oc=5",
     "date": "2026-10-21T09:02:41.000Z",
     "summary": "ECB says AI, greener economy help euro zone weather energy shock  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "North American CFOs cite AI cost-governance gaps in third-quarter 2026 survey - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlhuNENicDRmM1BfdHhockdWNlRsZlhGejJNd05TbnpqdWFDaGxjeFE3X3JicWk3VFQ4TlpMbjQ0U1kxQzdaUTAzVWdaY1ZnNjhLZko2VFRjbGo3Z3otd1hVYXZZTXlfSXR4NVV2SkVIM3VxQjJuTWFpYnkzbUo0dFItZFhuNk92WkhkcXpyRUpjYWFiMl9HT0RRTW10XzhUa2tsSVJn?oc=5",
+    "date": "2026-10-21T08:49:49.000Z",
+    "summary": "North American CFOs cite AI cost-governance gaps in third-quarter 2026 survey  Deloitte"
   },
   {
     "source": "Reuters",
