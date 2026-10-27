@@ -1,5 +1,12 @@
 [
   {
+    "source": "YouTube Blog",
+    "title": "The evolution of web series on YouTube: Microdramas",
+    "link": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+    "date": "2026-10-27T01:00:00.000Z",
+    "summary": "Creators are turning YouTube Shorts into episodic microdramas. Discover how channels build multi-part mini-series and use new tools to publish serialized shows."
+  },
+  {
     "source": "Reuters",
     "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review - Reuters",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
@@ -15,10 +22,45 @@
   },
   {
     "source": "Reuters",
+    "title": "Universal Music Group discussed going private with buyout firms, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVU5Nbjk2QmtVb0dHRzNmaFlYdmRYaXZfVk1uWWxGSHpkd2xadExGdm1DUGMtUjBhVXlvUWV4UkJtYzFvdE11UHRUTEJiRTJQTzJyZkRyTFRwRnc5clJTVGRuYjRueFdBR2MwNHUydGxCakEwRGw1TF9yVC15aUw0VFZiWEtxWnpsNlUxbTdBVkQ2MXlHZlA3UFJnbXJwOEk5M28zei1nWmRzZFBpV09uWG5KVUwzVWtfUUE1TjRKZ0xOM3ZIeEp0TDBmbF9KbWdHb3NR?oc=5",
+    "date": "2026-10-26T21:50:24.000Z",
+    "summary": "Universal Music Group discussed going private with buyout firms, Bloomberg News reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5",
+    "date": "2026-10-26T21:47:43.000Z",
+    "summary": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Applied Materials to raise BESI stake to about 20% - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2dSZnVyS01aVkZORzdYTW1QY2VlWDl5aWVOd29uNUJBR0NhVGwwdUU0WG1WZEZJNkFndF9yb1JBMzRYRWpuYXJPYVpOaTV3RzczRVRlSXdtT1lZaTFLcmFPM1YycXZ5SmNoYlU1eVBUMHdQVkVlYjZpMU5TTjJRU3BDUW5SSVEwTWR2STJVa2NjUQ?oc=5",
+    "date": "2026-10-26T21:35:42.000Z",
+    "summary": "Applied Materials to raise BESI stake to about 20%  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US consumers paying the most for fuel price spikes from Iran war, study says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXI0Ml92cUxsR2hZRHB2OHJLOXIxeHA5MkFFU2JTb091Vk93VXRZdEZ1MFV6OUE4eFBubzhPcDA4M1ZSSjNBN0hzR3dwci1RQzNRcVM1eFJEY0MxTGVRNWdEVGpxWTJvRWl0aFNmWHhYYjBpeDljSjNsRUV5eDlyRGZqVEctMjYyYkZ0cEFHSTB3RWJmc1FxeFZ2VnI2NW9jZHhkV0R5TmJKWkRIZlJ2U3BQbV8?oc=5",
+    "date": "2026-10-26T20:20:15.000Z",
+    "summary": "US consumers paying the most for fuel price spikes from Iran war, study says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Mindful of the markets, UK's Healey is set to deliver a careful budget - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1FFNVNXLU1fbUd1NzRQT2wxeWUwRWlQU1M2X21RSGhMMzB1dzl2NmpZVG1HQ0I4RzZHRHA5elBfSHRvUmFDdWZLb1AyTERDVkxmdXJsR1ZORkQyZ29LVjZrWVl1TzcxNXFqNTRXOGp4cDZiSllBY1UzRnFsNWM2bkJwd1FUSlZDUzFoS2RRWE9XZHExUUUtSzBrcWNIUDVpZjRZ?oc=5",
     "date": "2026-10-26T18:58:30.000Z",
     "summary": "Mindful of the markets, UK's Healey is set to deliver a careful budget  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
+    "date": "2026-10-26T18:16:33.000Z",
+    "summary": "Audi CEO faces backlash after joining Trump at midterm campaign rally  Reuters"
   },
   {
     "source": "Reuters",
@@ -40,6 +82,13 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0M1dzQzczhvZmpWQlYtQURzdGp5NEVtdnVXSzRjbHNkSUpMeUhpYlNsQ2VuUmFOaHlNenNURWI4bDZKYmxRdU5JUGM1ZEFfS1M4WUpFM25fUFI5U0pZTG9LOExHaTFod0tTX09aNHB3QWJBWWVCTzN0Y2E2RzVReVFHQWdId0UxTmpfNG1tZmhISENV?oc=5",
     "date": "2026-10-26T17:53:25.000Z",
     "summary": "UK and I Data Insights Executive Job Details  EY Careers"
+  },
+  {
+    "source": "Bain",
+    "title": "AI Is in the Exam Room. Pharma Needs an Integrated Plan - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlhvaUVxaXFtWDJvUzdXbWU4N1RHMkhzdU5OUXkyUmNoSnZCNUlLMUNKdGl0cS16SlVWTWJQa1BHdVJOYVZSNHRSZGZwWUJBd1JSQlVYNTQtclJCRjU5ak52SHFRMk1ETnJzdF9CWGV3NnRMY1BuVmVJYVdNVVRvQzVjVHpJOENrQ19JY1Vn?oc=5",
+    "date": "2026-10-26T17:32:02.000Z",
+    "summary": "AI Is in the Exam Room. Pharma Needs an Integrated Plan  Bain & Company"
   },
   {
     "source": "Reuters",
@@ -68,6 +117,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2dYaFN6ZU5pODlkRWJja25NUURBRGhvTW8yLVEwUklsei13aVZlTnk0S1M2eTR0bFhHUEdzOGdEZjNRM0tTNW1VRGowQVd1SnJrTG9kZHptWUxjU21KdnVhMGItTGxmV2Z0emlYeDZJZFMxU1U5aVZMTGpiV1NoNTlJVURIeDZTSmx4dnc1Y293ZnV2ZHpjQlNPdGtSSUZqdGdtbFlfNjRxYzY1SnQ1YVZJalVFcW0yZ0ZJd2lkdjl5YThoNW5wSGRMZG9SdzJnVDhLU3FUSHE?oc=5",
     "date": "2026-10-26T16:50:24.000Z",
     "summary": "US retailers face record holiday delivery prices from surcharges tied to costlier diesel  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Volkswagen considers using Chinese software for Europe, report says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVlmcnJkZWZuVFk1VUpHSnJWbG5YdXFocWVOT2RPU2J3anBNRml5OXVjcmJscE5FYVVaeTVWYVRNMVhPbG9kWWFjTTJtTHJ1eW93QW81cWRCWFFJaDVKaHhjTVJoYkFrUWk1V0sxbC1hVUhUcWhfOV9GQnZUS2Z6b0JtOTBlVzZnLXViRlBQNjBGalgtZHYzcmhqNGVMZWxLOUN0Qk4wZnZzdFhKR3dyYm95OTN0T0FzRVdyeXhZMnhxNU1QUm1F?oc=5",
+    "date": "2026-10-26T16:45:22.000Z",
+    "summary": "Volkswagen considers using Chinese software for Europe, report says  Reuters"
   },
   {
     "source": "Reuters",
@@ -113,10 +169,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVNMUGdfdGo5OFI2RExWUFBBTkQ3SWhMaVNCajNGUER0Si1ULTM0QnJ2UDZoMURnczVfU0N4dXVfN3VjV2Qxd2VGcW1YcUxYb2FrdG1wa3VsdDZ2YldVeExjQXZrQjRtcld4VHFrTjMxeVEzU2JGM1E2TTJTTjNTc3llMUo4SkNYanhrb2Fqb2l0TmpQaENReFpVbkJMSk9hbG5XbW1ObnFMdGZENFNZQTBzdnEwQzhFRUVacTF1UQ?oc=5",
+    "date": "2026-10-26T15:21:43.000Z",
+    "summary": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "EQT to buy Range Resources in $13 billion deal to create top US gas producer - Reuters",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDJYcWR4d21YUDJHMFFqVWNnWFlwZDQ2M25TQmFzcVZKNGUzb0lGeWRCcEUxclB5eWJBV3ExWjBDTEVvY1RiYkd0cUlHaGx4SE5sMFpGV2ZCM2JJSWdYUFBvNUhzd0s5amc3NUtBbVZxbVVMQU5JU3JTbVhxOFFRak1IZTliVlRsM2llLThFRWVRZU0?oc=5",
     "date": "2026-10-26T15:18:25.000Z",
     "summary": "EQT to buy Range Resources in $13 billion deal to create top US gas producer  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Petrobras CEO calls selloff after Lula win speculative, sees buying opportunity - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTmdiRGEwaHZQdnQ3MHB5eERHYU1pZUtOUFhJdkg4TGN4aUt4UVYzU1FsdVdvaXFjMU9QT3NsQTZpUHpkMkNfWUx4dzZpa2dkNlBaUzZ1UDBMXzVIUjl5OUJPVkVlVjFNYUJmdW9TQ3JOSXpiMFFYQVBXSXJUMGY2QlFVVUY3ajNLc1dObW4wSU1xSHAwRWxQc3VoNDYzTFFZd2hEZ2MxRmtFOThDVkgwVlZfNmNtblAwaFNiSkVVSG9ENC1ESnNQRE1B?oc=5",
+    "date": "2026-10-26T15:13:43.000Z",
+    "summary": "Petrobras CEO calls selloff after Lula win speculative, sees buying opportunity  Reuters"
   },
   {
     "source": "Deloitte",
@@ -222,6 +292,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ?oc=5",
     "date": "2026-10-26T12:40:31.000Z",
     "summary": "Tesla owners in Slovakia welcome assisted-drive tech as EU weighs rollout across bloc  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US singer Chris Brown spared immediate jail sentence for UK affray charge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUNQU3o4Qjdjay01U0RvQ2tGcU1qRU9PdDEwclA2WWxxVmtzUlU0OE5Za1RrRDRFcmZvMGhiMTdsYUxZNk50ZTBQVHZUclg1di1xMnhlNS1COWg3c3pIUlVfSTZoTm5MS1JQVTA1bVJ0NXA5OHVVRXZqSWJmM1FleDEtQjF3UlFTckpLT01xUDRRa3R2ZVFIZkQySVEyYjQtdkFza1pYX2NWZ0l2OTlKUTdtejBkZTZrVTlhN0U3R1ZSTjlCVHMw?oc=5",
+    "date": "2026-10-26T12:17:55.000Z",
+    "summary": "US singer Chris Brown spared immediate jail sentence for UK affray charge  Reuters"
   },
   {
     "source": "Gartner",
@@ -434,6 +511,13 @@
     "summary": "Revolut launches personal loans in UK, taking on major banks  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "China says no secondary disasters, casualties from Tibet earthquake - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU83MFk0UlF0bWZOeGRRV2h1YXk2S2h0UEtsakZzdzd2QmtqMzc3R2JQOUdwQ3djbVhxZ2dLbExXLWI3SXZ2c1k2UXBxbE1ZNHZhb0Nrblp5ckJ3NV9pckM4WXdEZGtBZ1diMlJUNU1UUjdhbGRNakxWc2tac1gyOER0a29fd0xkR2p2aGhUX3V0SW4yQUZBb2tLWEk5eDFqNlpnUjVTZGpjc2dBSS03Y21yZ2Vxa29qZmc?oc=5",
+    "date": "2026-10-26T06:00:00.000Z",
+    "summary": "China says no secondary disasters, casualties from Tibet earthquake  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "AI & Data / Cloud & Gen AI (Japan Market Focus) - Sr Manager - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWVhQk5wRzJtT29NeGNCcklSWGt2bXBob3NSeDlPT19vS0lucjFXU1c2OHktY3plRElYZGNkT2VSQm1Mbzl4Tm9XbU9obE96eUtEdFlXd3FReHdLeGdSZmpfTU5QX2hBWjlGNWpidDFRNlEwNldxbDUyN1V0NE1GYW1WNkJnd1laXy1rbkdzWllaNW1xYVRTWjFYUjVsRk5fSm15NHdWdDZiUGhoVUtmTE9FN1lWSUpJeExjbjVxdw?oc=5",
@@ -537,6 +621,13 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
     "date": "2026-10-25T23:25:43.000Z",
     "summary": "Oil prices down almost $1 in early trading  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Zelenskiy says US fully resumes warnings on ballistic strikes - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlJXU0EwamQyaDFJX05mT0UxSlNjMlBZTG9DN184ejRsOWMtSmJiVUtsVW1fV2NlVFBmUG1TVV9UVmRYZm5WcFhpOU9EV3hZWXF4R2ZFMVFkOUFPUmxOQTRMR2R6WGlFVVIyTDZJNTZqajFxaVphUjlhM3JqMkVRUUJKWTJqbm5aT0pkYmJqU3poanNDM0tkRkVvOUwySmx1UUdsZkR5MlVQVjRRU18ycnRDbDBscmpxTDdHYUFrUQ?oc=5",
+    "date": "2026-10-25T23:20:29.000Z",
+    "summary": "Zelenskiy says US fully resumes warnings on ballistic strikes  Reuters"
   },
   {
     "source": "Reuters",
