@@ -1,10 +1,80 @@
 [
   {
+    "source": "Forrester",
+    "title": "Basware Unveils Governed Agentic AP Automation",
+    "link": "https://www.forrester.com/blogs/basware-unveils-governed-agentic-ap-automation/",
+    "date": "2026-10-28T09:50:35.000Z",
+    "summary": "At Basware’s VIP customer event in Dublin last week, the company set out an ambitious direction for invoice lifecycle management. Its roadmap brings together agentic AI, invoice data, payment fraud prevention, and e-invoicing compliance. The strategy reflects how the AP automatio"
+  },
+  {
+    "source": "Forrester",
+    "title": "Wealth Management Firms: What Do You Do When Client Advisors Suddenly Leave? – Seven Ways To De-Risk Your Customer Relationships",
+    "link": "https://www.forrester.com/blogs/wealth-management-firms-what-do-you-do-when-client-advisors-suddenly-leave-seven-ways-to-de-risk-your-customer-relationships/",
+    "date": "2026-10-28T09:34:44.000Z",
+    "summary": "Advisor-led models are prone to relationship risks  Traditionally, asset management firms and insurers focus on manufacturing the [investment or insurance] product and leave the acquisition and relationship management to advisors. The industry is built on that model and the resul"
+  },
+  {
+    "source": "Forrester",
+    "title": "Predictions 2027: Marketing Agencies Divide Between Orchestration And Execution",
+    "link": "https://www.forrester.com/blogs/predictions-2027-marketing-agencies-divide-between-orchestration-and-execution/",
+    "date": "2026-10-28T08:00:32.000Z",
+    "summary": "AI won’t kill marketing agencies, but it will reshape what makes them valuable. In 2027, agencies will increasingly split between intelligence-powered transformation partners and specialist executors as brands insource more content production and demand greater AI expertise."
+  },
+  {
+    "source": "Forrester",
+    "title": "Predictions 2027: AI Takes Over Business Buying, But Humans Retain Control",
+    "link": "https://www.forrester.com/blogs/predictions-2027-ai-takes-over-business-buying-but-humans-retain-control/",
+    "date": "2026-10-28T08:00:21.000Z",
+    "summary": "AI will take on more of the B2B buying process in 2027, but buyers won’t hand over the final say. Discover how AI agents, human validation, and heightened risk scrutiny will reshape business buying."
+  },
+  {
+    "source": "Reuters",
+    "title": "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2xiX2ZOcHo0YjA5WXVRU3RtRm5XNC12eUFIWFFreGQwdHZzc3piV2ttU3lELUtWa21qTVNjT2ItenEweFRpOTg1a1N4VHJ5a1JBdmplTGRtV3lGQlNYeWJZU1hNUDVJS2RONnNDOTVyRmVlVXVRZmt3Uy1xcUx3SmhYXzBXNHduTTkybWhIRGtDUWVDM0hySGNSRnJnTDctOFFSTVN1YlRDZTVm?oc=5",
+    "date": "2026-10-28T06:03:00.000Z",
+    "summary": "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Equinor profit doubles on soaring oil and gas prices, sees higher output - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjk0NlQ2cUJXcWhhTmVRdlNZempYM2RZM0pYTnAxRzVEMWVvazFGV0RoUmMwQWN0TEx2R2dXbS14SGxLRG4xVGJIbUFyOXd0Z2xXdHlaU0tEaUtPVkltU25RZUl3WWJPbmE1eG1MX1hKZkdXN0dldG9PWDFGMHNQdlloWmJud2RkRktYY1ZXNWpPanVHNlp1QThpQnprcGZIbnhEdQ?oc=5",
+    "date": "2026-10-28T05:49:00.000Z",
+    "summary": "Equinor profit doubles on soaring oil and gas prices, sees higher output  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Businesses and investors of Ambani's Jio as it debuts on Indian bourses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkptaHNUZ1V3cnV3RzNwRW1hcGJjVzFRQWtkamM0S1VqakVTT3QyVDdDaDdPRDc1OENxb0NxUkZDQy1uakxGaGtQZWk3YVRvcERUeDhqWV9jR19QZFFLT3BhNXB0RlROdWR4VkoxTzNldEtDQnNqU19NMTU3ZE1mc1JsdWRJclFGYV90ZnpqMEsyMm1XZ2x1dUp2TnpfVEQ0WWoxaHNSMUU?oc=5",
+    "date": "2026-10-28T05:02:00.000Z",
+    "summary": "Businesses and investors of Ambani's Jio as it debuts on Indian bourses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "StanChart shares soar after it hikes full-year targets and trounces profit estimates - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjdKcHNBRWZiYWhjMnM3MWN5RGUxaVAyQXhnbmJVSzJxUXRGYUh0ejZ0S3ZJRmRvSHFSM0h0eWF2ZEdpeGVSeTY1a1NNeHJSdGZ6dHl0MXROWVFXUTBfRlNRYlhHdTl4eExkSFlRcFFZTzJoTUJNSENkVUExb1kwYnVYTzBWWU5vcmJma0g4MThEd2FuY3dyRUUwTlFBbVBMdmZuRW9ra2Nnd2wxUnlHT0x4WQ?oc=5",
+    "date": "2026-10-28T04:13:00.000Z",
+    "summary": "StanChart shares soar after it hikes full-year targets and trounces profit estimates  Reuters"
+  },
+  {
+    "source": "BCG",
+    "title": "Selective Shoppers Want Quality and Cultural Currency, Not Just Low Prices - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFlEblRpbFBUMUhjRUY3RzQ1TThMZmpIU1JIMmhUVWY3ak4xODNuMjA0UTJkTTV3d0hQTDQ1dXdMVmdwVW1FaDFhejA3eDRTLTMtU0VWQ0hNSWdYWGxKUDg2V19kQWllTlRrMjFsRW1KOGREWUJrc2V0MndTZnJsSW15MDlGS0d3RDNVNDlvMmFWcmVuUmNxQ0NWZw?oc=5",
+    "date": "2026-10-28T04:07:08.000Z",
+    "summary": "Selective Shoppers Want Quality and Cultural Currency, Not Just Low Prices  Boston Consulting Group"
+  },
+  {
     "source": "Reuters",
     "title": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMERINlphR2lkbEQ5OE1lVy1UX3RXYnhidFQ2bzJGQmYxZnZqNzd0eS1JQUlVdDRIU0Z0Yld6TG0tWFdCdG5RNEtsLTJaWGRzUmlZOFlIZTFrenFlZkdPcnVQMExMcVRCdmR4VmNBUWMwMVl4NnBJQ0ZXYjlXX1FaVzRnUV9ZeS1YM1kxMmw1bEltY1Q4cE9rWHEwdGVUZ3otMXNNWHNxazROdG1RR3VuYnNwVy1mREd3V0VLWVNB?oc=5",
     "date": "2026-10-28T02:06:00.000Z",
     "summary": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Valued Care Analytics and Insights Engineer III - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2wzTUJuSDdBZktXMVcydEpWcElDOWZQaVR1UElDRy1NOW5aN2dCa011LWFXbGZRS2tZMjVIYUdTZk5VWFFuSTE2SnQyZlJ3Y3d6TXhrOElnZVdBU0tTNmZZREhmSENEdkNNbWQweEtodlUxemEtdVRmYVJCYWNEbERob1dDZzV5S1cwU0Y2ZEVXOHBhMVpxeFlFZlE1dXpMREJhSTRuRjI?oc=5",
+    "date": "2026-10-28T01:57:37.000Z",
+    "summary": "Check out this job at Deloitte, Valued Care Analytics and Insights Engineer III  Deloitte"
   },
   {
     "source": "Reuters",
@@ -35,6 +105,13 @@
     "summary": "First Venezuelan oil from US-NABEP deal arrives in Texas, to be sold to Exxon, Citgo  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Baker Hughes rounds out oilfield services earnings with lower quarterly profit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTlMQThaWmdUc29OLTlLVTZwaHBDQnZ4Z0tGZUhGYWIyLVFsRUNOa1FONjlUTW9qcGFFZkhEVV9rdDBRMXdPTTlPYmlaalhTRlotb3hyZW5WY3FTZTJwUHpKSGZXWDBfNTkwM3ZfdFp2UHBscUZ2Vktkb1Z1bF9rcU8xelZBZW44bkZMMmpucEpiNlpDeFg3VHVmd3ZRTDNKOFAyWmtZdE50ZUYwYmRGWGNROXlCRUlfSVJVN1dSN0o?oc=5",
+    "date": "2026-10-27T22:57:43.000Z",
+    "summary": "Baker Hughes rounds out oilfield services earnings with lower quarterly profit  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Tokenomics: The Economics Of AI Value Realization",
     "link": "https://www.forrester.com/blogs/tokenomics-the-economics-of-ai-value-realization/",
@@ -61,6 +138,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2NKUnhMNTltUE4yRzUwTUFQVDU0b1ZqR19OSkRHTmhBcFk5cHEtSXN2b0d5SUEtOEczMTRQVXQzNlZ0UENocldxQ2lKUlNTNjRKM1ZlMFE1aHU3ZUxLalhjZmtremFGQWNNN3g0dkl6ZmxuRFdQaEVhX3Y0T0lDRUFOZVpNaWNrNW1xSXA0NEVmd1RNenY5TFpXY3VJNmJ5Yy1nZnNuWS0za2g2VmR1bnhxNC1td1ZWcjRYOVpWR0pPZnc?oc=5",
     "date": "2026-10-27T21:19:16.000Z",
     "summary": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Data Analytics & Insights Specialist - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1dTQTEzemZwbURtRWlRbHNGWl8tRlliQktHWGFDNVkwdjZNN2RzQ1FzbUpZNmROSkNHamFsYzQ0cDJ4aGlsaDVEYngxc0RheTFqaUVBa3RDSXY0TlY2eERYYTEtZlo5VjBILU9VaGdaUVVGSW5QX0F3amhMU1hVY28tZXBfaXd4VXdrb3BxZVBzelhGc0dJ?oc=5",
+    "date": "2026-10-27T21:17:15.000Z",
+    "summary": "Check out this job at Deloitte, Data Analytics & Insights Specialist  Deloitte"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Health Care Analytics and Insights Engineer II - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON282aEpPeWpHMmJtSk5hTnFMbzkzVmxtdzJuZ253c3EyTThFeWRMWE1EV2xHNC1WRGJZcGFzUFdqZXBrbTlFTGRsZnZrZmJCXzJzckZRMUZfbXNxVWFjTjhqWE9EdnFTVndpQ0lfcEtaY1oxYWVVU2hTQVNMQzJvY0p0VWpoWDRleDdFeVNIM0ljT2djSnJGbjljUW9CSU9ILUpiNGxSdw?oc=5",
+    "date": "2026-10-27T21:17:15.000Z",
+    "summary": "Check out this job at Deloitte, Health Care Analytics and Insights Engineer II  Deloitte"
   },
   {
     "source": "Reuters",
@@ -134,6 +225,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelAzbVRKVXlpeVNyZUJPTGc2eGhQbDBBeWtaeVlZTGNNTm1Jbmx6MUtYbVFHQ3RmYXR5ZUJvWHk0ak1nOW41dTNja0wxVXF6QUhGUF84VHZrWVN1SmZYcWpMQVlXalFJTXZkSlQ3bUR0VE00cExaV0FIaVk5N2ZGMGExUW8wTDdsYndxcEs2N0g4SlF5NFctYi1kOVowelNUYjVQbTlBSTRhZGIzaDNiMWxsRHd5enM?oc=5",
+    "date": "2026-10-27T19:46:00.000Z",
+    "summary": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUJPZ2Rldk01TnljelMzZVdEcU05ZFFVaGs5bjlDUXVVNWI3bXh2V2JCV0JNR3pfSEJMZVRHUHRyN056MERTbGZUZFJySnlHbzYwUlEzNWcwLXBNclFIaTVNYTZRd3N6emw1OTVHVkhzNnpIcHBqQWJyalJUR2gzYXdZQ0I2RGNJV1N5VVpxVGszRVJQVzdBZFZvbks4VEQxQnktUWtiR2NCdFhITTVsZ0NxM2d3ZU9aUlpWWVVZcTQtMEJCc3ZZ?oc=5",
     "date": "2026-10-27T19:10:41.000Z",
@@ -154,6 +252,13 @@
     "summary": "The way people search for information is changing. Instead of scrolling through a list of blue links, more users are turning to AI-powered tools like ChatGPT, Google’s AI Overviews, and Perplexity that deliver direct answers to questions."
   },
   {
+    "source": "Reuters",
+    "title": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanRkRzV4aTNMR3VVMWFOVE5HcGptcGp2TFduZkdybk5uWHFyam5aN3NGeDRnZC1EcE5BWFhDS0pMR1BGYWw2VEhHS01tbUZ4THRMYkV6Y21YR3JzREw4OEkyV1F0bTNNN3FjZ0pSZVdPbEJMMngzOExfWGFUd2VvSXhVVlB0OG1mckoyLTRwcVZTN2s2Yng3MlFDRHNXZnJxMElIWlNBWjhJRkJtT2g0R3RxcjJpc2lSZFJ5TlJB?oc=5",
+    "date": "2026-10-27T17:50:48.000Z",
+    "summary": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "The eMudhra Certificate Authority Incident Is A Wake-Up Call For Enterprise PKI",
     "link": "https://www.forrester.com/blogs/the-emudhra-certificate-authority-incident-is-a-wake-up-call-for-enterprise-pki/",
@@ -166,6 +271,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlJmQ1NMeEVTRlJIWjMxUGJPOXNBMXRLR0VnVlBkVDQwUFlUNkFKOTRnaWFUc2U5YVhxYWF0UnBVWFVkMXd3c2Juclh5a0FnOHMzeUpaOE1NVWhfYWYtVUc2MHBzVXhESFc3RXRpcTM0R3I3V2tpcFVpSE5aTkNtaEh4LXZpRjlmMUdHcHMzWUFtdjNzY2hIbmt1WThYSUg4OGVlVA?oc=5",
     "date": "2026-10-27T16:59:18.000Z",
     "summary": "AI investment boom powers US business spending on equipment in September  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Director | Cyber | Cloud Security | GCC - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWdPRjZiNzhuT05nUDE1Yl9yZC1fNV9xMXNHeldJRURPU1E2ZHZFUmh1UjQzeGdUdEJnOExDM2x6dUdLaEhQTmRkZzNDMmhjaE82S1hRMnRyR1RzMzV2NTNCNzJTWEZ1NDlDVGFOMjlpazEtN1BDeEl3ZDQ0Z0ZXUUM2T19hemp4VUp6WGhKNmN2WEY2b1loQ28wX1NmcjdiYlJN?oc=5",
+    "date": "2026-10-27T16:58:53.000Z",
+    "summary": "Director | Cyber | Cloud Security | GCC  Deloitte"
   },
   {
     "source": "Reuters",
@@ -208,6 +320,13 @@
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTkh4SzlSWGhBVFFoc0k2SlVtc09FVTlNcWxTWkZKZHZ6TGxNWE1CREh6azltVmE1ZGFzcGR4WklxVmlyeVFSbDRnbk1FamRGcXhVZlZIU1VrNkl6Z29SLWt5eE1TQWpMNVNLcQ?oc=5",
     "date": "2026-10-27T16:28:59.000Z",
     "summary": "航空業界 コンサルティング&戦略 | BCG ​  Boston Consulting Group"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Director | Cyber | Security Architecture | GCC - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOExvQ3RNcFp5NkVsTV9sZ2xKNWRPUFVEcUNTQmpBcTNLM3VRTnBFYzJVSzNma3hXeVlEWlhfWTB6dHVUaXNvM1RleGFnY2VUN05RNmV4ZGZfZzNRZ2pDVTRMOFdUYXRXcXE5bjM0U29OTWZHTVlKcFBCT085M1Y5TDJWUWVNZnQ1bTVNcVRSMzBnUnpodEl1dmV6eFR4OE12MkdzZTNzcmd6NS00?oc=5",
+    "date": "2026-10-27T16:27:56.000Z",
+    "summary": "Director | Cyber | Security Architecture | GCC  Deloitte"
   },
   {
     "source": "BCG",
@@ -271,6 +390,13 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHRTYktMaEZka1B1el9zRHNaQ3hFSW8wajFXWTlQa3M1Yy01eTRleVVqdVd3OURKTWRrSlpVaTdWYXMyS1FvaXN1YWdTcUV4ai1zYkI5LVZvY3d2MGRIYVJWV2lsLW9iUndwS1FKYW1sd0Z2MFh3NTFQQm5iTl9GeFl0VmFEcndEVjFFdFRlcFlQUXExeGp6QnRJaVZSN19JU1RJYUc2QzZrZ0FrR0hFZA?oc=5",
     "date": "2026-10-27T15:21:03.000Z",
     "summary": "Gartner HR Symposium/Xpo, North America: Day 2 Highlights  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Romania selects Thales for civil and military radar systems - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0d4ZnRRaGdIQ3N4VmZ6VEcxTjlSWUlkakdZVTgwYU1paWh0bTg1dlZtQl9wS3pGUVF2U2t0UzJKR3VPeWRuejdoRzRqYjczWDFubk84TDdWWDJabzViYnloZFZld2pyYU1BSlJtSGtTbFFTcXluUzZScHlsWElZZEhKSzBfaUZheGtDcnpYUVA1Zk1yR3F6bk9Ja1JyYWp1dkFiTnhOenNqWnV1TjBLVnNVSTE?oc=5",
+    "date": "2026-10-27T15:12:09.000Z",
+    "summary": "Romania selects Thales for civil and military radar systems  Reuters"
   },
   {
     "source": "Forrester",
@@ -358,10 +484,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Dutch regulator blocks takeover of Unilever's Unox brand - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2k1X2VESkZvTlg5OHFkMlE1OFA5ZFRsWTNCcTlCTUpBWTNPQWlXYmVySjhuamNuYWVSWE9manY2Y2hHV2YzbnZDdG15dnJnUXFpaWJzSlUyLW1teUNlWUR2dWJFSjkyQkRRRnItbllZZ3luSDd6VFU5ajRkclE3amdnWTc3eXFYLUlZemxWakVlaHI5ZWN4VFl6MzNRVG1QVlAxTXg3bUlWVU5zSVJqcU9mRQ?oc=5",
+    "date": "2026-10-27T12:49:57.000Z",
+    "summary": "Dutch regulator blocks takeover of Unilever's Unox brand  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Mbappe apologises to China for 'ill-judged' Mao meme comments - Reuters",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUEtRWJxSk5SSk1MQUh1TXhtZlNxa0VwOHFZaWNaMEVHZlpneEJza25scXpwaE5tSFo0MkxDVWwtSzZXWVp1X05EaUpHTFFJQ1JWMXVmdjhTc29ldVF6d081emZhYlduWS1fYXVzMmdLOEdhN3RXemYzR0J6amN1MXRyRHNyZ205dWxqaXcwZXJRaG1IQlR2RkJTUGJIZjJWUEpLVkZEWVBfTWd6c21zdlFBLUJaeVZKekpkZWhMWQ?oc=5",
     "date": "2026-10-27T12:22:58.000Z",
     "summary": "Mbappe apologises to China for 'ill-judged' Mao meme comments  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Pound near 17-month high on euro a day ahead of British budget - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmxNV194R2tBS0VVOXpUdVNmUExKMVgyejF4V1M3ZXZxRWsxX2VaVVY2eXpoeU1CZ1JDOFpES2xMXzRObVlvS3VwZnR0TGNIeTJkYUFQWnEtczJuZTk4X3FVZ0ZFaW40REM1b0M4LW5VVEVEb2tGd2kzYmpTRDd1bzhqbzM5a0lTYlg0TXZaTnM1WWNWOHgwcXV2RFFQbmdJ?oc=5",
+    "date": "2026-10-27T12:17:46.000Z",
+    "summary": "Pound near 17-month high on euro a day ahead of British budget  Reuters"
   },
   {
     "source": "Reuters",
@@ -495,6 +635,13 @@
     "link": "https://www.semrush.com/blog/free-seo-tools/",
     "date": "2026-10-27T09:05:00.000Z",
     "summary": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest."
+  },
+  {
+    "source": "Reuters",
+    "title": "Indian drugmaker Cipla misses profit view on US weakness, shares slip - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3dqS1hiRUtrbWNMdERUVkF6ZTFVX0JLTnRQbUYxaGpFaUw4Q3FzRzlzRkk1ZFJVazlHTDJtVnpGUDlpQ3RPcHBOVDBacGpxRnZEeXJHSk9pcHJkT05RY3hFa1RESldBb0hkR2JrNlF0dzVScW1pb01RZmhjWk5waUU2OElpLV9XTEFIYlJOenB0enpva2xnMjFqaXRRZXdwZkMwVXBxWFZLRWFWczExMU5DZ081YWN3MDUwejB4NWs0WXJqM19MemFEX0JSZw?oc=5",
+    "date": "2026-10-27T09:00:56.000Z",
+    "summary": "Indian drugmaker Cipla misses profit view on US weakness, shares slip  Reuters"
   },
   {
     "source": "Reuters",
@@ -684,6 +831,13 @@
     "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
     "date": "2026-10-27T00:00:00.000Z",
     "summary": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and building resilience amid uncertainty."
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Analytics and Insights Senior Manager - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG02UXF3ZHdRQ1NpVnBRRm9VVV9GUE9saVVjdFpsbWxkVlNEZ1NZX0lHQl9Hc21kTlYwdWZVckFJeDEtWUtVQ3dVUlhXM1BTbWlBVGp5ZlRfNFRBMTQzVDRlLUt2T1Y0TGl2RzhVWHJMUnhKMURKdndRbWFEOHZ5MnYwM2YzTlhBR29Db25CMzhkamJKZ0dhOWtBaw?oc=5",
+    "date": "2026-10-26T23:43:40.000Z",
+    "summary": "Check out this job at Deloitte, Analytics and Insights Senior Manager  Deloitte"
   },
   {
     "source": "Reuters",
@@ -1279,6 +1433,13 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXhXUXVCVlRSanltUlpGQWlqZDh6V2JSY0Zuam9IX1dEd2xFQV85ZWM2QmI2OWJQLUhaNi1RakxfYUVWOHQ0OTQ2NWZYdUowU3BOVHJJR3gyZzJDS0N1TFdXSTdJaFNaZ2Q1cFpFYTl3aktxc3dVYnFBSW9ILXRpMlU0LXh5VkVmWWU3THhlS3NvSFVjZ1ZVRDY1enFFckhu?oc=5",
     "date": "2026-10-26T07:03:26.000Z",
     "summary": "Large fire breaks out on island off Hong Kong  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Associate Consultant-Forensics-National-ASU-Forensics-Investigations & Compliance-Bangalore - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ09uQlRSUVNNenZpenhKTGZwYlZUOWhJd0d3am5kbUFIZEIyX1hQVkNIT3lDNDlERE9FS2dfRjlISG1zb0dxWktOMkxHcEhzUUNMVkI0c2d2M1F5UWJSNlBCeUZOX1V5dUtaT1U5Z0lxT0ZXUk9OXzN3SUx2d05PZHdFZ2dfTHc1Z2hnTm4wT09JUG52RTVHWEpjVEJNYUxRVk03aGJ2NzYyV3pqOVpOSHBIVGtfamMyQVZ5cTg4anZyMWRneEhJRDIyckVJbUJZNnFHdUZRN0FLSkpjd2loOTBFSk1QR1BD?oc=5",
+    "date": "2026-10-26T07:00:00.000Z",
+    "summary": "Associate Consultant-Forensics-National-ASU-Forensics-Investigations & Compliance-Bangalore  EY Careers"
   },
   {
     "source": "Reuters",
