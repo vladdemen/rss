@@ -1,5 +1,131 @@
 [
   {
+    "source": "Reuters",
+    "title": "Microsoft beats quarterly cloud revenue estimates - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+    "date": "2026-10-28T20:24:09.000Z",
+    "summary": "Microsoft beats quarterly cloud revenue estimates  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Governments Can’t Just Adopt Emerging Technology — They Must Shape It",
+    "link": "https://www.forrester.com/blogs/governments-cant-just-adopt-emerging-technology-they-must-shape-it/",
+    "date": "2026-10-28T20:18:06.000Z",
+    "summary": "Government technology leaders face a growing challenge. Emerging technologies are advancing quickly, but deciding what to do about them is becoming harder. It’s about more than just deciding on the technologies that governments should invest in now. Which could improve services, "
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information' - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+    "date": "2026-10-28T20:03:43.000Z",
+    "summary": "Fed leaves rates unchanged as it awaits 'accumulation of more information'  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oracle eases AI spending worries with plan to turn cash flow positive - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTVk?oc=5",
+    "date": "2026-10-28T20:00:22.000Z",
+    "summary": "Oracle eases AI spending worries with plan to turn cash flow positive  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaEVnZk9RTG5VLXktTVZic0h2NUk0aGQwcjRxcUZCcmxlNERPSVZMOFBMb2ZtM1dVWDdsTDZ1R0VJVDNKMmt6MU1PRHpSM181aW1mWkJZZ2dqNWRlSkExdm55S3ZKclRhYV9ibmJlZDQ1NUhyaFBzbzVEc2xYWXg5M3VrU1NCaXVlQklaaEh4aUIyRHZ5TXJHYUN0SEQ4eGdpLXlnOEZncW1KZjdfcW8yaWpBYlROZ2Zza0xnLVB3?oc=5",
+    "date": "2026-10-28T19:57:36.000Z",
+    "summary": "EXCLUSIVE: US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing  Reuters"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "“Kind of Big News”: How Sonny Side earned Best Ever Food Review Show an Emmy nom",
+    "link": "https://blog.youtube/creator-and-artist-stories/sonny-side-youtube-emmy-nomination-interview/",
+    "date": "2026-10-28T19:00:00.000Z",
+    "summary": "Sonny Side discusses how Best Ever Food Review Show landed a Daytime Emmy nomination and why independent production fuels the channel’s global stories."
+  },
+  {
+    "source": "Forrester",
+    "title": "I’m Digging Into Price Optimization And Management — Here’s What I’m Learning",
+    "link": "https://www.forrester.com/blogs/im-digging-into-price-optimization-and-management-heres-what-im-learning/",
+    "date": "2026-10-28T18:46:31.000Z",
+    "summary": "I’ve spent much of my career thinking about B2B pricing. Before becoming an analyst, I managed global B2B businesses with lots of SKUs and channels and the pricing complexity that comes with a far-flung supply chain, transfer costs, and multi-tier distribution, and I’ve covered p"
+  },
+  {
+    "source": "Reuters",
+    "title": "Meta delays indefinitely its rollout of new commercial terms after publishers' concerns - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxxX0JFWUowUGY3OXdUSDhwZkkyampiYmZUbnNVOF8tVXNMdExmTWp1TVBFTmQxQkluZUp5UHg2QTZTS1JkSlMxV0VWRURtSlZZai1COUFOYUF6RHo3aDZfMUJ1Y2NWSFI1QXQ5cExYUlgyQ1VUWkFYSkZmNlJjWFZYR01sYjVhOFFUb1RMc0hVUXBDSDh3QkN2OUk2U2FoUnFLVjhxOGFzaWNWZHYzZVFKR2Z3eC1xMWRSX1QxTzZoR2NGaWNJR1laMHBuZw?oc=5",
+    "date": "2026-10-28T18:39:43.000Z",
+    "summary": "Meta delays indefinitely its rollout of new commercial terms after publishers' concerns  Reuters"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Refersion Brings Affiliate Program Management Into ChatGPT and Claude",
+    "link": "https://influencermarketinghub.com/refersion-mcp-server-ai-affiliate-management/",
+    "date": "2026-10-28T18:28:03.000Z",
+    "summary": "Influencer Marketing Hub\nRefersion Brings Affiliate Program Management Into ChatGPT and Claude\n\nThe new MCP server lets ecommerce teams investigate live affiliate data and take permitted actions without leaving their...\nRefersion Brings Affiliate Program Management Into ChatGPT a"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner HR Symposium/Xpo, North America: Day 3 Highlights - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1hOSFVpVmpfTGF6VTNuSTRMdV9qZXMzWEcyMXNpZ3RxcXFheDZseVZZb0hOX2JZVHF4SkdUUkFleGg1Y3ZQREJQbDdGekx5QjBRVzdkZFdPNDdSRE9iUkNod1haUy0ydDk2dGJTSlRoMXFtMVp3QlBXaUUxcDVEZW4yMDlqN21PMGRlbXVZNGF3WHdnN3l2STdNZXhfcWE4dmVMT3JsQXp3enYwQUZMQg?oc=5",
+    "date": "2026-10-28T18:17:46.000Z",
+    "summary": "Gartner HR Symposium/Xpo, North America: Day 3 Highlights  Gartner"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Predicts 30% of Employees Replaced by AI Will Be Rehired by 2029 if Organizations Don’t Overhaul Workforce Planning - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWVdvVGpfZTNXcVZrd1dlRnpHRElZR2NKY3dxcUMwQ3lfQWI5SFZuRjBadkJsU3BveVl6UWE1M2ExSkIwNGs5WlpodXJGTDZ6eVZTdmZnSkxRTnBBYkUtOU0zZC1pVGFKd19aRy1sWWRoRkV3VkM4QThQWjZkUkN0M0VpS2VnM19UOGpJU3RvcG9vXzlDTC1TdHhXeGlVTHU3a2tyOTRKemtncWhvTFpOWUN6WUtEbFNha2stTXVRY2trOXM5dENCR2NING9DX3pkLUU2RHN1TF9LZHJSak0wQVRFdG1uWUJoV1ZWcnBzQjZSOFlPWk5vTGlYTmM1cVByMDlHcFB2X01xTHhSQXNEOWwxZmhxSTVnZkM0?oc=5",
+    "date": "2026-10-28T18:17:16.000Z",
+    "summary": "Gartner Predicts 30% of Employees Replaced by AI Will Be Rehired by 2029 if Organizations Don’t Overhaul Workforce Planning  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dutch court allows Booking.com to require 40% office attendance - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmM0NWVqSXJ6b2JIQ0xtMGJucUdzdENKalhHSEhSNUtXUFcybzREU0MtS2tYMEJNRHhSQi1BbTdMLUlDZjQtUzJjTEJ0Z0lwVURNYjgteGRxU2FjNFh3WW1ib2U1cEtHeVk3cmhSMTE2UXE0SXNSWHBHaWxoWXpUMGZPSlJLcEFkUHAtYlViZ3FpakFDWUJIT05UU3QtYWlCbnYwUG1n?oc=5",
+    "date": "2026-10-28T17:58:53.000Z",
+    "summary": "Dutch court allows Booking.com to require 40% office attendance  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Apple expected to show first touchscreen laptops amid product blitz - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc?oc=5",
+    "date": "2026-10-28T17:33:44.000Z",
+    "summary": "Apple expected to show first touchscreen laptops amid product blitz  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "German startup NVision shows new path to quantum computing chips in Nature paper - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkFDOVg0dTRuVTFVb0R1dmlMYjBWZ3dHekpEYmp5MjNvTmpJRFphUDZHRUlRdUN0ZVRHWU45d2ZqVk0wZ2RaT0Uwb2JhQTZmZ3ZDNzJhSmNHR3BoYnhTZ1lRWFpCaFdLcFN4VnB1N1pkaDZXWFY2U19TU1laZXNWeEt6WXJrNEh5aS1GQXo5STZLbW43eWRRYXhVcERyWUxEUGlDbmV4VGRyeVNjeXU0RUdYQ3k1bkQ2MzdsZGtn?oc=5",
+    "date": "2026-10-28T17:29:43.000Z",
+    "summary": "German startup NVision shows new path to quantum computing chips in Nature paper  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russell Brand says friends abandoned him after 'devastating' sex crime allegations - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR28taWpnNW9HZG0wV0NXUWk5cW4wTGdUcE5Fd2EzRHlXVWFfVHd1SXdrbkhEdXlVQWQ1bUI2cmlOUXRMaXo1dUYwQ0JZUzZ6ZGhic3NXTWRiQTZ3VVZUZ2NVeE4zTDdqdnI1dUlhRGU5YlZQSUJZcHRuX2hoN3VTRnVWNnJ3cnZIVW9ieHlWNmxmWkpFZGRtZFhuZlBxVHREd19hUG83MVN4TEU?oc=5",
+    "date": "2026-10-28T17:03:39.000Z",
+    "summary": "Russell Brand says friends abandoned him after 'devastating' sex crime allegations  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+    "link": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+    "date": "2026-10-28T17:00:49.000Z",
+    "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. \nThe post Meta Partners With Five US Universities to Accelerate Medical and Scientific B"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russia turns to Arctic WW2 route to export grain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFE0ZS1NU1h5NzQ2UHVialJIWjV2bHNYN2MyaGpXSXNDQ1FURF9lbHlidHV0VzVSc2tvNkdCS3JzOUFLZ2wtYW1jNVI4ZTVaUzRuRElFWEdQX2dPX1NHQjAyczVBRV8wcmx6R01rajdPVFhRN1VVVF9nalNRbHN6Tm9fb25rSEFuM3M3eWlJTEo?oc=5",
+    "date": "2026-10-28T16:56:00.000Z",
+    "summary": "Russia turns to Arctic WW2 route to export grain  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Oilfield services firms lean on Middle East rebound but risks persist - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlFLX2tKbndHYk12Q3VfbXdnRllPMnZkZXVnNnI4U25tQ2xhVXZHWjZoX2ZZaVlMbmk5ZzlaXzNrU0docm5TNHdVRzRjRTktd09HRS1mOWJTcEJPTmN4QjBIV01zQUxuYmxHeUE0aVNYVzdyU01PaDBuWUM5VlJ1YTV5M1NtLUI4Z0gzMURIcV9xV1UzekZqak0xTmgwMFB5TFgza25IQTRVVGZVR3dOdkoxVWE?oc=5",
+    "date": "2026-10-28T16:23:43.000Z",
+    "summary": "Oilfield services firms lean on Middle East rebound but risks persist  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "Claude marketing plugins worth adding to your stack in 2026",
     "link": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
@@ -84,6 +210,13 @@
     "summary": "US goods trade deficit widens as AI-related demand pushes imports to record high  Reuters"
   },
   {
+    "source": "Deloitte",
+    "title": "USI-EH-27- Ireland Corporate Tax -Tax Consultant II - Hyderabad/Bangalore/Chennai/Kolkata - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcE1Yd251RUl2cjlsY1NLdm5ZV2c1QjJzSjFXeS1WOFhNXy1FWno3WjBqb2pnQjQ1VkxIWkJHRXpXRkdSdnRtb3NvTTVpVUxqWGlDRjdqUG0tQS1rWVBHVzZYZUlERFJfSFQ4MXNEZWxJM1Iya1VNN2lvOG0wemc0enRlYU1vVlVwZkFiMnlXSmQ3cENHbGRfcE5KX1RQYnJZLXFKbVhIai1kR3F5YWd5ZllNVjJmVnVFTENzcUtSQklIc3RGbHRfY0tOS0ZNdWt5RmJkbzFjQlVuZnZwcXRRdHRJRGNLZU0?oc=5",
+    "date": "2026-10-28T14:20:50.000Z",
+    "summary": "USI-EH-27- Ireland Corporate Tax -Tax Consultant II - Hyderabad/Bangalore/Chennai/Kolkata  Deloitte"
+  },
+  {
     "source": "Reuters",
     "title": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzczN0VQaVNCellIWU1NczBXNzIyQTZIWjZLY1Z2aGFPNDN3amdLeEF5ZGxJU0MwTFBFeERGaEpnaVZnSVhwSzV3VnRyZXhqRG9UamEzUUdfd2E3TjUtZTNleFp0RHZYNDlyMEF0UXJpOHVGUXZ2WHVMZTdwbzEzVU96dVNEWWxGRm9mdHB3WkVNYXNzdGpCQm4zYXFrWDJfZlN2d1Fzak0wLVFKSFRlejZ0WWZKaVNjMmtBRjZHWGtZRjUzd0xyM1dZWQ?oc=5",
@@ -103,6 +236,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTJhV1NKSG4wRUJLZHpFdGRjTmdWM2VxWGhRQVFCa0Q2NGhKMHVEMEYtQU5jVTRpTnA5VWRXQWlRQ01rUE9MVF9FbEtLd1IxcTA2MGVvYTNfUFpnaGVwWEttRkJoUjYyLTFqZ2lrUUdJdTVqNEhqdFgyV0ZzR3JjOXFKZ0VHUUFXYzVsRnIwZGRZVG5UNHh3anhMZzRoanVUUjRySEpINGlpeXY2VC1YOFJxblVGRklIZi1ERXJB?oc=5",
     "date": "2026-10-28T13:37:28.000Z",
     "summary": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mbappe's Mao remarks expose costs of crossing China's red lines - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmNXNzdHQlJNTmk1SG5pTWtzVEMwRGszNm1aX0hGbXpleU8zR2V6bTFUR2JGN0JFZWR3dWVWMFNnUjRUeUJMWGZOQThJaUIyY1pIT3k2dEF4b29FN09ESnI4a0JMakRtY19VOFhfbHVoSWRqWmNkMy1GT2Q1VDJ5eWRyYWxJcFBEekVNLXdXTTc4emNOMlVwVVJXU2kzeU1GSGItSTlOenpPNG94aEVmbk5nb05sc3FDN01J?oc=5",
+    "date": "2026-10-28T13:25:43.000Z",
+    "summary": "Mbappe's Mao remarks expose costs of crossing China's red lines  Reuters"
   },
   {
     "source": "Gartner",
@@ -133,6 +273,20 @@
     "summary": "Enterprise software no longer creates value on its own. Instead, the value comes from outcomes, and these outcomes are delivered via workflows that span business apps, data, people, and AI. In 2027, technology leaders will shift from governing applications to governing enterprise"
   },
   {
+    "source": "Deloitte",
+    "title": "Specialist -Data Team – Data Scientist - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXJlQnZjc0pNZmFkbFBHOEdOTzUyTFJiWWkxQTVoTkxnckVXSUlvYUVpd1k0akVtLW5INXBKbEF0ZGM3SXdoQjdkVGxWV3daU1NfV19qektXamhqZVVDeUpwRjF5Q2ZRTzY4QzhSNDVGeTJLUkJpMzk0QkswSjRvVWd4SzFrbEVsM1RpYlF1dV9fS1NfeWxEdHZfZVZhbjNFaVFKU3hZWjZ3WWR0c1M2YWJGQVNqeDg?oc=5",
+    "date": "2026-10-28T11:39:41.000Z",
+    "summary": "Specialist -Data Team – Data Scientist  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "What is likely to be in UK finance minister Healey's budget? - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3JUM3ZIYkZ5MjU4TGZNdk05QVlzYnh3Z1FLSGpjOHY2RV9oanRiUTlBUklHWWk4elJ0ZDlUTkU0OW04NE5NWTQzWHlmX3hTazdxc1BSS19vcDhpaHR4Vm9uX3hoMUhFV3NEY1prN2ZoZkZnaGU5UWNMMlJZaHhPbkNiTF9hTWk2VVNTaVNHRm9XdlBYYTFaelpsTjQ0RVpQUncwOTQySDY?oc=5",
+    "date": "2026-10-28T11:27:43.000Z",
+    "summary": "What is likely to be in UK finance minister Healey's budget?  Reuters"
+  },
+  {
     "source": "Reuters",
     "title": "UK bank tax will be temporary and below 8%, Bloomberg reports - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzB2dHpna1hfcGdMSnZ4TVJTNFNkNTJpNFlEMWp3X0kySFI5cUlFQjZLNXpBbHRURUdsLTRMd0UtVl83SlI2NTdybkRRV05IZzc4XzBOX0FCSHRRZy1XMTFkVlJRQ05KUWZkeE5wdjNWWVQtNkpTenVZQVV6ZmpRMTNPTGVLXzUyMG1kdnZrVm0wamNJNFdIOUFPZDRPdVVTdFBqamlQQUdCX29F?oc=5",
@@ -145,6 +299,13 @@
     "link": "https://www.forrester.com/blogs/predictions-2027-automation-initiatives-become-more-considered/",
     "date": "2026-10-28T11:04:39.000Z",
     "summary": "Forrester analyst Paul Miller introduces our predictions for Automation and Robotics in 2027."
+  },
+  {
+    "source": "Reuters",
+    "title": "Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5",
+    "date": "2026-10-28T11:01:26.000Z",
+    "summary": "Volkswagen, in strategy shift, plans to globalise China-developed technology  Reuters"
   },
   {
     "source": "Reuters",
@@ -215,6 +376,13 @@
     "link": "https://www.forrester.com/blogs/predictions-2027-ai-takes-over-business-buying-but-humans-retain-control/",
     "date": "2026-10-28T08:00:21.000Z",
     "summary": "AI will take on more of the B2B buying process in 2027, but buyers won’t hand over the final say. Discover how AI agents, human validation, and heightened risk scrutiny will reshape business buying."
+  },
+  {
+    "source": "EY",
+    "title": "Geostrategy in Practice 2026 Report: Navigating geopolitical fragmentation - EY",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByYUo3YjFBT3hmMGltV2NSSVpUb1g4eGFnTkZONFNiWm5SMmJldC10N1pNYVMzejNSenpvX01xdVBQVVFYTl8wRXJVc3BPclMxU2g4ZUhnMGxLOVBBRE1RN2o0R3VfQm0xd3F4M3pQSzhhczRYT2hadw?oc=5",
+    "date": "2026-10-28T06:52:53.000Z",
+    "summary": "Geostrategy in Practice 2026 Report: Navigating geopolitical fragmentation  EY"
   },
   {
     "source": "Reuters",
@@ -376,6 +544,13 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXd2UF9nX05xY2pZbFF1bU1saXVHRDFraUJoYnp4QVVSUWlWZGxqdVBNZnBPWkZ3T1FiT0loaGFBU3cxVVNxWHhmUk9adjZYeGg3dm9uc0F5Y1N4ZVhYdXEwcmJ5ck5XZTc0dG9yelRnYU9VRlloX3dXSzNrN2F1VUV0YVR5WEJ4Sk5PM1dzZFBTOXlmVEhncTM2ejlPbnJzcEU3TWRaRGFRMDdpVnZqVVFaVEhKUQ?oc=5",
     "date": "2026-10-27T21:45:22.000Z",
     "summary": "Check out this job at Deloitte, Specialist Lead, Talent Acquisition (Experienced Recruiting)  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Three killed, thousands evacuated as Cyclone Arnab hits eastern India - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJDOVctdlFxT0xCaFRzd1dPMWJORzREWDItVWtGcHZyVGREWlRBeEd3VFV2Q1VzUjFSdkxqazFwekIxU181ZDdwVXBDTV9jU3Q2a0FHa0hVblVaSFpoaVhNMTdlYThKMUNHNnl5M3J2ZFp3MGlpRENFaklRTjJrajRiLWVoOXEwMUY4NFY2QTBFc2hTNW51QjJHSVNXbVNnTlJIbU9WOXNRZ1lOMDhJRWR6RzdiQjN5bU8wZFpn?oc=5",
+    "date": "2026-10-27T21:27:00.000Z",
+    "summary": "Three killed, thousands evacuated as Cyclone Arnab hits eastern India  Reuters"
   },
   {
     "source": "Reuters",
