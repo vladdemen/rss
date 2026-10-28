@@ -1,5 +1,180 @@
 [
   {
+    "source": "HubSpot",
+    "title": "Claude marketing plugins worth adding to your stack in 2026",
+    "link": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
+    "date": "2026-10-28T16:00:05.000Z",
+    "summary": "Claude marketing plugins extend Claude into workflows for content creation, campaign planning, brand management, reporting, and publishing. The best options connect Claude with the tools and business data marketers already use, so the right Claude marketing plugin choice depends "
+  },
+  {
+    "source": "Reuters",
+    "title": "Wendy's gets $1.4 billion take-private offer from Peltz-led group - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnFKUDFDOS1hQ2VWYzRDVXdvOHJ6dkhDeG5ITElPUzc5SkdZN2FxMXhVeFJpb2JEZlJZN0ZzdUVIQ3VuUC0xeEhrVTZza2RNNHpTQmx3bkh0VjBwSE1sWFdTdXV5dDdibmtnOXBRZWtoMzMzUnRSOTQzclNHRnc2UVlHQlJncE1NYmFFMFlwZGt4RjU3YmJiS0VibUNpUXV0M3M3czRsbW5HQnM?oc=5",
+    "date": "2026-10-28T15:54:52.000Z",
+    "summary": "Wendy's gets $1.4 billion take-private offer from Peltz-led group  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "GE Vernova boosts grid push with $9 billion Trench deal, lifts revenue forecast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObF9CRlpMQ1Vnb3hHT19ZaXJ2UjFrOVdORXRNVEp6TnZSMjRlcFpKVllVdDNTYWQ2V3FpMnRLMlI0SEhmQmh3bDBrUHI0SEQtaFFiQ0tyTzVteFpWb19lMkZyaThLLS13UExxVG1EaVNaZGxEZHFJYXBDVUI4cVpNU3dGSGc3amJUcEFMdGlES3FFVl9IeHg0X3UtMEQtR25SYWtNTEFSS3pQRGNUZEE?oc=5",
+    "date": "2026-10-28T15:53:53.000Z",
+    "summary": "GE Vernova boosts grid push with $9 billion Trench deal, lifts revenue forecast  Reuters"
+  },
+  {
+    "source": "HubSpot",
+    "title": "How often to run AEO prompt tracking: A cadence guide",
+    "link": "https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking",
+    "date": "2026-10-28T15:50:05.000Z",
+    "summary": "There’s no single right answer to how often you should run AEO prompt tracking, because the answer depends on what you’re trying to detect. But the question has two parts that people often blur together: how often data gets collected, and how often your team makes decisions from "
+  },
+  {
+    "source": "Forrester",
+    "title": "Don’t Block All The Bots. They Might Be Shopping For Your Customers.",
+    "link": "https://www.forrester.com/blogs/dont-block-all-the-bots-they-might-be-shopping-for-your-customers/",
+    "date": "2026-10-28T15:46:18.000Z",
+    "summary": "Bot and agent management is crucial for preventing attacks from unwanted bots. But in retail, blocking all agents can block shoppers too."
+  },
+  {
+    "source": "HubSpot",
+    "title": "Profound vs. Peec AI: Which is right for your team?",
+    "link": "https://blog.hubspot.com/marketing/profound-vs-peec-ai",
+    "date": "2026-10-28T15:45:04.000Z",
+    "summary": "Profound and Peec AI are two of the most frequently compared tools in the AEO category right now, and the decision isn’t so straightforward. The two platforms take different approaches to data collection, pricing, and what happens after you read a visibility score."
+  },
+  {
+    "source": "Reuters",
+    "title": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVoyUXFMZHNCb0FHRDhzSkdTOXA3c3NBWTdPZEpNc1h0RV9DSG02YWh3QXI4Y3J4TGpJczQ5TUpPRkhuVllUQ3VqcEM4VUZpdUlfRjctcE5LLTNqZlVFcGFvcnhOckZrUEhkQjRvYVJvTFFSZUdvcHFQTGZqb0RLTmhzdUtaczVBR3laYTZXclZUeml4R0l0aFYybmZmVGtNT3hQT1Flc0w5cm00UHl5TDFhT0NEaDZuaW9BbG1CWjU?oc=5",
+    "date": "2026-10-28T15:26:55.000Z",
+    "summary": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US sanctions North Korean network accused of defrauding businesses - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5",
+    "date": "2026-10-28T15:24:43.000Z",
+    "summary": "US sanctions North Korean network accused of defrauding businesses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1hhSE9qcjBnV05nbUJKNmwxbmFFUmM4MG5QdEVCaUoteHJQNVFwaXJUemg3RU5yWVMtWnh4U19tLW14Znl6dWZIUDRZdm5rcENwaUZVOEUyQlR6azA1bGRMX00ydXJ5UU1fRE14SE1nQTVxdUt5bkNDTV8tMmE0Z0JYdEtQdnBUbXhOSU9JMFpzdnltMjRjNVBFX1E3YmpIbXpPdU5OM3BvU0tkMmN2LWk3NHkzZFI4eE51eGE3Q29LekU?oc=5",
+    "date": "2026-10-28T15:22:01.000Z",
+    "summary": "US crude and distillate inventories fall, gasoline stocks rise, EIA says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",
+    "date": "2026-10-28T15:10:56.000Z",
+    "summary": "European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "GSK pipeline doubts, vaccine underperformance overshadow sales beat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1FBbGtkNGhROXJGS3lSUms5VFRZSTRDZHJWblBwLUkycjY2OGJLLUVreTc4NHhGVFNLeklQZkQxMEQ5VS1DNHlBZGxtbGJJbjlJNjBsNDZkRFJPaUFqOGJKcm9Za1YzTGgtcEtGMlF5YXE3djc1OXN6RmU3bHJUZmUxSl9ua3JDdjRqVE94eUxOckVEVUswa0pGa29qRzZTZW10YkxYSGQ1REVCN3l6VlRkNkxhSnFDTVM5ODlWdjFvQVlOTE95azBOV1c2dw?oc=5",
+    "date": "2026-10-28T15:05:43.000Z",
+    "summary": "GSK pipeline doubts, vaccine underperformance overshadow sales beat  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US goods trade deficit widens as AI-related demand pushes imports to record high - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEVzVXNPMDJtUDhvMjFwRElTcndxMmt1T0t0Mjd5NG9zTGs0TF9QdXh1LTY2YXVOdHVzbjFrSG9zNlhzaTZpUW5ka2lCUXpCUExfTjlnaVpNd0JzZ0dSWEhLSnYtUG1JQlZ0SnNWaktzVnpyTzhZOEpuTjh5N2FCeWNKOWctNDZpVm5xd1o1ZXdWcTFSeUVvaHVyRndqdw?oc=5",
+    "date": "2026-10-28T14:51:24.000Z",
+    "summary": "US goods trade deficit widens as AI-related demand pushes imports to record high  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzczN0VQaVNCellIWU1NczBXNzIyQTZIWjZLY1Z2aGFPNDN3amdLeEF5ZGxJU0MwTFBFeERGaEpnaVZnSVhwSzV3VnRyZXhqRG9UamEzUUdfd2E3TjUtZTNleFp0RHZYNDlyMEF0UXJpOHVGUXZ2WHVMZTdwbzEzVU96dVNEWWxGRm9mdHB3WkVNYXNzdGpCQm4zYXFrWDJfZlN2d1Fzak0wLVFKSFRlejZ0WWZKaVNjMmtBRjZHWGtZRjUzd0xyM1dZWQ?oc=5",
+    "date": "2026-10-28T14:18:07.000Z",
+    "summary": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Dropbox plans 9% workforce cut, technology chief to exit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalU1amdTWXlzWlhyYjl4VjduN2ViWFpKdHB4R2wtMDRXWWNkMlNkRktRcEJ3bFd2MkRiQURMd0N5Ull6dG9zaTRKMUF3VUdiNWk0bG1NTTJMbjJKOUlRSU1VWkhLTmozenlfYkloODZteVhPU1Y4UGRIcU81eno2djVPc3BXQmgzU1lKNnJudjdOYUgzbDJxN2ZqUkdEdWRNYTlBYW05UHJ2NUY0bXBZ?oc=5",
+    "date": "2026-10-28T13:39:44.000Z",
+    "summary": "Dropbox plans 9% workforce cut, technology chief to exit  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTJhV1NKSG4wRUJLZHpFdGRjTmdWM2VxWGhRQVFCa0Q2NGhKMHVEMEYtQU5jVTRpTnA5VWRXQWlRQ01rUE9MVF9FbEtLd1IxcTA2MGVvYTNfUFpnaGVwWEttRkJoUjYyLTFqZ2lrUUdJdTVqNEhqdFgyV0ZzR3JjOXFKZ0VHUUFXYzVsRnIwZGRZVG5UNHh3anhMZzRoanVUUjRySEpINGlpeXY2VC1YOFJxblVGRklIZi1ERXJB?oc=5",
+    "date": "2026-10-28T13:37:28.000Z",
+    "summary": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Survey Shows 47% of Supply Chains Reduced Headcount by an Average of 10.5% Over the Past Two Years Primarily Due to the Impact of AI - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNTg2dzh0R1pQeDRmUWpZVGZOOGpfb3FmSXprWEMtMlJUOWhRbWlLTWpYQzJxLXJKQ2dFbE5tVlFGaXZfNjlPaUVySWdaQVpBVEEtNi1ZTi1qUmwyNGsyb1N5NjFCR2RDWWdVV2RHMktsc2M5WDgxUVVDc3JFUHJ0THA0NVg3eDJORGJ1ejUxcWtPMWJYdmtkUzh0OUFWdWxCeVZvUmwtakxxUkpmTnZBd2RlSkJwcmxWaTZIbzV1RGlZS05DSEp1ZW05SnlNMTdzbXhRTU5FUVlaY3o3RFo5ejJ1YS1NMXZCX2tTRmZOZWtIeFdzX3Z5ZTlybE9yZFp1cEF4SlBkd1N6NHNoYktJb2h1bDAxdkE4YnZhOXQwR1Y2OGxzM05BY0RZRDd3OXFWMEVQTTZkZ1Fjekpj?oc=5",
+    "date": "2026-10-28T13:01:11.000Z",
+    "summary": "Gartner Survey Shows 47% of Supply Chains Reduced Headcount by an Average of 10.5% Over the Past Two Years Primarily Due to the Impact of AI  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "36 countries to compete in Eurovision 2027 as Ireland, Netherlands stay out over Israel - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWZYNkRlbEpKa0JIaTg1SDR5X1NMZHdGUmlRV1B2blhMTDlFa3E2ZWFzTzJsa3pGUGQ4aW1QV0c1d3J0WTVPbWNoOGtMbjJJUEpKTm1uWllIOW9HN0xpTEZsSG1oY0x1VmNmcG9sWWxMem9ORFotekdtczNwU0tWRGVqSnZieklnNVV3Vk9PdjltSXJvWkRtTzM0X2o0aVRnSU1HRkM1ekwxSHFJLS1uVmFRaVJSdVZETGE3SVR6ajI0R1JKaEszN1JXNkxkNENQNjZqTnRB?oc=5",
+    "date": "2026-10-28T12:58:44.000Z",
+    "summary": "36 countries to compete in Eurovision 2027 as Ireland, Netherlands stay out over Israel  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
+    "date": "2026-10-28T12:20:14.000Z",
+    "summary": "China's new export curbs draw a line around its AI crown jewels  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Predictions 2027: The Outcome Economy Hits Enterprise Software, And Reality Hits Back",
+    "link": "https://www.forrester.com/blogs/predictions-2027-the-outcome-economy-hits-enterprise-software-and-reality-hits-back/",
+    "date": "2026-10-28T12:00:50.000Z",
+    "summary": "Enterprise software no longer creates value on its own. Instead, the value comes from outcomes, and these outcomes are delivered via workflows that span business apps, data, people, and AI. In 2027, technology leaders will shift from governing applications to governing enterprise"
+  },
+  {
+    "source": "Reuters",
+    "title": "UK bank tax will be temporary and below 8%, Bloomberg reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzB2dHpna1hfcGdMSnZ4TVJTNFNkNTJpNFlEMWp3X0kySFI5cUlFQjZLNXpBbHRURUdsLTRMd0UtVl83SlI2NTdybkRRV05IZzc4XzBOX0FCSHRRZy1XMTFkVlJRQ05KUWZkeE5wdjNWWVQtNkpTenVZQVV6ZmpRMTNPTGVLXzUyMG1kdnZrVm0wamNJNFdIOUFPZDRPdVVTdFBqamlQQUdCX29F?oc=5",
+    "date": "2026-10-28T11:15:43.000Z",
+    "summary": "UK bank tax will be temporary and below 8%, Bloomberg reports  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Predictions 2027: Automation Initiatives Become More Considered",
+    "link": "https://www.forrester.com/blogs/predictions-2027-automation-initiatives-become-more-considered/",
+    "date": "2026-10-28T11:04:39.000Z",
+    "summary": "Forrester analyst Paul Miller introduces our predictions for Automation and Robotics in 2027."
+  },
+  {
+    "source": "Reuters",
+    "title": "Mercedes readies 2030 strategy update with China at its core - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3RXanRCZVNUand6bVBsaVdRS29UeGlGQ240NnhocVYyQ0pBdUdCZkhWM2F3RDhiZlIwdXNRb0tJbVpmQ1oxTy1Gel9EMFhzWU8xWXc1dnBXSzdkTjdDcjZ3YVFVSnR4TWROYXpUVlpjWEVUVWVHay1wcUhwNHgzOFNXcV8wUFZxczZXT0cwZTl2TUJ5SmlhUWQ2ZzNnMldGaVNaX2ZOUTFlajdoRkxoMkM4WWpPRmh3Wk51Y0hIZV8?oc=5",
+    "date": "2026-10-28T11:00:09.000Z",
+    "summary": "Mercedes readies 2030 strategy update with China at its core  Reuters"
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "5 ways media companies are growing audiences and revenue on YouTube",
+    "link": "https://blog.youtube/creator-and-artist-stories/media-companies-youtube-growth-strategies/",
+    "date": "2026-10-28T11:00:00.000Z",
+    "summary": "As MIPCOM 2026 took place, storied media companies and broadcasters across Europe are investing in meeting YouTube viewers where they are with high quality content. And …"
+  },
+  {
+    "source": "Reuters",
+    "title": "Logitech sheds $2 billion in market cap as margin concerns overshadow profit beat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmlLT25kalI1SlFfMkEzNC1jVVlaVHppS2laT2owejVIMUx5dm16bFoyQXZ2WTNTU2d6eHNFNTIxOGhTdDdnT0xuZE1vTVZOM1BobUhfODZxc2lRUXVKSjlJZ3d2QkRjYVlaRTlsWE5Qc2xxLXltTTMyTDk4WVhmbWNyTEtfc3lEUnd4QmJvOXRzaXZ1OWZUbFRJbUg1RV9lWDNSdTNUMklFb2dGWFlBVkh4X2NGQQ?oc=5",
+    "date": "2026-10-28T10:50:15.000Z",
+    "summary": "Logitech sheds $2 billion in market cap as margin concerns overshadow profit beat  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Unilever flags price hikes as Iran war costs stack up - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDg5bklvcnRaU19mVmpUUVZlUmZ5SHJPTWRTdG9VM09yMDd3T01VclRuMkZBaXlQWTRncUpaUWtCbzdrWklDcXEwUzlFOHRSMW9FTGExdWtpNjAtd3c3TnlYMkxlTkRPbkZyeHBTMlZxVEZoZHVHM2dZczFYOW54YWNidmVuTUFJdWE0SW5IMWNxRklWM1NJN3RyZlRvRzlKNUR2dHRZUF8yRkhPWFBDdngwWElUd25sZl9TRXVXYmZ0STZ4UUk3YnM5X2JoUFhNOVB3?oc=5",
+    "date": "2026-10-28T10:14:23.000Z",
+    "summary": "Unilever flags price hikes as Iran war costs stack up  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "Basware Unveils Governed Agentic AP Automation",
     "link": "https://www.forrester.com/blogs/basware-unveils-governed-agentic-ap-automation/",
@@ -12,6 +187,20 @@
     "link": "https://www.forrester.com/blogs/wealth-management-firms-what-do-you-do-when-client-advisors-suddenly-leave-seven-ways-to-de-risk-your-customer-relationships/",
     "date": "2026-10-28T09:34:44.000Z",
     "summary": "Advisor-led models are prone to relationship risks  Traditionally, asset management firms and insurers focus on manufacturing the [investment or insurance] product and leave the acquisition and relationship management to advisors. The industry is built on that model and the resul"
+  },
+  {
+    "source": "Reuters",
+    "title": "Adyen shares drop 12% as lower margin target overshadows revenue beat - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVo0U3FrVV9LY3A3Z29Sbk4zQ1Ixd2tmLVBTbThyQ1BDODVfam1GT1UwZ0p4ZUYzSW5tdllJU2haR3hZUVUySXJpRy1iRnQ5VklTVzZPcVc5MEJVVC02V0I5TzhUSGlBYzJSR1dHOXdfNmxnSUhMdTlJMjFGQnF4YUhHTFEzNG1DVVloZEotRWxFcVlmNEUtSWYtY1NkNVJudDNSYnpXNVZGV2FYeDN1QjZSdnlqQQ?oc=5",
+    "date": "2026-10-28T09:11:33.000Z",
+    "summary": "Adyen shares drop 12% as lower margin target overshadows revenue beat  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Adani Enterprises' quarterly profit gets copper business lift - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHlrZ3F2T0dCTUhEZVVvd1N4VW83Z2p3UzMyQjZyMEZWYldpeDJORWZEWFdhbldSZVhBRGM5eXFNMXZJdGhRQmJrNERoc1NjZktBdHpFVHJvSEpwRjFsVFhsNFR4NjhFWk9qbnd1dzFSVWpGbnYyZjZ5elNfOTFHVDRNT3N6LWFfVm90UHI3WkFoY3hzRGRYSTd0UmdMN2lZVjE1b3lPQXhrYkZZ?oc=5",
+    "date": "2026-10-28T09:07:44.000Z",
+    "summary": "Adani Enterprises' quarterly profit gets copper business lift  Reuters"
   },
   {
     "source": "Forrester",
@@ -29,6 +218,34 @@
   },
   {
     "source": "Reuters",
+    "title": "Santander's Q3 profit jump overshadowed by Brazil weakness - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0t3SXhjTnlsSllScE9YNmJ4V2J3bzBRSVg5QmYxcmtQYktZSjdIcloydEhxekVHb3hpbzlPRFZnVVB3YktwMllHbzc0Q3ZYUFdzTnBmTnc3Q0JOUWZLUFRRdWlyaWdhbEIwV2p3ekFrTGF5NW5ISVExb29CdTJGMS1RSnpETk9hekZJc2tmSm5jcE95M2czeDMySUx5SUUyUlZCZlFBck8xdXdpemEyb3lBZktuTkJv?oc=5",
+    "date": "2026-10-28T06:38:00.000Z",
+    "summary": "Santander's Q3 profit jump overshadowed by Brazil weakness  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "BASF will not overpay for Evonik, CEO says after another outlook hike - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdTc5SWowR05HNjN5eXJXTjJuY1FObnE2d0dBa012cUQtV3BUZ09MZDhoQ1VzcDhjRnpfVnJRS3U1emw2Tnk1LUZuNUY4MC14YWRwek5fY3ktai1wemZaeWlQR3Z0Y0hjek1jWmxPZjdGeURpSkZoVlNvVGZwcV9NTGJDN2xaRldTMVdSczFEdUxidFpkWWtra01sMTBEc3VkdmdFQWJrdS1GUTBLU3J0Y25B?oc=5",
+    "date": "2026-10-28T06:22:00.000Z",
+    "summary": "BASF will not overpay for Evonik, CEO says after another outlook hike  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Indian gasoline demand to peak by 2035, says top refiner Indian Oil - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYm9nM3QwdmlEdUFjY25uYkVpZGE0VXhseXJKaFl2b091SFliNVE4UWV3ZWM0U3pTTjRaUkNNbWxldGJBb1dnU0JEbm1MX0dtOFBoZXgwM3Rvd0VPdk82VGVPNV8xSkw5Uy1sdGthYmhXNmJ6UGRKQjYtN3liaFdEN184Ukw2RU9jUG92RlFZNXBmUFVDUjFKV3RYc1RBajdyS0dLZnRLdmMyWERFdFZLbnRRVXAwUQ?oc=5",
+    "date": "2026-10-28T06:16:00.000Z",
+    "summary": "Indian gasoline demand to peak by 2035, says top refiner Indian Oil  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Deutsche Bank profit tops forecast despite investment bank revenue drop - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEpXV3Z4SlN4OGV6WUo0ei14cVczYV9QdnR4VmpIazlEaWp2cXh5THNwZEpnUFhEMTNuSW9ORmNuZF9WcjBnWEZ5VUZHU1dSd2ppREc2UDhDT2pTcDR1S3RMSURVZ1gzM0tLMnFHMXdyN3V4aENpTkZyeVdlMTkxVkF1Mzkta2NPb1BFOGNPNjZYeXFhV0p4WXM1WGtHT19nNUE?oc=5",
+    "date": "2026-10-28T06:14:00.000Z",
+    "summary": "Deutsche Bank profit tops forecast despite investment bank revenue drop  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2xiX2ZOcHo0YjA5WXVRU3RtRm5XNC12eUFIWFFreGQwdHZzc3piV2ttU3lELUtWa21qTVNjT2ItenEweFRpOTg1a1N4VHJ5a1JBdmplTGRtV3lGQlNYeWJZU1hNUDVJS2RONnNDOTVyRmVlVXVRZmt3Uy1xcUx3SmhYXzBXNHduTTkybWhIRGtDUWVDM0hySGNSRnJnTDctOFFSTVN1YlRDZTVm?oc=5",
     "date": "2026-10-28T06:03:00.000Z",
@@ -40,6 +257,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjk0NlQ2cUJXcWhhTmVRdlNZempYM2RZM0pYTnAxRzVEMWVvazFGV0RoUmMwQWN0TEx2R2dXbS14SGxLRG4xVGJIbUFyOXd0Z2xXdHlaU0tEaUtPVkltU25RZUl3WWJPbmE1eG1MX1hKZkdXN0dldG9PWDFGMHNQdlloWmJud2RkRktYY1ZXNWpPanVHNlp1QThpQnprcGZIbnhEdQ?oc=5",
     "date": "2026-10-28T05:49:00.000Z",
     "summary": "Equinor profit doubles on soaring oil and gas prices, sees higher output  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "BNP Paribas beats Q3 profit forecasts, unveils €1.3 billion share buyback - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXFKR19sY3JWTTh6V0E2Z0tYNXVPdHNLRldWTFFmbk1rSG4xMEJKb1lCbTdlT3pla1FUckNPYWY4bm1tN3BYUFhqUlZmUE5tQkgxOGVNU2lLLTU4OTN2MGJ2ZlNwWTdoOXhnVEJ4cEhfMUVHOXhtWUtHdjQxci1jYzNNUHVaV09sVDJLcUJQRldJcFdkQWFoLUlvUjJ4eGMzVGxfUmt5dllsNE4wNjU0SHpZZkdnQnRPMW81c1Z2Yw?oc=5",
+    "date": "2026-10-28T05:46:00.000Z",
+    "summary": "BNP Paribas beats Q3 profit forecasts, unveils €1.3 billion share buyback  Reuters"
   },
   {
     "source": "Reuters",
@@ -96,6 +320,27 @@
     "link": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
     "date": "2026-10-28T00:00:03.000Z",
     "summary": "Today we’re announcing Muse is now available in Singapore. \nThe post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Rewiring securities services for a new era of competition and growth",
+    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth",
+    "date": "2026-10-28T00:00:00.000Z",
+    "summary": "Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services industry. How can leaders capture the next horizon of growth?"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Agentic AI in strategic sourcing: Hype or hero?",
+    "link": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
+    "date": "2026-10-28T00:00:00.000Z",
+    "summary": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is increasingly: Is it worth it?"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
+    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
+    "date": "2026-10-28T00:00:00.000Z",
+    "summary": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and evolving, with early evidence showing companies are not yet equipped to meet the rising demand."
   },
   {
     "source": "Reuters",
@@ -159,6 +404,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
     "date": "2026-10-27T20:49:21.000Z",
     "summary": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Eli Lilly international business chief Jonsson to retire; Yuffa to head global markets unit - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLTJvOFlSaG5qWm90bHY0Z05hcUVLanlFQ2R4bnZ0M081VEk4MGNEVFlSemp0UjJva2FERHV3RngtMlJiaUtWSWtrNldPNjFYUXd6dzgtOGlhTHZaNGhBSk1JaGV3eFdac05PeWxpSnBYNlI4RS1yN2xaakloSmZtcHdpeFlvNFRoTWRDRXp6azl4NmpSeVIzVl9KRHBjTWpQejI5ZzlUMDh1Rjk4V2NsVUUzN2t6YUFNNDFiRDhjNm85R3dGcHlES2hRN2ZQOVhoU2xqeGRmV3FGZk02dEZxc0xYaF9DQQ?oc=5",
+    "date": "2026-10-27T20:47:41.000Z",
+    "summary": "Eli Lilly international business chief Jonsson to retire; Yuffa to head global markets unit  Reuters"
   },
   {
     "source": "Gartner",
@@ -239,10 +491,24 @@
   },
   {
     "source": "Reuters",
+    "title": "EXCLUSIVE: GM to offer hybrid SUVs in strategic pivot from electric - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJFVWVjR3Y2ekp3X2hVSGVuOHplSWZiT296X3c0QnlWV2NQd1BfTjRqOFJNbGhLWk00cEJ2MERfUlJfQndsU2FFcGh6dTZTcFh0bUpWdlpaeUJUZ0VJMWRreFZ1YURfQndSc3Y2SkxsTklkNXNlNE9tanpjSVRZZWtWN290aTFIcXh5STh6RGs?oc=5",
+    "date": "2026-10-27T18:53:32.000Z",
+    "summary": "EXCLUSIVE: GM to offer hybrid SUVs in strategic pivot from electric  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Food and household brands warn of more price hikes as Iran war costs bite - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRiWWdvUGZ0dTBiY2t4aWlWZlNWSlVlYUV4VXR6c25vRFJ0QUJ2NEJ6WTJTSW93cWFhb2xDYURhY2gydkQyRHhvMEFJYkh0S1JjVTVOLWlTbEVOQW83UUZZam5TTnBtV1ZoS2NaV3REUXF6andpWUZfcXpwdzRMQjJmZkxkdUs0eDVFSF94TjN5Tl9INFZ1WVFiUm8wSzBvbHlEQVJJT25TMlBWRVZneE01NGl6ekNHVGhYb2ZqNTRHdw?oc=5",
     "date": "2026-10-27T18:29:43.000Z",
     "summary": "Food and household brands warn of more price hikes as Iran war costs bite  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "S&P pushes Thames Water ratings deeper into junk territory on debt restructuring plans - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUWh0bFdZanZDYkpZaVJfcGxSdzdYUTVVeERJQnF0VndqdnMzTm15R0FzT292cDhFMlZnd19fUHFFNDgyWEcxQ3V0QVRXQmp0bnYxTW54TmhZcHlxdHZMY0w4QXdTMUJrSldLUXA5ZUFyXzVfRVRvYTNCckx6ZkcySDZiZEx5NkdQMG5VZ2V4bFB3ZFJPZEViYmJOc0c3YmtKdHd1NlFGNFpuMkpYQ3FWZnFPWnY2RjU3Nm9HczJ3?oc=5",
+    "date": "2026-10-27T17:58:23.000Z",
+    "summary": "S&P pushes Thames Water ratings deeper into junk territory on debt restructuring plans  Reuters"
   },
   {
     "source": "HubSpot",
@@ -379,6 +645,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Big Tech earnings to test AI boom amid market turmoil - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXF6SzRzQjFlSVJ4Wjk2OEdySTRrS0F3eWlZcXQtRDdXN3hYZ1Z1YmVqbUJzbURWRW9zZHBEcmd3QWNxRGp4QWZuX0VfT1dQNVBJNDNMaXVYSDFHY3NTb2ZvNlJfdjZuUmluNERuS3FIeF92cV9uWVFyQ29zU29ybEFHRU92SDR3ODZvWXpvQU5NZ3dfZGFQcy1iQVhudw?oc=5",
+    "date": "2026-10-27T15:26:13.000Z",
+    "summary": "Big Tech earnings to test AI boom amid market turmoil  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "World to add less clean energy capacity this year, renewables agency chief says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV01DdmUtSFViX0RVSWlQX2o2OFBfM0gzRml3SU5GVWVCeU10bElSWXowNlFyZmhRekRRYkpSWVBDZDRPUHRSR3Z3S2d5MVZ6MGNYdUp3NHVDSlJDczhySGN1V3g4LVZmX3oxQjhfSXVwNGtMZXRHOE5OYjg0VXNua0w2WGhETnprNjFWcE93LWNxbkR0VnhYYk1GWW5sQjAzWGxxQjFSLUJLX0QwRHp3Z2lrSzVWcUdmRUZoTVo0TmdnZTBsNFE?oc=5",
     "date": "2026-10-27T15:26:05.000Z",
@@ -421,6 +694,13 @@
   },
   {
     "source": "Reuters",
+    "title": "PayPal CEO touts turnaround progress as annual profit forecast rises - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWw1WXExaHRRdW0xNk5WUENBWXRnNUg3ajZvVElQYnZPR0c3dHRPUkw0X2hMcFlpWVRfSF94OXU1YjZXMDdMOW5vWEVWUDVIbDNHNmJyYS1CRHBxVzQ4TWJadnNCRXJfN3Q0X2JjdElYRDRWbjlQSDdRMmxfYkZMZnUxemUyeVBNRTg5REZPQnh0TnNiTl90Y2dmdmltVmNUUmVCRkkyUUw?oc=5",
+    "date": "2026-10-27T13:57:13.000Z",
+    "summary": "PayPal CEO touts turnaround progress as annual profit forecast rises  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Protesters enter Serbian pro-Vucic TV station, call for arrest of editor - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGhvQU1uZDNPdUtuYmVudkVUbzY0dTJSTHRkRWxpb1A0VU8wUi1yNVJnQW5RT2V1NjFDV3FsZVdzSTF1N1FKRnc2MUdMWWpCSERvR2ZPdDhidXhTWjUxZ3h6SVJ3OTlLLUJoazE0UVh0ajk4OURHZ2hrMUNxYXMzV1lhSFZZd1NzSE9vQUhfY29oc2J2aHh3SWt6NC0wLUdGMzg4R3dkdzlMMVlVakotekMwYVFrYW9nWGNnQmRQR2w?oc=5",
     "date": "2026-10-27T13:45:02.000Z",
@@ -456,6 +736,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Ancient armored bottom-feeder is first seagoing amphibian - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5",
+    "date": "2026-10-27T13:11:43.000Z",
+    "summary": "Ancient armored bottom-feeder is first seagoing amphibian  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Turkey may make acquisitions, sign deals for further hydrocarbon exploration by year-end, minister says - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2hKVkNvYlhna28wU1ZEaXEzcEJnVHRTbHFac21FQ0pmZE5QWE4tS2g2bWVldDlqT3JqVm41NmFnUXZVREhXNFdiSC1HUmJkWTVscC1OcDVRNEZCbXpmT0p0cVBpaGNFNV9ydkZkalFSNnVibWNRRi0wLXBMbEFSQ0NJMnoyOFF3SWNZYnM5NG9LTFgzTjVlblF1dkl5Y1lJdjQyZU00X3VGZTd4T1d5Z1ZnbDM4aGR4VmZoTzRYWWJUcV9pQl9PajhqMA?oc=5",
     "date": "2026-10-27T13:07:15.000Z",
@@ -488,6 +775,13 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2k1X2VESkZvTlg5OHFkMlE1OFA5ZFRsWTNCcTlCTUpBWTNPQWlXYmVySjhuamNuYWVSWE9manY2Y2hHV2YzbnZDdG15dnJnUXFpaWJzSlUyLW1teUNlWUR2dWJFSjkyQkRRRnItbllZZ3luSDd6VFU5ajRkclE3amdnWTc3eXFYLUlZemxWakVlaHI5ZWN4VFl6MzNRVG1QVlAxTXg3bUlWVU5zSVJqcU9mRQ?oc=5",
     "date": "2026-10-27T12:49:57.000Z",
     "summary": "Dutch regulator blocks takeover of Unilever's Unox brand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "In China, the AI bubble has already burst - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+    "date": "2026-10-27T12:37:58.000Z",
+    "summary": "In China, the AI bubble has already burst  Reuters"
   },
   {
     "source": "Reuters",
