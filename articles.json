@@ -1,5 +1,131 @@
 [
   {
+    "source": "Forrester",
+    "title": "PHP2Shell And The IT Visibility Crisis: Do You Know What You Have?",
+    "link": "https://www.forrester.com/blogs/php2shell-and-the-it-visibility-crisis-do-you-know-what-you-have/",
+    "date": "2026-10-29T19:35:16.000Z",
+    "summary": "Co-authors: Carlos Casanova, Biswajeet Mahapatra, Jeff Pollard, Eric Nost IT Visibility Is No Longer A “Nice To Have” The PHP2Shell security event is rapidly becoming a board-level conversation. Two critical PHP vulnerabilities allow unauthenticated remote code execution, and sec"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall Street slides as Alphabet revenue miss revives AI capex jitters - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+    "date": "2026-10-29T18:49:14.000Z",
+    "summary": "Wall Street slides as Alphabet revenue miss revives AI capex jitters  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "GM to pay $220 million to settle allegations it violated drivers' privacy - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlA1NGgtNnVlNzd6SHFDckpSQzFkdTNWcDBKRU1DNlNab29WVklQSTB6YWlFV3pTRlZQdWt0R19XdnJQb2VSaXlOT1dQdE9DUXJkbG1GQ2t0LWlNMWQ2M0oyOWdWZk13bmZMX28xRm1WRUMtclFvaVJfZ0FIWGtZWEFhMi1Ebms4SmNBZy1fNWE1dTlaYjZoNndEQkdxQ3JGMjVpWFJLeXJpZWxaQTI1V0FuXzdkcE0zNmN4d1plNW93ZXZfaW1BYlhPQWZydw?oc=5",
+    "date": "2026-10-29T18:02:29.000Z",
+    "summary": "GM to pay $220 million to settle allegations it violated drivers' privacy  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Anthropic’s Founders’ Letter Has The Right Ideals, But Reality Will Decide",
+    "link": "https://www.forrester.com/blogs/anthropics-founders-letter-has-the-right-ideals-but-reality-will-decide/",
+    "date": "2026-10-29T17:58:09.000Z",
+    "summary": "Here we go. Anthropic filed its S-1 on October 26, the formal start of its IPO. The financials will get the headlines, but read the founders’ letter at the beginning of the S-1. It describes how AI should be brought into the world as if from the AI company you would design from s"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall Street's AI bet: Own the infrastructure, collect the rent - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0FMRUdJbXh1dzBNXzZKRG1aUC1scGpiM2RhVi1rUVZSOEhLTzNIV2pGY1lPRjdaT25sYVlEZW9Wa1B0bFpBaDRQRFNLdHFUQmRsVERzbnAxUHZpYUYzS09DZHJxRmdKVF9aTTY3T1U0SFg5Z1c2Y2czaG9MN0VZSTRhMEVOSWxSTm5zSWZPZ2NzUHE2SkJkWktiWVRBWE9FR0RSbl9HOA?oc=5",
+    "date": "2026-10-29T17:05:43.000Z",
+    "summary": "Wall Street's AI bet: Own the infrastructure, collect the rent  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+    "link": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+    "date": "2026-10-29T17:00:55.000Z",
+    "summary": "Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteintes de cécité au Canada à réaliser leurs rê ves, afin de permettre à davantage de personnes aveugles, sourdes et aveugles "
+  },
+  {
+    "source": "Forrester",
+    "title": "Break Out Of The Vulnerability Matrix At Forrester’s Security & Risk Forum 2026",
+    "link": "https://www.forrester.com/blogs/break-out-of-the-vulnerability-matrix-at-forresters-security-risk-forum-2026/",
+    "date": "2026-10-29T17:00:45.000Z",
+    "summary": "Security teams are hearing two competing stories. In one, AI completely rewrites the rules of vulnerability discovery, exploitation, and remediation. In the other, AI simply adds speed and scale to problems that security programs already understand. The reality lies somewhere in "
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+    "link": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+    "date": "2026-10-29T17:00:36.000Z",
+    "summary": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ottawa takes stake in Cohere as AI company opens $4.5 billion funding round - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGNfQVUyVmlObW9LNWZfU09nUFBaUGFoS2pmNWJfM2lpdWdlRm4zRmJxeWtPXzk1Zmk5ZzlELWdvbGttdTNfMC03bFJ4ZGpfY3pGTzU5TXMzOWZ2V05UN2t6bGswdFE5dThJMDctaWRiLU5IU245Q04zN2RWb2d5UTd5RHlGVlJ5ampjaE1fUXlpenQ0ZksxMW03MGpocEZmQThtbG5falE4RmxOaEs4RUlB?oc=5",
+    "date": "2026-10-29T16:23:00.000Z",
+    "summary": "Ottawa takes stake in Cohere as AI company opens $4.5 billion funding round  Reuters"
+  },
+  {
+    "source": "Bain",
+    "title": "Want to Lead in Consumer Products? Adapt to Retailing’s New Reality - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGlkVVFYOEhpdlRQUjNHUU15M0d5YnRWYm1PcHVqZlF4RHBIRFd4OUliUTg1VHROZTlXUUZPZWF0bHVucUxlcXdSLU5sQ0NzOEVacGRRSzhTTWJFUjNpVl9PV3BwUUE5Q2s3eGc1cjhsYTV1MGVwRHYweVhwbnZrNmFieWU1MThRTW9yWVBIdmpUNFlKc1JQaHNYYm0?oc=5",
+    "date": "2026-10-29T16:18:45.000Z",
+    "summary": "Want to Lead in Consumer Products? Adapt to Retailing’s New Reality  Bain & Company"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Consultant, Medicaid Claims Quality Assurance, Analytics and Insights - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkhSYUUxS1MxMkNnVDk5ZXFxRmg3akI0WUlVeWFPeVZtYWNoSjc0SWhIRFoxOF92MXhSakNidVYyQVpUTEY0TXRUd01yTUIyRGtrQU53WkdVbkNKUy11amdWd25sWmFMZ1VZb2xPalJ3eVlYMHdfQy1FSkpMUEtyMEtFdEFSUzBSNmhnaDJNMVZkMGl0UUUzdDRIYlBMZ2N6QkJFam1Bd1RiN21iLURMOFlnUWthNXllMDN2QkY2MFplMTg?oc=5",
+    "date": "2026-10-29T15:54:27.000Z",
+    "summary": "Check out this job at Deloitte, Consultant, Medicaid Claims Quality Assurance, Analytics and Insights  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Carlyle Group to sell its Romanian Black Sea offshore natural gas producer - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHM4VnVPbGdBamY1WXk0YnhXYXFSbzZGS1N6cmhuWXFOaW5FY2JjZkZEbzM4al8yeXZpVkF2MDA0VXRfakROVnA1b0wxSjd6eDVfU1JJR0NUbG9uQngzb2dXd1FwTEtYa3BQOUk0UENhUjhadXU2Rll2ZnFSbU5FcFRyQnd1ei1JcjJtcTNRZjlsVUVFUXFBRGpac28wQmMzWTJ3SkZmTWh2VWpPZEJ1QXVER09ycDNUTzVwRkQ1N1h4dw?oc=5",
+    "date": "2026-10-29T15:52:00.000Z",
+    "summary": "Carlyle Group to sell its Romanian Black Sea offshore natural gas producer  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Hershey warns rising living costs may spook Halloween shoppers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1FzbjBSNFpTSlBUTmJ0YzA3U3JZVi1zNGFiUnRVMGgxSVhUQWVzM2dLazgySkZXdEg4TV9GWndobTF6UTdHM2VxNnhGbERKWlF4UEFadmxOSk0wMnVGRm1zcFA3ajg2bWdDV0hzT1RlbXAzMjlRdzhibnVQclZKcVRXMTVRbUJRVm5vd2tqMzctbThjRlp3QlRYMk54dnBPYllyQ0RrMHlBOFBpeDVYRlJWNU9qU1hmSkQ2Ynl3MHlDQjdOYVptcDA0SW9wRnFV?oc=5",
+    "date": "2026-10-29T15:31:02.000Z",
+    "summary": "Hershey warns rising living costs may spook Halloween shoppers  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "How AI assurance builds trust with SOC, attestation and certification - EY",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2pWQ0gtZWQ1dEVlNGRwTUtCMUFsdEo5aVZYbFJPZG90YzhJVV9vRVdNOTZPVzBTeVV1bV8xMi02RzJ4di1TNGkxVVN0MmN0WWJTTGU3MFRkUHkxUmNwNFVacDIwOGRtX19icmY2Z2NQT3kxbnlESHRXdmZfaG4xeDNvOGpzTnhIRWlkbktlR001M3hZTHRBRXBoYw?oc=5",
+    "date": "2026-10-29T15:18:52.000Z",
+    "summary": "How AI assurance builds trust with SOC, attestation and certification  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "LBMA members back tokenised gold but seek legal certainty and safeguards - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGsySVpZX2g0a0R0ZndGOUhvdWQyVzRpY1pUMC1YUHRfa3V0aG80MGRId2U1TWN6bDZJdEV2QXpnYWhJX0VVVWZtTzRNaFdWT29UWVN5OEc1eFN6LWtqZkluVU9rd1htQkZGWG14VW1VUlB5RGFhWmIyRnNJUVdOVHBUcXNKdFUxWC1oeTZGcFhrYnpULTI4VXFaUGlOcVY0XzFzVFRvV2ZFYjNDM2c?oc=5",
+    "date": "2026-10-29T14:49:43.000Z",
+    "summary": "LBMA members back tokenised gold but seek legal certainty and safeguards  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's IndiGo says fare increases inevitable as fuel costs rise - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW9YTjRKVjI5dEZyZ1FtYTFWMDVUbnJOeEFKTnRHUU5TR2Rwc1Z5UUJtVE93eWg1S0xScERkN3U3Nk9OWWs4UW1WWjRnTVRQWTRIX2xDdk0teFY3bVJIS1lFN2JwT1FWcGhCdkI2aGV2NWhzcGdLbGJRdW83WmV2eUYwSDFINWJCOFVNV0VPWkFndEVYS1E0enFWR2VGQkdqWDE0aGY5ZGpVeWtEcFE?oc=5",
+    "date": "2026-10-29T14:43:30.000Z",
+    "summary": "India's IndiGo says fare increases inevitable as fuel costs rise  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGhRN204Yk1ya0hnbnBjX0E3NWxtUmRpWEJBcngyT09MSFZDZWxIU2VldDdlVWw3Nk9TM2FpRVl6YmlMM2VXS1plMXFrQk04dlk5SUh5dGQ1X1FGRGZvcTBFakE4NmtwUFdOdllkM0pJcmFTQ0E4S1hlUEZRbTZCX2E1WGZCdU1lejN5Y3VFR1R1eXdTZDRqSVozS0RwOWxYVi05XzZmSmhlRW1Vd01NcjFSUlFlYjd0SXpNZ1cxaGVfZzE2eDRjRUxpckg0dw?oc=5",
+    "date": "2026-10-29T14:35:59.000Z",
+    "summary": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Charlie Smith - EY-Parthenon Global Geostrategy Insights Senior Analyst | EY - Global - EY",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RbU0wSWJmbWRGYzhVWVNMSlVrN3h5dzMweFJacWtpbV9aTGFWY094UUJnQ293ZEJVQkg5Yzdrc0doLXdmTmtHTnZCN1l2ZE5DSy1pT0ZKRkI?oc=5",
+    "date": "2026-10-29T14:13:07.000Z",
+    "summary": "Charlie Smith - EY-Parthenon Global Geostrategy Insights Senior Analyst | EY - Global  EY"
+  },
+  {
     "source": "Reuters",
     "title": "Caterpillar tops quarterly profit view, but unchanged growth target dents shares - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS21ocmJBakxUZmFUVWdxWExLS0gtcmNiVDFGb24zbTBUa25wd1I3MVBrOVVzNm9jSFFFVktiaTRXay1yOEhsWWd5ZlBhRU9EQVNJZlhtRVVySzVoNUZqajZ0MnNLeF9sZ1N3QTY2MEZHeUlKaUJnUlR4NkQ4ODh5Nmx0MWxiYm54aWphcXhpcTNTMVl3TUw3TFpQeGltQU5iRy1sLXVvME5fQQ?oc=5",
@@ -64,10 +190,31 @@
   },
   {
     "source": "Reuters",
+    "title": "EXCLUSIVE: Haleon CEO warns staff of 'difficult choices' ahead after sales miss, memo says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUEFJa3dlMldGaUhGZFFrYTNQMjBDYWgyVlpCbEhSTlpEMmpNTF9wRE1mWHZVZC1iX3ZaVkhBQVFMM1pmYnpiaXdRZkcyOFAtSkxUQzdubWZTZ3hnNmUybEZ4ZDJwckZLUEpMWXpVM2pCUFVZMllZcjk3RWdHOFFZVnhWVTlKd1lCOXJxQXVLUUYxVzAwYW55VUpfejQzWGxfNDVHS2pGSlFKTldEX2cyM3ZzYy1mQjNTWEQwN3lLNTdIRUhwaVdvRnlka3JvT29KaC1EaVo2UVlZVC1JWXc?oc=5",
+    "date": "2026-10-29T10:48:31.000Z",
+    "summary": "EXCLUSIVE: Haleon CEO warns staff of 'difficult choices' ahead after sales miss, memo says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India says trade deal with US will not hurt its farmers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEhZNUhpdlVpMDVtUklNQVJyMktBMXR5QnhHN2d1TW54c0JOeVlFRjdmMmR2TlhuNEdjUzV4UGNvOHJVd3FPNDF6NE9Da3l4Q3dHdmlkRkxLTFotXzY0MDdWcFlBXzhRMFhtbU5MRDY0V25PSzNaUUJuZi1qU0JzWWdDdFBEUVZycmd4eUVmNlVrQzFBMDhGZVhvN2ZaVFBVeWNyb3ZB?oc=5",
+    "date": "2026-10-29T09:44:14.000Z",
+    "summary": "India says trade deal with US will not hurt its farmers  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "National Grid to extend life of UK-France power link to 2050 - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGF3bzZxS0lyNF9fdjJhX19UNWF6SE5KNjIycTdfd1RRUkFJYnJ0QXVVUTNGVENNOHlCcnotZm9fSFZnVXctSDBGclN0NFFiNTMzMnRIRE5Bbk5aWk5ZMkRUb3l1RHVIUHB0Ym1ianVNNHdKNWxEY25jTm1RbkhYU29kU3NQZ25ucGdNYnR1UTk4UGxfRy1GY0J4QjJnQmw3ODVEQ3l3?oc=5",
     "date": "2026-10-29T09:01:44.000Z",
     "summary": "National Grid to extend life of UK-France power link to 2050  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Destinus' monthly output tops Europe's pre-war annual cruise missile production - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTENYVFdnSUZIT0JQeUFlUHA4R0hldnV2aGlscjhOblppeVdka2VmdDFHcTNhYWp5MWhKM1BnMmNNYnRib2djRVNzU1BzenhsbzhpMWItQUtjaFVMRFYycTE0dFQwdE51b0tacGc0ajdiTnBHU3BwMU5WbTVKcEFPaDJJNFpLXzVFeHAyYUJpNzVHQUkwbDI2QzFNV2o0XzFOdWd5UFF3ak45OWYyZnhVTzRFblhwa09QWThKR3p0Y2diRFYwaDFnYldBaG52djZjekpXbkZDUQ?oc=5",
+    "date": "2026-10-29T08:16:11.000Z",
+    "summary": "Destinus' monthly output tops Europe's pre-war annual cruise missile production  Reuters"
   },
   {
     "source": "EY",
@@ -75,6 +222,20 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXpHaTRPM0VocEZXQm5xNUVBYXUxbWFmUmNIYXhKMDdydDE0LV9hcXJhaEI4T0xuTTFDWjJ3VGszUXN6dF9uWFZ2MVZ6VGdEdTFqWmxINkd2bmQ5bWxUWkpNZ1hBQ0ZNVmJUQ296V1FOcktiakpIclpNU0FVbkFFUG0tQm9LQjFUZ2lMQ19WZndHeUJoNWhtb2VIVlp5S1hhOGxxeWZXc3Rya0diSEEyUEdfbnp2TFRM?oc=5",
     "date": "2026-10-29T07:51:29.000Z",
     "summary": "Associate Analyst - Data Analytics - Risk Management Services Job Details  EY Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Commodity trader Traxys expands global presence amid critical mineral rush - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2VVS0J4ekdhdE1uS0VqN01XUkxvSF9FUEJLb210ZUh0SHBLVENOM29YRXV3OTN5LTNxcDZYdWpubDFKS3lvX3RHSmVubkM1dG9TZm5CS3d3clY3eF9Uclp3Xy0zRnFra3dHOTNfU0drZUVvLXNuM0NPOHk3Q29iUUtnY3dqRFFaRnJIU19qYkEtVndIR2lZRXROWE54SXROY1FtZ0x2ZHRZb1ZkaFdORDlVb25MX2NiblZmZlFoVUw?oc=5",
+    "date": "2026-10-29T07:05:43.000Z",
+    "summary": "Commodity trader Traxys expands global presence amid critical mineral rush  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Technip Energies beats Q3 core profit forecasts as project delivery unit rebounds - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmZ6ZE82djdxd1gyaElCeFpQSGdfY18tRVMzb1VJdHlKNVR6Wl90MmF3c0JFamNPQk1tUG1McHB5bHduMndFNUNYYmNuSGw0Q2ZUZ0U0bVJVY1hjVjNhM1dqTW9hV2d5aGwzVllhWmc4UjNUekpFbDJyLXp0ZlFWc1lUU1RSbHBRMGpCcThCaGFtUC1xVml3d2hFZlhCTnN5dnFzOENlOFVNUEFZbWRYQ0NlSWJMNG5Ic1pCU1hPWWl2N1R6RE00VldB?oc=5",
+    "date": "2026-10-29T06:59:00.000Z",
+    "summary": "Technip Energies beats Q3 core profit forecasts as project delivery unit rebounds  Reuters"
   },
   {
     "source": "BCG",
@@ -120,6 +281,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Japan's industry ministry, Siemens Energy to partner on floating offshore wind project - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX28wbEl4U09DYlQ3Q05hTTV6UUF3eWtER2FmdWVIMGNEQ3dOaVRRSW9peVVmODJNclNlUXFLb09ZaWJlRlZ1bWZhM05PUENyNnRrdUxBaVRIcWxMUkJkY1N6RUZmTktkMl9SZHI0YUFld0dqYjRmbHVIV2tONmZmYUF3MV9lRlRIRTRBLWFEUnFFRG5uazdBVkt0YVN0eUMweFhWUEJNUUgwWUpZckdMQmdOS0ZOOF8wc3EyV09GcFc0N2I1eW5Ia0Z3?oc=5",
+    "date": "2026-10-29T03:09:00.000Z",
+    "summary": "Japan's industry ministry, Siemens Energy to partner on floating offshore wind project  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Vietnam sets 65% state ownership floor for major banks, to retain control of strategic groups - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk0xQnpMT0V4RFZ2aWJ0VGlzeWpmMXpGT1ZQT3BReV81UkxFWEFncVNxYzd1VkZqZTJmc3BWOXdDeWNBV0ZubWdJeDRKRUpuQ2VPMFZFbXdZU2ZzajhGNUFfVS1GeURQdUpDN1NFYm1lNEtPQXhoMDQzN3RpN1h2TjNlTVNZclp4MjJsQjVIRWJaMFBHbW0wWldKUno1ZXQ5TnZ4emVTVFdyQQ?oc=5",
     "date": "2026-10-29T02:52:00.000Z",
@@ -131,6 +299,13 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
     "date": "2026-10-29T02:31:00.000Z",
     "summary": "Cash is king as investors draw new battle lines in AI spending boom  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Equities and bond yields dip with AI jitters and economic data in focus - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ?oc=5",
+    "date": "2026-10-29T02:28:00.000Z",
+    "summary": "Equities and bond yields dip with AI jitters and economic data in focus  Reuters"
   },
   {
     "source": "Reuters",
@@ -215,6 +390,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVJURVpLZzk0c2pSSUM0bjlBM0w5NEdoTkttTjI3bFotOTVISWVCbE9NSjg4TjZ6dWVralBndC1uM1FUeGVlVTY4Z0RFelZvYnc2XzkwaExRWGRMWWJ6QzBUWFc2UW4wb0kyR3hDRTNieTY1dy1hSHZ2bGxfTHo2Y3FrVlNpT3F5WGR2dWljYlM2VlVGVXpORUN0bTVtYXE0dmVKMnIyX0dJRkRsSk4xUGhnUU9uU2hHd2MycGtTTEN4MDFSRFEzWGpuVGZ6el9IMjJlbk9MNEk5Zw?oc=5",
     "date": "2026-10-28T23:01:24.000Z",
     "summary": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Canadian competition watchdog warns Air Canada-United deal could raise airfares - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjFlSlI1cUY2d3RpZmpNaGc5cWdkTFN6OUpsTFJRaXdYWDRKczFUWERnb05SRzB4UTk4OGRrRW5ZZm95WmtyY3pQWWZJY043QjFJM09CTHk1UGJxLXJhcXNuZFJGT3RUOWV4dmdWVUx4U2VoT0dqcExQVUxWOUg3QWdZdjhCSW5uTWxJanUtaVdhMDdmVEdvM1JVbk05VURIaUhxME1keVdUSmtNMEJMWnpLQWljZjdidVNGMmZ2Y04?oc=5",
+    "date": "2026-10-28T21:49:27.000Z",
+    "summary": "Canadian competition watchdog warns Air Canada-United deal could raise airfares  Reuters"
   },
   {
     "source": "Deloitte",
@@ -427,6 +609,13 @@
     "summary": "Britain to extend upcoming carbon border tax to include refined products, documents show  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "CVC, Cinven, Puig eye luxury fragrance maker Parfums de Marly, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE5kWEszTDcwTnVjc0UyR0k4bFoxRlBtQjkyejV5Wnh2MFc4clVrRkNjeklXT2dqdkZyd0dBaVhqLXY5YmRTbnIzY2VXRklEZWFKYXRuZEM4b0J4Tng2a3B5YU43V1UzeE1YT2hWYVd5X3BnQ08xQVVkdVltTVBkVDhKREM5Z0ZoT3dWSGFnYUhqZUFoVUJQWE03OWt2Qnc0dWZiUm1Ib2ktR19wdmJPVXVFUmN3c2dNLWNjRnhMdHlxczNQWG45cHAyMnc?oc=5",
+    "date": "2026-10-28T16:05:17.000Z",
+    "summary": "CVC, Cinven, Puig eye luxury fragrance maker Parfums de Marly, sources say  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "Claude marketing plugins worth adding to your stack in 2026",
     "link": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
@@ -488,6 +677,13 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5",
     "date": "2026-10-28T15:24:43.000Z",
     "summary": "US sanctions North Korean network accused of defrauding businesses  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "British markets take Healey's first budget in their stride - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFdWWEJaRi1WZDQ2dGJoOUd0dHdEdkIyQ2gwQ1QwTWpMdVZtWVdRVGt5azVkQnQ3WHRxN0E0enNtTmZrZ0VBbWZKZkx0aGpEa3ZHV2xRVmdTd2RQYUN6ZC15ZEgzR1R1cFZuN1hzQ0c2a3dsWFctQTU2ZGlCWGR1anpPTmNZc1k2QWMxZGJmMXdlQWxBcy1Ec0phSUpCXzVkUTJGUVdjQkZPems?oc=5",
+    "date": "2026-10-28T15:24:30.000Z",
+    "summary": "British markets take Healey's first budget in their stride  Reuters"
   },
   {
     "source": "Reuters",
@@ -582,6 +778,13 @@
   },
   {
     "source": "Reuters",
+    "title": "India seeks $220 billion clean energy push to meet 2030 target - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3Nwc1FkYnkteTd6TFFCOFNGRlZoWlNyeW9QQ1M5d1JZZlkwY0NvRDlrUXlEY0F2bDh3MnpCVUlIOVoydlF6ZVRBajhETXFvLXVMV3g2TGFoazZJQXlrdnBsNWhYMHZZLU9UazVoa0VkMGlqeWw0UTluNFJHd1FrTFF6ZUR2Y1dtYUpZbmNBWVhUSWo2RTJzWVBFVng0VUMzcmlLVWhTNlNvXy1SdDdJ?oc=5",
+    "date": "2026-10-28T12:49:44.000Z",
+    "summary": "India seeks $220 billion clean energy push to meet 2030 target  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Indian e-commerce player Meesho's quarterly loss shrinks on rising orders - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMExLVTU4MmRnZmVqdFQ4YW5GMVBLOFRtZmUwTnF3WGU3Z05WRndOcFB2STR2RG5YYVllWnh4MzlVY3RBTGlZRjFFMVFuSDJiV19ZNHRPQjRVTGFmOFhvTXp1UHJhc05mRnI4X3lCdllITlc4NnkzNE1iNkRicWIxc2JHTzAtTDNRQU11MjNyUkt0UUx0WWQydXlSS1dOQ0Q2ZmM0VWYwUnV0UEJGMUlTZFY4eWgtUGMy?oc=5",
     "date": "2026-10-28T12:48:24.000Z",
@@ -614,6 +817,13 @@
     "link": "https://www.forrester.com/blogs/predictions-2027-the-outcome-economy-hits-enterprise-software-and-reality-hits-back/",
     "date": "2026-10-28T12:00:50.000Z",
     "summary": "Enterprise software no longer creates value on its own. Instead, the value comes from outcomes, and these outcomes are delivered via workflows that span business apps, data, people, and AI. In 2027, technology leaders will shift from governing applications to governing enterprise"
+  },
+  {
+    "source": "Edelman",
+    "title": "UK Autumn Budget 2026 – Breathing space today but tough choices deferred - Edelman",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmtpQ3Q2VDc3MDRGR0FZVGNWam85RFBmOS13bWZDZkNXUWJma1hLT3VTb0lnNTJGVFU0RUloM0lXOUl5WF9KcWdkdUJUUU5GQUdkRnNOVW1FdFFYbUNSbFFfc3pySm9ydmZlUnI3ZU1kdWRhc01tOWxpN3huSE1PSUZCYVREM1BkQ2FqRDF2V1k1ekpLN3JjSHJfV2oyRGdrZ0E?oc=5",
+    "date": "2026-10-28T12:00:00.000Z",
+    "summary": "UK Autumn Budget 2026 – Breathing space today but tough choices deferred  Edelman"
   },
   {
     "source": "Deloitte",
@@ -754,6 +964,13 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2NSMlpDSUlVX01lX1hOSWNrTzJwNHhPY0ZtcXJWUnEwd0RTS05GRnE1VDl5SEFONzlFNkVXNjBaZ1pBSVg2M09yd0xVMWdpTDVxNWM5alI1M2ZVdFNmZzl3QW9idzFOa3FXZXc3d04zc3FEM2FkdS14dDRJTmx3MDdqMUNvckZnV25YMGtRdjRkR085b2tuOFg1SjQtQ2FKMkV4Q2kzMDY?oc=5",
     "date": "2026-10-28T07:15:26.000Z",
     "summary": "German consumer sentiment slips on inflation fears, survey shows  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ambani's heir Akash steps into the spotlight as India's Jio goes public - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVCNndla0F4Qmw4U3owWXBLRHR0NzFKb3prTVhoNFBWVE9hMlVMeGhJd3R6ampBbTlfOGpoamRpS2xyYy12bkh5bm9nMmQyV09sT0tGR1V1RUNZNnZzb2xzSGNoX0JWMkc4RlNfYk1Dcjd6bFBVRDFDeHNZNVNiOFJyNVMtZVNlVWRsNXlqOWpXbEJrT1c2UjEzRnVHenFIZ3BPV1huWFBZcmNJRURJ?oc=5",
+    "date": "2026-10-28T06:59:00.000Z",
+    "summary": "Ambani's heir Akash steps into the spotlight as India's Jio goes public  Reuters"
   },
   {
     "source": "EY",
@@ -1545,6 +1762,13 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU5lTjItazhkMENWeGlZWkl5SEdxZzdjYlE2V3g1S0FnMHpXeGVnWFBWaXJBcWRtR1E4VXFGQk5Zd29iVkRXd2hLYU1reWJ2LXRpY3pMd3BLWUtyeGl1RV9jNEJyMnpiZThPV3NyUV9tVjRDSDBRNDM1ODJtRF9iR1NnNTItbGh2WldydnpUdXUtc3g4TUV1MktudXVrc0VwTS1TQW5uZXZSRmc?oc=5",
     "date": "2026-10-27T08:36:46.000Z",
     "summary": "French consumer confidence hits a 2013 low in October amid protests  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Sr Executive Partner - CIO Advisory - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUdoSndGYWY2RUdNQ2U5OEVsdWllTFFJSm5Uck9nRl9LVkY4dmZFRVhQR3p6Yno5SF9ja1hPQWFxeW1tbEJqSG5KYUgwc3dGRFNOd2ZIZkpDM2pFUjh6VUJwbUV3SUhqbXp1bGRFLXFxM3FiaVd6eUlvNHptQzBPTw?oc=5",
+    "date": "2026-10-27T08:32:57.000Z",
+    "summary": "Sr Executive Partner - CIO Advisory  Gartner Careers"
   },
   {
     "source": "Reuters",
