@@ -1,5 +1,54 @@
 [
   {
+    "source": "Reuters",
+    "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
+    "date": "2026-10-29T23:13:03.000Z",
+    "summary": "Amazon sinks as AI spending eclipses fastest cloud growth in five years  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Couchbase Converges The Agent Data Stack Around Operational Data",
+    "link": "https://www.forrester.com/blogs/couchbase-converges-the-agent-data-stack-around-operational-data/",
+    "date": "2026-10-29T22:47:42.000Z",
+    "summary": "AI agents executing complex workflows may need to combine operational and analytical data, persistent memory, semantic retrieval, and access to tools within a single reasoning loop. Together, these services make up the agent data stack. When teams build that stack from separate s"
+  },
+  {
+    "source": "Reuters",
+    "title": "Polymarket resumes trading after third-party security breach, to reimburse users - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGFDU255RTFLTGhHMmlndVlJb1gyUVdsYmJxcUpaalJoRVp0OEpROVcyQ0xQRlRiN1haY0UyTUlLb1JlUF92NF8tWVlfVmxmVWJmN2p4Q2ZfNHhCSy1ta2EwMi1KZUJ0eE1zVExPck44OVFJRnFuSmV2VjUtdGUzQVVGR1VPVDFTbUF4UzlwTHFIN0xYbXh5dUpqcjZuNlNMdGNV?oc=5",
+    "date": "2026-10-29T22:26:32.000Z",
+    "summary": "Polymarket resumes trading after third-party security breach, to reimburse users  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US loans 40 million barrels of oil from SPR, in last share of global agreement - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVRyeXU5bDNSZGF1bUtLNFZ0eGQ3UF9PZm9IYzNBbEppa2s1VFBNVlV6bzJWN0JKSEtvVi00R0xsNHJPOEpZMHYyYWVuYlAzallScHBDWEVSZHRZX3BBczU3S19rMmJ4SlR5eUtkUG5jcXRHQjBYYmVsdzNpM1loU1hRSjdqTGtwWGVCTWlpV0hpbWpXRlUwNTNUZUJCNGxZU2VaeEtHR1lvRC1sWnd2dHc0TmVHdw?oc=5",
+    "date": "2026-10-29T21:13:44.000Z",
+    "summary": "US loans 40 million barrels of oil from SPR, in last share of global agreement  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Weak quarter for Intel sends shivers through cooling chip stocks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U?oc=5",
+    "date": "2026-10-29T21:10:54.000Z",
+    "summary": "Weak quarter for Intel sends shivers through cooling chip stocks  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Data Wins The Media Agency Cola Wars",
+    "link": "https://www.forrester.com/blogs/data-wins-the-media-agency-cola-wars/",
+    "date": "2026-10-29T20:21:28.000Z",
+    "summary": "WPP and Omnicom’s recent success with the Coca-Cola Company’s global and North American media assignments can be summed up in one word: data. In fact, Coca-Cola and PepsiCo’s recent media agency reviews reveal how two competing data strategies are reshaping the global media agenc"
+  },
+  {
+    "source": "Forrester",
+    "title": "Loyalty Service Providers Elevate Customer Loyalty To An Enterprise Capability",
+    "link": "https://www.forrester.com/blogs/loyalty-service-providers-elevate-customer-loyalty-to-an-enterprise-capability/",
+    "date": "2026-10-29T20:03:01.000Z",
+    "summary": "A rapidly evolving technology landscape changes how consumers discover brands, evaluate choices, and make decisions. This shift exposes a weakness in many loyalty strategies that rely on points and discounts alone to sustain customer relationships. Traditional loyalty programs st"
+  },
+  {
     "source": "Forrester",
     "title": "PHP2Shell And The IT Visibility Crisis: Do You Know What You Have?",
     "link": "https://www.forrester.com/blogs/php2shell-and-the-it-visibility-crisis-do-you-know-what-you-have/",
@@ -12,6 +61,20 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
     "date": "2026-10-29T18:49:14.000Z",
     "summary": "Wall Street slides as Alphabet revenue miss revives AI capex jitters  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "OpenAI says human intent at center of updated AI model guidelines - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVJkSkh4RzdFdms2Y0ZpUGFVN0NReFlhbzJYZFlZTHlwZVRMenpJSXVwOW5vNzF2NW5FZldUQ3d4V003Yi13ZWtub0hIanAzdkVBcU5sMmgzSHcwZFg4X1ZnbDlxWjM5WkV4YUdDRGVfdXNvX0JHSkF6UThZdWNkcFRyUEwxQmlrMHFaRDcySTZRZTYzbU95QTJHeXJvUE1XOWluMV9ndw?oc=5",
+    "date": "2026-10-29T18:47:43.000Z",
+    "summary": "OpenAI says human intent at center of updated AI model guidelines  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Family challenge to Delfin governance tests stability of Italy's Del Vecchio empire - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUE5WN0V6Z3hESGtSRkRLNmhpR0xvUi1kWFdOSEdTQm05RXZCT1psU2h3MWI5RllkYko3VXJObTk5YmNLU0xwcW9HUGZNSGY3cHRyTDhDZ1l6S1haN0R6bWZiMWdPRTBJbmhsOVVUNEtibkNlM0QzampXbGR4QXdLYnVxOG05d2RrXzVYRTB6bW56a0tDRnFoV1hLaVdWOEJiVTdUTUlzYUQwdzJvSVFjTllHTVB1MVZ2dnF4LW0yVC1EMXBPRmRNTg?oc=5",
+    "date": "2026-10-29T18:04:21.000Z",
+    "summary": "Family challenge to Delfin governance tests stability of Italy's Del Vecchio empire  Reuters"
   },
   {
     "source": "Reuters",
@@ -54,6 +117,20 @@
     "link": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
     "date": "2026-10-29T17:00:36.000Z",
     "summary": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision"
+  },
+  {
+    "source": "Reuters",
+    "title": "Perrigo to sell infant formula business to MeridianMade for up to $175 million - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUxxNmJyZG5rOGE0amJzUXVFTmdSM29sTWtjalZCM253Y1dmb29OWnBNMFNOWTFXYWQ4Uk5ObTRpWVFQUEhmdElwMGt3bW9YU2RQUjRiMnVyZmRuQ1hKckFCSUVNNnluR1h6ckpCdXlsTUVHYzlWeGVfQjFvRmRISFVyMFFvRUhJNkREXzlWUzdIUFFxUS1pdE1oWjk2TUtxX1RPT2tNaWZNb3pETU9tcGlMQ2dnajhyUmlJeg?oc=5",
+    "date": "2026-10-29T16:31:25.000Z",
+    "summary": "Perrigo to sell infant formula business to MeridianMade for up to $175 million  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Europe Inc heads for second-best earnings season since 2022 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHN5RlpkMThjUU5Rd0FRLXJRNEtteHQ3ODBGeE5tOEFFTWhwVmY5Y0Q5N0VtbDBYWU1wLWhYSUs0NHZJazBfUmlkNURTcDlmVHI5UU1uVkRxclEzQk1uWWxXNkswRGhwTHhjczVESE5kQnhkSjkwV0RTenpnaDJsVWNoWlFadnZyeUZpUHE5eFo0TjFILVNROERib18tQXpYdWc?oc=5",
+    "date": "2026-10-29T16:24:25.000Z",
+    "summary": "Europe Inc heads for second-best earnings season since 2022  Reuters"
   },
   {
     "source": "Reuters",
@@ -119,6 +196,13 @@
     "summary": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Bristol Myers raises 2026 revenue forecast, lowers EPS due to charge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMUsxVWJHRFV1Rmt3WHBDRTRMc3Z5YXk5ZElTTTBEbF9xZUR3VXJyWTV5OXF0aG1kZEkzVnhuTWppTWN0ejVNdk90b3ZienYzQXNqc0xOWWFLS1hXQkswdDR3REVyWE15RXhoYmNSUWxhOVREaXdINTlXczdZSWdGamhRVGF4Z2gtYlVRY0ZVYmFhYTdfb0JKZnQzUnJBWWJlbk9wdzZTaXoyeE95UktWUl9IZ0hYV2RYcGtpTXV1d25FbUlZOWlSTjNhVzBDU1p3b2c?oc=5",
+    "date": "2026-10-29T14:33:09.000Z",
+    "summary": "Bristol Myers raises 2026 revenue forecast, lowers EPS due to charge  Reuters"
+  },
+  {
     "source": "EY",
     "title": "Charlie Smith - EY-Parthenon Global Geostrategy Insights Senior Analyst | EY - Global - EY",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RbU0wSWJmbWRGYzhVWVNMSlVrN3h5dzMweFJacWtpbV9aTGFWY094UUJnQ293ZEJVQkg5Yzdrc0doLXdmTmtHTnZCN1l2ZE5DSy1pT0ZKRkI?oc=5",
@@ -134,10 +218,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Coal India misses profit view as costs rise amid strong demand - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkF3M0wzWlMzVGYzY2pVOUFmcjBaSmh3WXcycWtiT3gtM2FPSmxqbkpvSlc4SldmdTNHeGdSRVN2RDQ2RnRadmtRbXdKeXN0VXBaWXR1QXdiRExsR24wRm5LSG5DNEVUQWdELU5BVXFKZE9BczVBYjQxckJSR2h2UUVBWjhGRW1qQWJqdjhJV0FXeF9wRlcydl9Xa0dfVTdLUC14a3BlVnVhdGZXdElHbQ?oc=5",
+    "date": "2026-10-29T13:29:45.000Z",
+    "summary": "Coal India misses profit view as costs rise amid strong demand  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "US inflation heats up in September; consumer spending rises - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc?oc=5",
     "date": "2026-10-29T13:15:50.000Z",
     "summary": "US inflation heats up in September; consumer spending rises  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "French retailers brace for bleak Christmas as protests darken festive mood - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXBtdnVJVVJSeTI4VHRPSG54WXRxc0NQM01BUElLZU03M0lWcmxaS0dTNlZySXY4UjJyRW1qZHNZVmhOcFphajFrd0hfR0I0VnRJR2F2OGVJc2NNZWRFdGdYbGE0eVY0dkZIZUR3eEdzWVlLNkFWWVdMbF9kQkg4SHU2UXY5QXB0WklOTVI2WkI5N2F1bVB0M01yUV9xSEdKLVZyV1l5VHRtYVM1d1pxLTNNeGtrWWV0SW0tUjRVZDItaHJxTmRN?oc=5",
+    "date": "2026-10-29T12:56:11.000Z",
+    "summary": "French retailers brace for bleak Christmas as protests darken festive mood  Reuters"
   },
   {
     "source": "Forrester",
@@ -176,6 +274,13 @@
   },
   {
     "source": "Reuters",
+    "title": "German industry groups urge Berlin to join defence bank initiative - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTNReDJjU3BabUhsX2J4YjBvQ1d4X2xSUmNJMGxpMElENWhzMDB1aXZrSzF3Z1E5S3M4dHBsVmJvTDlyZ2x0LUp5Q1llTGdiRDZWY2x5aU5XMHRzc0J3dV9CbnpWSW1takRDMUYzOGRpamhRaWFlbGNnTG1nYkNUNFNaS0ttbEp5QzhQNTJhUFhXUFZyM3BnRFh5QWp1c1p1SlRySklrX2U2WXZ3UnlKWE40UDQzVGM?oc=5",
+    "date": "2026-10-29T11:11:27.000Z",
+    "summary": "German industry groups urge Berlin to join defence bank initiative  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZ0Z0EwQnVmbEVqREZsVFd6SkNsMmNXbGhNbnhQN3dDYTE2WTNhUzQ3UHVFeVh3MlBRaUY0WktsNkgzSWM2Q1drU0gwUDExbWVpM2NXOU9KUzR1c1Nhby1mSlYtZTVqUnI2UTNGNDB2ZHlYQXVzUy1BTEV1RjBGclBjWWZ2eTB5RGdKd1pHSnJwYXFhOFF2bHhZUjVzZnVyZzdsdlEzbEEwZGwxRG5jT1ZjRGZFa2haaWc?oc=5",
     "date": "2026-10-29T11:10:26.000Z",
@@ -208,6 +313,13 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGF3bzZxS0lyNF9fdjJhX19UNWF6SE5KNjIycTdfd1RRUkFJYnJ0QXVVUTNGVENNOHlCcnotZm9fSFZnVXctSDBGclN0NFFiNTMzMnRIRE5Bbk5aWk5ZMkRUb3l1RHVIUHB0Ym1ianVNNHdKNWxEY25jTm1RbkhYU29kU3NQZ25ucGdNYnR1UTk4UGxfRy1GY0J4QjJnQmw3ODVEQ3l3?oc=5",
     "date": "2026-10-29T09:01:44.000Z",
     "summary": "National Grid to extend life of UK-France power link to 2050  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Taiwan semiconductor industry group backs government review of nuclear power restart - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVUpZN2hCNjRnOE1DYXh5V3hkSzdZRjJqUHloN2lrOHB5UE05Q3dvOXBlNVIxUk1PWHFPcWxUblUwQVFfdjl4U1kwY0pWb3NBN1lrSVlGZ25tX0NabTA5UXRIc0JQYXplUUdrQTV6RUo2SWhpR3NhSkV4S3FGU1ZrZ0NEaDY5LTFQTUpqRTdPVTM5UUQxV3o4YzA4RmhEdi04QXpJZnhybjYyeW5vRnIyV1BSYlhlU0hKT3paU3F1S1hfeVk?oc=5",
+    "date": "2026-10-29T08:27:47.000Z",
+    "summary": "Taiwan semiconductor industry group backs government review of nuclear power restart  Reuters"
   },
   {
     "source": "Reuters",
@@ -362,6 +474,13 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
     "date": "2026-10-28T23:33:51.000Z",
     "summary": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Warsh says US economy not running too hot - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkEyTjdocVJTajR1TGpGWW5sbVdtZEpKZ2QzLVRCWWxQZkpyQmM5c0tBMEFkd1dtTXgyb1JJWGhSdFFfS2tWNWJLYmpvemw0ODBhYi1CSUVZLUZIc1ExU3ZLQXNkMmlXSHNTVnk1bUlKMEdCeENkSDZwRE9UVDJ1WHJNUzFlLUFWVzNJbXQ0VUt6ZC1hWkE?oc=5",
+    "date": "2026-10-28T23:33:11.000Z",
+    "summary": "Fed's Warsh says US economy not running too hot  Reuters"
   },
   {
     "source": "Reuters",
@@ -701,6 +820,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Geron discontinues late-stage trial of blood cancer drug, shares plunge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelpUVXNNNEVvVWN4eFozdG1rV1ZJZGNHX2t3U3d1M1JuWHlBQlZ1c08yaHdpNnFuVDFfcFh6SklQanE1V3NjUllfLTR5LWR1bVZ3ZkpDSVlHOFRxdFk4aVV6OS1jNzJxX0VZNm83T3hpREU1UHhtakQ3YWJrTXRDNU03RExPZkt1ZnJ1U3BMRk5XdEpTSXFUbDRmWWdDWFRKUHdfRk9zVWF4UDhJMTFDRkdrM1FKNmIxOXlRdTdWUEdWVVU?oc=5",
+    "date": "2026-10-28T15:08:49.000Z",
+    "summary": "Geron discontinues late-stage trial of blood cancer drug, shares plunge  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "GSK pipeline doubts, vaccine underperformance overshadow sales beat - Reuters",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1FBbGtkNGhROXJGS3lSUms5VFRZSTRDZHJWblBwLUkycjY2OGJLLUVreTc4NHhGVFNLeklQZkQxMEQ5VS1DNHlBZGxtbGJJbjlJNjBsNDZkRFJPaUFqOGJKcm9Za1YzTGgtcEtGMlF5YXE3djc1OXN6RmU3bHJUZmUxSl9ua3JDdjRqVE94eUxOckVEVUswa0pGa29qRzZTZW10YkxYSGQ1REVCN3l6VlRkNkxhSnFDTVM5ODlWdjFvQVlOTE95azBOV1c2dw?oc=5",
     "date": "2026-10-28T15:05:43.000Z",
@@ -862,6 +988,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Phillips 66 posts record quarterly profit on refining strength - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFlWNWowWHgxSWhPRVdoRGpud1VHdVdJUGVSMkhVQ0F2RTJZb09lVHNPVjhwdWl6VGU4NVJjUjdNR2pERHV1ci1ickdBVzdIbmlBbVdLWHlRQW85TjMwQzVrcXFRYmc5TG52Skl1YzUtMHg0THVoWVp0bUxpSFZZc01PeTdJM3pmaDZXaWM1Wm1jNEx1RmFtOWdFdTRVRk1FVVQ5bGZteS1fdEkxclFaM1BoZGJDZVQxVmc?oc=5",
+    "date": "2026-10-28T11:02:00.000Z",
+    "summary": "Phillips 66 posts record quarterly profit on refining strength  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5",
     "date": "2026-10-28T11:01:26.000Z",
@@ -908,6 +1041,13 @@
     "link": "https://www.forrester.com/blogs/basware-unveils-governed-agentic-ap-automation/",
     "date": "2026-10-28T09:50:35.000Z",
     "summary": "At Basware’s VIP customer event in Dublin last week, the company set out an ambitious direction for invoice lifecycle management. Its roadmap brings together agentic AI, invoice data, payment fraud prevention, and e-invoicing compliance. The strategy reflects how the AP automatio"
+  },
+  {
+    "source": "Reuters",
+    "title": "Norway wealth fund's ethic watchdog chief threatens to resign - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0FUdHZxdmVjSTJkbTlkQnZCTUlXcGpLWmlxbTVmMXVZa2Q4czZJbTFQQUhVNDNGbkZjem9NY283Vlh4SWx2SEVfSndSQ3d1cy1qbHg5aklzQmdScWdBVk9JZDRPUUIwR0dJMFNoR2VWM01rSF9YUVVySFc3bHhLdFl0QUZIb3EyMlZtX2dzUkVGak5vVlhDb19wTlJmbEJ6TnhBNEdoa3RieWFGMGIw?oc=5",
+    "date": "2026-10-28T09:42:09.000Z",
+    "summary": "Norway wealth fund's ethic watchdog chief threatens to resign  Reuters"
   },
   {
     "source": "Forrester",
