@@ -1,10 +1,311 @@
 [
   {
+    "source": "Forrester",
+    "title": "Predictions 2027: Cloud’s AI Race Gets Messier",
+    "link": "https://www.forrester.com/blogs/predictions-2027-clouds-ai-race-gets-messier/",
+    "date": "2026-11-02T16:17:54.000Z",
+    "summary": "AI is reshaping the cloud market as providers face intensifying global competition, industry consolidation, and growing infrastructure constraints. In 2027, cloud leaders will need to balance rapid innovation with portability, resilience, and cost discipline."
+  },
+  {
+    "source": "Reuters",
+    "title": "Estee Lauder cuts promotions as luxury fragrances help lift outlook - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbmZJd2JrWjJua2JQc3F6Mnd3VWlMNmgySGtwRTN6N1hoeXIwYWdJXzNweENWSUVfc2J2SndsRThHYVZaeklXYlBIN0xISWs3UGtGRHVXeElhbXpzcEhPUGx6Z1puTndTQVZDRTZadmZmeS1GMFVERXpmMFR4REdhUjZRY3BqRDc4WWpoVmhNdWdYcHBYdGxtblJrcnR1Q0xmRUN6cXpSVmdfVXZNYXlwMUNTc3Y5bHQ4dll2S044UFhyZnNJNW5CRi1vdl9senA0?oc=5",
+    "date": "2026-11-02T15:56:58.000Z",
+    "summary": "Estee Lauder cuts promotions as luxury fragrances help lift outlook  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "UK to make some migrants wait 10 years to settle, eases rules for carers - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlDMjA3R2E1a0lESG95YlBSVWYxTFJOWnQtajNkQ3otV2dmTEFUd3AzWFlreFpjd0hfY0NZVGhDQ0Z3ZDhUUThtTjlOZWktY3BJUHFMb3Ytcy1QUXNVOWt4NjJoMlBoemtjWDVyQkxWaXZTRVFpX1pCZ3EweFdoYUUyTlhzWHlVX2M2Rkt4VUs2RGpKclo3WTByRm94RWpucjBpbQ?oc=5",
+    "date": "2026-11-02T15:48:30.000Z",
+    "summary": "UK to make some migrants wait 10 years to settle, eases rules for carers  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "New cyberattack on supermarket fridges sweeps across Europe - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+    "date": "2026-11-02T15:36:02.000Z",
+    "summary": "New cyberattack on supermarket fridges sweeps across Europe  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "AI Agents Aren’t Waiting For Data Security",
+    "link": "https://www.forrester.com/blogs/ai-agents-arent-waiting-for-data-security/",
+    "date": "2026-11-02T15:32:43.000Z",
+    "summary": "AI agents retrieve information, interpret it, create new content, interact with systems, and act on a user’s behalf. That changes the data security conversation. For years, security leaders have worked to understand where sensitive data lives, who can access it, and how to preven"
+  },
+  {
+    "source": "Forrester",
+    "title": "Meet The AI Chief Digital Officer: Chief Value Orchestrator",
+    "link": "https://www.forrester.com/blogs/meet-the-ai-chief-digital-officer-chief-value-orchestrator/",
+    "date": "2026-11-02T15:29:49.000Z",
+    "summary": "If the first chapter of the AI era was about proving the technology works, then the second was about understanding and managing its risks. The third (emerging) era will be won by leaders who know where AI belongs, where humans matter most, and how to orchestrate both into measura"
+  },
+  {
+    "source": "Bain",
+    "title": "Four Proven Ways to Create Value—Any Value—from a Corporate Spin-Off - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGZFdnJBdnFqVFFUbGpNcDN4TnpCckNLMU93anlGdGlMV09aTGZaRG4tQzYzSlFMLXhpV2JicU95TlJPdjd5TkF1QU1VOGlrVGRWWEV1LTZoSkFOakhPeUQyckd2TG5NOTlySGEzdGJiNUdUMjFVR0VINGV4ZmdUazlYdWFXYnJsWXVPb0lLeDdSeXU1N3duZjVDYk9zRmZU?oc=5",
+    "date": "2026-11-02T15:22:30.000Z",
+    "summary": "Four Proven Ways to Create Value—Any Value—from a Corporate Spin-Off  Bain & Company"
+  },
+  {
+    "source": "Reuters",
+    "title": "Court extends actor Imran Khan's stay in India after he apologises for protesting, LiveLaw reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0NnbzRSS1kzYS1BeEo5VWpGcnRHZUpHRzBTcG12YXFnRE1JQURtM0ZXa3R3dUdRdDBCNDVIc0FpMzBnZ0NqeFRtUmtHeWtFVV9DQVdOaG9GbDZ3eEIwWlEzY0FuU0lVOUItVjB3V0NuVTRJQnE0NkNZOW42NHhJR0NIcTdrQVZRZVJhNG1xSFg3WVhHUktqckl4RWxIc1BDX0hISHE5ajh2RFQ1UE1CQkRFamdHX2tEUzNOTGpTSmFtTUtRRVEtS1pZS1g?oc=5",
+    "date": "2026-11-02T15:22:07.000Z",
+    "summary": "Court extends actor Imran Khan's stay in India after he apologises for protesting, LiveLaw reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Novartis heart drug failure leaves doctors seeking evidence for genetic cholesterol target - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORklJSEw2b2RtMkNSZS1JbWpJNEhiUTIwTzlqbmVzclg2Um5vWkc3MDl0N2hBclhYSWVnTlJmQjZLdGkyaUxMTGVDTkNiR2NqM1pUYndMQ0s0ZVdyYWdsRDBoMU5KczJjQ1oxRnlHb0h0VzF5WGE5QzE2U25TbW92bXI4cmVMMmlGT2NkLURGUEtHZW4yM053VGlZbWJpcTc5MlhtaFdmRGJmNFNJVjh3cTlFYXpLTlFEZEVaOE9la2hWenNnVHp6dWl5ckU5RWY5YkcycGZtc29seTJlVGJzTTJ3bTVNdw?oc=5",
+    "date": "2026-11-02T15:17:04.000Z",
+    "summary": "Novartis heart drug failure leaves doctors seeking evidence for genetic cholesterol target  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+    "date": "2026-11-02T15:15:49.000Z",
+    "summary": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Stop Choosing Between Running And Transforming The Business",
+    "link": "https://www.forrester.com/blogs/stop-choosing-between-running-and-transforming-the-business/",
+    "date": "2026-11-02T15:00:23.000Z",
+    "summary": "Organizations don’t have to choose between running today’s business and transforming it for tomorrow. The real challenge is designing an operating model that enables both. Learn why clear ownership, decision rights, standardization, and planning are becoming essential to scaling "
+  },
+  {
+    "source": "Reuters",
+    "title": "ECB flags AI valuations, bond stress and fund losses as main risks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFo1RlFvWjFHY3hBbjNJMlEzZzlFX216eWVoc3JCa0toeU9OUUt6WHlmSFFxRnBQSGowUU1iQmZVZEpvblV2RkRONlNYWlJYZUc5SFdxWnlja1hSSFU2cGhIdEEtX1FMdldmTVJzWl9KNGRPN1pBekFSSmVqNE1mcVptV2cxNG91YmVpS1hqR1doM2RBZXhiU08zSjJYSnZuWUNqNmF0emFzSU5jT2lodg?oc=5",
+    "date": "2026-11-02T14:56:08.000Z",
+    "summary": "ECB flags AI valuations, bond stress and fund losses as main risks  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02 Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOEZ3MUkxNEJTUnVWZFYwSzY2dFAzRFdaWGc4V1NUbFI2bVUxUVg0UUk5aUN6WkI2Z1B1ajdvTFplbVgxaUlxMUIwUHBCcU5ka3RvYkdOakpMQkk4SndoTWZPbUlmUjh6YkxIV1JVd2FBMmZnZWNHUDNSWXhMY0Q4dWp0T2FhTlNSU2NrRDducFVlajJFaFRDQzFKS0RXMjRfOGtZQUZSbC15RVFSRHR3NTJTWWF3Zw?oc=5",
+    "date": "2026-11-02T14:41:03.000Z",
+    "summary": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02 Job Details  EY Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Survey Finds Two New AI-Related Risks Emerge in Third-Quarter 2026 Report - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlhTdERjd25Ub2ZUME4zSVZQQTcwa05mWllfenQzdmM4Smk0dm1jLWVaS3lHVk5oWXE5c1otWFA0MWRJZXFkZEkzcnJCSUZnNVdwbENyNUZYMHpPNU5QU1NxUk1ycW1QOEp3bWtWcXdCSHdfd3Vza25GVGtVT0pGdWRBXzl6WE1EN05ESnp3VXd3dDBzdEsxdk0yTkd2SWdKdV9ZSWcwN2xuR2JHSm9MeFZPNThydnplRFA0ZmtuSQ?oc=5",
+    "date": "2026-11-02T14:34:32.000Z",
+    "summary": "Gartner Survey Finds Two New AI-Related Risks Emerge in Third-Quarter 2026 Report  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5",
+    "date": "2026-11-02T14:25:44.000Z",
+    "summary": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+    "date": "2026-11-02T14:13:43.000Z",
+    "summary": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Finacle Conclave 2026: Composing The AI-Native Bank",
+    "link": "https://www.forrester.com/blogs/finacle-conclave-2026-composing-the-ai-native-bank/",
+    "date": "2026-11-02T13:55:18.000Z",
+    "summary": "Learn key lessons from Finacle Conclave 2026 on building an AI-native bank through composability, modernization, and process redesign."
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "7 Best Motion Graphics Agencies for Brands",
+    "link": "https://influencermarketinghub.com/motion-graphics-agencies/",
+    "date": "2026-11-02T13:15:09.000Z",
+    "summary": "Influencer Marketing Hub\n7 Best Motion Graphics Agencies for Brands\n\n7 Best Motion Graphics Agencies for Brands\nKalin Anastasov"
+  },
+  {
+    "source": "Reuters",
+    "title": "US voters in a sour economic mood heading into midterm elections - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
+    "date": "2026-11-02T13:08:09.000Z",
+    "summary": "US voters in a sour economic mood heading into midterm elections  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Investors gaming out Congress control for spending, AI outlook - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+    "date": "2026-11-02T13:02:12.000Z",
+    "summary": "Investors gaming out Congress control for spending, AI outlook  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "“It Wasn’t Me” Is Not An AI Risk Management Strategy",
+    "link": "https://www.forrester.com/blogs/it-wasnt-me-is-not-an-ai-risk-management-strategy/",
+    "date": "2026-11-02T13:00:26.000Z",
+    "summary": "I never expected Shaggy to show up in a law firm’s analysis of AI risk, yet here we are. Shaggy’s memorable defense was “it wasn’t me.” Meta is giving it a contractual upgrade: It was our technology, but it’s your responsibility. The update to Meta’s commercial terms puts broad r"
+  },
+  {
+    "source": "EY",
+    "title": "The next frontier of AI: Building autonomous enterprises - EY",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkpHSElBRFRNZ2lzcVFFaTVsQmYwdll1bU9IM09YRVczdkFVOVRHWE1EamxaWldtc2ZzdmtYcHV2M0pXRWJWZE1nT1VkclJoOUZja1h2UkRWYXJaR0hicjRqeUVQM3AwVXZndndNc2gyczNzaXI1MWt0dFMwLVZZUTMwQzNzYjI1dnMxSy1Fbm8zV2N0dnNV?oc=5",
+    "date": "2026-11-02T12:48:00.000Z",
+    "summary": "The next frontier of AI: Building autonomous enterprises  EY"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Everyone’s Scaling Micro-Creators for Q4. Here’s the Part Most Brands Are Skipping.",
+    "link": "https://influencermarketinghub.com/scaling-micro-creators-for-q4-the-part-brands-skipping/",
+    "date": "2026-11-02T11:47:54.000Z",
+    "summary": "Influencer Marketing Hub\nEveryone’s Scaling Micro-Creators for Q4. Here’s the Part Most Brands Are Skipping.\n\nEveryone’s Scaling Micro-Creators for Q4. Here’s the Part Most Brands Are Skipping.\nNadica Naceva"
+  },
+  {
+    "source": "EY",
+    "title": "Risk Consulting - Actuarial - P and C - Staff Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzBrYlZEay1jRldHY3ZPaXJJaXhjZko1bERiNmhFeVZjSDZKNXhZYnltVVVZaENYRDNEVmdJUHhOenp0OEVEYTB6cFltNE9GN3VfaXRCVkdWUlBpMC1UeG1jVUY2aDRWdUtodV95bGVpOTY4UUhuX0U3aDdQSWFyY0ZxVzljN3dNTnpXLWRQY2IyVjlBU0pUUUlabElQT0ZVOUlN?oc=5",
+    "date": "2026-11-02T11:40:17.000Z",
+    "summary": "Risk Consulting - Actuarial - P and C - Staff Job Details  EY Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5XcHI5ZDVTSTViS05jTG9pTGdTV2UxVUpuZkpLeF9Bc29MSWVza3VXeTQtNEc4VmtpMG02dWduN2dqUXFLT2N6WTZSd2g5S1VXVGY4TDB5dVpkSGZMYUttRm50U040WXJ0emt1dTZkTEFjQnI1YTRuVFpWV09jbGQ5M08tRllhM2hMZWM1ZGN5VVpnR2FpN3QySlZnWGtxYWZGV0JzbGRYR3NpZksycGFfeG5UVFlCUVROYXlqZlh1Snl0NmJOQmhlMA?oc=5",
+    "date": "2026-11-02T11:20:09.000Z",
+    "summary": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Julian Dontcheff - Director, Financial Services, Ernst & Young Oy | EY - US - EY",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbFRCUGFFVWQ1Y0RWbjJpR3Rubkd5Yy1KNWZZWHY3dUVRb2duQk0zZUZVZGVSWV9QVzBVbnJGOUViMlRqQXQtRkJhbkxvOGpUYjhKR3ZBcGlZOHFQ?oc=5",
+    "date": "2026-11-02T09:59:32.000Z",
+    "summary": "Julian Dontcheff - Director, Financial Services, Ernst & Young Oy | EY - US  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Euro zone countries are integrating faster with US than with each other, ECB says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmVQWHVwb21iejNtYmUyXzktbkxWSFlNWVI2NkI2Sm9RazROUzBLQjJBaW9TeDR2VGlRTk9Jano1UmlONEFQU3diNlBEZVZHck1yT3E1YjBJQUFBZGZmUUNhS1pmTHZRS2JlazFuVWdyUU9CZEZWdWcxVTZoMGZENEg0YTdnV2Z1c1JkU2hMVms1ckVoV3NvV2lBRzlrTzJwMGdCeTNfWEQ2WVNXaVRyNy1vOXdYVm9EVFJTSzM1Z3RMTHlvYWI2d3dnUm1wdw?oc=5",
+    "date": "2026-11-02T09:29:46.000Z",
+    "summary": "Euro zone countries are integrating faster with US than with each other, ECB says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Europe space chief heads to Gulf as bloc looks beyond US - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1lRdHB1dnpfemlpTnVZcmhEM1kzQWVCYWR2bHV1UjQzVFNURTZfa3laQThmLTVKSTdudVp2ZFBmN3FxZ3l3bWk2amUwNkgwODJnTVc5NFVSbWR0WUUtanloc1pEOHBlTm0wQU1kd1dGZ21KSHdmd2R5NW5DS1dfcmVkZ255RnNvZ2tHX25aM2pPSU5TMjB0WElNbVdRNEZScTRJeTlpVlVKNks3WUNLbnlpYw?oc=5",
+    "date": "2026-11-02T09:23:58.000Z",
+    "summary": "Europe space chief heads to Gulf as bloc looks beyond US  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "ECB will have to raise rates again, extent uncertain, Kazimir says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2pyMldQRTZ2My10Vk1rWk5od2o0WVJuTUNnM0NqdllSVGswSXpfVWRzc3lidGlsSlhtTy15ZlIwUEZZaFBEY09kcTUyTUZab2FMYk83Y09MTUdwenVNbjhweVBIWmdqdWdva094T2VFRF91VEk0MnQ0Uzc3dmRKR2k4b2RFUTYzZ3dvdy05aHdrUWVsMExwSFJIdkhDc1ppRlhEVnlMSVlrdw?oc=5",
+    "date": "2026-11-02T09:03:43.000Z",
+    "summary": "ECB will have to raise rates again, extent uncertain, Kazimir says  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Predictions 2027: The Seedlings Of Disruptive Payments Innovation Take Root",
+    "link": "https://www.forrester.com/blogs/predictions-2027-the-seedlings-of-disruptive-payments-innovation-take-root/",
+    "date": "2026-11-02T09:00:30.000Z",
+    "summary": "2027 will be a make-or-break year, with success hinging on trust and control in an increasingly open payments ecosystem. Explore a few of the ways that this will play out."
+  },
+  {
+    "source": "EY",
+    "title": "Risk Analyst Job Details - EY Careers",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QSDdmS2tJRWlHNUhkZXB2MHFTOGNkRFN5NVNtblRJdEo4ZUtscnF4dEdtV3lnVVYwRjNCNjJqOWt6amo2Q0FtSVhUZVdmbXRmTkF3OEZrMzVuUFJ0R3Z0dVhDQ1Rrclc2U0ludHFWN1lITkR4TWZqU2piaEVic0k?oc=5",
+    "date": "2026-11-02T08:53:37.000Z",
+    "summary": "Risk Analyst Job Details  EY Careers"
+  },
+  {
+    "source": "Deloitte",
+    "title": "T&T | EAD | PDI | Senior Consultant | AWS DevOps | Bengaluru Job Details - Deloitte South Asia Careers",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXhLR2M4WjBRT2dSaDVSWF82ckIzUlpNTWtZaV9TbE5mRWZVRnN5a2pfVjdWc0RtRXo0X21qMlJkRThwR3lvTllEUnh4VkdNU0tac0lQTGV6b2tUQV9zVlZORHFaODUwTHFKbTFUemFTLWdDU18zNWR4RWFuUnVCdU96RWZsdWNCY0xzRjdPSXRXQUJsUGNHbFlIRjBoXzlnaC02TXlDOU5JZlZCYWpRNk5n?oc=5",
+    "date": "2026-11-02T08:21:15.000Z",
+    "summary": "T&T | EAD | PDI | Senior Consultant | AWS DevOps | Bengaluru Job Details  Deloitte South Asia Careers"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Manager | Generative AI | Gurugram | Artificial Intelligence & Data | AI Insights & Engagement - Deloitte South Asia Careers",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2x0azNSU3RxLWI0R1k4aTJqX2p4aDN2VXFWTjFJa29GZ3p0SHlxc3NQZEFCUDR2VzY3R2t5cWtLbXNpOWdMZ0JGZllWeW5OcVBGcVdfOHpocldFS3Yta0tFNFFDOEl4dnUtYjN5MWp3M05XTEJwOEVpeGlNYnJuZmU0S09SRkNvWDlLMElpZXE0U3Y2TWxMV0NyZWx0WEhVRW9yWmV5MnhVcDQ0STAxV1NTMGZsdzJ6UlF3Mm83SjJVWTlDdU1vbnRseHVGbEdzMVRVT1dUbDJ4MGlWSXV1LQ?oc=5",
+    "date": "2026-11-02T08:21:14.000Z",
+    "summary": "Manager | Generative AI | Gurugram | Artificial Intelligence & Data | AI Insights & Engagement  Deloitte South Asia Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mitsubishi to sell down LNG Canada stake to Blackstone funds for $1.6 billion - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVREM09ibHJGNUpvREJyYmtjTjB2Q2lrbTZ6RW9HajdjTG9ZTXd0b1JITFNYUzBOZFdkSlhscUIyb2dpakZoR1VZSTA5NzA1TnJScVFhMkg2WC1HWmJwRlpIU0xwR1g5ZkRmRTRSbGJwTWp5LXBtdXd0TXEyOXpuc2xaTkE0TWhPenBvckh4Z0IwRnF0LTdzWDN1ZEQzdDJILVNBelN4eXBEM0psMVloOTZGeUg1NXlU?oc=5",
+    "date": "2026-11-02T07:24:00.000Z",
+    "summary": "Mitsubishi to sell down LNG Canada stake to Blackstone funds for $1.6 billion  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFBDT2ZyV3JPVmlaUFhIYVgyN0NGUmpUV3pkWTFscXc2Q0Yza1pnQ0l2NlNpWmxXOE1vdUdBR0RYNDJLSVdvZ3FQYk1CdEtLVTZhQjVrOXNybnE3ZS1NT2hyeUlkbEtFYkdZcnRRT2xYYXp4OFJZSC1PSlRkYVgtYzZueGRpS0NPQVdvVEhZaV9DUy1vaFJBWXc4T1RJZGNsalQyVFpqQzRzRGhRM3B5eExGWXdmVlZjWlE2RXJqN3NWQ295VUQwMmJ3?oc=5",
+    "date": "2026-11-02T07:08:00.000Z",
+    "summary": "At 'China's Hollywood', visitors become stars as consumers spend more on experiences  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ex-Shell CEO van Beurden to chair Castrol as Stonepeak closes deal with BP - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjNwY3NiVk5pTUVWSTN4RUI0Zi1ZV0d6d29DX1pPRGxGd3NHLS1HaGhqTGJvQjZfV3Q2THJ5RTl1V2lqMHQ2T2FnRGVOaU96QzVVZURGLXktY2FSUkducnFJZ0czTXgyc3dRdnBKOFp0V2pQNmpQaGtRaE12S0ppdlVBWEtmWjBvdk9oM3FFdldaYkJJZ0FIZWZOZDVPSlJsWmc?oc=5",
+    "date": "2026-11-02T07:07:00.000Z",
+    "summary": "Ex-Shell CEO van Beurden to chair Castrol as Stonepeak closes deal with BP  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Alstom plunges as it slashes outlook second time in 2026 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEQxRXhVRGlRRDVycjBPbGxzNWtEM2p0VjB2VkVVUklxSndYMkg5VDdxVVNueFdLdWp5V283YXc0MlZtVlI4cGJQem1rUWtqSzB5bENfZV80TGJvZzItSVBzdGRWLUM4VzdjRGMzU21YYkk5LW5qTXJKa3JrZE9UaFhibTc1U2xjQUlLcVNhWk84ZWxjSEtHbzg1UGo4UkVZaVdpbHU5eFVEdw?oc=5",
+    "date": "2026-11-02T06:57:00.000Z",
+    "summary": "Alstom plunges as it slashes outlook second time in 2026  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+    "date": "2026-11-02T06:40:00.000Z",
+    "summary": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "World's energy supply buffers have been eroded, ADNOC CEO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFJFQUd0MGpUMUdubkFVLWwzTHgwWmc1dlhDMzBWWjVYVnJGbTFiTndMWk9IclpjVWljUWlGTy1xUUN3VVRCLWRNeFluRGxQc3dFek52dVhvMU4zTGwtRDJtZWdDRnJRRFd4eUZiWDQtUnpkeFFOc1FRb1pJQ3BQNmptTDdKa0FWek5zSjdQcC1IcUZMTk1xNzdFQS1mQTd2WW11MmlGMTBIMmhyYURMVjltNmVWNi1Bc0JTLXhnTGg5TXk3YzYtb3Y2VQ?oc=5",
+    "date": "2026-11-02T06:38:00.000Z",
+    "summary": "World's energy supply buffers have been eroded, ADNOC CEO says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Belgian government in crisis after budget talks collapse - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUZUbTBNWUxjNlVBUmJteWJkMzFnVkdkaWlYUFlwaW1PclNVYkhrdDBTT21JR0s5cGE4SnAxUC1Icko4alJaMWNiWDB2azMwV2NyTEVfeHh4eC1xZ2s3dl9sREk2aVhxWjJJU1pkUVV6UU4yNmVkRkwxdkV4UmU4djRDclYwRDNzXzZ3cTA1dmFXb2swRGs0Z3NzQlJocGpGVmtpUEpqWmhpQ2ZGRzk1N19ybmE?oc=5",
+    "date": "2026-11-02T06:26:00.000Z",
+    "summary": "Belgian government in crisis after budget talks collapse  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "Consultant | Business Analyst | Gurugram | Operations, Industry & Domain Solutions | DigiGov - Deloitte South Asia Careers",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVzJjSm5OYllTUm9fcnlEdFVGOFMzRHZBdzl4SV9jaDVRbUh1ZkZHaHJkOEhLLUViZENGMDBVZmhXenhmS2pxczMwWVFtOUloVmo3MVRCS2ljMkpGNVlvSVdjcnczLUdvb1RYaUk5QVUzaGJZQnNqaEs3YnBFQ2wta3EyaHo5V0RRWHJZaHVJemd3bnkzUkpUYkhXV3Y0YURqNWNwZGRwczg5WVhiR19EYU9RZ1NkYWdCNVZMb2J2RXRsMGEteGJEWUFrUUl6YXNJUVBrN2VjYlc1TFNPdEZ2UQ?oc=5",
     "date": "2026-11-02T06:24:46.000Z",
     "summary": "Consultant | Business Analyst | Gurugram | Operations, Industry & Domain Solutions | DigiGov  Deloitte South Asia Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Ryanair says it might freeze pay to offset high fuel prices - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHo1b0JTUXVWaTFOd3d2QlJYbFA1SnZtRU4xV3dTT2dBaGVuZjNZek5tbWZOVlQ1Q25DcmFRNk54bWowTk1fRDBfNjVMT3A0WTYyZHJhbkRuTjAxeEhNalJUQWJVaW14dXIySHRBS3Rhczc4R0l3QVZDMFdlSTlqVG5IcnNVT0x5LWFBZ3c2dTEyelN5UExaWHpNVTJRem1relpXeDlzcGN5RmxQb1VmSGkyTDhLZ09u?oc=5",
+    "date": "2026-11-02T06:02:00.000Z",
+    "summary": "Ryanair says it might freeze pay to offset high fuel prices  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "BOJ locks in December hike, but neutral-rate uncertainty muddies outlook - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTctMVc3dnVQZlY5amJ2ejRjZEpqWTl4UFZJcHhvMzJoVjRJLUV6LVduano0Q2VaUHdmY1RXNWlSUTNxRGhPUVoxZ1dqelBadS1ENmNZcmwtTTJkYm5zU1NLNDhxSWtmUHVRY0hHRjg3NUY0QzdCbmZWRlZwWEZ5WC00Q2ZpNlVKSEp0QWVyNThIVE5WN1V5c2NvTFdmWEM5NWlKNFpmVGxHbm1LQktvSXo4alFhc29Z?oc=5",
+    "date": "2026-11-02T05:35:00.000Z",
+    "summary": "BOJ locks in December hike, but neutral-rate uncertainty muddies outlook  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Breakingviews - COMMENTARY: PAG's China property deal blueprint comes together - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSy1ibVZQRVZFNDR3R0s4cXE1ZUx4Umw5UHJMbE1UZVVMVWZFUmRnTHNxSU1rX1ZWRENlNmJLMHFFcnJLUW8xa1hidkFnRVBxbm54Um9jc1p4VEhGamRhajRiUURJSklBeGlpd1pwUHpJYUxzaDNwdGlYNmR6bzJwVmJlV3U4VHl2VUU3a0NVRkR5aUd2aHhYX3huaUh6Vl9IcHhWZ3pCeWVMOXlJbXVV?oc=5",
+    "date": "2026-11-02T05:24:00.000Z",
+    "summary": "Breakingviews - COMMENTARY: PAG's China property deal blueprint comes together  Reuters"
   },
   {
     "source": "Deloitte",
@@ -29,6 +330,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUl3TDYxM3pONVd4QUM2TVlWdnRRY28tSnNuN1YwT3JibW1hX1hsYTByY3dJcURaLW56QXc3dVU3WlFaOXlLOXJjd09MTVZtNWxKam1WRlh2THFxSHJobUdnc1hQNVJTaDNULTNGcGhMTVg0b2piUDRNdnUwOXhpQ0U1cTI2Zzg1VV94MXhxYmhHdlBJcW04OU9mVHJGVXAxdFpPQVZVUGJNa3h1UmhGM2xTajV3bkJfQnRBeFk5bjZwNGxJ?oc=5",
+    "date": "2026-11-02T05:05:00.000Z",
+    "summary": "Apple's new CEO Ternus to face first earnings test as memory costs surge  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "India evacuates thousands ahead of second cyclone in a week - Reuters",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamt2aGgxc1Nia3g0N3czYnM3M1Qxa2VNR19DN1hYUTdkVWkxMzRxdlJuUXluTm9NdDRQdHZxTU4zOV9BVzV2a0dfQUVPQlRObDRDU0pmbWVXWnBEdlFIQ2NtY2NWdmRGREtLYUJNeDNMeFFlSUs5ZTRRM0NRMmh4cFYwUWVxOXVNczJmajh3LWIzT2lHalNFaDJxMlJVc25tWTZjODFpR01KODU2?oc=5",
     "date": "2026-11-02T04:30:00.000Z",
@@ -50,10 +358,38 @@
   },
   {
     "source": "Reuters",
+    "title": "China factory growth slows in October as export orders ease, private PMI shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3hYd093Mlc3ZWdMZkdpTE13RXFjUTNHbU1VaV9DU25MamJmd2dTYVZEakladUp6OFZWZUtNdlNlb29KTmRBZS1VZm1GV1JBT1Z2UGhMT1pLVi13SmNOZkQ4M3k3cl84S2daZGtrcEE3UXJZOXZ3ZEoxRGRXQmFyV0hhUzF0ZE9DODduOWZKY0VpemEwYWsxeTRlTm1VR19kWGhvc2NLUUVfbHUxTFNKdFZrVWVfa3hlTG5vT3JhZkRyMnJx?oc=5",
+    "date": "2026-11-02T01:49:00.000Z",
+    "summary": "China factory growth slows in October as export orders ease, private PMI shows  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Critical infrastructure is under threat. Are organizations prepared?",
+    "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
+    "date": "2026-11-02T00:00:00.000Z",
+    "summary": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here is how they can anticipate and reduce risks associated with these threats."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+    "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
+    "date": "2026-11-02T00:00:00.000Z",
+    "summary": "The judgment of the CEO and top leaders is one of the most valuable sources of knowledge in the organization. AI can now codify that tacit wisdom and make it available to everyone, for the first time."
+  },
+  {
+    "source": "Reuters",
     "title": "Oil prices ease 3% on optimism for Qatari-led talks on ending Iran war - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
     "date": "2026-11-01T23:13:00.000Z",
     "summary": "Oil prices ease 3% on optimism for Qatari-led talks on ending Iran war  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Mexican avocado producers destroy tons of crops after pest detected - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXkxaDZ1ZGoxRWZuaHQwTTNYMlJPa2hWY0FMUzhTeEJuSU5HRlJzcFdTMzE4eGY3M3BBdWludERuZ01ZeHIzN1lOSm0zbldiOFdYM1E3MWROdGdFZ1FNb1pSOEw3TDdEQzAwUEtCMjRTemJSeXA5eFllTE9pTUZCekVweS1lZ3ZXS0l3dm8tZ3hqM0dWN3JIaEpNNXFnUzdJOU5BQmpCMFV3dFNmNTR6TTNLTEo3UVF0bkJNSXhrdV9jZw?oc=5",
+    "date": "2026-11-01T22:21:00.000Z",
+    "summary": "Mexican avocado producers destroy tons of crops after pest detected  Reuters"
   },
   {
     "source": "Reuters",
@@ -75,6 +411,13 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1B2amVrelNnTnZYVUUxdll3eFZBNEJXdmZ2aDctSFo4cjhyRmxTbDVweFdQR0NmUzI2ai1tUklYa1djc3A0YmIyYjRZTEMxWXJiaHV6WVZ3ajlDZ0FVNWxiX1hGOGxxRlRjaW5wZG9OZzNGYmQzN1RoZnF1WVQ2aEV3NS1ua3FZUE5UdDNWSWNBMGJSR0l2c1NZLWlDQURVdlQ5THdHMVdxSGVuZmc?oc=5",
     "date": "2026-11-01T20:58:00.000Z",
     "summary": "Westpac CEO says buyers waiting for lower prices as housing downturn deepens  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Talent Acquisition Manager in Tokyo, Tokyo, Japan - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84c3Rlbjd2cnFTVjAtM2JxemxYaVhxX2l2SmgtbjJ0UWEzV0ZlNTZXQWNGT3o3czNleUFZMnRBdGpXV1RUaWtDeE5yQTZPMFBCSEQweDJ3X2MyekpMLU5YbjI0ZXZIcUNhSmo0LUlMZkV4TWg2SHdZ?oc=5",
+    "date": "2026-11-01T20:57:12.000Z",
+    "summary": "Talent Acquisition Manager in Tokyo, Tokyo, Japan  Gartner Careers"
   },
   {
     "source": "Reuters",
@@ -320,6 +663,13 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
     "date": "2026-10-30T20:42:09.000Z",
     "summary": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "TSX posts steepest daily decline since June as gold slides - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnBybFZIbDVRQkI2RWRBMjctOHlDNFN3RndQUVltSExsX3hFVVdVY0dqNFRmalRCOFpYRWxQVGxNSUlJZ2VZbFFheDdMdEJCdElwTEd4Z0Z4WTU3NHBSa3I2QzQyVmJhRVBqblV2elhxUEp1enAwb25EcWFaaXMwb01wQWhfS2RDa2FmU2hoNDJ0UGFieVVYRVV4QnF1MHM?oc=5",
+    "date": "2026-10-30T20:39:26.000Z",
+    "summary": "TSX posts steepest daily decline since June as gold slides  Reuters"
   },
   {
     "source": "Reuters",
@@ -719,6 +1069,13 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjRMdTlHZ1RyMjRGMGhNbUgtX1NRU3pjZWNIcmxsbFY5YV95Q0IzMlRqVkc4Y0VxaHJhbjZNWkZJa085aEh5Ny14UzM3RWlvNEVBQkpPZkRrMDIzRlNFaWloa0pwWDhrbXJxYXVyRWp4VXRka3VVWV83MUtSSTJhaDBGM2hmNWN1MTRQR29qdzladWJmT0xveUZZYi1ULVRxdEVyWFpFQjI4VmtmdU9qZ2RYeUdUakxYU2ZlWW5n?oc=5",
     "date": "2026-10-30T10:13:44.000Z",
     "summary": "India's GAIL posts quarterly profit jump on growth in gas marketing business  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "New economic data challenges Fed chief's not-too-hot perspective - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+    "date": "2026-10-30T10:12:09.000Z",
+    "summary": "New economic data challenges Fed chief's not-too-hot perspective  Reuters"
   },
   {
     "source": "Reuters",
@@ -1579,6 +1936,13 @@
     "title": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill? - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNmhkT1RBeTJrNEhfeElmNmxQM2NKN3lJQl94Uk43MDNhX29zaHY4amxqZTRzaGpuTEN2cHJZeDJtUjhnOTU3R0d4V3gtNGdQTk94NGNYaUVUQVV0YkxaNTBrS21sQ0FEUWdici1Ga09VYVRycnp6SWxjN3JFS2M?oc=5",
     "date": "2026-10-29T06:58:36.000Z",
+    "summary": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill?  Boston Consulting Group"
+  },
+  {
+    "source": "BCG",
+    "title": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill? - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaUWhMRXRQQlNleE51dy1lNkY4ekRqRFN6ZG94NDE5MXFXMGF1NjF3ckNpZE15UnhMNGpsVFNPTnktT2hYN0xGRTVGWi1qYXJscXYwa3BTUDlldjh2MFNzbVJTcUEtRHozdHlNQ2tIUk1hb1NRaWNR?oc=5",
+    "date": "2026-10-29T06:58:25.000Z",
     "summary": "Who Will Pay the $2.6 Trillion AI Infrastructure Bill?  Boston Consulting Group"
   },
   {
