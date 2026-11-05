@@ -1,5 +1,82 @@
 [
   {
+    "source": "Forrester",
+    "title": "The AI Bubble Isn’t Bursting Yet — Here’s What To Watch Using Our Model",
+    "link": "https://www.forrester.com/blogs/the-ai-bubble-isnt-bursting-yet-heres-what-to-watch-using-our-model/",
+    "date": "2026-11-05T21:35:22.000Z",
+    "summary": "Is AI a bubble? Forrester’s new AI Bubble Model weighs supply against demand and scores the financial health of the companies paying for the build-out. A burst isn’t imminent. But the third-quarter nowcast has builder health under 80, and the biggest builders are now borrowing to"
+  },
+  {
+    "source": "Reuters",
+    "title": "ConocoPhillips boosts dividend after beating estimates on higher oil prices - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmVXLVh5bHBBQWh5ZkFmckpmSkRNMVB2UGZwaDFuYVc1TE93TVZKcjl4c1lPSjVQb1doc1pJdm11S01RTGtwTDRUblRGVWp2M3hrb2ZLakV3R0poTGRjcmRyOEI2M2hNOEJFVllydTcyQ043WFVSRURkREJvZWxtaWJmaDJNRllnc3lPZllyM1JtMEhnY09NLWRpZzNuQWt0YU1jTFpCMlQ2UG1ZQVVtYVF5dUlZZw?oc=5",
+    "date": "2026-11-05T19:34:08.000Z",
+    "summary": "ConocoPhillips boosts dividend after beating estimates on higher oil prices  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Paraguay President Peña resigns under mounting pressure from bank collapse - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5",
+    "date": "2026-11-05T19:31:51.000Z",
+    "summary": "Paraguay President Peña resigns under mounting pressure from bank collapse  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Agentic Development Security Picks Up Where Traditional Security Tools Leave Off",
+    "link": "https://www.forrester.com/blogs/agentic-development-security-picks-up-where-traditional-security-tools-leave-off/",
+    "date": "2026-11-05T19:00:46.000Z",
+    "summary": "Let’s address the elephant in the room: Coding agents don’t generate secure code. Securing the AI-generated code is left as a separate activity, and it’s only part of the job. Coding agents also select dependencies, invoke tools, and execute tasks. Application security teams must"
+  },
+  {
+    "source": "Reuters",
+    "title": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+    "date": "2026-11-05T18:33:43.000Z",
+    "summary": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
+    "date": "2026-11-05T18:32:09.000Z",
+    "summary": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports  Reuters"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Give Your Muse a Voice",
+    "link": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+    "date": "2026-11-05T18:30:58.000Z",
+    "summary": "We’re rolling out voice and expressive avatars in the Muse app, giving you a new, natural way to interact with your Muse.\nThe post Give Your Muse a Voice appeared first on Meta Newsroom."
+  },
+  {
+    "source": "Gartner",
+    "title": "Gartner Customer Service & Support Conference: Day 2 Highlights - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRGZTV4MHE4Z0ZvUkttRnY1T1UtVllaYUlXcHJlenNDckc1dnh0WHdVOS1kSlBCNjdKSG5VeHhYUmVEbV9pRDdXUHA0ajFQT2xrcnNBaTQ0ZVFrZFM2TmQ5blhhVWw4Z3o2NUhBWW5QNFJqNFlTZjAxOGtfV3I1VkxDdDhxZ2RhX1dtS2p6WWhaQWJFaUNPOGFkXy1KSUV3NEpTTjJHM2NyakhXT2ozN2wzelBfYU9FcUg2aTZ2RkR3eWVq?oc=5",
+    "date": "2026-11-05T18:12:41.000Z",
+    "summary": "Gartner Customer Service & Support Conference: Day 2 Highlights  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Democrats gearing up to probe JPMorgan's relationship with Epstein, CNBC reports - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEZJMjNKVlMxaWFJRFFkS194bW1uQUpHb0dNR01TdHVnMXduTGxWOEQ4YnZ1dTg5bUZ6a2lvZVRKLXhNZTgxYlpZakJwMUxBQkJWRkhXZ1ZrOW54YnlhSTlEaU96ZW9FYUoyRG45Z2lFQkRwYXNVVDZDamFHb2RBUThvQ0txSXd0b1Awcy1ySkgwQXFtS1RKeTdzV2x1WW44NU5QUFVQYVRvUkYwaWtSUE1meVZTNGdnSmk2QnBwQVJIR3IzZGJZ?oc=5",
+    "date": "2026-11-05T17:53:53.000Z",
+    "summary": "Democrats gearing up to probe JPMorgan's relationship with Epstein, CNBC reports  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tech selloff, defence weakness weigh on European shares - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVYtRE8yNmJTbWttbVpyU3QzWXAxdzExUUdXVUFRRV92M3RPN3V1Z2VUR25jODNHYzdqR29Ba2t4TUNkcnZiY1dOS3R5MXZEeTdBZjRoOWpsTjRXdnVxQzdIbjZ6M0xvX29IV0NSRXRTMEJ0RXJZWW93aVQtdmZEUUZJaGRDY2hvM2g0b2FRZ0g1UQ?oc=5",
+    "date": "2026-11-05T17:52:33.000Z",
+    "summary": "Tech selloff, defence weakness weigh on European shares  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "European industry calls for changes to carbon reform to avoid more factory closures - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHJOVGxCaEpKcGVRbFVCRVZDQW5yaEV1cVRnQVVlcldXb1BFSUtJRVZVOGIxbVR5MjlXT2ZBTUc1a1hXMGFRdUFWYzg2Z29xR1pRQzZOR05JZ2U1UWJ2XzJzMVRUcHY0eEl3VHFrZ0FyNlY2YTI3eklfSm5OU2ZqMkYwc2pZekVVU1YxekVMeUgxd05rUU5RRTR5Mk84WDhCOEVfZi1aSTktaHZkZDFPWllpd3lrU3JrSEFuREJTZThMak9Nallkc0hn?oc=5",
+    "date": "2026-11-05T16:40:09.000Z",
+    "summary": "European industry calls for changes to carbon reform to avoid more factory closures  Reuters"
+  },
+  {
     "source": "BCG",
     "title": "LAB Career Development Manager in London, United Kingdom | People and HR at BCG - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNOUpXd29MdE0xZkRzaWdVSjdQUlpWWVp0SVFHRmtvSVBxUTJLUkl3UlQyWXlnUEtxb0c5WExPR1g4T3VwUTNzU3hpbnV0ZVhCVTB1YWQ2UHdVVkpYMVdPdS05NlJkcm43XzQ3ZGpuVy1NMmxrRExiQ2Y2emhBU2d5X1hDMEtBMFZYcThfcnBzc08xb1VZYVBxNE11M1hlR2VPdFE0ZE1iVUZCTDBlcjM3RVQ5UDZ0bmV6bzNva3I4ajBSdmpKaFJKVWNMblZUWGRCZTFzczRIZ0VfT2ZkYnFTVFZ1R1VNQ2FseXZlNUVmQVVUcWxEdW9pRTJMZ0FoYU9ZODlmYmZyZk11QlBndkRWMVFmVGJlOTdZdWZjQlQ4M1R4RWVuUDI2UXBSTVBHUHdtNlJFQ0xYRUVpVDMxdXl4bUQ4c1RORWhnWmtuRHVnQ1RLaTRFUU1CVWUxRHU1eWxnb3Axa2hSSUNzZHBndGhsMHVIR2pSYXFMTUxrTHA2SHcyZ0JBTWFVRjEzdnZ6VUttc0d3VjNEVVIzSVBTemI2UUJpdEIzYkl2UmZmSC0xQVFuc2MwLVV1emNfbV8zbXJrU2NXb2NuT0hIclNiU1gxeHJXM25nYWpZVi02TFZUQ05tODlxbWloVWxBdlRKSGthMm9LVXNKamJKQjNhSWdrT2dyaUZrZWtnNGNXVC1ROHJPckRxaDRQR0REQzdqcUU5QlJmb3hLVF9JUHVjc09kQ3k1eDlVazVrX21LOFpwVjUzWEg4a09ITFhvNU5IdnFLdGZQcjMtMWFsLW93czNCZmNFSGNDdUg3SVl1REFOdEJUYlprMk1lUEdzQml1a2o0TXBzbmZncmJZcmJxRlI4R0JiaXotUlhCa3Eycy1OSQ?oc=5",
@@ -12,6 +89,13 @@
     "link": "https://blog.hubspot.com/marketing/rag-in-ai",
     "date": "2026-11-05T16:15:05.000Z",
     "summary": "More of your audience now gets answers from AI instead of a list of links. So when someone asks an assistant about your category, the response draws on sources you may never even see, and your brand either shows up in it — or doesn’t."
+  },
+  {
+    "source": "Reuters",
+    "title": "Details of Russell Brand's convictions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ0cDliQmlmYXNmVFZqZ1RGMUxfUnFkMmY2ZlJQckV2Z0dJOFhZcjR6a0djM2tJWWEteTV3MDFZakthZnhIR3FzU1RkcWFKakJiVmRBa1djYWRpNU5WRlNfLW02Q0tuNzlzYWFpSmJNa0hnVWVPaEMyN2dDWmIxUjVaN3hKNWZ4NUVDdXI1Vl8yV21pdG9EeQ?oc=5",
+    "date": "2026-11-05T16:10:54.000Z",
+    "summary": "Details of Russell Brand's convictions  Reuters"
   },
   {
     "source": "Reuters",
@@ -54,6 +138,13 @@
     "link": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
     "date": "2026-11-05T15:00:45.000Z",
     "summary": "We’re introducing updates to Events on WhatsApp that make it easier to get together, like an Events Home to streamline your planning and the ability to send invitations to people who aren’t on WhatsApp.\nThe post WhatsApp Events Brings People Together Beyond the Group Chat appeare"
+  },
+  {
+    "source": "Reuters",
+    "title": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
+    "date": "2026-11-05T14:54:15.000Z",
+    "summary": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum  Reuters"
   },
   {
     "source": "Reuters",
@@ -148,6 +239,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Swiss National Bank chairman says bank's policy has been effective - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzhHVWlQdlowZFpWMkpMN0NYUlhnc1Jpb0c3aDZQSUg3ajlBMXBEdjlTdm5qdDA2cEJFc3dUc3dZNVpjM1o4bVJZQUFSRUxnLWh3bGlOVXZsa0xRaFVEWE9JTjlraWVfbUNXNE9qZDBFdmctekl3aWUwSmQxV1ZESkdhZVpHTkhVUmVlSjh0UFBxaDJ4VDBfRlNCUEttS1I2dFJCRFNudS1UZG1hOXVvNzhxZTF4cW5qVVE?oc=5",
+    "date": "2026-11-05T12:43:43.000Z",
+    "summary": "Swiss National Bank chairman says bank's policy has been effective  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Soaring diesel prices helped usher in Democratic sweep - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1IwcDFSeVlqQmNtemxBRTRIZURTTG1sb1ozNkdmS0VleXpmU0NJWFRWWHMzMVVfTHdyanV5Sm9qQWt5azhsdXVwaDlRMWljbW4xQWY0N3M3UDJYaU1wX1RveWpfOFBHX2F4b1ZYVDVtSXRXbEc5R214ak1ZeXR2eWdqOUlQY1d5ZVlMYkJyN1NkaE9IbmxuTDV2TV9JWGROTlM3NXNR?oc=5",
     "date": "2026-11-05T12:38:15.000Z",
@@ -162,10 +260,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Kenyan tribunal dismisses challenge to Dangote's planned refinery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFBlZWRlUmNFR0gxeDRCd2ZzT21iUFlKdXlyNUhlQlQ4aGg3bjA2cTA0T2h5bXpHMTdaN0NGTTlGN0d4ZXl0a0FvblJNOXM4SklnZ0ZYbkdiZGxTQW1UZU1DdmFha0R4OGlKTjF5UktwRlFFbVRSWnk4VnZRNnRWeEk1dU95UnVDajhrM05MY245SDdVd1lETHp0RkZsM2lBRUVvZUFOdTFYSjNUZHdnRVpZSQ?oc=5",
+    "date": "2026-11-05T12:14:56.000Z",
+    "summary": "Kenyan tribunal dismisses challenge to Dangote's planned refinery  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Permira agrees to buy residential services platform Flint Group - Reuters",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWENkdi1pcHRwb1hVUEJKUzRhd0htT2Z2WkhlNExLR25CMW01RjlXdnpCeE5TMkRkbUU0ZWpmakJVTW00WHBPMFM1WjJQSkxOVlVkYVdDc1AzNnFpSGppZXBCU1ZYV3U0YmdXcDRYc2ZoQ0xoZXkyMlowWExmX2I2TW96NnhuVXFHQm0tRmJtMnR0MW5rM29NYXhWbm9rWlRudVVHMmRJV0pCWGh0TlZ4YU5ZODJqR2M?oc=5",
     "date": "2026-11-05T12:06:23.000Z",
     "summary": "Permira agrees to buy residential services platform Flint Group  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Higher energy prices expected to reduce European demand this winter, Engie CFO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVU5QUMwVjItMVpnTk9MR2x4clo4cnhOYk1xTnBPZm5zQlhxV2VsUnNYbXJvTmZJMUtMVmVTTXVjXzN6akdrTks5Z2VfS0VHZnRuZmI1eThzbGcyN0VlNmo2R000OXFBQlRnSjNvN29VTEF4OXhDa0VVbm56LTB3UnNtMmJhaVpzNkV5US04TGVGNGp6R1dDRG9kZHV3MmhfaVJEaGwwZmlMNXp6TktBS3pPVDRCUFY1QTlxdkIxQ1M0X2FKb2V6ejlkWQ?oc=5",
+    "date": "2026-11-05T11:47:44.000Z",
+    "summary": "Higher energy prices expected to reduce European demand this winter, Engie CFO says  Reuters"
   },
   {
     "source": "Reuters",
@@ -225,6 +337,20 @@
   },
   {
     "source": "Reuters",
+    "title": "Businesses see no near-term shift in US trade stance on Vietnam after midterms, amid record surplus - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNktvT2hXUGN6dXFmRmdIcUhkVnpFSGVXMGFsbms2ZHRJWXdGeUdlSVFzQThJbnlMZnBWYmxydlpfQmpCbk5CWUoyRC1HNjZ2U0ZuOGZaSEp1VmNQb0lxdTlsYTJ4UU1RQy10a05zYXJicVlQS1VPTlRJQ3VBSW04M0NjTTA0VGl2c0ZVT083NGZOMDdmbEk0Mi1wUDZlMms0Vi12eGlUeGY1UXpKODBESW5Dc1Q2MnJyd21VUDU2aHduOG8xWVZzSTVsdVQ?oc=5",
+    "date": "2026-11-05T10:02:14.000Z",
+    "summary": "Businesses see no near-term shift in US trade stance on Vietnam after midterms, amid record surplus  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "German chamber of commerce raises 2026 growth outlook to 1% - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjR1ay1vT0piZnI5bEVpUjlwNmRSR2FZMW9iSlFOQUZ2WU5xellmekJOZzh4b0ppSVNEWXNWNnFCRDhiaTR5RzBIRTdEQlpLODlwcTZ0WTN2SWdObFBPU3l3aVZVYjJGSU1TMnVXVTM1aV9oTFZidHVudGtpd2VDSmhneUpwdWVYUmlGdWRjQ3BqOXk2OW9vMVJkdnEyQQ?oc=5",
+    "date": "2026-11-05T09:52:44.000Z",
+    "summary": "German chamber of commerce raises 2026 growth outlook to 1%  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ?oc=5",
     "date": "2026-11-05T08:41:48.000Z",
@@ -267,6 +393,13 @@
   },
   {
     "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Regulatory, Compliance & Controls Testing & Validation - Consultant - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU1QbGRDS0FDN2ZPYVhEUm5OeUluVHhtZ2xJUFFTMEQxUmx4QmdiQWRLc003WjNwX0ZobS1Wd1pPVXNmRmFSaG9pX0dLRURiM2FpZkRBMzVDREtKZFJDTjFMWGp6MzhhQUJORnJMcXNXWnREQUVfNzlxSmJNMmNEa2swdTNRUGdMeERtV0dSMlZfbm1IU1R1M2xFYjJZRml5Yk9mQkNDeTdodw?oc=5",
+    "date": "2026-11-05T06:54:05.000Z",
+    "summary": "Check out this job at Deloitte, Regulatory, Compliance & Controls Testing & Validation - Consultant  Deloitte"
+  },
+  {
+    "source": "Deloitte",
     "title": "Check out this job at Deloitte, Regulatory, Compliance & Controls Testing & Validation - Analyst - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzVRUktkN0VCenFxVjhkcU5FWmFXTzE4WXBkX09QYXlmT280WTVRVXNjeW9Pc2l4bXRiamRUeUl6VE1kc21oUjNoeGo1WFZxRmN6WDliUHFDSTlhSV9kRUVBdF9yYVBaNmxqbno4MUJWcWxFSU1vaTVWOUlEcVM0bHhNYUpHR1RPQXdvTHZaVHBDZHZ4MkNwaVBqMGJyTHNkMk9Qb1hR?oc=5",
     "date": "2026-11-05T06:53:45.000Z",
@@ -274,10 +407,24 @@
   },
   {
     "source": "Reuters",
+    "title": "Siemens Healthineers begins carve-out of diagnostics unit amid China weakness - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVc5aExnVjM2bGpfOF94UkgxUUNfNlZMQXhEeWE2Tmp0NGJ4M1VnaDk3UnM3aG9CZVJIN3VUSmtLbnNySi1jTjk4T3FlTDdpNUNZeklXWE0xY1VKZHpMRnV0U3gyckNHRW1sbGZYT3hpZkQtamFUN1NsQ0F0MmNzMDhqZUZkTzR0UDItdDc1eXE4LThKdW1fXzlwVW9aU2VKckswWFA4eHpRUUs0czBJTFlJRVRjblo0Z0lYT210NFR2OERDaG8zb3RR?oc=5",
+    "date": "2026-11-05T06:45:00.000Z",
+    "summary": "Siemens Healthineers begins carve-out of diagnostics unit amid China weakness  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Sony profit jumps on 'Spider-Man: Brand New Day'; Nintendo earnings slide - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzRkcVBPNWdGd05mYXRDNXRxOFJtbDZoQzk3N1l4Q19ScC1oeWFJWmlKYlNHRzBwRTFQREZsanB1TjUwSkZodTh5U1N2aktDOTU3cEVBMk1Ubllodk9NVXlCNkc3cGZYbUFwNk13LW5hU084YWlqdWZyX0NvdTBSZWlwZHNWdVJOMGstbkVpVDVoLXd6UFFPTS1za2gyVUFtVjZBTTRraDZBbU0?oc=5",
     "date": "2026-11-05T06:37:00.000Z",
     "summary": "Sony profit jumps on 'Spider-Man: Brand New Day'; Nintendo earnings slide  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Siemens Healthineers forecasts slower 2027 growth as China weakness persists - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRURfd3VEeFg4UmU2MG5OdmNMTnZ3X2pIdF9XRjRjWWtsVTg2bVdmNUlXaDR4UXFHYVJxWEoxak10bHVrd0N0OU5YdTQ2eVM0a2NxT0Q0NkVtQV9PcVlNeWRtV2M4YjV2QVpQbklTbmhVUEZmT0pkRm5WU05CQkQwNVlzOFJRQVR0VmpoVjc3T054YVhnWmdXYjZHdTByR0pvMzlpNWdZbUw1dkNnckU0UFA2MlVTYVdyNFRvQlEtSDZmXy0y?oc=5",
+    "date": "2026-11-05T06:06:00.000Z",
+    "summary": "Siemens Healthineers forecasts slower 2027 growth as China weakness persists  Reuters"
   },
   {
     "source": "Reuters",
@@ -341,6 +488,20 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHJSdTJDMlBvc2ZsZlQ2czIxZ1IxTFEtTWJoYTFUUzl0aU0yQjRueG8xR0dmOUpuWk9wOTBQcVcyRldEUGFmM09vcHoxS090V256amdjVTVHaVNxMnNUVGo0M0cycXNYSXozM1VZdFdTdUdSY19kaVFBZ1E3b0N0S043Y3ZLTmxCRlJZX3kwd1NPWWdiX095YzJhNDIzTnhWN2t3NF92T2ZCcTlk?oc=5",
     "date": "2026-11-05T00:33:00.000Z",
     "summary": "Japan services activity expands for fifth month, PMI shows  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
+    "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
+    "date": "2026-11-05T00:00:00.000Z",
+    "summary": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive overhaul would require five key moves."
+  },
+  {
+    "source": "McKinsey",
+    "title": "The spirit of the leader",
+    "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader",
+    "date": "2026-11-05T00:00:00.000Z",
+    "summary": "Leaders who develop their inner world tap into four unique qualities."
   },
   {
     "source": "McKinsey",
@@ -530,6 +691,13 @@
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMUlWdEd5Tmd6LTJtTWgwSW5MeEhDR1ZjM2JsYXRfQTNjS0NxODM5bnFISXp5STN6MUZqTFJNUDJrVzBDN2V5MkFEbWYtcXduam5jRk9Zd1VBUE4xazZGQzJCenFISnBpNUtpYUF0X3BLeGFwRUE5RDFsUTVTczVwVTNlSXM2bFJ3eG1rcUt3cThlQzE1bVFFNGJGTU1jS29RejAyUmtNQm9PYjUxT1R4ZTVqMlBxYXZpMERPd2cwaVNvVGpDVDZNVWJmQktZclpJbElFSklSVG9UcVNjQ01EQTNyQkhUeFRjeF9lTThwenpDV1lSZEhIQ2J3ekRGbnhBek9lSWRFeXNmM2hNdUw4?oc=5",
     "date": "2026-11-04T17:24:33.000Z",
     "summary": "Gartner Survey Reveals Just 4% of Customer Service Leaders Have Achieved the Expected ROI of Their AI Initiatives  Gartner"
+  },
+  {
+    "source": "Reuters",
+    "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUURSU3JiR2xDMkJBZzlqbkgxbER5MjF3aVh1TXZzM2tIbkNVWTVGb3BYZmVzelhxVlRLTEVqRXBoNDBSNlQwSlh2SDJNM29jRWZGRm1mUENidEZVaDhXMFpsZWRQNVFlOHp6VGRPaU9oT3BBdFhweTN1Qk1nSkZaMDg5MkJGTTN2ZmlUYnFTYTllYjFUVlZQNllZUG54TVptcFFSVnlQbEFEbnNQdDNmNEJMbWpLT05GR0dDWg?oc=5",
+    "date": "2026-11-04T17:24:00.000Z",
+    "summary": "Texas data centers face uncertain future after Hinojosa wins governor’s race  Reuters"
   },
   {
     "source": "Reuters",
