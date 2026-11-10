@@ -1,5 +1,82 @@
 [
   {
+    "source": "YouTube Blog",
+    "title": "Paris Hilton talks vulnerability, privilege and creativity for ADHD Awareness Month",
+    "link": "https://blog.youtube/creator-and-artist-stories/paris-hilton-adhd-awareness-interview/",
+    "date": "2026-11-10T19:00:00.000Z",
+    "summary": "Paris Hilton discusses her late ADHD diagnosis, challenging outdated myths about neurodivergence in women, and teaming up with public figures for an awareness campaign."
+  },
+  {
+    "source": "Forrester",
+    "title": "GitHub Universe 2026: Lowering The Floor And Raising The Ceiling",
+    "link": "https://www.forrester.com/blogs/github-universe-2026-lowering-the-floor-and-raising-the-ceiling/",
+    "date": "2026-11-10T15:59:04.000Z",
+    "summary": "At GitHub Universe this year, the company made it clear that it’s trying to reach two types of developers: those who have never worked with GitHub before (“the floor”) and those already familiar with its products (“the ceiling”). The overall strategy? Lower the floor so that ever"
+  },
+  {
+    "source": "Forrester",
+    "title": "Oracle AI World 2026: AI Moves From Insight To Action",
+    "link": "https://www.forrester.com/blogs/oracle-ai-world-2026-ai-moves-from-insight-to-action/",
+    "date": "2026-11-10T15:15:34.000Z",
+    "summary": "Enterprise AI is gaining the context and authority to do real work, not just generate answers. As autonomy grows, CIOs must balance business value with governance, portability, and control."
+  },
+  {
+    "source": "YouTube Blog",
+    "title": "Watch the 'Always Lalisa' documentary with YouTube Premium on November 18",
+    "link": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/",
+    "date": "2026-11-10T15:00:00.000Z",
+    "summary": "Get a behind-the-scenes look at global pop icon LISA in the documentary \"Always Lalisa\" streaming exclusively with YouTube Premium starting November 18."
+  },
+  {
+    "source": "Forrester",
+    "title": "Agentic Advertising’s Productivity Paradox",
+    "link": "https://www.forrester.com/blogs/agentic-advertisings-productivity-paradox/",
+    "date": "2026-11-10T14:36:17.000Z",
+    "summary": "Agents don’t automatically make advertising more productive. Layering AI onto broken processes merely automates inefficiencies. The bigger opportunity is reengineering advertising around a new division of labor, where people set strategy and guardrails while agents orchestrate ex"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AEO benchmarking: What market data reveals about AI search",
+    "link": "https://blog.hubspot.com/marketing/aeo-benchmarking",
+    "date": "2026-11-10T14:30:05.000Z",
+    "summary": "AEO benchmarking measures your brand’s AI search visibility against competitors and market trends. It tells you whether a change in your visibility comes from the market or from your own brand, so you can prove performance to leadership before you change tactics."
+  },
+  {
+    "source": "HubSpot",
+    "title": "How to use AI to write a blog post (that isn’t slop)",
+    "link": "https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post",
+    "date": "2026-11-10T14:20:05.000Z",
+    "summary": "Like a hammer or even a hair dryer, AI is just a tool. It needs to be wielded skillfully by an expert to achieve greatness. And in a world increasingly full of “AI slop,” this is especially true when exploring how to use AI to write a blog post."
+  },
+  {
+    "source": "Semrush",
+    "title": "Semrush vs. Ahrefs: Which is right for your team?",
+    "link": "https://www.semrush.com/blog/semrush-vs-ahrefs/",
+    "date": "2026-11-10T13:12:00.000Z",
+    "summary": "Semrush vs. Ahrefs compared on AI visibility, backlinks, rank tracking, pricing, features, add-ons, scalability, and more."
+  },
+  {
+    "source": "Semrush",
+    "title": "Prompt tracking methodology to measure AI visibility",
+    "link": "https://www.semrush.com/blog/ai-prompt-tracking-methodology/",
+    "date": "2026-11-10T12:59:00.000Z",
+    "summary": "Learn why tracking more AI prompts can still create blind spots and use a prompt tracking methodology that balances coverage, discovery, and verification."
+  },
+  {
+    "source": "Semrush",
+    "title": "How to use AI for competitive intelligence (10 prompts to try)",
+    "link": "https://www.semrush.com/blog/ai-in-competitive-intelligence/",
+    "date": "2026-11-10T12:38:00.000Z",
+    "summary": "Learn to use AI to speed up competitive intelligence and sharpen your decision making."
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "How Takomo Golf Used Creators to Build Trust and Sell Clubs Online",
+    "link": "https://influencermarketinghub.com/how-takomo-golf-used-creators-build-trust-sell-clubs-online/",
+    "date": "2026-11-10T11:55:46.000Z",
+    "summary": "Influencer Marketing Hub\nHow Takomo Golf Used Creators to Build Trust and Sell Clubs Online\n\nHow Takomo Golf Used Creators to Build Trust and Sell Clubs Online\nKalin Anastasov"
+  },
+  {
     "source": "Reuters",
     "title": "S&P 500, Dow futures climb as oil slide lifts sentiment - Reuters",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
@@ -194,6 +271,20 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmVxU01wSXJGb3o0dlc1Yl8zcTVuaEdMNUF5SzM3c3paZ0dCRUN4N1JMTmQ1SG1xS2ptbGo5ZkFWSnRrcjRKbVRjMUN1b2ZDTkw2NzkzdkJ5R04tamJzaHh0LTVyOC1oTTRpeGNmci1yRUdydlUyTmFlZVRueFNfWVd4SnZfZEpIRHNFTEZfcFlqVjBGeWo1MUlPMmRvRkZiempDa1RtLUpHeHBuVmZQYXdfRQ?oc=5",
     "date": "2026-11-10T01:09:00.000Z",
     "summary": "Russia's Lavrov says US diesel deal working, prices coming down  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Reinventing business planning with agentic AI",
+    "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
+    "date": "2026-11-10T00:00:00.000Z",
+    "summary": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action."
+  },
+  {
+    "source": "McKinsey",
+    "title": "System advantage: The new source of value in chemicals",
+    "link": "https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals",
+    "date": "2026-11-10T00:00:00.000Z",
+    "summary": "As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around where companies compete and how they operate, innovate, and deploy their cash."
   },
   {
     "source": "McKinsey",
