@@ -1,5 +1,299 @@
 [
   {
+    "source": "PwC",
+    "title": "Acceleration Center - Agentic AI Engineer - Senior Associate - PwC",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGc2c3o5WmVVNWNoSnFsb1BYbU8wNEY4SzVlNXdGRThXUkhwLWFXeUI3eWptdUJqR1cwLU9BOGFYM3pCa1pORGJIbWdWQTdURlpNVXFNaVhRTlNTUkotRVhibUtaN1R0TzRjMDdKOWplWkU4Wm5GbEZhOVZCVnZodTN2cDZnenJSS1lQYlotbFFORXJ2V0Q2eTcwdFZvS3pDdWVjYmFn?oc=5",
+    "date": "2026-11-13T16:18:00.000Z",
+    "summary": "Acceleration Center - Agentic AI Engineer - Senior Associate  PwC"
+  },
+  {
+    "source": "PwC",
+    "title": "Oracle OIC- Senior Associate in Ciudad de México, Mexico | Technology at PwC Acceleration Centres - PwC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX1A3VHdfUnd4QTZCX1RmeFlxanB0TUZQQ0NvM0tMTXRuTHExdV95aTh0d0daTzVpVTBQd2NneHBJR3VDUXJETkVPZjN1NmdhNS01QWRVYjZLVFR2NWFDNjhDWkhfMWk0VUgwYTYyckQyaWNzYUxDQW1rTlZBTDg?oc=5",
+    "date": "2026-11-13T16:17:59.000Z",
+    "summary": "Oracle OIC- Senior Associate in Ciudad de México, Mexico | Technology at PwC Acceleration Centres  PwC"
+  },
+  {
+    "source": "PwC",
+    "title": "Acceleration Center - Assurance Private - Senior Associate - PwC",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGN2cmpBTEh1SHBuT1k4TUc2WEJndDJDa0pvLXp1S0g0c0xMTHozSEhuWGlJbjlXVjBCS05HT1ZSQ1RiNThPM0RHbEc1dXpFR0wxZHFla2NidzhqbHJpRmUyLVEwTkJ4YnVCNEN2UDNxa3FVSEI0RnBuZDl0VG1OWmdSX3FORUN2c2hpYUxrRTN0WnFEaGY1UWYtSjBBMXVtbXRn?oc=5",
+    "date": "2026-11-13T16:17:59.000Z",
+    "summary": "Acceleration Center - Assurance Private - Senior Associate  PwC"
+  },
+  {
+    "source": "EY",
+    "title": "How EY teams built a Client Zero model with IBM Apptio | EY - Global - EY",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0Z6SEVPS1Mwa25ubVhwTFFqUGFhWkxPT1lxWXB3RURUNkg2ZXVNaVVCVnc4UXFvN1RRS25EZ044dUtBMVp6U2I3NklnV1puVHdYSWNONTFlRjBVeDJIS05rc3lQTndaeDNicXVVM25kdG82WUNWcUJSNFdVVFpTeV8xckhCZWlYX19NZ1VUdFRLdk0?oc=5",
+    "date": "2026-11-13T16:15:58.000Z",
+    "summary": "How EY teams built a Client Zero model with IBM Apptio | EY - Global  EY"
+  },
+  {
+    "source": "Gartner",
+    "title": "Senior Account Executive | Large Enterprise | Alaska, Remote - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2RkOTdKUG5MVGJlc1JkNkpodk1rVWlaWi04ZWR4MGg2THpzOG5uSGYtSFlOTUZHZDBsWFRSVTVkWFdUYjRZcXpXUVRjcGd3eGlzOXpJN2xQNnByYjN4Z2ZHSTdtZGFsaEQwd3lPaEtIVWxWRWRNd2pZTllvZXg2blQ3cDZRczVXOWFYblNWY0Q5OHQyRXh0dzdycnVoZw?oc=5",
+    "date": "2026-11-13T16:08:48.000Z",
+    "summary": "Senior Account Executive | Large Enterprise | Alaska, Remote  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Sr. IT Procurement Category Manager in Irving, Texas, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVY4N0x5d0hjSVo3TEZqeV94eTBqZXpYT1h1VEdyUXZnLXlGVGM3d2U2R3NaeVpXYU5NWGFnYmVCWWtDYk8wdV96MUJtdkFEVlo4SFF1RThva2xpOXZ0bE5WLWc4eUZBZGdrOURDNk5uaDR0clgxaElsQWhZTG5EMVZR?oc=5",
+    "date": "2026-11-13T16:08:47.000Z",
+    "summary": "Sr. IT Procurement Category Manager in Irving, Texas, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Client Director, GTS in Remote, Connecticut, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05V1Y2dkNyaTlLMThFcExPVE9fYkZONDlMZkRvbUJ6QUFMbFRGYmNLXzhuQlVjS0c1bVFwVjBkU2NGaHg4aWpmWjhBcGp1WlpwM0pqcTJnVTllMXcxRHZMc000dzhwQm5oQ0VaNXZR?oc=5",
+    "date": "2026-11-13T16:08:46.000Z",
+    "summary": "Client Director, GTS in Remote, Connecticut, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Senior Account Executive, LE/GE, GTS in Seoul, Seoul, Korea, Republic of - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2pSbGV5M0hFdTRTbFhhTjFVQ09vVE5JNUFfYTd1Skc0UTh3clpVenRxemwxZENWMGY1bTlqVjNmZF9oaFJSMFBXelMxdkE0VTNSbU94a3YtSUpkcjd3d09iWVNxeE54eEVDSy1TS01DMzZQVjRic1U3Ulp1QjBTcVhn?oc=5",
+    "date": "2026-11-13T16:08:45.000Z",
+    "summary": "Senior Account Executive, LE/GE, GTS in Seoul, Seoul, Korea, Republic of  Gartner Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "How AI has become a utility bill for Gen Z - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ?oc=5",
+    "date": "2026-11-13T15:46:37.000Z",
+    "summary": "How AI has become a utility bill for Gen Z  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Define Your Business’s Operational Technology Before Attackers Do It For You",
+    "link": "https://www.forrester.com/blogs/define-your-businesss-operational-technology-before-attackers-do-it-for-you/",
+    "date": "2026-11-13T15:32:01.000Z",
+    "summary": "Attackers increasingly know which connected systems can disrupt a business, even when defenders don’t. Security leaders must identify and protect critical operational assets before their exposure becomes the next costly disruption."
+  },
+  {
+    "source": "Reuters",
+    "title": "US producer prices rise moderately in October, but inflation broadens out - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
+    "date": "2026-11-13T15:31:16.000Z",
+    "summary": "US producer prices rise moderately in October, but inflation broadens out  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
+    "date": "2026-11-13T15:26:06.000Z",
+    "summary": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Specialist Lead, Analytics and Insights - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXJkdFU3QW82X01DN2hySXM2bUVYWkItaUpTdE1OTWU5NlVhczFkMFVMQURZMjRjWk5PTE1EcGI0MnJrOHlXN0wxUE9CTW1vLVB5dVBCdlZld25kN0szUkt6X2w5V1NLUmFVdTgxX0ZiczVsZXpoWTJmdDdtM0gyQXVwaUZkM0xERjBWVjNfX3YtSFZPaW5uRkg2Qy0?oc=5",
+    "date": "2026-11-13T15:21:47.000Z",
+    "summary": "Check out this job at Deloitte, Specialist Lead, Analytics and Insights  Deloitte"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Reputation Management Software Pricing: Costs, Contracts, and Add-Ons",
+    "link": "https://influencermarketinghub.com/reputation-management-software-pricing/",
+    "date": "2026-11-13T15:03:24.000Z",
+    "summary": "Influencer Marketing Hub\nReputation Management Software Pricing: Costs, Contracts, and Add-Ons\n\nReputation Management Software Pricing: Costs, Contracts, and Add-Ons\nNadica Naceva"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "What Is Online Reputation Management? Process, Examples, and Metrics",
+    "link": "https://influencermarketinghub.com/online-reputation-management/",
+    "date": "2026-11-13T14:43:21.000Z",
+    "summary": "Influencer Marketing Hub\nWhat Is Online Reputation Management? Process, Examples, and Metrics\n\nWhat Is Online Reputation Management? Process, Examples, and Metrics\nKalin Anastasov"
+  },
+  {
+    "source": "Semrush",
+    "title": "What is a pillar page & how to create one (+ examples)",
+    "link": "https://www.semrush.com/blog/pillar-page/",
+    "date": "2026-11-13T14:40:00.000Z",
+    "summary": "Pillar pages can build your authority and increase visibility. Here’s why they matter and how to create them."
+  },
+  {
+    "source": "Reuters",
+    "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5",
+    "date": "2026-11-13T14:31:48.000Z",
+    "summary": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth  Reuters"
+  },
+  {
+    "source": "PwC",
+    "title": "Appian Solution Architect - Senior Manager in IL-Chicago | Other at PwC US - PwC",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzNDcEhoZjNXLWFfTTQwT0Z2VV9NaTRnbU1BeHllVm52cEwtNEhfUnJENXVOZmdVd0hZR29hWXZyZGdrZEtQazdOaFE1LXI4cWlLcTVzdGU0RHBiU2FGQVVQTGhGNDRpdnR2R3FadW1OOGEtcnA3UWhrOURienRpUkR4anNtUnpsTHhzZzJmLXBXNks1MXZqN19Qb0g5ZlpZaEtKRnFR?oc=5",
+    "date": "2026-11-13T14:29:26.000Z",
+    "summary": "Appian Solution Architect - Senior Manager in IL-Chicago | Other at PwC US  PwC"
+  },
+  {
+    "source": "PwC",
+    "title": "Payer Middle Office / Technology / Operations Consultant, Senior Manager in MA-Boston | Consulting at PwC US - PwC",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblZZZU13U0dLWkVGYllWWk1wb09BRER3b05UeExOWmJCMGlSWDRJZE92OUhiTXRhbG5BeGNZbXI4R05RLUpjQ252cERqOTJMSHNNMVNoMDRJc0JLRGJfdUt5WFJPOXVHeXp6NTc5WkJNdVBCbFZRd0w0SDZONmZlSmJ3aTU3MXJBOVlCSzN1TW9tWTdDSmNIMEp2R3I1VEFrSk5EY3EwSG5UdUtkcC1NNzNaeUQ4VkdBdm45UHBLclNySDRqSElWWGZB?oc=5",
+    "date": "2026-11-13T14:29:26.000Z",
+    "summary": "Payer Middle Office / Technology / Operations Consultant, Senior Manager in MA-Boston | Consulting at PwC US  PwC"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Why On-Site Personalization Matters for Influencer Marketing, and How to Carry It Through",
+    "link": "https://influencermarketinghub.com/on-site-personalization-for-influencer-marketing/",
+    "date": "2026-11-13T14:23:34.000Z",
+    "summary": "Influencer Marketing Hub\nWhy On-Site Personalization Matters for Influencer Marketing, and How to Carry It Through\n\nA shopper taps a creator's link. The landing page greets them with the creator's name, the product they...\nWhy On-Site Personalization Matters for Influencer Market"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Data Scientist Project Analytics and Insights Engineer III - TS/SCI with Poly - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcHVXZzBEdzF3b0lCRXNlXzJnRlJzZG14VGtCTHp1R0JsT0pWeFFvN1VnNGtFd3Vwbm4xSXBOdkY4aVdVRXJkYUJvd1RBMTRpUTNMOXQzRmJfMDJLcFl6ay16U01zMVhYbEJBSWd1M0VraUN0TWlIekY1STBpN0lRNi1Db2pocnFUNEltWkZaTE53WDl6VjZaNk1OdmlpMTROYml2UG9YOFlzLXFncXkxb21uUm1vVkRaX21lam0yVVNNdHd2X2daTUZNck9oQQ?oc=5",
+    "date": "2026-11-13T14:14:15.000Z",
+    "summary": "Check out this job at Deloitte, Data Scientist Project Analytics and Insights Engineer III - TS/SCI with Poly  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+    "date": "2026-11-13T14:14:05.000Z",
+    "summary": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Tokenomics Needs A Taxonomy",
+    "link": "https://www.forrester.com/blogs/tokenomics-needs-a-taxonomy/",
+    "date": "2026-11-13T14:01:55.000Z",
+    "summary": "The turquoise killifish reaches maturity in two weeks, faster than any other animal. The Tokenomics Foundation is growing up almost as fast. After launching just under five months ago with the mission of creating a shared discipline for managing AI and related token costs, it’s q"
+  },
+  {
+    "source": "HubSpot",
+    "title": "AI influencers: What consumer sentiment data tells brands",
+    "link": "https://blog.hubspot.com/marketing/ai-influencers",
+    "date": "2026-11-13T13:45:04.000Z",
+    "summary": "As you scroll through your TikTok or Instagram feed, you’ll no doubt come across at least a handful of influencers trying to sell you something by wearing the latest viral lip gloss, hopping into luxury cars, and taste-testing popular treats. But what if I told you that while the"
+  },
+  {
+    "source": "Influencer Marketing Hub",
+    "title": "Tikit Appointed Exclusive Influencer Marketing Agency for Luxury Automotive Brand MANSORY",
+    "link": "https://influencermarketinghub.com/tikit-appointed-exclusive-influencer-marketing-agency-for-luxury-automotive-brand-mansory/",
+    "date": "2026-11-13T13:32:35.000Z",
+    "summary": "Influencer Marketing Hub\nTikit Appointed Exclusive Influencer Marketing Agency for Luxury Automotive Brand MANSORY\n\nRecognized among Dubai's top influencer marketing agencies, Tikit strengthens its luxury marketing portfolio through an exclusive partnership with...\nTikit Appointe"
+  },
+  {
+    "source": "Gartner",
+    "title": "Security Analyst - Risk Management in Gurgaon, Haryāna, India - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JV2ttVXFYaTNSTDMyNXVROU9ZbU81VHhmNGJqYm5kRzdzQnhqN1VZY2tGY3VLTkIzNFdzMFVaVWQ4aEtvdktQQXI4bzNUOXJYOGZvVkdoVkFPWEZmZVBNdHVHQ2lOcmk2MXp4QkRoTy1pZTJ1ckh6cm00b1o0TzA?oc=5",
+    "date": "2026-11-13T13:29:48.000Z",
+    "summary": "Security Analyst - Risk Management in Gurgaon, Haryāna, India  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "AI Executive Advisory - Executive Partner - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1FGM2pkQTFfUUI0RVJxemJWOWlQeEM4SDltZmRNYnpobk9zdHVfeWRTYzE1WXBIUTR2SGUzZnMyWHZYSTQ1RHd5TGV1LWxvXzluQzhNd0ZWa0hLbHREUzVwZUZ4ckZ4Qk1LQjhQblZmdEFYMnNGRFJlbW1lcDdzY3JYelV2dVRS?oc=5",
+    "date": "2026-11-13T13:29:48.000Z",
+    "summary": "AI Executive Advisory - Executive Partner  Gartner Careers"
+  },
+  {
+    "source": "Nielsen",
+    "title": "The “Green Wave”: Where political ad spend surged - Nielsen",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXZaaURHVlRHbzN2TjRoUG1KTWx2OE5Rc0Y3RlgxUkR1Wk0wOUZMcWRmQVQtWHQtM2RaU2w5djNyakVKLW1zdGQ0Z09CRjlNdllnZFpJWTlwU0FDV1VzOUxyWDRzWHpvQ0tITEdFZi1JMUo0RkpCMlJVWEMyZUFTSmlHRXM3d3J0Mnc?oc=5",
+    "date": "2026-11-13T13:24:18.000Z",
+    "summary": "The “Green Wave”: Where political ad spend surged  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "Train disasters drive passengers away from Spain's high-speed network, in blow to tourism - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlFrdHRfdHQ0YkI1VTNOcUt6UzZBbFM4RE1NU1hZQ3NqVEpyTnlvbkpzajFRSGtDZGptemY2QXBzMGQ5dVVQamNSX0taeWI3VG9EdFdsQVVGX0FJb0pGSXltakNLQTNSU0NPVkxkNDJhZklPQlFxdHFjNDB1QjlnLUdxS0dvcFJzczdGUGN0M1ZSQk9BU1BJancxOUJaOFlST2h4Q0pkcVVTRnRZT2ZTUTZJS3FiVndhUHdaZUc4Z1lyME1uVDV2U0gyTjE?oc=5",
+    "date": "2026-11-13T13:16:10.000Z",
+    "summary": "Train disasters drive passengers away from Spain's high-speed network, in blow to tourism  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "How US tech pain is European stock markets' gain - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+    "date": "2026-11-13T13:10:43.000Z",
+    "summary": "How US tech pain is European stock markets' gain  Reuters"
+  },
+  {
+    "source": "Semrush",
+    "title": "How to do an SEO competitor analysis with the Semrush MCP",
+    "link": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/",
+    "date": "2026-11-13T12:24:00.000Z",
+    "summary": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks."
+  },
+  {
+    "source": "Reuters",
+    "title": "South Korea says Nvidia will keep GPU pledges after Huang's resignation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2dkY0l2QVQ3TnJ2X1RqSkV6Mml6dTJXcWpkUmpGWGxSclBNeUs4SUZGeV8xRlJDWGJ5VExHOXpHUGdjRXYwRGQ2a2J6Zzh0WGZpMkFfRkF0ZTRQdVR1LTlwYkl1U0FwUllsODlPUGo4Ull0czA3aHNnRkdfZGJ3R2pSUlBWUi0wblJtcGpDdmsxTTVTTTliZmw1QXZaWUN6VFRXWExkc2RLZlZHUVlPcHhCXzBMT3A3LUluR1dmSVp1bTQ?oc=5",
+    "date": "2026-11-13T10:07:27.000Z",
+    "summary": "South Korea says Nvidia will keep GPU pledges after Huang's resignation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Russian fuel exports, oil output rebounded in October after deal with Trump, IEA says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFNlVF9GTlRWM1U3SWlrS3ZOR2pzeFZnZXN0SnJvU0EzdXdqT1pBYnRGbkFUaWxoT1dWaEZFZndsejRaQ3JCOTJRMklLaXE4YU5WTDc5OWJGV2FfaGNwYjFhWUVseFItUjVab0V6aFpmajhRS0pIU2tIaXdVV3JWNkVaNlF6eXZvLWswaTM0WFJEVFNndWNVbDNfTUJEUnB5aXdWWHlqM0h5azN1QlhiQ3lsUDRzaHlxT0x2NDJVcFdNQ3hoQVl1bVA0LW0?oc=5",
+    "date": "2026-11-13T09:14:29.000Z",
+    "summary": "Russian fuel exports, oil output rebounded in October after deal with Trump, IEA says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Huang's exit, Anthropic's entrance - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbi0xME1PaWtsZm1QMk1qak5iWnlBOHU0eWRSSVBMN2xmZU1jMnhlZVZVRVhVeHQzVURjWVAwMUJGMVluUFJKSVlYbWFDTnpGUUhnYzBuQTZLeDc4VGpqQUdhS1RtZ3Vab21EaWRFdHRoUlJJVThSd2tqTmppQ0dSWF85X2o1bWVxTUhpUQ?oc=5",
+    "date": "2026-11-13T08:51:13.000Z",
+    "summary": "Huang's exit, Anthropic's entrance  Reuters"
+  },
+  {
+    "source": "Gartner",
+    "title": "Marketing Manager in Stamford, Connecticut, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaEVPSko1a2hoT3NISkJHM2xWQ2EwTTNmT0p2NTFQT2lFNnh5aTJzMTVMMXZwSTNHWF9IZ1lYOXZ1YW9iLXNKOHhUQ3VIV0tuTTNJaWxwazl5bE9BWUI5MWVhMThZZXY5U25B?oc=5",
+    "date": "2026-11-13T08:33:17.000Z",
+    "summary": "Marketing Manager in Stamford, Connecticut, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Marketing Manager in Gurgaon, Haryāna, India - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0TzliZlc5MW50MWVIY3NnNE9pUEtGSk1KUHA5ZUgxWjE2dk5UeXVOMzlJMFRoTE5TS1h3S2xGMFctWXRDOTZSNUZXUzhPWVZ6eHlTc3p1cnIzajVXc3NWckxIVzNnMV9SSEpv?oc=5",
+    "date": "2026-11-13T08:33:17.000Z",
+    "summary": "Marketing Manager in Gurgaon, Haryāna, India  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Recruiter, Conferences - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xQ3daV0VwUlhrUVU5YXZYTnREMU1ndDhWUWVXYkFHbVFtWmI0OTFNZV9zUjYwRzYyay1BZVl3VHZzYnRjUUFVM2hncERtaEpfWHlFeWZFMFA1dWpFdVpoTEFBR2J3S2FYZ0xIdHdWb1A?oc=5",
+    "date": "2026-11-13T08:33:17.000Z",
+    "summary": "Recruiter, Conferences  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Business Development Executive, MSE, GBS in London, London, United Kingdom - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWFSbUNfMHR4alNzN0ZPSWhkRkZsRmZzamNTTXh0MEQ3YWF6Uy1SNGdsaE5USDBqTS1TYnRCR1ZwTnJPWDJFZDdINHZlSDVqelFDZS1pbDltV29LaTgwTEU3SlVndi1kN19VOGNucmpDN2V3akR3emNYbzVSTUdCSURSaHFYNGM?oc=5",
+    "date": "2026-11-13T08:33:17.000Z",
+    "summary": "Business Development Executive, MSE, GBS in London, London, United Kingdom  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Sales Development Associate in Irving, Texas, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PNTJjTHpxS1dmTUlZLVN4cnpBZE4wdmpxVWI3WTNSVUV2NzVKelduSjdrMzNMYUoxd2hXZEhnYUhTTjNYY3dpQjY2LTNxOUVSYTE1c2luSURfWlA4WjBwbkk1Z0tTSkJzdElIc0Z0eENmcGpUZkFrQw?oc=5",
+    "date": "2026-11-13T08:33:17.000Z",
+    "summary": "Sales Development Associate in Irving, Texas, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "HR Business Partner - Global Business Sales in Irving, Texas, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnBfMFpwMWdmWkNwOUpwbV9mNHhGZWgtTm1ScTctb1pkd1VRRGZEdXRmLVI0b2xPdmpjcmk3TUJhQ3c5TGl2ZDZyeFJ3MG9oaWtPdVNlQk1GNWsyT2JiVWRWMGJXTGppOWd4Mkw0MGlJaHFhcFpxXzNaVWxPUl93Sk14NkxEN2tsblBv?oc=5",
+    "date": "2026-11-13T08:33:16.000Z",
+    "summary": "HR Business Partner - Global Business Sales in Irving, Texas, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Client Research Coordinator in Fort Myers, Florida, United States of America - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFT2dXZHF6TEt1ekM4cko0UDROYkVuMEhpT2FIZWhDX0dud21GSnc3RldCU3lEb19HaHVLeEpJRnNHLTl0ZmpSR0FsQXBxWFBBZ2tIM0p5dGFLVnZiUm02QkpDMUotbzFTQ08tbmFkQ0cxT3ZGR18w?oc=5",
+    "date": "2026-11-13T08:33:16.000Z",
+    "summary": "Client Research Coordinator in Fort Myers, Florida, United States of America  Gartner Careers"
+  },
+  {
+    "source": "Gartner",
+    "title": "Recruiter, Conferences- FTC in Egham, Surrey, United Kingdom - Gartner Careers",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lZ1J4S0t2Q2JydERQTmVBeFE2bUluSUpQVGJtbGdYcThxT2lQZDFHbHJOY2cwaVc4ZHlQM1ZjNWw5TEFsbmRDVVBkZ3piSEtVUFFQbjJMZUVaUmlmelE0Rl82aVVpNVQ3aXJJMHVXNXBpbWNla2c?oc=5",
+    "date": "2026-11-13T08:33:16.000Z",
+    "summary": "Recruiter, Conferences- FTC in Egham, Surrey, United Kingdom  Gartner Careers"
+  },
+  {
     "source": "Deloitte",
     "title": "Check out this job at Deloitte, Specialist- Client Account Management- Hyderabad - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRnhwbm84WWhiNW10eVA5M1QzNWtfaGhybEtqeUNUQ1dQcTZLdGVwckhUVTdmWExoS3dDMEtEcFdzZUpLWmJROW0ycU1yc3NXZXFtMnNlTkNORFJlRk1Sa2NBSXFKSnB2bEhSS1NUWlNkSElYWXQtWFctd1RtLTY1RzZXZU1Nb1k4dVBHa0dwNEVQc3BTNkNUZXAyMVRFSHZoNURPMVBHYkhBalBudXBwQ3pBM25DbFpOYWFiVFVRWTk3OWpqRnIwNjhvZ1hQcktFbk5peFlmUkhZaFJ3SDNKYWhEVVdFT2RaUE9R?oc=5",
@@ -7,11 +301,25 @@
     "summary": "Check out this job at Deloitte, Specialist- Client Account Management- Hyderabad  Deloitte"
   },
   {
+    "source": "Reuters",
+    "title": "No miracle solution on frozen Russian assets, Euroclear CEO tells Le Soir - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVS1nZWF2emc3YWc4NWF6MDFFdXIzZldLWlhxR3EzaVh1NHpBRlFENkozVm4tX2drZ1d4bDMxY3oyVS1ZV2hHOU40cVJHbVcyTC1ESHJSZHNxd2dHd0pxQXBvaFU5OWozY0h5eVQwVnQ4OWlrRDBybExLaDZOQlQxVTVvUG1WNnRQLURZd21IM1A3TGZUZ1I4NWhtc1NJcGpRcEQzQUhHOHhYYzZOR2VQM2hsZG0?oc=5",
+    "date": "2026-11-13T08:08:30.000Z",
+    "summary": "No miracle solution on frozen Russian assets, Euroclear CEO tells Le Soir  Reuters"
+  },
+  {
     "source": "EY",
     "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
     "date": "2026-11-13T06:57:02.000Z",
     "summary": "How IFRS 18 for financial services can reshape GCC reporting  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUQwZEhZYXNKdm1iUUtTNzZEeWdQYkdRLVd2bzFnWXZ4RDRIM2I0TWRUaEZXWDI0Rlg2S1MtN0xscnBZb0VpeDhMcXgyemlXd3k2SDB2Ul90N056Qmd2MUQwRTZpZUEweVBKRUpXbWVTNmFyZDR3SGhaM1VZRTh3N1J5U19UV0RKV3JiMXdBNlctNXVMd3Jva0ZZRkM5TmhHc3JHaDBNMVUzOGlJV00zUVJoTG9sZnFCN1BCd0pLQ3dTREptZ0lTYW84MA?oc=5",
+    "date": "2026-11-13T05:29:00.000Z",
+    "summary": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows  Reuters"
   },
   {
     "source": "BCG",
@@ -28,11 +336,32 @@
     "summary": "Delhi overtakes Lahore as world's most polluted city as air quality drops  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Oil prices set for second weekly decline as Trump sticks with Iran blockade - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
+    "date": "2026-11-13T03:01:00.000Z",
+    "summary": "Oil prices set for second weekly decline as Trump sticks with Iran blockade  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "T&T | Automation Testing | Associate Analyst | Quality Bengaluru | Engineering Job Details - Deloitte South Asia Careers",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXNHb3dHMTduOW02Nmt5dDRhbXZ0OEJQRjVvZm1JZXdUYldlcUQ5Zm1wQkgyZV9oLWNuOXozRU9acDVST0dLTXFVWlBPNjZwVFBYNHdHSC0yeU1tblZhRXN6NEdmTXF3RzZjVkVuekx2TnhtVDNUakFmdmNYNzROT3hrRGVKejlubE1qTDRWbmt2UjEzV1ZKTjcxNFZvVDR0ZlpILW1XTTIzY3dlQ21sS1dfTDFSdEtqS2E4ZzRMZEVlV2dlVEFGRjYxZm4?oc=5",
     "date": "2026-11-13T02:32:54.000Z",
     "summary": "T&T | Automation Testing | Associate Analyst | Quality Bengaluru | Engineering Job Details  Deloitte South Asia Careers"
+  },
+  {
+    "source": "Reuters",
+    "title": "Striped socks keep FamilyMart a step ahead in Japan's convenience store wars - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlVWOTF2NUZCNFE0aTNSWFlqZGxQbm9pT1pCUUFRMG9PU25FNkdYdFhSZm5EeXJDZHBvMm11LTVVbkZqRm11VWNEWklDUmViMklNOGFrc21RX0pzOUJ5UjdUZWl5OVBfdUdFSHpjcFJxS1dWLWJFTmZyLXgtU05RZmNGam1qWW1jbGdiWEpIaTViaVhZLXZmQ0FLNFJLdm1ncVBKZ0padzFXckc0blRDMUs4bk1hS0dYalZ3THVvWmpjV0U?oc=5",
+    "date": "2026-11-13T02:13:00.000Z",
+    "summary": "Striped socks keep FamilyMart a step ahead in Japan's convenience store wars  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
+    "date": "2026-11-13T01:35:00.000Z",
+    "summary": "Fed's Williams says central bank has 'work to do' to get inflation back on target  Reuters"
   },
   {
     "source": "Reuters",
@@ -43,10 +372,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+    "date": "2026-11-13T00:36:24.000Z",
+    "summary": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWhFaS12YTJmTFZLWF94WFZXRndrbWxyWkhSX2FLSXFvSFBFbGR6emtfcmVPckRNZjlKYWYwX21Ha3hubnhEUmQ4bW91UndSbmZFRkd5blZyOFdqaC0yRHZXOFhWQjJuOTdrQlZJVXB4S2tvWFI0aVBpdU1mMjRnNy1TU1ZxajZ1WlNBdm9fWDFNNVpDMUFVb0hGSUVOYUE3Ui1USTRSX2w3T0dCWXZiTmpiMA?oc=5",
     "date": "2026-11-13T00:15:00.000Z",
     "summary": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify  Reuters"
+  },
+  {
+    "source": "McKinsey",
+    "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
+    "link": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory."
+  },
+  {
+    "source": "McKinsey",
+    "title": "Separating signal from noise: The always-on finance intelligence layer",
+    "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how."
   },
   {
     "source": "Reuters",
@@ -68,6 +418,20 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
     "date": "2026-11-12T23:18:33.000Z",
     "summary": "Cisco lifts annual revenue forecast on strong AI networking demand  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5",
+    "date": "2026-11-12T23:03:22.000Z",
+    "summary": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Britain seeking EU deal where benefits outweigh tradeoffs, finance minister Healey says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVhVODc4bDFHTEJUMjNpRENFOWNJS2p4ZVhCUHlkbU5URlhsM3ppZWRTZEc0WTVsRlFMS2tHTnk3QnMxclYxczVvYVREdkhianJrN3RvaTh5R1ZsQkJwTGVGMWthZmFlQ09hUEMyY01yT3JWUHBZRFNTMDJnOEJHdzRPM180QlZ1RjZsU1R3TTF5eXN6QUxSVnRFZ2ttTHFoV0JTOHkwZXByeUlxRnl3UXBhUHFqUQ?oc=5",
+    "date": "2026-11-12T22:39:32.000Z",
+    "summary": "Britain seeking EU deal where benefits outweigh tradeoffs, finance minister Healey says  Reuters"
   },
   {
     "source": "Gartner",
@@ -113,6 +477,13 @@
   },
   {
     "source": "Reuters",
+    "title": "US handled $12 billion of Venezuela's oil revenues, report says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWNPalZ0d2psbWdsSDFzcVh6NXEyeTFJNDZCajFGZ3FqSWZwWi13eE1oWHEtdmF3RF9iTTZ5QjR5ZDZBdnBsVjAtektZTHd4LXA4cGlwdEdVMXd4UXNOSGlPcG9HUTBYUGZtRU5POWlBbjVaZVJJTVctX1RHXzFHbHdyZmYzSE1kb2NmX2t2QTlzXzFZMDlhajhNbmFTWUxMa2JtOWpyYmR5Y3o5bkE?oc=5",
+    "date": "2026-11-12T20:48:59.000Z",
+    "summary": "US handled $12 billion of Venezuela's oil revenues, report says  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWJzeWdMMHcxc2lHelNleVFzTlVYS0ZRQlFtQ0cwNk92NllGd29xcXhtM3Rub3VZR0pBRHU3YlppZHZ6SlRDTVYxOFplenFlcWUwcE0tZUNrWUNPVWxpX2lYcU9LZGtwUGw2MUlhZmxqS2N3TWVMdld2TWE0ZE9zNWhOQlpDS1hCRVA4azFZNjF2SGhwX1lXMGRVamVFT1ZuUFBZUw?oc=5",
     "date": "2026-11-12T20:44:46.000Z",
@@ -133,11 +504,25 @@
     "summary": "AI in Revenue Cycle: From Point Solutions to Enterprise Value  PwC"
   },
   {
+    "source": "Reuters",
+    "title": "Retail buyers limit Nvidia stock rout - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHdDV1ltYXhSMVY3dUtMMGxkZHdxRld0cThBSlQzUmt2NE9fTENSM2NZWHowSk9wZS1ObXpTVFZqNlZ2dUQxam5NVC0yYXNBcW41amRsbXFMbEFfblNLWXNkSUhnOGcwOWFocUlyQllReDBwSjdzakJMZTNkYUpDN3FMY0QxaWVSeGRtNVEyOEJFNlRjb1ZXMFJmTXIxeUU?oc=5",
+    "date": "2026-11-12T20:10:35.000Z",
+    "summary": "Retail buyers limit Nvidia stock rout  Reuters"
+  },
+  {
     "source": "Deloitte",
     "title": "Check out this job at Deloitte, Python- Software engineer III - Deloitte",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVQ3UTFjcUpONWpmbWRVSTdqdUFZOU9jQWkwZ1kzLUh1ZGo0Q0c2dU51ZUJfVUVLQjgtd25QUERyc1NYS1dVa3Zoc0pwaU9Tc2t3Z2JSMENvR3ZJckJhWThNc0VXY2c4ZnM4SVNrTVgwQWVaWXNJSWxZeHNQcklhVWtnSElockdodDdWX29KUGxnTldMWXY3NlRGMS1hSTFLYlQ2MHo3RmRGdXEzb0ttVDA5cE91TUtrUlRuSTJCV3FRU2E4TlB5bFJjeVlRR1E?oc=5",
     "date": "2026-11-12T19:54:14.000Z",
     "summary": "Check out this job at Deloitte, Python- Software engineer III  Deloitte"
+  },
+  {
+    "source": "Reuters",
+    "title": "Italy's Enel says February plan will cover data centre services - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzdQOVh1VHRfWnpMLUhjZW5kakVFczR0Nmw1MXhPdmNFX0NkRmRzRjd5UXdhbmdfRVhKOXZIS0VCbzRZeVNkNU1TWEpwU25RTXFEcDB0T1JMWG5SMXFObHBfbkNiLThtS3dYbF9GQ002aUk0bjBnNFNWT0ZFSmxmZkltM1pLa09hU2x0Qy1OVlFsUkY0cHhtLXlRUEhwUlhIZ1htTVJLWlU1NVZPQmlaRG1ya3M?oc=5",
+    "date": "2026-11-12T19:13:43.000Z",
+    "summary": "Italy's Enel says February plan will cover data centre services  Reuters"
   },
   {
     "source": "BCG",
@@ -267,6 +652,13 @@
   },
   {
     "source": "Reuters",
+    "title": "Bangladesh picks Chinese firm to build third floating LNG terminal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2JIenJreXB5SzBSNUhPWWtzczI0QXhQdjZ4cmtwVjhWMXI1c1ZlcDFWQUx0REF5YlZHMkRaMHRyNldIWG95UFBSdVN1MlpmS1hUNFlzSTB1Q2hlWVE3dlpUdUtGTmpiaC14Q2UycWtTV2NYc2ZxWUdGZVRWcHJfaGhuMzViV0hyRk8xRTJ3VjVveUlZYUIzblR5SHNOOGQzdW9DREE2RTVDdDRUTzhqVmtZLThoZw?oc=5",
+    "date": "2026-11-12T15:07:04.000Z",
+    "summary": "Bangladesh picks Chinese firm to build third floating LNG terminal  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "US existing home sales slump to more than 16-year low in October - Reuters",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG4zNkNsSG5RNkJsdlhCZ0prLXlLTTRDZFdmLWEta3QwVGd3YXN3dnZpd0h2R3duS1N5WEx4eE85THlmT0VYZ0tlQ0ZJUlB4bHJPNnpfQnZTM0dqM1Y4eEJYNlJPX0xhNWxxYXMxMW1ncjZOclhSMmpINlVBOTJtYVc5bXJGRVhjU1lEb2ZZWkFOaXRXZDl0b3dETFFLVlA3ZUVLalpn?oc=5",
     "date": "2026-11-12T15:03:43.000Z",
@@ -378,6 +770,13 @@
     "summary": "Stellantis prolongs stoppage of Fiat 500 plant, unions say  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Nordic countries to work towards common defence deal - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3l0WkhacFplemVmdldqMWxjWVZPVVFYaE94X0VtVEJfOGJXaEtTLW0zTGdyNk50a3NYeXJoYXpSUEpoVmx2MnRiUDhrM25rMHFTemE1U0piTUtwOGxhb1ZqYkVINW8xaTJDOXc4UnY1YXJNUV83WmNhOEY0Z1YwWFpvZlAwX3JxRTlObzVGakxmV1ZaVXpicVhfWmtUTTUyY2hRS1FSeF9QNWdxcXNyWjhFWU1nQUZzRDNJYmlydDFYQQ?oc=5",
+    "date": "2026-11-12T12:09:33.000Z",
+    "summary": "Nordic countries to work towards common defence deal  Reuters"
+  },
+  {
     "source": "Meta Newsroom",
     "title": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
     "link": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
@@ -418,6 +817,13 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGJabUpkZzBWRWE3UG0xTTMtbGRSWnpwbVNjR09FZHMtR2JqSThHS1djUWtSMlZCdm9LR3ZubGZBTnVTQkYzaXYwMi11dHh1VXREdFl4UkV3b0hRZ2dSN1BDeTczSndZdHVscy11OVlPUVhHbk82TEhpbDBSVklQcmF2LWJrengxNllxTlZ1YmtFTko5WXduenp2enFVdnpCTmhhVzlOaUxIeWhJMUVpUGxLMjBfUllEdnVhaHBnc1FYRGRoVk95SGVpU21COXBoaThwdzlCYml1cGc?oc=5",
     "date": "2026-11-12T10:44:34.000Z",
     "summary": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Foreign banks to use exemption to keep lending into EU, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHNROTNFQnV3WWFRMmdCdHBOaU40aHZ4RGVnZko4R1FUODFoZEZBUi0wMC12a0tOby1NRndsZlNON3dPTEpmNjZMckVqbWd3VXJIekR5NjVackpBbjNiTFQ3QTdLNWlldEc2aktrVWxmMnZFU1JBem95NHRmR2xqd3Q0WGVNV093UjY5UTBoTEpWWTEtbXBnZC1WMXpnXzBmX05vaFNLbF93akhPZFNoRDhJRQ?oc=5",
+    "date": "2026-11-12T10:43:03.000Z",
+    "summary": "Foreign banks to use exemption to keep lending into EU, sources say  Reuters"
   },
   {
     "source": "PwC",
@@ -1916,6 +2322,13 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlRkeV9HRnhwVzltbXd6bkFRanNqM2ZGTVFmYTFlQ1NwYVhXZDFsTS1qMUl2NkFGemVkb1oybFE4MWRFSk1sOHNVMkpNZEw1Skt0Nzl3TVpHcHpxdTI0MkcwM2JIWV9fVjAtRUFLZUxyempSTTluLWxFN1ZrT0VUamhhZjRrdG5DSVVSWnM5QVNiUTFLMndON21n?oc=5",
     "date": "2026-11-10T15:29:42.000Z",
     "summary": "Magnitude 5.6 quake strikes off Guatemala coast, shakes El Salvador, Nicaragua  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Specialist Assistant Manager,Marketing- Strategic Marketing - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMk5mcUk4SjdUam5tenN2ZkdFUUdRMFNrVUFxWGpQWWZjeTdWS0U5Vk1YOS1jMlBJdXV6Z2lUcXRqbVVnY3ZnQWdubHlBVjdFNER2NEhTSXZST2ZLbDBLZDdDOGN6V19QSld2dWc5WEdKRXBKWHV1VUUzTlNEenk4SHdQcXJtdi00RnQzR3U4RTcwZWgtU3lRajN3OEJDdzZyaFphR2hJWGZvb2Y0UF9LX2FlTjZaVVVHemtDOGlMX2hWNzgyUEFqSmVEVm0tSUVEQnhsN2QyaFVGTVBhU191Vm5IX1MzOXVVYXJzMWhoTTE?oc=5",
+    "date": "2026-11-10T15:23:23.000Z",
+    "summary": "Check out this job at Deloitte, Specialist Assistant Manager,Marketing- Strategic Marketing  Deloitte"
   },
   {
     "source": "Forrester",
