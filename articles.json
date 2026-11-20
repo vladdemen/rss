@@ -1,5 +1,117 @@
 [
   {
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+    "date": "2026-11-20T21:37:28.000Z",
+    "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say  Reuters"
+  },
+  {
+    "source": "Forrester",
+    "title": "Optimizely-ing For Trouble: When A Marketing Tool Becomes A Software Supply Chain Attack",
+    "link": "https://www.forrester.com/blogs/optimizely-ing-for-trouble-when-a-marketing-tool-becomes-a-software-supply-chain-attack/",
+    "date": "2026-11-20T21:11:33.000Z",
+    "summary": "Marketing wanted to improve the customer journey. Attackers found a way to join in for their own A/B test. The Optimizely incident turned a website experimentation tool into a delivery channel for malicious JavaScript, exposing a gap between the experience companies intended to p"
+  },
+  {
+    "source": "Gartner",
+    "title": "Technical Insights: How to Navigate the Build, Buy or Rent Dilemma for GenAI Infrastructure - Gartner",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZkxrN1NzZmlyamh5VGlFZ2ZOSkRmVy03ejEwbE81bzJUMlRtUFp5OHl4ektaYVVNYlVyY25PTWh1Q3Z6SG1qVW9BVGFob0ZNX1cxVkNrN1h0T2pYWWNiSjZqeUdUdElmU1RTcEY1YmlZN1pEQ1NldE8yS1Z2TGVacV9NYzJjZjlWa3E1ZXhBRnVEQTFza2VUSjNNSnFmVUUtVmVLdzBBYlc1cU1pTVRZOF9LNi1raXNtWVpjQmNCck1nVm82UnUxbE1wMThXWjVLUE1JMjJkaw?oc=5",
+    "date": "2026-11-20T20:20:44.000Z",
+    "summary": "Technical Insights: How to Navigate the Build, Buy or Rent Dilemma for GenAI Infrastructure  Gartner"
+  },
+  {
+    "source": "BCG",
+    "title": "How the AI Compute Shortage Will Create Winners and Losers - Boston Consulting Group",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWVYLWNuNWN0TVlrb2VCeDVHNzhMMUk0RlJmbVRUZm8yYk5HSVM0MzVKb2ZLTWpHLV9wcTQwcjktUXFUWUNMazd1SHQ3ckRnNlctR2VMWWRQdE5VdE1QTFBKOE1NbmxvR0FUZHc3a0NpUnNCUnNuZG50Y2dsVlU0bkp0T0JDUFk?oc=5",
+    "date": "2026-11-20T18:47:39.000Z",
+    "summary": "How the AI Compute Shortage Will Create Winners and Losers  Boston Consulting Group"
+  },
+  {
+    "source": "Meta Newsroom",
+    "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+    "link": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+    "date": "2026-11-20T18:30:45.000Z",
+    "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. \nThe post Advancing Science Together: Highlights From the Open Source AI For Scienc"
+  },
+  {
+    "source": "Forrester",
+    "title": "Amazon Business Reshape 2026: The Quiet Procurement Powerhouse Is Getting Smarter",
+    "link": "https://www.forrester.com/blogs/amazon-business-reshape-2026-the-quiet-procurement-powerhouse-is-getting-smarter/",
+    "date": "2026-11-20T18:15:13.000Z",
+    "summary": "Eleven years after launch, Amazon Business now serves 11 million organizations across 11 markets. Learn more about Forrester’s key takeaways from the Amazon Business Reshape event in October."
+  },
+  {
+    "source": "Reuters",
+    "title": "Mercedes gets German approval for assisted point-to-point driving - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDBrMUNfSVRZTXY5WTVEbDRNdGkxc1h5aE5PdkV2OE44em52X19CYWhzeXRSeDdndjRYR0pyemF0Mm03blphOTBIQl9Uak44aldCLXQxMllJU2p6V3Y1VmpsNDVyc09vajdPb1ZBSTBnLXlVMnRlNV96NE9KcC1fR3c5RFVJRWlWM1ZrRVMwMXNDbGtWR3RQdzIwdDhBcHpuVVRraGsxZTBHdw?oc=5",
+    "date": "2026-11-20T18:11:54.000Z",
+    "summary": "Mercedes gets German approval for assisted point-to-point driving  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India cyber agency warns of unauthorised payment transactions - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
+    "date": "2026-11-20T17:42:59.000Z",
+    "summary": "India cyber agency warns of unauthorised payment transactions  Reuters"
+  },
+  {
+    "source": "EY",
+    "title": "Government & Infrastructure - EY",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWHhCNFNtSHV2R05HX0RWR3VWbWdiejhabHZPUjhyMDZMaDRqQm8yczdEc2JMUGNWOW8tRjU3V0tDTjZwLVhQXzBVbFBkeWN5Q0hMS2lkZWlTQQ?oc=5",
+    "date": "2026-11-20T17:36:10.000Z",
+    "summary": "Government & Infrastructure  EY"
+  },
+  {
+    "source": "EY",
+    "title": "Melissa Fletcher, PhD - Associate Director, Thematic Insights, Ernst & Young LLP - EY",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hV056RkNpSVFmdV9KNlZrMkRQMWlKOVlGOU56Q0NHc1hvQ3hNbWdLSHU0RV9mR29XeFBQcnUwcmZvVndyaTVmMUUycVNhTF9rOUpZMXc5N3hvYmVs?oc=5",
+    "date": "2026-11-20T17:36:08.000Z",
+    "summary": "Melissa Fletcher, PhD - Associate Director, Thematic Insights, Ernst & Young LLP  EY"
+  },
+  {
+    "source": "Reuters",
+    "title": "Tesla proposes $3.1 bln Texas polysilicon plant for solar manufacturing - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHlYSGVWRlplU3QwM1lpeFJ6ZGZsYnN4ZHNjeUp4d1M5ekhZUWlWMU5aVFRqeFlPUkRjV2h1T04tcVcySTM3bU9lR2d5d0tLUm9rcEEzYmN6YmZjaGR2ZXhRYTVBRl95STl1VWlRb0kzVFhCa3h4RTh3azhsVjNaTTlLOFZqUnRYdl9NWHlEeWdETHk1UC1yMmp4TmNKbFlyclp4THNYSmVzdEEtaWNfMXhJSi1uR3NL?oc=5",
+    "date": "2026-11-20T17:25:43.000Z",
+    "summary": "Tesla proposes $3.1 bln Texas polysilicon plant for solar manufacturing  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
+    "date": "2026-11-20T17:19:43.000Z",
+    "summary": "Fed's Cook says rate hikes needed to lower high inflation  Reuters"
+  },
+  {
+    "source": "Kantar",
+    "title": "Proving the power of retail media: how Nationwide turned the checkout into a brand-building opportunity - Kantar",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE9odE5HTFp4eEtMcjNwNGJBSHJtWGFtaF84RXBrWW5idzhackFmTmRKUE9RZ21JclRaZzdhZlpUQnJmd1F5ZFZLMWE4eFk2S2JtUmpzNmRlMTNFMUJseGZjcnRGVnExSE5rYVN6TFEyS19saGhzUmZ0QXZvQUZBZkVvWndqZFNIZXJHQWQ5ZDRCS2FW?oc=5",
+    "date": "2026-11-20T17:04:07.000Z",
+    "summary": "Proving the power of retail media: how Nationwide turned the checkout into a brand-building opportunity  Kantar"
+  },
+  {
+    "source": "Bain",
+    "title": "AI Is the New Search. Here’s How Retailers Win the Answer - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2k3Y0ZUYUZ5d2VIYXhUZEdTWW5uZkUya3I3RnczZ2ZCQktBLUdHcXVkRzk0MURaZEM4N25WbnB4MnMzblFrVmhMTlBtc1JRSDNiVUlmVkpLNlFvVjJ2eGRxbldRMVZzWXZQUlc4eFVFX05vR3FNdlhtZ0RRdlF3NzMyLWZSenhFemljR2Izdw?oc=5",
+    "date": "2026-11-20T17:03:45.000Z",
+    "summary": "AI Is the New Search. Here’s How Retailers Win the Answer  Bain & Company"
+  },
+  {
+    "source": "EY",
+    "title": "FinCrime - Compliance - TM - Staff Job Details - EY careers",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVMwaE5zOEEtSUhFeEhZZThwTEcxUzU4eGVNMnNqcHNDODh5WFV6M0RMblNXNWFuYXdPSkJYVTRqTnZrUERndVpZeWs2bFIwNjNMakFUTXFVb1F1NUswbEMtOXgzR19GVFB1LWdVWlpYeGQyU1oybHhFbjU3N0FTbmtMVTJNODdnYlRmTVZ1SzJwQQ?oc=5",
+    "date": "2026-11-20T17:00:33.000Z",
+    "summary": "FinCrime - Compliance - TM - Staff Job Details  EY careers"
+  },
+  {
+    "source": "Forrester",
+    "title": "Your Cloud Operations Aren’t Ready For AI",
+    "link": "https://www.forrester.com/blogs/your-cloud-operations-arent-ready-for-ai/",
+    "date": "2026-11-20T16:46:03.000Z",
+    "summary": "An AI service can be running perfectly while delivering unreliable results and escalating costs. Learn why traditional cloud operations must evolve to address AI’s unique challenges."
+  },
+  {
     "source": "BCG",
     "title": "AI Product Development - Boston Consulting Group",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXNZX092YnUzeHpVZzVTWXhDb1JRemx4UHlvb1FVS1NUWWt6MzNBNDZsdURGV25vclRLSkNFRC1xMURJRklEUUYwb1ZiaWNnQlFGWXkwM0VuaDE2bUxrcndzWXNMZ3dFaVBJbkFGckY5M3ZQYWRTc2FwV24xazBISkE3cHJoZk5uRTVac2ZZOFR2MFFr?oc=5",
@@ -29,10 +141,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Nvidia's share slide knocks it below Alphabet in valuation - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1lHWVFlSnZTcW9OVTZGU0lwdDdreE5TSm94Z0FTZDktRHRLOEU0LVBTTHpOZ1lYYmFCZ041UWUtTEh6VEFhczZFd2xlSjNLRlNNMHhDd2tFcDl2N1BIMndRY1VaN09HeHowT0hVblhkd1ZpUGxTakdwVFk4cjFWTzlTRnJQeWNGUW92YUxWUG9XR3BzM0hrZDdaWU5vUHJyMVdRcDktdWNMSUlkLS1Nek1SZjYxQQ?oc=5",
+    "date": "2026-11-20T15:31:27.000Z",
+    "summary": "Nvidia's share slide knocks it below Alphabet in valuation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Spain's burgeoning data centres become election issue with new rules - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU4tN0lkenRDSjFTZ2JzT3pWSTB1aXQyc3JDbTNXUjIzQk1yTFI5ck5GbE82UGw5Wl92NE1rMklMTW9sMnhKYVlYODhTVDVhWHplU0J1R2M3aE13eFE3RlMyNGtBS2hXbVhpVDFDVjlaZThmdjJ2QVF0WG9CRTItZmo5S0Q2bzg4SjEtZ0lRakRPWUxDQWJEdVNBZU5uSXJzVjNsY3h2SHNJQXBHV0tBcDNRRVNrMkhpT29TVldTLUg?oc=5",
+    "date": "2026-11-20T15:30:33.000Z",
+    "summary": "Spain's burgeoning data centres become election issue with new rules  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "The snowballing selloff in global markets - Reuters",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
     "date": "2026-11-20T15:13:44.000Z",
     "summary": "The snowballing selloff in global markets  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "PayPal taps Xero's Claire Bramley as CFO, succeeding Jamie Miller - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXF3Z00wem5Sb09wYTh6WnUxMlB4ZDdVWktwY0d5ZEgyQ1NVd0g5c2thVUdsLTJvTkc4dU5RWGxCQVBIdVFFeGpEU0hQNUgzeGZBRjJtNnlsSWNiUTlDdVo2bjB1YjhFSzNxem52NkhtOFdycHFLYm5BNEl1VUg5Ml8zUG5FM2N5ZGpVQXUtQ3UyS1RZNmN1ZGh4dHNkdndVZnRQdldTSmN0c3c?oc=5",
+    "date": "2026-11-20T15:02:36.000Z",
+    "summary": "PayPal taps Xero's Claire Bramley as CFO, succeeding Jamie Miller  Reuters"
   },
   {
     "source": "Reuters",
@@ -70,6 +203,13 @@
     "summary": "As B2B buyer expectations evolve, traditional personalization tactics are no longer enough. AI gives marketers new opportunities to move beyond isolated, channel-specific efforts and deliver connected experiences that respond to buyer needs and intent. Explore how AI can help mar"
   },
   {
+    "source": "Reuters",
+    "title": "UK PM Burnham condemns Russian violation of Polish airspace - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkhGdWpsOWx1dllRWHVYN0xKMXB5ZGhqR2xzVzNkMkd6YkRFd0JQajBuUzUwUGhEa2JtcFJVaFhCcmE5RG4xS05XM09IbFgyMXAwN3h4OTNhNVBqaGloNVFlNDRZZkgzdXdEZjg0SS1ENEgwVFVLU1V6WnNnWmYtU3dobndVNk1YNXpzYmllR2VrVWkwNGk1VzlfU2s1YjU1cHF1YzBCUzZXQXJVeWV0Z2dDQzJQSGRiUlM0?oc=5",
+    "date": "2026-11-20T14:15:44.000Z",
+    "summary": "UK PM Burnham condemns Russian violation of Polish airspace  Reuters"
+  },
+  {
     "source": "PwC",
     "title": "Effective date and transition methods - PwC",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jYkwyM3dFdi1BbmQ1Ty1jeXFMNEJIMW45enNERjFfT3RuRGtyaUhENWdnYnN2ZnVHU1Z4ODJ1QzJnMF9iOW5oQm12bzdLYk56eTFXYU5SMEg2VW51OFE5aGFiemh5czJKRHBKU1Joc2VUdGNvLTFTVE40TQ?oc=5",
@@ -78,10 +218,31 @@
   },
   {
     "source": "Reuters",
+    "title": "Ross Stores falls after muted holiday-quarter outlook - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDM1b1c4T1p6a0hWdm9YZjF5UFZKR0dnTmJ1c19QWF96MjJQTjl6Yllhck9oSVpobWttZHpUZFBFUG56MWx5bHNGWGt4eDZQX0xpODBTM08xLWMteUMtVTkwNWVQV1dtODdiLTVDTlhQcFRLbS02RVRxSnRJMHVJRFF4bDYzZTNOZFRtVHdHLXhnX2xvOWhLdEVoNHBENzM3VFljeEdzOV9meWcyM0Y5Sjg0X3k?oc=5",
+    "date": "2026-11-20T14:02:09.000Z",
+    "summary": "Ross Stores falls after muted holiday-quarter outlook  Reuters"
+  },
+  {
+    "source": "PwC",
+    "title": "Request a Call from Our Retail and Consumer Team - PwC",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nMXJYOUp0bGtmdWJOalFteC10RXhGTUZvQW5HRk1kc1FVNnhMSUluSVlXLVNVbFpFR1d3VVhRN0lqMXFDMEZ6UkhSLWRvZ0ZjRmlhUy1idV81aWtXaHZ2OUh3?oc=5",
+    "date": "2026-11-20T13:59:44.000Z",
+    "summary": "Request a Call from Our Retail and Consumer Team  PwC"
+  },
+  {
+    "source": "Reuters",
     "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
     "date": "2026-11-20T13:54:57.000Z",
     "summary": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say  Reuters"
+  },
+  {
+    "source": "Bain",
+    "title": "Reality Check: Agentic Commerce in Retail - Bain & Company",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzJuMGdDb1NUU3RybjVENG5rTHE2b1hMbmlEUWhrX3lHN2YxMzRnVnhVR1laakRTYkU0VVBlOFQ1Zl8xWjhvYnNNeE44aURNRG5maTNKZjhUS3BLY3ZZM05rbHZFMmdmZjVUWEo0TWVpRXZkelpyU0tVN2lMOFRxQzQ1SW1tSnRHS2xN?oc=5",
+    "date": "2026-11-20T13:54:30.000Z",
+    "summary": "Reality Check: Agentic Commerce in Retail  Bain & Company"
   },
   {
     "source": "Gartner",
@@ -231,6 +392,13 @@
     "summary": "Workday Extend Reviews & Ratings 2026  Gartner"
   },
   {
+    "source": "Reuters",
+    "title": "Angola to pay $180 million for 10% of De Beers, Endiama CEO says - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1h2a0h3QURCN2ktd1RHY0Q2Zm9fTDFYVXE5WkpJSHFkZkZsSWlJTlF3SklxTG9lc05ZLUc4VzE0djNqUEV1MmZ5SUJYal95dmZ1anJObjVZQXdNN2RSVmdHR2dhSmFqYUotQUt3Q3FuLVJMSlNpd29PeFo2Ry1aY3dsRVU5a0YybGVfdE96bVkzTEZDc2tNUHQ1XzZYVE5UU1E?oc=5",
+    "date": "2026-11-20T13:32:09.000Z",
+    "summary": "Angola to pay $180 million for 10% of De Beers, Endiama CEO says  Reuters"
+  },
+  {
     "source": "HubSpot",
     "title": "AI search volatility: What it means for your traffic",
     "link": "https://blog.hubspot.com/marketing/ai-search-volatility",
@@ -243,6 +411,13 @@
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XS19pTHltZFlPZDlENFRkTFIzXzVVZmlHVVJIVG9nS0NjaV9tRlU4MWRnVGEySkVGRHRvOUl2OXpVVUVId2pRWFpjcGtlbjlFYmdrSm9idTZCcWJ4bE1GajhWelN0dWJ5ZFV4VnBRVW1sVWNoSG5fX194aw?oc=5",
     "date": "2026-11-20T13:18:47.000Z",
     "summary": "The Gauge™: Poland | October 2026  Nielsen"
+  },
+  {
+    "source": "Reuters",
+    "title": "Angola's ANPG says Exxon takes $4 billion FID on Kizomba fields, makes discovery - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0g1SERPTk5lYXBPRnlwVzl1R2R3UmxMR3hnMkxaZzFvYnFhR2hZMExncU1uU3RvU2dTUXRvWUFoZWdyWkwwRmNub2RLRkRpTFpLc25KVG9HUEhjTDhxcnBXTG9WaVd3blE1WjFaeDk2Y2laVmJGNjJ1T3pDUV9YNlNESGE2bF9Za1dzLUszRlI3SXZ2WW9VY1lsQnNjd2EzVHpFWEktYmY1MW9rWDBrc2ZXd3pQY2FDbWdLR01adGw4dVBv?oc=5",
+    "date": "2026-11-20T13:09:21.000Z",
+    "summary": "Angola's ANPG says Exxon takes $4 billion FID on Kizomba fields, makes discovery  Reuters"
   },
   {
     "source": "Reuters",
@@ -264,6 +439,13 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXlIa2U1bk4zSS1KNXFDNEVGNWhqdkY1NXlrT1RVSGZlUk5CUVc1cEFEc204WVBJLXVsZDVybGM0d1E5RTNmdnNla0xiZm1RZXFILXdkeGRWcjFmbm9rTDM4TVczU0pBWmpRcFdPWEdJUENqdFBMM3FtRkd1U1lsaHIzd2NZbnE3aW1Pdmx6Sy1XLU93MDlpZ2xpTE9qMUVpV3NncXphaHhQbWNDZ1hlMXhjQVVUbVNVVTJVelFDWQ?oc=5",
     "date": "2026-11-20T12:35:39.000Z",
     "summary": "Democrats open probe into Nvidia influence on US Megaspeed investigation  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "Trump touts Asia trade deal wins, but US agricultural exports disappoint - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
+    "date": "2026-11-20T12:32:09.000Z",
+    "summary": "Trump touts Asia trade deal wins, but US agricultural exports disappoint  Reuters"
   },
   {
     "source": "EY",
@@ -294,6 +476,13 @@
     "summary": "Germany backs new Ukrainian drone production venture with Auterion, Skyfall  Reuters"
   },
   {
+    "source": "EY",
+    "title": "How treasury can drive profitability and resilience for banks - EY",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDdnVjk1S2RiMC1WNHd6eUJpY2RMWkh2Tkc4d19ZQUpFQmhaZlVUZF8zcmpnbkJzcU8wbVdlbVhMSlZQRFpnYjRXaGx2WFFNMHNIQWs3bUk5dVowdXhEc2FxaFRtTlFzOFVjQzhjd0N4MTRjellKLUlLYU1naUhDMEpKdzdtRkx4WGF4ZjJJb0w0QnRNcnhHQWYzcnZTNmFTbHpj?oc=5",
+    "date": "2026-11-20T09:47:48.000Z",
+    "summary": "How treasury can drive profitability and resilience for banks  EY"
+  },
+  {
     "source": "Reuters",
     "title": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output - Reuters",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1U0YXRHVEVxTWJpZVBNZDU4SktDOWZfUF9wWlB2Y1IwM0dWenFmMDNFZ2lkY2tCN05zZEsxOGZyN1YxOGMzQXVLanRwdmJDd005T1NXSHBMTUpUMlF1NHJLTkMxWGRnaTc1bXhKODEtMk5hbjA1UFphWnBDdno4VE1sY29Pbk15N2ZCcVNTVWZtclhVTmJZeml5WFltWXZ5a083eXN0dXZDdG1RTDYtVk1IVWIxbG1UUHVKNGdzMDQzT0t1?oc=5",
@@ -320,6 +509,13 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0JQZlN6SGkwam1OZkRINnJITDdYX25FenEyTmlOYWFtRy0yRXE0Uk5LcWs3ZldQMGo1ZXlrbXd2elJjM19pOEg0cW1lVVZXdU5VS19vd3pOQWFkTXNoSmFvRTRqUFBBbVE2TWZKRC1qUTF0VUdmdUU1OFhZMXlZZTNmZXN5a1FQU0IwUUw1ZTVOSk9MeENkQ3UyVlpMUmRydFdEWHZCLVVuSjN6dENGSDNiOENWdDNONkVyQkR4ZmxpLUV5SmoyOVMtWQ?oc=5",
     "date": "2026-11-20T07:07:00.000Z",
     "summary": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says  Reuters"
+  },
+  {
+    "source": "Reuters",
+    "title": "India's eastern coast hit by third cyclone within a month - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDFRTXhQVTlZNnJtMlFlR1hPd2NhMS1yY09LM1ZnMGhhQzhVRXhwcVM2T0tHd2pKeGYtRklaQ19OYUNYWE0wQ3N5WjYyTlRQaTg5dmYyeHlCMldWMU1RRHl6bXBEVDRReGlSN0tzbHZJSGRIb1kyUEVvWW50aUVGc2FoY3ZfZmQyQW03R3FqZS00bjVBQzFMN2sxaGFydThwb0JFSWxYeUs1RDFXdExmVg?oc=5",
+    "date": "2026-11-20T06:33:00.000Z",
+    "summary": "India's eastern coast hit by third cyclone within a month  Reuters"
   },
   {
     "source": "EY",
@@ -413,6 +609,13 @@
     "summary": "Ross Stores sees holiday sales growth slowing on lower discretionary spending; shares down  Reuters"
   },
   {
+    "source": "Reuters",
+    "title": "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slump - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEQ4aFF0TFRXWll0Y2hSaHJFbWNmQ3Q2Y1RIZkZsRENVeU9sNzUyU3JsNVJoOXZMWVFQVnVTUzN6Ri1XdlBvbkRsbmtibnRBaXFKS3JVazBCenA4QmJkS2xpdVBzSVpjeGI0dkZyZjV5bWprd0tVd1g0bTVDSkp1c3JmSTRhc0J6bmlaZlNvd05VaHlvMGVJcTFXSDBGdEhkQ2hMbDlQZw?oc=5",
+    "date": "2026-11-19T22:20:31.000Z",
+    "summary": "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slump  Reuters"
+  },
+  {
     "source": "Forrester",
     "title": "The Conversational AI Land Grab Is On For Customer Service",
     "link": "https://www.forrester.com/blogs/the-conversational-ai-land-grab-is-on-for-customer-service/",
@@ -498,6 +701,13 @@
   },
   {
     "source": "Reuters",
+    "title": "EXCLUSIVE: South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPem04c0JKUzlhSkZGVHpVNkIzUGlwS2tXTTZESUp5NDBhczY1eHJsOC1RVFA1SnNqeG9iZW9lR2hqNXRzTXlEcEswNzUxZ1VsQXB6RlBmUmMzd1dBUFlvN1VrNm1NMm93VFV6VjVZdm96bjdYVXE5NmNHVnVDdVY0ekM2U25LMmJIVnRWR24xdzB5eWx1QnZsNkZjR282NEtEbHRaVjVtVndKcU8tSzRkQjVGOU1DTFk?oc=5",
+    "date": "2026-11-19T18:55:27.000Z",
+    "summary": "EXCLUSIVE: South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker  Reuters"
+  },
+  {
+    "source": "Reuters",
     "title": "Walmart says US shoppers stocked up after tech outages - Reuters",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE?oc=5",
     "date": "2026-11-19T18:53:43.000Z",
@@ -551,6 +761,13 @@
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yVV94UWE4VFF3Vl92RE5zRFdZMkpPVHBMV1BTWGR2SE45WjE3R1pXWDlZU25ndDBJWDlTUTNWU20tQmpvMF9rTG9VbnN1T3p2ajZQTENxbktydHVPYmdXMXd1YTFKNDdnSkpEbjNQRVl1Zw?oc=5",
     "date": "2026-11-19T18:35:03.000Z",
     "summary": "Convenience Store Industry  Boston Consulting Group"
+  },
+  {
+    "source": "Reuters",
+    "title": "Asian gasoline margin plunges to over three-year lows on ample supplies - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXV0c2ZySXNVQk8tWlAxdk9lVzA5d25UeTEzR0x1T2EyTkd4dEl3THNXSl9wZHlNaGNBY0N3ODIyaGpWR3QySFJMb0hhN3BxVnVCTTJmVWVyN3dDOUk3RzdwaHBocmNIcThYOHNMMmRheHRhVEVReGpNckZibDhJQ2F3cTJXcDBkWGhCMVB3NUhRb1pyMmZFT1lWWXpIZ3Rfd1dRZUpFS1hodUxRM1dfNV9DSUF2Mldy?oc=5",
+    "date": "2026-11-19T18:34:00.000Z",
+    "summary": "Asian gasoline margin plunges to over three-year lows on ample supplies  Reuters"
   },
   {
     "source": "Reuters",
@@ -670,6 +887,13 @@
     "link": "https://www.forrester.com/blogs/five-findings-from-the-forrester-wave-customer-experience-strategy-consulting-services-q4-2026/",
     "date": "2026-11-19T15:28:51.000Z",
     "summary": "It’s been two years since we last evaluated CX strategy consulting services, so we were due for another peek under the hood of the vendors that are doing the most in this market (read: minimum $250 million in annual practice revenue). These firms have a wide breadth of capabiliti"
+  },
+  {
+    "source": "Reuters",
+    "title": "Volkswagen seeks pay freeze, flexible hours in showdown with union - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnJaX3pNVzZnQURyeHVEbU13X05JNXVBcDZzWUdaWV9qT01yZEctV0d0VGZXclFaQWE2cGZMZFRGQkduVlpQdEE4cEZjVzdJSTI0bWU1R3RDZldEQTc4WkJqMGJVakM3UUxPMkpSZUNMc3FOMGJNNVFNUkhJTFFweDVkeUhZNW5XaUctbGI2NlhXMmdKTFYzWEI0clg2RXhaY1NrNGFvQklUYzJsVUxlMzJucEFJM3dKOWIxaVRrUEk0WkRmSXZobnc0VQ?oc=5",
+    "date": "2026-11-19T15:23:13.000Z",
+    "summary": "Volkswagen seeks pay freeze, flexible hours in showdown with union  Reuters"
   },
   {
     "source": "Reuters",
@@ -922,6 +1146,13 @@
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5",
     "date": "2026-11-19T07:10:00.000Z",
     "summary": "Taiwan reports two Russian military aircraft nearby, second time this week  Reuters"
+  },
+  {
+    "source": "Deloitte",
+    "title": "Check out this job at Deloitte, Specialist Deputy Manager Analytics & Insights – Executive Client Hub - Hyderabad - Deloitte",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1cwNUhxNWhKWk45NHV2TDYzQXpUZ2I3cmhycG1IN1ZDU1dJNy1YaHExRzhBd3o0Z1JqSG9PRndNZmwwSFM2Z01SMnljZ1VEb053dWVHNnoxSWxwSGJsQ3d6U18zNkk1UHo2S0lQRGtkY2JrTXBZQXVxN2Q0YUg1b0E1MFFNM3BpMk1KdDlmMkZQUENLazVRX0xuSnZGeFc0TGZqRnBVX1h0UzVpS1pCd0pXcUdtT2pFMDE3ZDgwLV9STC1qenA2dzl3SlI0ZUdyRm1mYmYtNVRHRnpCS0lZYVZRa3ZCdGo3aHhrdA?oc=5",
+    "date": "2026-11-19T06:42:09.000Z",
+    "summary": "Check out this job at Deloitte, Specialist Deputy Manager Analytics & Insights – Executive Client Hub - Hyderabad  Deloitte"
   },
   {
     "source": "Reuters",
